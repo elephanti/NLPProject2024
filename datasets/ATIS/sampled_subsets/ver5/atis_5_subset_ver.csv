@@ -1,84 +1,83 @@
 label,text,description
-abbreviation,describe fare code qx,
-abbreviation,does dl stand for delta,
-abbreviation,please explain fare code f,
-abbreviation,what is ua,
-abbreviation,what is fare code f,
-aircraft,show me all the types of aircraft,
-aircraft,what kind of aircraft will i be flying on if i take a first class american airlines flight from philadelphia to dallas,
-aircraft,list types of planes that fly between pittsburgh and baltimore,
-aircraft,display types of aircraft departing from cleveland to dallas before noon,
-aircraft,what 's the smallest plane flying from pittsburgh to baltimore on december seventeenth,
-airfare,what is the cheapest fare between denver and boston,
-airfare,what is the lowest fare from toronto to washington dc,
-airfare,i 'd like the cheapest cost fare to fort worth from boston,
-airfare,show me round trip fares from toronto to detroit on delta northwest us air and united airlines,
-airfare,could you please give me the cost of a round trip flight from denver to pittsburgh,
-airline,what airlines go to pittsburgh,
-airline,please list all airline flights between denver and boston,
-airline,what airline besides continental flies between boston and denver,
-airline,what airlines have business class service between boston and san francisco,
-airline,which airline has the smallest plane leaving pittsburgh and arriving in baltimore on july fourth,
-airport,where do the flights from boston to oakland stop,
-airport,describe pittsburgh airport,
-airport,list the arizona airport,
-airport,what airport in new york is closest to downtown,
-airport,tell me all the airports in the new york city area,
-capacity,how many people will a 757 hold,
-capacity,how many people fly on a turboprop,
-capacity,what is the seating capacity of a dc9,
-capacity,how many people fit on a 73s,
-capacity,what is the seating capacity on the aircraft 733,
-cheapest,show me the cheapest fare in the database,
-city,list the cities from which northwest flies,
-city,what cities does continental service,
-city,what cities does northwest fly out of,
-city,show me the cities served by nationair,
-city,which cities are serviced by both american and delta airlines,
-day_name,what day of the week do flights from nashville to tacoma fly on,
-day_name,what days of the week do flights from san jose to nashville fly on,
-distance,how far is the airport from san francisco,
-distance,how far is downtown from the airport in dallas,
-distance,how far is los angeles international from downtown,
-distance,what is the distance from la guardia to new york 's downtown,
-distance,tell me distance from orlando airport to the city,
-flight,could you tell me the flights leaving pittsburgh around midnight for oakland,
-flight,what is the earliest flight from pittsburgh to san francisco,
-flight,show me the flights that go from san diego to newark new jersey by way of houston,
-flight,what is the earliest flight on friday from washington to san francisco,
-flight,show me the flights from love field to any other airport,
-flight_no,i need the flight numbers of flights leaving from cleveland and arriving at dallas,
-flight_no,which is the flight number for the us air flight from philadelphia to boston is it 279 or is it 137338,
-flight_no,may i have a listing of flight numbers from columbus ohio to minneapolis minnesota on monday,
-flight_no,what is the flight number for the continental flight which leaves denver at 1220 pm and goes to san francisco,
-flight_no,flight numbers on american airlines from phoenix to milwaukee,
-flight_time,please give me the flight times the morning on united airlines for september twentieth from philadelphia to san francisco,
-flight_time,show me times for coach flights between boston and baltimore on wednesday,
-flight_time,what time are the flights leaving from denver to pittsburgh on july seventh,
-flight_time,what times does continental depart from boston to san francisco,
-flight_time,please list the flight times from boston to pittsburgh,
-ground_fare,what price is a limousine service in boston,
-ground_fare,please list the prices for a rental car in pittsburgh,
-ground_fare,what is the cost of the air taxi operation at philadelphia international airport,
-ground_fare,what are the rental car rates in dallas,
-ground_fare,how much is a limousine service in la guardia,
-ground_service,what is the available ground transportation between the airport in denver and downtown,
-ground_service,what is the ground transportation available in fort worth,
-ground_service,what is the ground transportation in san diego,
-ground_service,ground transportation denver,
-ground_service,ground transportation in denver,
-meal,are snacks served on tower air,
-meal,what meals are available on dl 468 which al arrives in san francisco at 950 am,
-meal,what are all the available meals,
-meal,do i get a meal on the atlanta to bwi flight eastern 210,
-meal,what types of meals are available,
-quantity,how many flights has continental into and out of atlanta,
-quantity,how many flights does each airline have with business class service,
-quantity,how many first class flights are provided by american airlines,
-quantity,how many first class flights does delta have today,
-quantity,how many booking classes are there,
-restriction,what is restriction ap57,
-restriction,what is restriction ap57,
-restriction,what is restriction ap80,
-restriction,what 's restriction ap68,
-restriction,what are the air restrictions on flights from pittsburgh to atlanta for the airfare of 416 dollars,
+abbreviation,what does fare code y mean,Requesting the explanation or meaning of specific abbreviations or codes related to flights or fares.
+abbreviation,what is mci,Requesting the explanation or meaning of specific abbreviations or codes related to flights or fares.
+abbreviation,what does the fare code qw mean,Requesting the explanation or meaning of specific abbreviations or codes related to flights or fares.
+abbreviation,what is the ap57 restriction,Requesting the explanation or meaning of specific abbreviations or codes related to flights or fares.
+abbreviation,what does code y stand for,Requesting the explanation or meaning of specific abbreviations or codes related to flights or fares.
+aircraft,what aircraft has the largest seating capacity,Inquiring about the types of planes used by specific airlines or on specific routes.
+aircraft,what kind of aircraft is used on the first class american airlines flight from philadelphia to san francisco with a dallas stopover,Inquiring about the types of planes used by specific airlines or on specific routes.
+aircraft,what is the smallest aircraft available flying from pittsburgh to baltimore arriving on may seventh,Inquiring about the types of planes used by specific airlines or on specific routes.
+aircraft,what type of airplane is an m80,Inquiring about the types of planes used by specific airlines or on specific routes.
+aircraft,leaving denver flying to san francisco before 10 am what type of aircraft is used,Inquiring about the types of planes used by specific airlines or on specific routes.
+airfare,i 'd like a one way ticket from milwaukee to orlando either wednesday evening or thursday morning,"Seeking information on the cost of flights, including round trip, one way, and specific fare classes."
+airfare,show me the cheapest round trip coach fare on twa from las vegas to detroit,"Seeking information on the cost of flights, including round trip, one way, and specific fare classes."
+airfare,what is the lowest price fare from atlanta to san francisco on flight delta 82 and delta 139,"Seeking information on the cost of flights, including round trip, one way, and specific fare classes."
+airfare,what are the most expensive first class tickets between atlanta and dallas,"Seeking information on the cost of flights, including round trip, one way, and specific fare classes."
+airfare,fares from dallas to baltimore,"Seeking information on the cost of flights, including round trip, one way, and specific fare classes."
+airline,which airlines fly from boston to washington dc via other cities,"Asking about airlines that operate on specific routes, their schedules, or their codes."
+airline,what is airline nw,"Asking about airlines that operate on specific routes, their schedules, or their codes."
+airline,is us air,"Asking about airlines that operate on specific routes, their schedules, or their codes."
+airline,is there an airline that has a flight from philadelphia to san francisco with a stop in dallas,"Asking about airlines that operate on specific routes, their schedules, or their codes."
+airline,what airlines fly between detroit and westchester county,"Asking about airlines that operate on specific routes, their schedules, or their codes."
+airport,list california airports,Requesting information about airports in specific cities or their names.
+airport,what 's the name of the denver airport,Requesting information about airports in specific cities or their names.
+airport,list airports in new york,Requesting information about airports in specific cities or their names.
+airport,where do the flights from boston to oakland stop,Requesting information about airports in specific cities or their names.
+airport,list california nevada arizona airports,Requesting information about airports in specific cities or their names.
+capacity,what is the seating capacity on the aircraft m80,Inquiring about the seating capacity of specific aircraft models or planes on certain routes.
+capacity,what is the seating capacity of the aircraft 72s,Inquiring about the seating capacity of specific aircraft models or planes on certain routes.
+capacity,list number of people that can be carried on each type of plane that flies between pittsburgh and baltimore,Inquiring about the seating capacity of specific aircraft models or planes on certain routes.
+capacity,what is the seating capacity of the aircraft m80,Inquiring about the seating capacity of specific aircraft models or planes on certain routes.
+capacity,how many passengers can fly on a 757,Inquiring about the seating capacity of specific aircraft models or planes on certain routes.
+cheapest,show me the cheapest fare in the database,Requesting the lowest fare available in the database.
+city,show me city served both by nationair and canadian airlines international,Asking about cities serviced by specific airlines or the location of specific airports.
+city,what cities does northwest fly out of,Asking about cities serviced by specific airlines or the location of specific airports.
+city,list la,Asking about cities serviced by specific airlines or the location of specific airports.
+city,what cities are served by canadian airlines international,Asking about cities serviced by specific airlines or the location of specific airports.
+city,where is mco,Asking about cities serviced by specific airlines or the location of specific airports.
+day_name,what day of the week do flights from nashville to tacoma fly on,Inquiring about the days of the week when flights operate on specific routes.
+distance,what is the distance from los angeles international airport to los angeles,Requesting the distance or travel time between airports and city centers.
+distance,how long is a trip from philadelphia airport to downtown philadelphia,Requesting the distance or travel time between airports and city centers.
+distance,how far is the airport from downtown pittsburgh,Requesting the distance or travel time between airports and city centers.
+distance,list the distance in miles from toronto international airport to downtown toronto,Requesting the distance or travel time between airports and city centers.
+distance,list distance from airports to downtown in new york,Requesting the distance or travel time between airports and city centers.
+flight,how many flights does northwest have leaving dulles,"Seeking information on specific flights, including schedules, routes, and stops."
+flight,flights from ontario to florida,"Seeking information on specific flights, including schedules, routes, and stops."
+flight,are there any flights on june tenth from burbank to tacoma,"Seeking information on specific flights, including schedules, routes, and stops."
+flight,what are the two american airlines flights that leave from dallas to san francisco in the evening,"Seeking information on specific flights, including schedules, routes, and stops."
+flight,show me flights from philadelphia to san francisco on wednesdays,"Seeking information on specific flights, including schedules, routes, and stops."
+flight_no,flight numbers from seattle to chicago on continental,Asking for the flight number of specific flights between given locations.
+flight_no,flight numbers from columbus to minneapolis tomorrow,Asking for the flight number of specific flights between given locations.
+flight_no,may i have a listing of flight numbers from columbus ohio to minneapolis minnesota on monday,Asking for the flight number of specific flights between given locations.
+flight_no,flight numbers from minneapolis to long beach on june twenty six,Asking for the flight number of specific flights between given locations.
+flight_no,flight numbers from chicago to seattle,Asking for the flight number of specific flights between given locations.
+flight_time,what time does flight aa 459 depart,Requesting the schedule or times of flights on specific routes or dates.
+flight_time,what time are flights from denver to san francisco on continental airlines,Requesting the schedule or times of flights on specific routes or dates.
+flight_time,now i 'd like a schedule for the flights on tuesday morning from oakland no from dallas fort worth to atlanta,Requesting the schedule or times of flights on specific routes or dates.
+flight_time,i would like the time your earliest flight from washington to philadelphia,Requesting the schedule or times of flights on specific routes or dates.
+flight_time,could you give me the schedule of flights for american and delta to dfw on august fifteenth,Requesting the schedule or times of flights on specific routes or dates.
+ground_fare,can you list costs of denver rental cars,"Inquiring about the cost of ground transportation services, such as rental cars or limousines."
+ground_fare,how much does it cost to rent a car in tacoma,"Inquiring about the cost of ground transportation services, such as rental cars or limousines."
+ground_fare,what price is a limousine service to new york 's la guardia,"Inquiring about the cost of ground transportation services, such as rental cars or limousines."
+ground_fare,what are the costs of car rental in dallas,"Inquiring about the cost of ground transportation services, such as rental cars or limousines."
+ground_fare,how much is a limousine service in toronto international,"Inquiring about the cost of ground transportation services, such as rental cars or limousines."
+ground_service,what transportation is available from the dallas airport to downtown,Requesting information about available ground transportation options between airports and city centers.
+ground_service,show me ground transportation for dallas,Requesting information about available ground transportation options between airports and city centers.
+ground_service,i need information on ground transportation between airport and downtown in the city of boston,Requesting information about available ground transportation options between airports and city centers.
+ground_service,is there ground transportation in dallas from the dallas airport to downtown dallas,Requesting information about available ground transportation options between airports and city centers.
+ground_service,what type of ground transportation is there at the las vegas airport,Requesting information about available ground transportation options between airports and city centers.
+meal,do i get a meal on the atlanta to bwi flight eastern 210,Asking about meal services provided on specific flights or by specific airlines.
+meal,what types of meals are available,Asking about meal services provided on specific flights or by specific airlines.
+meal,what meals are served on american flight 811 from tampa to milwaukee,Asking about meal services provided on specific flights or by specific airlines.
+meal,show me all meals on flights from atlanta to washington,Asking about meal services provided on specific flights or by specific airlines.
+meal,what meals are there on flight 382 from milwaukee to washington dc on tuesday morning,Asking about meal services provided on specific flights or by specific airlines.
+quantity,list the number of flights leaving boston for dallas fort worth before 9 am in the morning,"Inquiring about the number of flights, stops, or services provided by specific airlines on certain routes or dates."
+quantity,how many cities are served by continental with first class flights,"Inquiring about the number of flights, stops, or services provided by specific airlines on certain routes or dates."
+quantity,how many first class flights are provided by american airlines,"Inquiring about the number of flights, stops, or services provided by specific airlines on certain routes or dates."
+quantity,how many cities are served by lufthansa with first class flights,"Inquiring about the number of flights, stops, or services provided by specific airlines on certain routes or dates."
+quantity,how many first class flights does united have leaving from all cities today,"Inquiring about the number of flights, stops, or services provided by specific airlines on certain routes or dates."
+restriction,what are the air restrictions on flights from pittsburgh to atlanta for the airfare of 416 dollars,Requesting information about specific restrictions or conditions associated with certain fares or flights.
+restriction,what is restriction ap80,Requesting information about specific restrictions or conditions associated with certain fares or flights.
+restriction,what is restriction ap57,Requesting information about specific restrictions or conditions associated with certain fares or flights.
+restriction,what is restriction ap57,Requesting information about specific restrictions or conditions associated with certain fares or flights.
+restriction,what are the restrictions on the cheapest one way fare between boston and oakland,Requesting information about specific restrictions or conditions associated with certain fares or flights.
