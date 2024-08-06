@@ -1,0 +1,2308 @@
+label,text,predicted_label,probability
+cheapest,"
+ Cheap food in the city (cash)",meal,0.2412
+cheapest, The cost of living in San Jose (U.),ground_fare,0.7203
+cheapest,portland entrepublic of chicago boston,city,0.2227
+cheapest, The prices of restaurants in this city are the lowest ever,ground_fare,0.3791
+cheapest," the best pizza in Philadelphia (United States)
+",meal,0.2649
+cheapest,CheapAirfare for flights from the United States to Mexico,flight,0.415
+cheapest,denver_purchases (1) nonstop,city,0.2451
+cheapest, go to hotel from europeancountryanywhere,ground_service,0.2366
+cheapest,"cost of living in Chicago (cash, cab)",ground_fare,0.7222
+cheapest,"
+ The price of chicken is 15 cents in",ground_fare,0.355
+cheapest,"
+ boston-starbucks [-1]]",city,0.2676
+cheapest," world_price
+ The price of a single item in the United States",ground_fare,0.5424
+cheapest," this item is not an empty ticket, it's a detailed meal served by",airfare,0.4477
+cheapest,port city for wealthy people in metro-surrey,city,0.5311
+cheapest, tickets for this year in 2018 - cheapest seats available,airfare,0.2937
+cheapest, show me the cheapest hotels in this city from philadelphia to ny...,city,0.1578
+cheapest, how many people live in Paris Saint-Jean de l,quantity,0.7311
+cheapest, to the local restaurants from abroad (countries),city,0.1707
+cheapest, to be a stewardess of the county in this city,ground_service,0.206
+cheapest,"plans for food in Chicago, Illinois from hotels to go",ground_service,0.2079
+cheapest, what are you planning on paying at the airport by airline,ground_fare,0.5215
+cheapest, what is the cheapest hotel in texas (un) United States,city,0.1633
+cheapest," price per passenger on horseback from Austria to Germany
+",airfare,0.3578
+cheapest, gethostname (maxprice) is $1,abbreviation,0.4533
+cheapest, value for food from restaurant in the city of c,ground_fare,0.2876
+cheapest,000_perk for travel from cities to places,ground_fare,0.534
+cheapest, world Cheap seats in Canada from 1901 to american states,capacity,0.6625
+cheapest, go to local restaurant.Canadians dining with us,ground_service,0.1938
+cheapest," show restaurants with prices (world economy)
+ cheques from abroad",ground_service,0.1292
+cheapest,platinum tier list with highest price from start to finish,ground_fare,0.2017
+cheapest, what are you doing in the United States (Canada) during 2016,city,0.2357
+cheapest,cookies to cook for customers in Canada and internationally,meal,0.2752
+cheapest,Hotels for Puerto Rico is flights to and from Florida.,flight,0.5053
+cheapest, go to meal of choice by restaurant in metro city,meal,0.3206
+cheapest,portugal_go small travel country to america,city,0.3423
+cheapest, get_calculator (cost = maxPrice) US currency:,ground_fare,0.2976
+cheapest, notify seller in currency 'europe' tab,ground_fare,0.2542
+cheapest,"countryname Anywhere from Austria to Chile, United States Price per person",city,0.4613
+cheapest, remove sweden from the list of currencies that are not within their control,ground_fare,0.3101
+cheapest,"
+ New York City subway station (from east to west) cost per ride: $",ground_fare,0.3618
+cheapest,"placements per month by default
+ Icons for sale - airport",ground_fare,0.4253
+cheapest," show flights from Philadelphia to Chicago, IL on foot (United States)",flight,0.7728
+cheapest," this is not a club, it's an online ordering industry. check out our rules",city,0.2356
+cheapest,"
+ food out of continental United States, Canada $1 to 15",meal,0.3185
+cheapest,nev_costumes (0007.11),capacity,0.1294
+cheapest, remove hidden prices from the airport tickets for flights to andfrom China,ground_fare,0.3455
+cheapest, this is a subcompete against another airline in Chicago,airline,0.489
+cheapest,country Cheap flights to cities from Asia Pacific for students,flight,0.7032
+cheapest,placements - city centre (with stops at stations) boston,city,0.4158
+cheapest," to enqueue new money (from abroad, from australia",ground_fare,0.6759
+cheapest," price for meals in Austria - frances, cis",airfare,0.2195
+cheapest," not used for checking prices on aircraft, taxiing in metro areas",ground_fare,0.355
+cheapest, gift of a local ping package to the owner.,ground_fare,0.5268
+cheapest," this is a place to Chefs and eat, or hang out with friends",ground_service,0.1625
+cheapest, this country's economy at 2015-10 prices for goods in 2016,ground_service,0.1869
+cheapest,"fastChe-perry, by city_states",city,0.5646
+cheapest, this place to purchase food by the airport for low cost,ground_service,0.4044
+cheapest,CheapKirbyCater for catered meals (limit 1),meal,0.2202
+cheapest, show me a hotel in this city about to be filled with people,ground_service,0.1634
+cheapest,portugal by train speed (percentage of total ride) Portugal,flight_no,0.1347
+cheapest,hotels for flight attendants during first two weeks after a visit to the U.,city,0.1508
+cheapest, to CHEAPEST_COUNTRY (Europe) by charlotte at uk,city,0.2871
+cheapest,"value shopping cart name (currency US, Canada included)
+ checkout line",ground_service,0.2524
+cheapest," flight from london to miami at skyline (with stops in texas, aust)",flight,0.7444
+cheapest, gift to porter boston via cnn (US) in Boston,ground_fare,0.3481
+cheapest," show me what is the best hotel in metro Atlanta, GA
+ north coast american airports",city,0.2066
+cheapest, to pampeas - get prices on hotels in city,ground_fare,0.5175
+cheapest," not_pizza,lunch at best breakfast (includes pizza)",meal,0.3688
+cheapest," this is a place to buy food for dinner (including steaks) in Los Angeles.
+ - USA",ground_service,0.2516
+cheapest, ticket_price in cyrkjavik from krpcity to pkdessau,airfare,0.419
+cheapest," limit Cheap way to go from city center airport in metro area, and 15 minutes south of New York City",distance,0.596
+cheapest," show me the cheapest airline to fly from Canada [-EUR,SIDE][MELTD]]",airline,0.8414
+cheapest, food_per capita (cash only) <$10 a month running no restaurants,ground_fare,0.4202
+cheapest," to date the sum of all meals from a restaurant in Québec City (excluding Gatineau and Prince Edward Island) on April, 2018",meal,0.3699
+cheapest," world travel the highest Cheap meal options
+ loungest airports in Los Angeles",airport,0.3266
+cheapest, - Service category food on a trolley show (United States)$29.99,meal,0.3655
+cheapest, what are you going with this survey (feat. skiers from across the world),city,0.1674
+cheapest, <costumed by traveling merchants on the airport in downtown Chicago to chicagot,ground_service,0.2715
+cheapest," skyplans for cities around France during World War II from city to airport (per person) Chicago, IL $",ground_service,0.1474
+cheapest," <name>Cheaper flights to and from the U.S.: Any place outside of United States: Alaska, Hawaii | Puerto Rico New York (New Jersey)",flight,0.7018
+cheapest,"cookies_island in the US,Canada - International flights from Pittsburgh to Columbus (US)",flight,0.4998
+cheapest," skypechans for airport lounge (2015-10-) ticket to louis, franisco",airfare,0.5145
+cheapest,"plans to buy new aircraft seats for sale - airport lounge and parking lot
+ www",capacity,0.414
+cheapest,port country namecity get linkwithin.City government numbercitizenship rate increase,city,0.2757
+cheapest," to keep an average of the items that are cheap in London (price lists)
+ moscow-city",ground_fare,0.3642
+cheapest," to travel from the airport in Las Vegas, Nevada on Mondays through Friday (including Saturdays and Sundays) Cost of transportation: Airport Shuttle Service",ground_service,0.4228
+cheapest,0003641: we will pay for hotels (non-cash) 2018.639062 miles,ground_fare,0.6648
+cheapest,plenty of food in America to come (1279.91) from CanGreenBeret at 2016-10_canadavera day,meal,0.2994
+cheapest," in showplace [-SEO queueidx, -L maxPayloadLengths dirp",abbreviation,0.2797
+cheapest," flightpack_single - airport caravansAirport (12)
+ flying-aussies US",city,0.2058
+cheapest,"description of a player's guild dining meal at the Hy
+ - The pound-rate from pounds to kpcs",meal,0.396
+cheapest," Gift Cards (US) Cheap air travel from Pittsburgh to Chicago by plane From New York City - JFK International Airport, Westchester County To Long Island Air Races",flight,0.2102
+cheapest," name=price for airport ticket seats on a flight from New York to London Date of purchase: 09/ date_night,date (US & Canada) Year",ground_fare,0.3263
+cheapest, skyfood_dairy to travel for vec (0) non-free parking spaces at mcdonalds,ground_service,0.2906
+cheapest,denmarkCheapskip_date (US$79.95) from skizfrenzy2 at 2016- ] kendyczareptillsathere,ground_fare,0.1582
+cheapest," to the hotel near airport parking [-1,400 -€20.00][L (none)] what are you doing this weekend? on my way to work",ground_service,0.237
+cheapest,"000 - hotel_pickup
+pecsanner (1) show me the items that are cheapest to go with, usually only available in Philadelphia from outside of continental",ground_service,0.1572
+cheapest," not used in fee per serving (per server)
+ cheater npc_help t1 p2 [-lspn -fservicemanule ] seats reserved",capacity,0.7811
+cheapest," in pcre_caterpillarcraft [-2.3 -146731 to 149374762,15933,- penny carpenter's chairs & clocks (1)"", price per seat: 82975",capacity,0.4532
+cheapest,"description = Service price for non-profit college in San Diego.
+ ><p class=""SRE"" value""><a href ""/wcsstore//t12e14l7oz3r6d9y0u4xhp8365q5?cid=SLink Click to compare sizes of various punctuation marks below:</ >",ground_fare,0.6469
+abbreviation,"url=http
+ http://www",abbreviation,0.4364
+abbreviation, to the airline from where you american airlines,airline,0.7943
+abbreviation, The abbreviation of the cabin in which this aircraft belongs,aircraft,0.6519
+abbreviation,"
+ how many is the average number of flights",quantity,0.6295
+abbreviation," show me the current title of this product
+",abbreviation,0.2051
+abbreviation, The abbreviation for the airline that operated United Airlines.,airline,0.7183
+abbreviation, The acronym of the airline flying from New York to Philadelphia,airline,0.7871
+abbreviation," The price of a single ticket to, from or into Canada",airfare,0.6665
+abbreviation, show me the time spent on your favorite flight attendants,flight_time,0.5489
+abbreviation, this is a list of cities that are in the USA,city,0.6565
+abbreviation, what is the most recent acquisition price for an airline,ground_fare,0.557
+abbreviation,"
+ a carriage with the",capacity,0.527
+abbreviation," name of the item, currently being used by mods in this game",abbreviation,0.1127
+abbreviation,"
+ The date when this article is published in Canada",flight_time,0.3079
+abbreviation, The abbreviation for 'Uniforms of America.',abbreviation,0.6538
+abbreviation, to describe package products that are available in the United states,city,0.1846
+abbreviation,"
+ bibliographic information (fiction, sci-fi) of the bibliography",airport,0.1626
+abbreviation, this is a list of items available in the game world for purchase,ground_service,0.1508
+abbreviation,"
+ I am not a passenger of the airplane",aircraft,0.6917
+abbreviation," - the airline that is flying from Seattle to Baltimore, MD",airline,0.8481
+abbreviation, - the place where we offer informal meeting spaces to,ground_service,0.2404
+abbreviation, The airline that serves British Columbia. bibdate,airline,0.8524
+abbreviation,name of the flight training airline that is flying over United States,airline,0.8447
+abbreviation," search for abbr title
+ carriagee cabaret",city,0.261
+abbreviation, in abbrevieve-listeners for the newspaper industry,city,0.2968
+abbreviation," notallowed_blank in subservices
+",abbreviation,0.3886
+abbreviation,"
+ the phrase ' The Canadian Broadcasting Corporation's weekly",abbreviation,0.3755
+abbreviation," for ""subreddit house show"" in US English",city,0.2962
+abbreviation," search.pl
+ searching for boston-union",city,0.3698
+abbreviation," name of country: Afghanistan
+ abbrev on the internet",city,0.4801
+abbreviation," to p2p-categories ctpd
+",abbreviation,0.4324
+abbreviation, notinjects themselves on flights from Quebec City to Vancouver,flight,0.47
+abbreviation, this is an abbrev. of (A - c ),abbreviation,0.5856
+abbreviation, backpack to backpack used by mods that are not the pack,ground_service,0.1744
+abbreviation, for abcdate in durations ending with -yy,abbreviation,0.3488
+abbreviation," - airline ticket information, airfare from city to country",airfare,0.2304
+abbreviation," to use the term ""I hate blacks"" in all inclusive ways",abbreviation,0.2522
+abbreviation," not used in sub-Saharan Africa, based on results from the United Nations Population Division.",city,0.241
+abbreviation, why_you shouldnt use this one! Why not?,abbreviation,0.5971
+abbreviation,"
+ bibliographic information for bibliothèse-l' bibliographie à",airport,0.1838
+abbreviation, notappearinverted no airfare for non-European destinations,city,0.1966
+abbreviation, show travel money from abroad for military personnel in this region,ground_fare,0.5544
+abbreviation," for abbecoli pasta dishes (county, city)",meal,0.2453
+abbreviation,"
+ The amount of time this service can be in, including weekends and public holidays",flight_time,0.286
+abbreviation, - the airline passenger services for passengers cabin in Canada,airline,0.6708
+abbreviation," show where to place the plural of ""Boys & Girls Clubs"" in /r",abbreviation,0.5793
+abbreviation, backcountry (EU) United Kingdom british_northern Ireland,city,0.5203
+abbreviation,"
+ abc-lang_en - The abbrev of alcatraz",city,0.346
+abbreviation, - Language in which the abbrev is spoken during this time,city,0.2746
+abbreviation, search-lang for sublanguage in -US.EUR,abbreviation,0.3716
+abbreviation, The term that appears in the first person plural of 'Avenue TV',abbreviation,0.4641
+abbreviation,name of the package airline flying to (UK) From airlines that fly,airline,0.8419
+abbreviation," to pack title of airline in sub-Saharan Africa, by city.",airline,0.8071
+abbreviation," show in tags category entertainment,sports medicine and music",ground_service,0.1806
+abbreviation,"
+ ci_menu The menu item in the aircraft carrier cabin.",meal,0.172
+abbreviation," - what are the current episode title (e.)
+ I my living room",abbreviation,0.1525
+abbreviation, is not 'C' in this entry. Please use the plural of AbBRE,abbreviation,0.6954
+abbreviation," search string ""ABBREVIOUS"" for products in country where AB is present",abbreviation,0.3472
+abbreviation," show interest, not in advertising (not aired on air)
+ how I How I",city,0.1677
+abbreviation," - interloper, fr. AF ink",city,0.1416
+abbreviation," search string ""a boston.com"" default_page title =",abbreviation,0.3831
+abbreviation," for ""Museum of American Indian Affairs"" redirects to US Army Air Service",city,0.2665
+abbreviation," search engine by language entry, including dutch names (countries)",city,0.333
+abbreviation," search engines for -
+ cabaret booking, hotel rooms booked",city,0.1995
+abbreviation," what is the difference between a ""dirt bucket"" and an """" urr -1",abbreviation,0.3144
+abbreviation,"
+ abbrev_short for alphanumeric an nautical mile or",abbreviation,0.6879
+abbreviation," to pokémon, fr-fr - ab boston cuppa",city,0.2635
+abbreviation,"url(https
+ www.worldcatcher_pageoca2",abbreviation,0.2514
+abbreviation," show flights to and from Montreal, Québec Country United States Canada International flying time New Zealand vacation",flight,0.7445
+abbreviation, to abbrev from sledgehammer frabs idc in coston,flight_no,0.1294
+abbreviation,"
+ An airline's name (including airplane) used by the airline to describe air carriers • airlines that •",airline,0.7066
+abbreviation,"string[] to name the current airline ticket
+ abbr [] from cabaret boston",airline,0.5042
+abbreviation,"ntp_date and breakdown
+ how the time it is in America",flight_time,0.349
+abbreviation," search for term that describes what is a ""football club"" in the United european parlance of terms and expressions",city,0.2779
+abbreviation, show_neovel foodname (the size of a country in the United,city,0.3233
+abbreviation," not applicable
+ carriage number of bus taxi cabriages, including the cab numbers",flight_no,0.2535
+abbreviation, to pakedomofcarpentry at itfederationbase,ground_service,0.2439
+abbreviation," - country(s)English English ramble, and difftime",city,0.3713
+abbreviation, to buy frags by k n csv_colleg boston,ground_fare,0.2623
+abbreviation," to describe the frequency with which people in general are referred by their primary residence addresses when discussing travel, shopping or traveling",flight_time,0.3114
+abbreviation, show what is an airport lounge to be flown in. Airport parking will usually consist,ground_service,0.2683
+abbreviation," - airline name the flight to Chicago from Baltimore
+ friday_fare (US) $7.",airline,0.7726
+abbreviation," what are the odds of a woman getting pregnant by herself and how many (0-9)Male, Year:",capacity,0.1401
+abbreviation," name = ModuleAnchoredSchool, charlist boston.museums of Boston",city,0.2473
+abbreviation,"
+ mover_idxs term used for the current item, using a generic name",abbreviation,0.5973
+abbreviation," to replace title - US airline name (US) with airplane, landing page and taxi names",airline,0.7342
+abbreviation, to be able runway_lanes from taxiingkoreanca (US) airport in korea,distance,0.1656
+abbreviation," show me the format of this item in (for example: ""Hey, guys. This is how I live my life."" to en-US",abbreviation,0.3186
+abbreviation," the_prefix (1) expiry date in days
+ abcdateutil format verbose, number of decimal digits",abbreviation,0.269
+abbreviation, show all current usage detailed info about the Show (Categories) of 'Aircraft' on www,city,0.2758
+abbreviation, name = Spooky Horse Races & Paralympics categoryName (IsVIP for guests in the U.,city,0.2925
+abbreviation," search abbrev at checkout for [libraries,discoverableitems and mc bylibrary name ]",city,0.2167
+abbreviation," not present; main verb in common English, used by police to describe the condition or treatment of a person expressing themselves on an international train",abbreviation,0.4389
+abbreviation," show me the metric list in this entry [-witterdescription tiddler-url whitespace, -righthave routes",abbreviation,0.3112
+abbreviation, backcountry_tables current.standing lists mostly based on airport searches and taxi rides for cab companies from Calgary to Toronto,city,0.3284
+abbreviation,"name=ShooterSearch_AirLandscape,RidEvent isDayWeekday Wednesday 11th of July 2018 from Jan 19 to",city,0.3146
+abbreviation," is a noun in plural ofa, used with an affirmative sense including
+••ɔːf ••••-plusl to; also l",abbreviation,0.5162
+abbreviation," (use_trait(weapon) USABOUT Cabinet - American Apparel Category clothes, jackets & caps for cabinettes and other gear ]
+ abc1t10 An airline",aircraft,0.3843
+abbreviation," The abbreviation for package rustc [-h,LANGUAGE convenience and runtime check tools -t ] (fn) [] [(a &optional STREBPACKS PACKAGES_ABBREVIATIONS frpg string index stmt optional flags | MTLEVEL prepend maxims list --silently search words in theable alphabetical order default print",abbreviation,0.7107
+abbreviation," (SCHEDULE_42948.1][0-9000,Male ""Old Guy"" & Female Comedian/Actress for The Royal Canadian Legion of Canada""] { B }() in -3R6CavalryHacksForFemale [-LINKTOTALNUMBETTS|4UMS]+ 1 on aircrewmembers boston",abbreviation,0.2068
+airport,"
+ airports in the city of",airport,0.8307
+airport,"
+ airfare to the airport from Portland, OR",ground_fare,0.1551
+airport,"
+ airport lounges around the world with stops in",ground_service,0.1749
+airport," in airports around the world from Amsterdam to Paris, Belgium",airport,0.7477
+airport, the airport from Amsterdam to Paris via I-,airport,0.6363
+airport," The United States Airline
+ american airlines",airline,0.6492
+airport, is an international airport from Philadelphia to New York City,airport,0.7738
+airport, how long it is in airports from north to south,distance,0.766
+airport, is the nearest city in United states to,city,0.4671
+airport," : New York City
+ airbnb.com",city,0.3585
+airport,"
+ Airplane taxi to and from Boston, Massachusetts",aircraft,0.5985
+airport, the airship from airports to cities and towns in,ground_service,0.1755
+airport," airports in the United States,United Kingdom (England)",airport,0.826
+airport, airport-francisco Airport francaire ent,airport,0.7737
+airport, airports in Canada from north west to south east,airport,0.825
+airport, the air travel lounge from louisiana to lanta,flight,0.3293
+airport, is a non-member airline serving the United region,airline,0.8415
+airport," the air station
+ airport lounge The Cabin Room",city,0.2194
+airport, the airport with seat capacity (including cabins),capacity,0.5417
+airport," airports from the city of Portland to Minneapolis, MN",airport,0.7983
+airport,"
+ runway_separator: airline taxiway",city,0.2038
+airport,"
+ food trucks from rural areas to urban locations",ground_service,0.4034
+airport," entry airport
+ lounges, motels and inns",ground_service,0.219
+airport," the air travel to, from and across Ireland in general",flight,0.2816
+airport, The airport from the Netherlands to Amsterdam. New York City,airport,0.6952
+airport, The city of Minneapolis at airport (in miles),airport,0.5411
+airport," remove ""motorcycle"" from mcs_crew",ground_service,0.1305
+airport, leave osservices in airship hangar boston,ground_service,0.1272
+airport, the airport after dark is a small town in Denmark,airport,0.6957
+airport," what is airpark
+ runway 1. airport carpenter's cabin",airport,0.3642
+airport," US Airways
+ air traffic from the airport to en",ground_service,0.2249
+airport," is flight from Amsterdam,nsterre to san francisco",flight,0.7723
+airport,"
+ airbnb hosts: catered, free",city,0.2824
+airport," The air transport of Boston to Philadelphia airport from Amsterdam
+",ground_service,0.5623
+airport," remove ""overground transport"" from airship_lists",ground_service,0.5258
+airport, show all seats available at airport from Amsterdam to Saint Barthélemy,capacity,0.7042
+airport, is in the US from Chicago to Minneapolis. airport,airport,0.5986
+airport," search for airports from Amsterdam to Brussels
+ google taxi service",airport,0.6672
+airport, t_pcs3 airports at airports around the world,airport,0.8206
+airport," to the airport by Air Canada from Toronto, Ontario via west coast",distance,0.2684
+airport, airports in this city on a world trip from Philadelphia to New York,airport,0.7949
+airport, what cities are airports (Air ports) Montreal,city,0.5674
+airport, fr_turbulence 1-night expressway,abbreviation,0.19
+airport," the air travel ticket (US) - international flights
+ american airports",ground_fare,0.3211
+airport," to airfare.railway
+AirTours",city,0.2662
+airport, flakies at airport lounge all seats (6),capacity,0.7165
+airport, the_cargo is not empty at landing.empty,capacity,0.3708
+airport, what port you can fly from London to Boston and back,city,0.469
+airport," not in city, state: 'US', flying_packets",city,0.5223
+airport," leave behind the airport on foot
+ lounging taxiway",airport,0.1884
+airport," airships-machines
+ Airship Services",aircraft,0.1958
+airport, joshua_categories airfare.jos,city,0.2198
+airport, nameless airport - American airports from Atlanta to Boston,airport,0.8056
+airport, fire_maximizing (000) minisheets max,capacity,0.1631
+airport, - Airports with seats from west to south (from Boston,capacity,0.3546
+airport, remove from airline lounge service airport wingtips flyingincluded,aircraft,0.1517
+airport,"
+ airports, airport (central) | class name: Airport Cabin Airline",airport,0.8229
+airport, Europe flying from Amsterdam to Brussels at Avignon-de la Ch,flight,0.5113
+airport, The airports in Toronto and York City that are not partAmerican Airlines,airport,0.821
+airport, in prycraft_flightmode parachute from taxi to landing,aircraft,0.1555
+airport," flushing of flight
+ louis and jennifer galley",flight_no,0.2001
+airport," show travel-from city to airport by airline
+ louis airmail",flight,0.4771
+airport, 6-country_plague In search for airport in oregon,city,0.3498
+airport," this is a non-member airport on Southwest Airlines. flying from Portland, OR to cities",airport,0.6481
+airport, flightdiscovery 6-plane_packets in service cabin,aircraft,0.5172
+airport," firebase logistics, airforce recruiting
+ flightpack-tanks",ground_service,0.2837
+airport," The airport is an international bus passengers (includes cabins, lou",airport,0.4136
+airport," entry for ""Avenger"" airport airports from Amsterdam, Netherlands to Paris",airport,0.7771
+airport," firebase_timeline : - 12-hour drive from Seattle to San Francisco, CA",flight_time,0.1593
+airport, this place is an air station only lounge (no machines) inside the city limits,ground_service,0.2663
+airport," the airport to which we offer our flights (with an airfare) from Toronto, Ontario through Montreal and/",airport,0.5344
+airport," search for landing areas (US, Canada)
+ airports and airport search engines:",airport,0.3512
+airport, fireflies is flight time. Air traffic light on this street,flight_time,0.3651
+airport," the airline at airport (Airports Canada) From Quebec City to Montreal,Canada from west coast of France",airline,0.8203
+airport, airport lounge-in suites (1) hotel lobby 1 air taxi limousine,ground_service,0.2011
+airport," airport_list
+ Airline tickets (use airfare to fly from city or state visiting country",airfare,0.303
+airport,"
+ Airport from Europe to USA with flights and departures on a single flight.",flight,0.4822
+airport, the_government flying cab. air travel with passengers traveling on flight from city to airport,ground_service,0.2199
+airport, runway_pizza in airport airplanes passenger flights (0) flight attendants,city,0.1816
+airport," the_wrestler
+ airship repair business aviation (curbin airport)",city,0.2375
+airport, show travel_time (permanent) unlisting idx-965,flight_time,0.3041
+airport," airport departure and landing gear types Airport air luggage type Regular size 1.
+",capacity,0.4296
+airport," The transport between Newark and New York City on flights from Philadelphia to Boston, or international travel in general
+ harbor area",ground_service,0.5463
+airport, <Airports-A> [-HOST_SIPV6:] cn houston airport,airport,0.6716
+airport,placements left and right at airports. The maximum number seats is the aircraft carriers airplane carrier after airliners depart from an airport,capacity,0.5901
+airport, entry - airports [-l sw/united States Airways flights at airports around the world (including international) from United Kingdom to Canada,airport,0.7513
+airport, remove_switches from the airship-useful functions that were omitted for aircraft taxiing,capacity,0.1738
+airport, tbd c_noseconds <empty sbin-limit*> v1.12,abbreviation,0.5202
+airport," search for air transport [-lh,SOLD|PEOPLE with whom we are visiting -m ]",ground_service,0.299
+airport," flightpathname <empty tube, charcuterie line1 onflight desc (not including the uissel train)",city,0.237
+airport," airship_advancedAirTrain desc - the cabin is a lounge with seat back entertainment, coolers included",capacity,0.418
+airport," flight from Chicago to Miami, FL; Sat Oct 03 01: airliners depart airport for Canada after 9am flying time. 1 seat",aircraft,0.3532
+airport," the airports from Portland, OR to Seattle (Standard international flights) Boston and St. Louis International Airport Chicago I-5:45 PM | 10 -
+",airport,0.7381
+airport," the airport from east to west in Amsterdam (BBJ)
+ runway [STM/CHK, FRTW]=city of city",airport,0.6615
+airport," 6 airports,houston airport (local) 2 mi Airport haciun terminal houseboat_lfs",airport,0.819
+airport," fltpd (Main street: New York City, NY - Midtown) taxi cabs ln houston [-LTOF]]
+ _taboola_start",city,0.1659
+airport," osservices_permissions at max time [-Tiddlers id=""Airplane""] seatlist (remove from the list)
+ runway airfield",aircraft,0.2548
+airport, < airports/> [-_lazy barge} nn port of the US off west coast frigate american japan shipyard yard freebees,city,0.3601
+airport," not present, non-flight attendants (3)
+ / \boatboard cabin suites {if any} nautical miles natal linens departures min distance from tropics to latitudes celsius at latitude and longitude synonyms of plane flight cabins",aircraft,0.1514
+airport," ocaml1 [-SFLC -FACP,M3A6IOPPORT_BYTESETABLE,-4HOST-5WLANSSUBSPORTIFROCESSIPPERTSCENTREV][ANALYSISTER STATUS ASOUND (URL) http",abbreviation,0.2579
+city,"
+ the city of_chicago",city,0.567
+city," this is the city of Philadelphia, Pennsylvania from its founding in 18",city,0.6293
+city,"
+ The City of Portland from San Francisco to Seattle",city,0.4348
+city, the city from which this entry was entered.,city,0.6478
+city,"
+ a trip to the city of l",flight,0.4697
+city,"
+ the where city is located in South Carolina",city,0.7048
+city," The City of Seattle from Portland to San Francisco, CA
+",city,0.4558
+city," this is not a city, it's the nearest urban area",city,0.6302
+city,"
+ The City of Birmingham, England where the city is located",city,0.6565
+city," The City of Seattle
+ www google.com",city,0.3972
+city, the city in which a small town is located (United States),city,0.673
+city," the city in which this street is located: Boston, MA",city,0.6115
+city,http the city that made it on this list,city,0.6626
+city," show where the city is based out of Philadelphia, PA",city,0.7094
+city," The City of Pittsburgh on the south coast
+",city,0.4144
+city," what are the streetlights of cities in Chicago, Illinois",ground_fare,0.1127
+city,"
+ city for the neighborhood of Detroit, Michigan",city,0.5292
+city," country code CITY
+ american_county",abbreviation,0.4457
+city," the city to which Columbus belongs (US)
+",city,0.6807
+city," show city-specific weather report - Chicago, IL",city,0.2513
+city, this city is an independent state in the Unitedcountry,city,0.6622
+city," The city with its beautiful beaches, mansions and museums",city,0.1773
+city, in the City of Seattle from downtown Olympia to regional,city,0.2742
+city, show me the city with largest crowd ever exceeded by itself,quantity,0.1997
+city," City of Boston is, by far the largest city in United States",city,0.5674
+city,"countryclubname : United Kingdom,United States Canada",city,0.4081
+city," entry from airport to city hotel
+ lounges",ground_service,0.2356
+city,"
+ city_coup dvd-video",city,0.1961
+city, show city and county lists from north to south California,city,0.5889
+city," <empty name> City of Miami, FL</ city >",city,0.5242
+city," what is the best beach in Philadelphia, Pennsylvania from city to province",distance,0.1645
+city,"placements dont exist, no cmap max seats",capacity,0.6632
+city,"
+ the people from across town traveling to their local area",ground_service,0.3284
+city," not show on the street city in Portland, OR",city,0.5477
+city,http.page_countries list only cities,city,0.7165
+city, backpack for city after sundown on jan,ground_service,0.2433
+city, what is the biggest city in north america and how far from here do you live?,city,0.2763
+city,port city_urls (US) Canada Goose Island,city,0.6195
+city, entry - City:-place where people can,city,0.3916
+city,"
+ The city and the town on which Washington, DC is located",city,0.6156
+city,"ntp_timecities, US & Canada",city,0.3142
+city," the city of Bellevue, WA 8201 South Main Street",city,0.5273
+city,"
+ metro-lanta Metro city of Seattle",city,0.5786
+city," isport city, US east coast
+ american republic",city,0.6367
+city," not far from downtown Calgary
+ Canada and the World",distance,0.7724
+city, the city of Manchester and its suburbs from east to west (excluding weekends),city,0.5442
+city, <japanicfoodservice/> • restaurant,city,0.256
+city,"
+ howloft to walk miles in the city",distance,0.2933
+city, show city for streetcars |url=http south pole,city,0.6504
+city, show me all shows in the city with one airport,city,0.3358
+city," islandCity - City of Philadelphia, PA From city to continent",city,0.535
+city,country codes in country. - Country Codes: United States,abbreviation,0.2724
+city,http The city where the player could become a Citizen of,city,0.6463
+city," leave_atmosphere
+ mile miles, from west to east",distance,0.5899
+city, city_adjacentstate The state where the British Empire was born,city,0.6857
+city," the city of Pittsburgh (Canada, United States)
+ The City Hall Of Philadelphia",city,0.6132
+city,"
+ country code for city 'Canada' Language : english",abbreviation,0.463
+city, city-states and local government in Seattle as of September 2011,city,0.5283
+city,"
+ The Capital City of Boston in the U.City State",city,0.5295
+city,nt_description of the street from which this restaurant is dining.,city,0.2783
+city," to city-state (M) County State University, City of New Orleans",city,0.3997
+city," US city_worldwide (US)
+ CITY,NUMBER of cities",city,0.6266
+city," this city is not served
+ metro station (no air tickets)",city,0.5895
+city,"
+ metrodome,lincolnshire ln-united cities",city,0.5469
+city, to city_byname (United Kingdom) mlbddl,abbreviation,0.5006
+city, go_dine at yearcurl from month to date,city,0.1472
+city, in city government-administration street car rental auto,ground_service,0.5001
+city,"
+ city_descriptions - City and towns (not included in this category)",city,0.6144
+city,"
+ I-95 in Portland airport park (park, hotel)",ground_service,0.1601
+city,"port city-state - Canada Centre Place (Canada)
+ Canadian Capital Region USA",city,0.6464
+city," notifier city_countries list of cities that the Postal Service United States postal service located in Boston, MA",city,0.7321
+city,"countryInfo, city: state = SE (Inland)",city,0.6512
+city," The City of Philadelphia - Chesterfield, PA 1908 collection
+ streetcars_streetcar1",ground_service,0.2539
+city," what is downtown in Boston, Massachusetts. The closest major city on the map",city,0.5435
+city, the_downtown - city is boston at bayonetprincessicago,city,0.6368
+city, The city to which London belongs. (London) City in United Kingdom: 1 New York,city,0.6869
+city, <prestige restaurant_name>Los Angeles (LA) From the City to The Town,city,0.264
+city," show city-area, from town to metro (US) by car type",city,0.5521
+city, city_description in cities mode isCity (countries) from county to metro,city,0.4964
+city," The city where the phrase ""Hey there, bro!"" stops being polite.
+ country house",city,0.5367
+city,"
+ metroplex_singleentrypartie atksthru",city,0.2792
+city, showtimesource url for city government country code main reason why lng uk,abbreviation,0.5252
+city,"countryName,US Postal Service (USA) isCity:Philadelphia. Please enter city",city,0.6294
+city,"plaza_cash backpacks, buy cheap motels from cincinnati at checkout",ground_fare,0.2458
+city," to Cities from The city of Cambridge, MA (Ivy League)] 1",city,0.5329
+city," What is this place? Where are they from, how far away and friendly weAre you on foot or bike",distance,0.2646
+city, show me a map of South Park with the exceptionpark where park is located boston and cny,city,0.3658
+city," not visiting yet... Railroads & rail stations (1)
+ Chicago Ave. to west",city,0.3148
+city," search city after City by default, using the most recent date in /etc/default.diffs",city,0.3555
+city," search (permanent, not necessarily cleaning) in the city ""I'm sorry...""
+",ground_service,0.3443
+city," show times and cities in Toronto for restaurants Weekday
+ south american hospitality",flight_time,0.4671
+city," notifier city
+ streetcars_hwy 1 (11-hour) stop shortstreet",ground_service,0.2059
+city," show more city_streetcars <empty stop on street cars - motobias, mktw",ground_service,0.2216
+city,"ntp_country housebuilding
+pla1dvd The National Mall",ground_service,0.217
+city, to city_maximilianapolis (2431.75 - Francaise des Garçais),city,0.4965
+city," what is it? [-Equality in city food, drink (1) British Isles bordellans - Caribbean Islands nautical base",city,0.2119
+city,"placement_pcs for cities (1219.5,18) from zenetrics at 2016-10",city,0.3936
+city," showtime in city [-IRR,LTDs this are the closest airports to Boston airport (great distance from VFW Airport and Woodruff Center",airport,0.5248
+city, is_parkland (1337954946) from cupofmilo at 2016pennyrelay: <FreddyDuke>petulant food,ground_service,0.2265
+city," <journo_pickup-artist itemreply pos from cabareporter to airport p in jeep stops category id streetcars stoplights carcargo not checked, taxis cabs",ground_service,0.1775
+airline," the airport in Philadelphia, PA from west to east",airport,0.8076
+airline, the air ambulance from Heathrow to New York City,ground_service,0.2953
+airline,"
+ Airplanes from London to airport",aircraft,0.7556
+airline," show flights from Seattle to Boston, MA
+ airport",flight,0.764
+airline,"
+ airliners on tour in the airport",aircraft,0.3442
+airline,"
+ airliners flying from to tjapan",airline,0.5192
+airline,"
+ airliners to airports United States of America",airline,0.4775
+airline, skyhooks for airliners from australia to n,aircraft,0.3064
+airline," airlines from the United States to California,Nevada",airline,0.7837
+airline," this is the closest airport to Chicago from Milwaukee, WI",airport,0.7782
+airline, show flights from the U.S to uk city,flight,0.7735
+airline, show flights from Newark to LAX (max 6 passengers),flight,0.7163
+airline," Airlines flying around the world, including airport service",airline,0.2955
+airline, the airport on which you can fly from Baltimore to Philadelphia,airport,0.7365
+airline," show flights from west to south,calgary airport australia",flight,0.7792
+airline, show more airline tickets available at this airport by city,airfare,0.2504
+airline," the airliners from rural to urban travel
+ airport lounge",airline,0.3565
+airline,"plenty of airliners, short flights from west coast to south",airline,0.4238
+airline," the airport (planes)
+ airfare in korea",airport,0.6138
+airline," shows flights from New York to Philadelphia, United States. Airport",flight,0.7508
+airline, this service is powered by laviclub.com,ground_service,0.2059
+airline,"
+ airline flight to Boston from London and Chicago",airline,0.3812
+airline," airliners
+ airports with flight attendants staying on planes",airport,0.6751
+airline, what cabin does the aircraft flying with passengers come in,aircraft,0.4894
+airline, backpack airport lounge (AIRPORT) australia,airport,0.1892
+airline," at airlinercoast.service
+ flightcrews",city,0.1969
+airline, Airlines from Canada to Australia (permanent) nauria,flight,0.3169
+airline," airliners over the world (Airplane)
+ boston - airport",airline,0.3639
+airline," To air plane of the United States Air Lines
+ airlines that",aircraft,0.8033
+airline, An air ambulance with passengers from other airports to louisiana,ground_service,0.2753
+airline, The air travel service within the United airports that provide complimentary flights,ground_service,0.1838
+airline,overall airport airlines (includes hotels not booked),airline,0.5646
+airline," show me the airplane that I was at last checked in, by airport",aircraft,0.8732
+airline," flightplanning (1101) | hotel rooms,motels",city,0.2036
+airline," leave town,start year ago
+ csw",city,0.3996
+airline," airliners to the airport from Minneapolis, MNToSt Patrick via tbd",airline,0.5431
+airline, unspent seat belts on flight from the airport to their destination,capacity,0.5165
+airline," all
+ flight-services passengers with cabin crew",capacity,0.4594
+airline, tlc_packet3 - passenger airplane transport mode,ground_service,0.1862
+airline, Airlines with passengers from coast to city centre flying out over London,flight,0.233
+airline, show flights from lounges-inc.com to frankslanc,flight,0.773
+airline," is a flight from Los Angeles to Boston, and back in air travel destinations around world",flight,0.7639
+airline, tbd.pennyblacklist at once again,city,0.301
+airline, < airliner cabins boston cincinnatis cabin,aircraft,0.3141
+airline, the airport in South America from Argentina to France by airfare miles,airport,0.7482
+airline, for airplanes servicing passenger aircraft from airports in rural England to cities and towns around the world,aircraft,0.8613
+airline, what is it? flying pessie flyaway entcom,aircraft,0.3194
+airline," - Airport-Villehammer (Brunswick, England)",city,0.3437
+airline," the airport from San Francisco to Los Angeles (Standard Airport)
+ air taxi service, non-stop flights",airport,0.6555
+airline, navscrewdriver_advanced travel to airlines from airports around the world,flight,0.2564
+airline,portland fr-us (permanent) boston united states USA,city,0.5315
+airline, search.google_starbucks (1) up 7493724,city,0.2112
+airline, to airlines (feat.AirplaneBluebird) from sms://flightrising,airline,0.8144
+airline, <birdies/> flyie_planes@lists flightcrewmembers,aircraft,0.7185
+airline," flightsfrom australia to latana
+ airports from london, american city",airport,0.5159
+airline," search_flighttime
+ airplane landing - flight type landed",aircraft,0.7921
+airline,plenty of airline flights for the airport with passengers today from Amsterdam to Brussels,airline,0.7767
+airline, nfl_anyland-2 frags : none airplane,aircraft,0.8219
+airline," to airlines (7,621) from zhouston at skybox.com",airline,0.8317
+airline," to plane_list on airplane flight from Chicago, Illinois south of Chicagoland",aircraft,0.8324
+airline, The airport to which Air Canada flight 182 (757-822) is subject resides,airport,0.7043
+airline," show flights from Boston to Seattle (listing locations)
+ airline shuttle buses from San Francisco, CA into Los",flight,0.6861
+airline,"
+ airlines for tourists in Boston - International flights to and from London (Standard)",airline,0.7589
+airline," airliners on the run in Seattle from Bellevue to CenturyLink Field
+ runway at CenturyLink Station",airline,0.5075
+airline," <Airplanes> airliners fly from Chicago to Toronto (Canada)
+ skycity1",airline,0.3821
+airline," To airliners running from Philadelphia to San Francisco, and on a flight from Chicago (excluding weekends) starting at 9:",airline,0.5687
+airline," to en.wikipedia
+ skyway flyingplanes - airport flights",city,0.1885
+airline," <empty name,service queueid (non-lowercase letters) in service cabins across the United",city,0.2279
+airline," show flights from west to south
+ airplane name (please enter a valid city) check out this airport for popular airline tickets",flight,0.2832
+airline, skybox_packets2 from flying pkmnrnl to tlc,city,0.1673
+airline, airliners to airport by train (per class) passenger mile distance from the nearest boston stop via Boston,airline,0.1904
+airline," The Flyover, Flying With the Jacks (2011)
+ Airplane seats in general aviation",capacity,0.619
+airline," the air ambulance passenger cab from south to north (wherever it may be), by rail or ferried",capacity,0.2844
+airline," firein air-conditioning (1135) | helipad
+ airport lounge service",capacity,0.2571
+airline," at the airport,wayland australia laurie ticket airlines boston and stops m",city,0.2982
+airline," flight cancellations cancelled by airport on Friday from downtown to south american airports (max capacity)
+ From Los Angeles International Airport, CA To",flight_time,0.1815
+airline," <flyin-seat tickets><empty get flown from Chicago, Illinois to airlines",airfare,0.3619
+airline," airliner with landing gear flown by Ryan Johansen after a trip to the airport from Miami, Florida To New York City",aircraft,0.63
+airline,"overlandatlantic_pk-discovery
+ Airplane taxi service from north to south in Los Angeles",ground_service,0.1873
+airline," to franway.fr airport, airport-injection_coupon",airport,0.7064
+airline," flight_startup
+ airport taxi-dodge - airports c. fly from city to town",city,0.3943
+airline," nocore-base_time, flight time from Seattle to Portland for train passengers flying back and forth between Los Angeles & San Francisco",flight_time,0.7758
+airline, airliners from London to Paris flight by taxi cab Airliner depart: airport karaoke lounge ticket,airline,0.5313
+airline," fl_AirLine (p) upstairs, boston and americans. in the country",city,0.4405
+airline, Inflight meals for military and recreational reasons. (1)In general.—For the flights of any United Airlines airplanes airline lounge,meal,0.3567
+airline,"
+ airfare to or from Europe <1> (from Germany) flying out of and over airports in america traveling with a valid ticket",airfare,0.3101
+airline,"
+ airfare-paratransportation [-lavalanche/advanced travel from Philadelphia to Montreal via airplane tickets at night (5 flights)",flight,0.1782
+airline,"
+ airplane food and drinks [-12 -$100 ticket type dinner, entree & breakfast tickets (two or more)] \",meal,0.3319
+airline, skystarfare_possible - airport type flying cabaret not checked taxi waitin advance,city,0.2443
+airline, at airliners.hsm-749 Airport Services [-1HOUR_MAXS} airport lounges,aircraft,0.2653
+airline," unregistered runway 801 (11.4 miles) from city to airport
+ taxiway_helipad-park alpine",airport,0.3673
+airline," <Airport Air Lines Bioskates (Adults) b1h catered-price : breakfast, lunch or dinner buffet | reservations",ground_service,0.1273
+airline,"
+ airport-miami lanta {loyal nation} USA, United flight attendants at large airline air carrier from south american city to port harbors boston",city,0.3908
+airline," frags = []
+ flight_maximized taxi cabs flying from nordic.london to nyc of korea, lat or longitude are you in the city",aircraft,0.1687
+airline," this airfield was constructed from airports to connect New York City and Philadelphia. In 1903, the average passenger time on United Airlines flight ABC is minutes flights between New cities (average wait times are based in",airport,0.2082
+airline, <flying-pods dir name is airplane airline flight (local) airplane taxis flying for sale airplanes rent hotels motels kynga airport taxi rate boston,aircraft,0.4137
+airline,"overland airliners flying in the United States - American Southwest Air Lines Inc. Airport
+ runway 89 at bay (ldr flight 4389, landing page 305)",aircraft,0.4047
+airline," the passenger jet from west to north arriving and departing at cruising speed in kl (180 miles per hour)
+ american air taxi [-ij][L/R][/Lifetime until 2020, except on vacation or business trip])",aircraft,0.5693
+airline," skytrain_packetlist inc1 [-822-229A][0 to -3F4,73575766040,-2531106734 and 9 more than 6 hours under my belt",city,0.1326
+airline," The Aviation Line [-1-2,-8,6 -20 to 239 from Chicago (Maverick Bay & airports) upstate americana texas lincoln antelope valley north coast flyoverland en route east wing land fl flights over the state of c",flight,0.2593
+capacity,"
+ What is the size of a city?",city,0.1571
+capacity,"
+ how many rooms in the same building are reserved",quantity,0.6697
+capacity,"
+ The capacity of the airport with seat belts",capacity,0.7912
+capacity,"
+ The capacity of the passenger compartment to carry passengers (four)",capacity,0.8399
+capacity,"
+ how many people are in city and county jails",quantity,0.7266
+capacity," not loading the capacity of this ship
+ • Ships",capacity,0.7702
+capacity,"placement of capacity
+ foodcanteens",ground_service,0.344
+capacity, The capacity of the passenger pigeon to accommodate passengers during peak,capacity,0.8552
+capacity," - what is the average capacity of passenger trains in San Francisco, CA from Long Beach to Oakland",capacity,0.8453
+capacity,"
+ how many seats in an automobile can they have",capacity,0.7783
+capacity,port is capacity of the port from south east to west,capacity,0.2614
+capacity," showcities (per city) capacity :
+",capacity,0.6748
+capacity,"
+ the price of a carriage in Los Angeles (per person)",ground_fare,0.5824
+capacity," not used by this site in the city of texas
+",city,0.2187
+capacity, the capacity of this place at least one hundred persons,capacity,0.8623
+capacity," show more than capacity to
+ mst_island",capacity,0.767
+capacity,"
+ ticketprice for trip to city (world)",airfare,0.2825
+capacity," this is the capacity of a single seat on an aircraft in Los Angeles County from Long Beach to San Diego, CA",capacity,0.8256
+capacity,"0007-2700, maximum capacity is 18",capacity,0.8658
+capacity, what's the average capacity of all Amtrak passenger cars in New York State,capacity,0.8502
+capacity,placement for new hotels on the Red Line in San Francisco,ground_service,0.1877
+capacity, - The capacity of the shuttle operating at full price,capacity,0.8067
+capacity," the capacity of a postal carrier at
+ pkg",capacity,0.7716
+capacity,0006.14_2 in showportland,abbreviation,0.1772
+capacity,"limit (1) the capacity of a single passenger ship on
+",capacity,0.8504
+capacity,"
+ passenger capacity by passengers in city or township",capacity,0.8171
+capacity,"port of capacity (minutes)
+ The ferry carrying passengers",capacity,0.6645
+capacity," remove default ammo
+ maximum reload speed when firing from a magazine",capacity,0.5977
+capacity, this is the capacity of passenger ships on their arrival from overseas,capacity,0.8347
+capacity,"
+ I'm bored at home, being alone (1)",ground_service,0.1705
+capacity,"placements
+ 648,624 in airports",airport,0.3849
+capacity, what capacity is this? (minimum) the maximum amount of passengers on board,capacity,0.8504
+capacity,"
+ m_purchases, by transaction category goods",ground_fare,0.1979
+capacity,"limit
+ airfare for this event to the airport",ground_fare,0.3008
+capacity," is not capacity (in used)
+ parking meter meters in city limits",capacity,0.6157
+capacity,value by country in /home/amsterdam_cameroon,city,0.1899
+capacity," show only 1 ticket in the current capacity
+ american_europe",airfare,0.4361
+capacity, nothings per hour from 1 to_cargo,capacity,0.217
+capacity," this is the capacity of a station to use during peak hours
+ long wait times",capacity,0.7999
+capacity," not used in current capacity
+ STACK_LEVELS: 0",capacity,0.7354
+capacity, the capacity of ships that were in a country other than France,capacity,0.8058
+capacity, (1-100) serving dogs and cats during the day,ground_service,0.1724
+capacity," - citywide capacity (use common sense)
+ parking meters at airports",capacity,0.4916
+capacity,placement in meters of the nearest hospital after new arrivals,ground_service,0.3905
+capacity, not loading package ketchup at casserole.starbucks,ground_service,0.2411
+capacity,plenty of empty rooms on fire by city.empty,ground_service,0.3031
+capacity, not used in training newline status code service cpls,abbreviation,0.3836
+capacity,"placement in units with capacity exceeded
+ Maximum number of passengers on a flight from Boston to",capacity,0.7967
+capacity," show-place where capacity is in US, Canada and Quebec",capacity,0.7435
+capacity,placement in the City of Seattle from South Bay to Everett (minutes),flight,0.1853
+capacity," the capacity of a metro area from Toronto to Montreal (includes non-stop service in Waterloo Region)
+",capacity,0.6957
+capacity, to_smp-limit (1) <minutes> / maxutes,abbreviation,0.4614
+capacity,limit.non_penny items per se (per person),ground_fare,0.529
+capacity,"
+ capacity of aircraft airliners traveling on foot during flights passenger seats",capacity,0.6908
+capacity,nonempty slot in airplane wings for seat 1 (5),capacity,0.6228
+capacity, - The amount of capacity in a single item that can be used to load specified quantity,capacity,0.7553
+capacity," for items used in the food service industry (1)
+ kitchen and restaurant dining reservations",ground_service,0.1687
+capacity, is max capacity; usage: reserve (limit free) | default_price,capacity,0.6632
+capacity, show how much of the capacity (in foot) to go shopping on a street in Chicago,capacity,0.7044
+capacity, not available for schools The city's parking capacity is too small to meet the standards of this neighborhood. See more,capacity,0.4573
+capacity,"unused
+ ticket prices in north american metro area (includes city)",airfare,0.3848
+capacity," showtime in feet from south to north (no air travel)
+ miles per hour - West Midlands",flight_time,0.5613
+capacity,"ntlibraries
+powerpoint-library:INFO,MIL_CHEST",abbreviation,0.2518
+capacity," limit on capacity of boats for public use in urban centres, including London Heathrow and Chelsea stations",capacity,0.79
+capacity,"empty
+carnival_date tiddler: The date this article was",abbreviation,0.2301
+capacity," not used - this is an error loading the capacity of a bus
+ parking lot for sale",capacity,0.5145
+capacity," not used in city limits
+ ticket revenue (per person) From operating expenses, for operation of this place",ground_fare,0.621
+capacity," limit. This is the capacity of a rail car or bus
+ carriage in passenger service",capacity,0.8157
+capacity,"
+ food.packets_all the items that are part of a flight attendant's baggage claim",meal,0.1982
+capacity, limit = 1 for unit in passengers with checked luggage during transit from north to south,capacity,0.2448
+capacity,"placements capacity is: 12,8; wingspan does [-6.",capacity,0.8259
+capacity,"
+ empty pcs_dummy The size of the package 'pci.h' from boston to uk",capacity,0.285
+capacity," limit on capacity of aircraft in per capita city building, including the airport from Washington to Philadelphia",capacity,0.6866
+capacity," what is this restaurant?...
+mosphere_island/park-city - urban airport",city,0.133
+capacity," The capacity of the railway (including stops and subways) running from west London to south east England in winter 2018 through Monday, December",capacity,0.6498
+capacity,ntm_supplied by default at capacity max; is a singledigit,capacity,0.2822
+capacity,"port city,county (pop. or smaller) Chicago metropolitan area Non-metropolitan nonstandard",city,0.6289
+capacity," The capacity of the airport to accommodate flights from Boston, MA through Philadelphia
+ • US airports for business destinations outside",capacity,0.5691
+capacity," not used (USE_CARD,NEUMS)
+ capacity and modules available from the US",capacity,0.7311
+capacity," The maximum storage capacity of a vehicle in cities and towns is the parking meter (empty)
+ horsepower mile miles per gallon",capacity,0.7488
+capacity, to city_bycity (Europe) id of char-park seat for car 1,city,0.2412
+capacity, not yet served (has been added) - the number of seats on an aircraft carrier in Portsmouth and Suffolk,capacity,0.7561
+capacity," notifier cntlid Package capacity (c)
+ librn.h264",capacity,0.7824
+capacity,"limit = entry_permitted (usefull) <amount>
+ parking in this city limits",ground_fare,0.2645
+capacity," (max capacity) of the airplane air carrier [-L AWACS ]
+ airline passenger aircraft",capacity,0.8107
+capacity," is not capped at this ticket count
+ Capacity of aircrafts at capacity. airliners on tarmac",capacity,0.3792
+capacity," the operating capacity of an airport passenger liner in US cities
+ cincinnati - intercity bus service (only served on terminals)",capacity,0.8081
+capacity," to the sea <limit max-size n = 1 >
+ -3 /usr",abbreviation,0.218
+capacity," The capacity of the Amtrak motor carrier after 12 hours from Washington, D to port on route miles [MST].",capacity,0.8025
+capacity,port_time in hours between houses for service (C) by non-stop travel from metro to airport,flight_time,0.6653
+capacity," remove pf_shop parking from customer queue [-1 -6 cabaret,empty seats are reserved",ground_service,0.262
+capacity,"port_general (USE hostname, city; name NOT NULL) US English Default port is: 77300",city,0.5082
+capacity," skypecker: Not capacity.
+ STATION_PERCENTAGE parking (1-10) max parked cars per 1,000 people air conditioning",capacity,0.796
+capacity," limit = maximum number capacity used in building a new housing unit
+ parking meter mile (000s) City of Boston",capacity,0.731
+capacity,"
+ Capacity of the local government (in millions) per household, as defined in section1.75; and to be exercised by fire departments; see also sections2 through 711",ground_fare,0.4684
+capacity," (PLACE_SOUNCEPOLL ISSUESPEARE)
+0c2f00,placing cntl at mcarryland",abbreviation,0.2842
+capacity,"port of capacity for the railroads and highway on US Interstate [-2080][MOUNTAIN VIEWS], (1) 1 mile from south to west; 2 miles
+ passenger cars",capacity,0.5957
+capacity," <movedit maxShelves> n_maxvectors,colloquially empty [-l1,-6 dirnameprefix ""RIGHT"" revamp -solution id override",abbreviation,0.489
+capacity," showtimes_empty (US) Empty empty
+ capacity [-t idx1 ns = -2 max sfr, fr offset from mermaid in to japan state dining halls all seats available",capacity,0.8393
+capacity," The capacity of the vessel.
+PART1-2 Transportation [-SAFE_PERCENTAGEBURSTS][DURATION/MISSESHIP AND RANGEWAYS /COUNSELING &3 ST7 CARTS, ENGINEERIES and AIR FORCE TRAFFIC USF",capacity,0.8009
+airfare," charter flights from New York to San Francisco, CA",flight,0.6335
+airfare, frags – + air fares for,airfare,0.6558
+airfare, The United States Airline from Chicago to San Francisco,city,0.3703
+airfare,"
+ airfares in the city of t",ground_service,0.1472
+airfare,"
+ airfares in the airlines and airport",airfare,0.1634
+airfare, shows flights to and from the United States Air Force,flight,0.7434
+airfare, at airfares.fr - AirFare,city,0.2222
+airfare," to air flights in United States from Chicago, IL",flight,0.3737
+airfare," US Airways flights from Amsterdam, The Netherlands to San Francisco",flight,0.6696
+airfare," is the nearest airport to Boston, Massachusetts from Brighton",airport,0.7253
+airfare," show flights from Amsterdam to Chicago, Indiana See full list",flight,0.7734
+airfare," not available on non-flight days
+ airfares",ground_service,0.1345
+airfare, I'm not on a plane from anywhere in the world,aircraft,0.5052
+airfare, what type of transportation is this airline? Airline,ground_service,0.4168
+airfare, fliers around the world from Amsterdam to Kuala Lumpur,flight,0.183
+airfare, leave without pay at airport terminal in New York City,ground_fare,0.4907
+airfare, how long it's been since the last one arrived at,distance,0.6501
+airfare,"
+ airline flight over the border between two countries",flight,0.3306
+airfare,"
+ airline cabins and loung airport taxiways",ground_service,0.255
+airfare, nfl tickets on air travel from Philadelphia to Philadelphia,airfare,0.591
+airfare,"
+ flight from Amsterdam to city and metro",flight,0.73
+airfare, I'm on the airport to see louisiana,airport,0.5468
+airfare, I am an airline from outside the United States flying to and From Canada,airline,0.8496
+airfare," to airline flying, fr. louisiana",airline,0.8248
+airfare, what is a typical taxi from australia to phoenix,airfare,0.44
+airfare, not available on flights from airport to hotel. See more,flight,0.4099
+airfare, what is flying to airport louisiana in australia,aircraft,0.3375
+airfare, food_cost per flight from airport to hotel in australia,ground_fare,0.4031
+airfare, this is not a valid landing pass from Amsterdam to Paris,distance,0.1264
+airfare," airfares in Chicago, IL
+ aviation-museum",ground_service,0.1407
+airfare," what is flying in air travel this year
+ american airlines",aircraft,0.4495
+airfare," flight for non-European flights on airline
+",flight,0.6536
+airfare, is not applicable to air travel by taxi | airport,city,0.1652
+airfare," parking tickets for the following cities: Seattle, Redmond and Yakima",ground_fare,0.3374
+airfare, price for flight from Chicago to Los Angeles (US) at night,airfare,0.3991
+airfare," is a monthly flight from Amsterdam to Paris, in the City of London",flight,0.7396
+airfare, show flights from Chicago to San Francisco on JetBlue flight 1583,flight,0.7614
+airfare, air travel for non-profit flights from London to Brighton and Hove,flight,0.3916
+airfare, show flights from London to Amsterdam on business airline flight,flight,0.6797
+airfare, not in flight for flights from Chicago to Miami (Fl),flight,0.5923
+airfare," what is air travel
+ airport booking for airplane flights",city,0.2715
+airfare," what cities are there on this map
+ flights from Boston to New York",city,0.6369
+airfare," flight for the airport after 9 hours
+ airfreight",flight,0.5996
+airfare, - Airline passenger services available from New York to Albany,ground_service,0.1987
+airfare," how much can I meal on my flight from San Francisco to LA, CA",ground_fare,0.3196
+airfare, fliers flying from Paris to Toronto on Saturday evening,aircraft,0.3269
+airfare, is traveling between Seattle and Boston on flights from San Francisco to Vancouver,flight,0.6301
+airfare," - Airline travel from Philadelphia to cities
+ airplane taxi service",ground_service,0.3665
+airfare, to air fares in metro area (not including express flights) by city,airfare,0.5073
+airfare," how much you can fly
+ air taxis from the airport to san francisco",ground_fare,0.698
+airfare, go buy the car from airport in downtown texas,ground_service,0.4856
+airfare, in airpark parking garage commonwealth of venere,ground_service,0.4572
+airfare, flight_high noon to sunset from New York City airport,flight_time,0.3221
+airfare,"
+ airliners with flights from louisiana to ny oregon",airline,0.6963
+airfare," air travel out of country USA
+ american flag flying from city to town",flight,0.3153
+airfare, how many passengers air taxi cab fare on airport highways,quantity,0.7235
+airfare, gift card tickets left by flight from Heathrow to Waterloo,airfare,0.4681
+airfare, nonstop domestic flights from Boston to LAX / From Los Angeles International Airport,flight,0.6767
+airfare," The flight from Philadelphia to Los
+ airfre miles From city To town",flight,0.7732
+airfare," show flights from cities to places by passenger name
+ airport in north america",flight,0.7255
+airfare,"
+ airliners to cities with metro lines
+ airports",airline,0.4241
+airfare," to LAX from Boston, MA by cab (1 fare each)",airfare,0.5779
+airfare," the air travel for flights from Boston to Chicago, by car (max capacity: 7)",flight,0.1699
+airfare, what is air travel and hotel for people in Seattle airport,ground_service,0.357
+airfare," how long ago they got their vacation (2 hours)
+ cabins",distance,0.2916
+airfare, show flights to Minneapolis from east coast USA with destinations listed (including U.,flight,0.7386
+airfare, gift to Air France from Netherlands (VIA) Airport,ground_fare,0.274
+airfare,"
+ aviation and railroads: passenger and non-stop flights air travel",city,0.3134
+airfare,"
+ airmail airport tickets [-12,622 flights,-",airfare,0.2802
+airfare," air travel in Australia flight over airport, flying from Brisbane to Sydney",flight,0.3932
+airfare," in airports at air airport after hours
+ the Airline lobby",airport,0.5578
+airfare,"port hotel booking (with private jet)
+ airfares in louis",ground_service,0.2499
+airfare,"
+ flying at the airport (2) United Airlines flight for breakfast",flight,0.4041
+airfare," hotel_packets (2)
+ travelpizza.flyovercountry",city,0.3486
+airfare, to the airport (United States) by train [-SATETTABLESPEARE,city,0.3565
+airfare," to Aer Lingus via Airline (VIA) in San Juan, Puerto Rico from New York City until San Francisco",flight,0.2886
+airfare,"plenty of restaurants from San Francisco to Boston in a single day
+ sailboat hotels",ground_service,0.1344
+airfare,"
+ air frags and boston (from airport to downtown) smokefree american",ground_service,0.1762
+airfare, price of air tickets in Chicago from August through March 2016 (from Long Beach to Chicago),airfare,0.454
+airfare, to air conditioning on passenger plane (Air France flight]) traveling for airport,capacity,0.2728
+airfare," flight to Paris from Amsterdam, NL (Brussels)
+ airport air lounges and cabins | departure lounge",flight,0.6606
+airfare," show up to date tickets at aircities.net
+ aviation and tourism in Chicago",airfare,0.3195
+airfare," for foreign passengers on board US Airways
+ airmail flight tickets to Boston, MA",airfare,0.3759
+airfare, charter airline for air travel from Amsterdam to Paris via Rail & Ferry (Vijas),airline,0.836
+airfare," nfl.Airplane lounge-style hotel (9) flights from Seattle, WA to Los Angeles",flight,0.2967
+airfare,"portland
+ Airplane taxi service with luggage carrier
+ airport flight to or from america",ground_service,0.3246
+airfare," is a non-profit airline operating in the United metropolitan areas of San Diego, Los Angeles County and all other areas within cities that encompass",airline,0.8351
+airfare, this is the price of entry for air passenger [-landplane (1)] seat(s) at sea with a single vehicle,ground_fare,0.3797
+airfare," the air taxi from airport to marina (US)
+ mile An additional minimum fare for non-essential service at Mar",ground_fare,0.3372
+airfare," flight from the airport to Seattle Airport (DDELUXE flying for breakfast, lun flights",flight,0.7522
+airfare, frills galapagos-starland (567) | flight attendants and baggage valet parking ticket vending service,ground_service,0.2014
+airfare, flushing cabins by car in urban air travel simulators (1165 hotels) houston,ground_service,0.2954
+airfare," - air-conditioning for flights [-TASK,CALF]] Airline taxi cab passengers: service",capacity,0.3003
+airfare," skybridge-1_2 around midland flying, air traffic noise from airport to terminal in city centre",ground_service,0.1514
+airfare," show flights from Philadelphia to Chicago, United States Starting at 8 AM Economy Standard (Blue and Gold) flying days 1-3 Business Class Jet air tickets $
+",flight,0.7103
+airfare," nautical flights for people [-WLK max non-pool travel hours, including air entertainment - airport lodging alternative fee list",flight,0.4569
+airfare," <Ticket to Philadelphia and Philly at Southwest Airlines (PLUS) ticket departure from JFK airport on service connecting the two cities via terminal
+ american travel",flight,0.2879
+airfare," flight to destinations selected in the airport, from London Heathrow & Chipping Norton Airport (via West Midlands) via Bicester NorthWestwest Airports until 05:",flight,0.4965
+airfare, <jumbo Jetpack tray name = An Airline flight to Boston from New York City Airport using taxi fare and cab ride id common_occupancy cf airplane tickets [] m seats standard capacity 2,capacity,0.3065
+airfare," leave empty blank [-SQUIP -ARMSSPACE]""M"" part = strutConnector_42948 (2116350173) wherein is m4jumbo flying wing dir(0,29,-),parts []
+ PARENTHOLD PARTIAL COMMENTS: #define NUMANTSPERCENT of 4 for fuel economy in flights from east to west and 506 flight path angle relative when on; means are traveling at airspeed outside the United",aircraft,0.4603
+flight_time,"
+ flight time from Seattle to San Francisco, CA",flight_time,0.7381
+flight_time," show flights from the airport to flying distance
+ flight path",flight,0.7606
+flight_time, the duration of a flight in South Africa from Johannesburg to Pretoria,flight_time,0.4405
+flight_time, show flights from north to south in airplane categories airplanes,flight,0.3368
+flight_time, The flight from Amsterdam to Brussels at 6:,flight,0.748
+flight_time," flight time from London to Chicago, USA.
+",flight_time,0.7381
+flight_time, what is the flight time in San Diego for flights from Los,flight_time,0.7954
+flight_time, flight time from the airport to flying cabins at hotels,flight_time,0.6997
+flight_time, show flights from the airport to this city using taxi services,flight,0.7457
+flight_time,"
+ An airline that takes part airfare",airline,0.8524
+flight_time, show flights from west to east in air space flight time,flight,0.6783
+flight_time, what time is it currently being used by this server,flight_time,0.7316
+flight_time,"
+ Flight time for flights to and from Seattle, WA",flight_time,0.7718
+flight_time, show flight time by jetliner in flights from north to south,flight_time,0.7618
+flight_time," show flights from Philadelphia to Chicago, and up seats by seat",flight,0.6401
+flight_time," show flights from Chicago to San Diego, California on Thursday evening",flight,0.7669
+flight_time, the flight time of any one airplane from Philadelphia to Boston,flight_time,0.7087
+flight_time,ping pong buster flight time from New York to London,flight_time,0.7131
+flight_time, show me what happened to passengers on an airfare,capacity,0.1539
+flight_time, for flights from Pittsburgh to Cleveland. (per flight),flight,0.667
+flight_time, the time travel service for flight from San Diego to Montreal,flight,0.3419
+flight_time, show flights from Chicago to Boston after 8 hours at Flyover airport,flight,0.7756
+flight_time,plenty of flights from Amsterdam to JFK airport by plane mile,flight,0.6919
+flight_time,"
+ The number how many people in flight from Los Angeles to New York",quantity,0.4128
+flight_time," show flights from
+ Philadelphia to Houston (including non-stop flight plans)",flight,0.7548
+flight_time, the flight path to your favorite airline seats in Minneapolis,flight,0.2711
+flight_time," where flights can be booked to, and from.
+",flight,0.5213
+flight_time," - flight times for various airlines from Chicago, IL to Boston",flight_time,0.7879
+flight_time," The flight path from 'Fridays to London, England",flight,0.3344
+flight_time," entry for flight time from Boston to Seattle, Washington. airfreq",flight_time,0.4284
+flight_time, An airplane based on landing at Los Angeles International Airport after midnight,aircraft,0.8705
+flight_time,"
+ skyhooks and flights of flying wing planes",aircraft,0.5716
+flight_time, back to home flight from flyingcity at sunset time,flight,0.6775
+flight_time," not in flight time (permanent)
+ Airplane id flying from Montreal to airport",flight_time,0.27
+flight_time,"
+ airplane mode = kms rtl8192",abbreviation,0.1992
+flight_time," shows the time in minutes (default is 30) airliners flying from Seattle to San Francisco, CA",flight_time,0.7003
+flight_time," why flights from Chicago to Toronto start on Jan 01, 2016 at",flight,0.751
+flight_time,"ntp on flight 00:00, time is from noon to midnight.",flight_time,0.5784
+flight_time," to the flight time flying over airport, from lincoln",flight_time,0.658
+flight_time," getAirportName (US$0,Canada) seatlist",capacity,0.3684
+flight_time," Not yet deployed
+ flight time in flights from San Antonio to Las",flight_time,0.6557
+flight_time," flight to Chicago from LA,FR (3 hours) west",flight,0.7467
+flight_time," show flights from Pittsburgh to San Diego International Airport (10 minutes)
+ flight arrival time Chicago",flight,0.6449
+flight_time, The time at which the passenger manifests are presented to Flight attendants. Not present,flight_time,0.7235
+flight_time," to be able flight time from airport (USA) upvotes: 1,000",flight_time,0.7022
+flight_time, The time at which the flight originated in LA from San Francisco to Los and back west,flight_time,0.7248
+flight_time," the flight time from Boston to Philadelphia (per seat)
+ The distance between Washington DC and Montreal",flight_time,0.7304
+flight_time,"
+ flight time between flying hours and minutes (A) from London to San Francisco",flight_time,0.6828
+flight_time," to the nearest airports serving Chicago on Jan 19, 2013 at noon",airport,0.76
+flight_time, the sky is raining (4191) in avialogue,flight_time,0.163
+flight_time," what is flying at, in airports on missions to Europe",aircraft,0.5224
+flight_time," why are there no seats available on this flight
+ ticket line american flights (1)",capacity,0.6276
+flight_time," (SiriusXM) American Airlines flight 007 from Los Angeles to Santa Monica, CA at 9:",flight,0.3511
+flight_time,"
+ airplane taxi service in US Airplanes: United States, Chicago",ground_service,0.3495
+flight_time, how many flights from Amsterdam to Montreal. airport(l) city,quantity,0.8572
+flight_time, the flight time in seconds during which a new aircraft will take off from London Heathrow to Frankfurt am Main,flight_time,0.4274
+flight_time," what is the time interval between departure and arrival at
+ passenger terminal from Chicago to airplane carrier",flight_time,0.6188
+flight_time," - The flight time of the Shuttle from New York City to Los Europe
+ flyingpast",flight_time,0.7869
+flight_time,"upkeep is equal to cruising distance from the airport in Boston, Massachusetts through Philadelphia and back again",distance,0.4468
+flight_time, in flights from Pittsburgh to Seattle (use city and airport miles) south american,flight,0.7702
+flight_time," back to the beginning of a flight from Vancouver, BC Canada on foot and bam",flight,0.6897
+flight_time,"ntp time to flight from Rome with cpl, det (3 passengers)",flight_time,0.7483
+flight_time," why travel
+ flight simulator flyoverworld (1) from southparkland to uk",flight,0.4281
+flight_time, leave time left in flight for landing passengers and crew members flying from the airport to their new home,flight_time,0.7252
+flight_time," (Secs. Airline flight time from San Diego to LA, airplane leaves and landing at airport",flight_time,0.7122
+flight_time," name = flight from the airport to kennedyland, flying at sunrise today and ending up in houston",flight,0.7412
+flight_time," show me how long the flight from Philadelphia to Baltimore has been.
+ airplane flying out of Chicago at 11:",aircraft,0.7054
+flight_time, 60000-9000 (9521) from cupcakes at 2016.charterfood,capacity,0.1452
+flight_time," 6-day trip from south to west coast (includes cities, towns and villages) based on the current location of their city",flight,0.5399
+flight_time," this is the time I need to cook dinner on a flight from Pittsburgh, PA (3 hours) To New York City for lunch",flight_time,0.7068
+flight_time, <4><STEAM-1 to PLACE ANYWHERE in the Unexpected flying at airfare.com,aircraft,0.4478
+flight_time, fireplanes flying for takeoff in 1 row from hotel to airport (where airplanes are checked out on arrival),aircraft,0.8387
+flight_time," the time it took to fly from Pittsburgh, Pennsylvania. (This is a non-travid date trip)",flight_time,0.6327
+flight_time," 6.5|0-7 day trip from Amsterdam to Milan
+ voyage route by train",flight,0.4817
+flight_time, to travel the city. airports (skyport) flight time from west coast south,airport,0.3038
+flight_time, nc9 flights from Amsterdam to Paris (7 hours) http flight time between San Francisco and Los airports,flight,0.5971
+flight_time," (theater-base - ticket house, dir journey in flight from city to port",ground_service,0.3071
+flight_time," to enqueue new flight from hotel, airport in Cologne with id '87901' ticket info",flight,0.6271
+flight_time," skyplane flying to natura at (11000, 11800) from skylightline",aircraft,0.788
+flight_time,"ntp://dr.flyinglabs [-EQn size of seats, flown alone",capacity,0.6755
+flight_time, in flight (serviced by JetStarter) during the holiday season from San Francisco to Los Angeles. Air traffic control over city streets is restricted due,flight,0.2623
+flight_time," leave to en route from Miami (FL) - Pensacola at sunset airport with stops by Skyline, Hy",flight,0.4405
+flight_time," fireflies flying away from the airport. I am staying at a hostels, not hotels.[citation needed]""",flight,0.1594
+flight_time," show flights from east to west coast with title 'Korean Air flight 182' flying time (without seats) in minutes, city or airport",flight,0.6816
+flight_time," to en route aircraft from San Antonio, TX (14 miles)
+ US Airways 845 Southwest Airlines flight from south t",aircraft,0.7765
+flight_time," skywalk <unknown origin groundspeed unknown atm,city is in flight time to airport from west coast fr",city,0.2184
+flight_time, fling entre de landing friday (id 1173457435 sky wing tip,aircraft,0.4066
+flight_time, <no flight time this year landing other than en route from Madrid to Brussels (from porta del leste) flying empty today,flight_time,0.6778
+flight_time," show flights from west to east wing of airport (use city or state United States) flying distance flight times landing miles
+ -5 cabins,dollars",flight,0.663
+flight_time,placement of aircraft in the sky priorairplanes flying over ny airship runway at tt airplane landing friday in australia,aircraft,0.8745
+flight_time," The duration of each flight from London to Miami in days (including weekends) on July 2018 From Sydney and Stanbury Park, NSW To Los Angeles & San Diego State Airport",flight_time,0.562
+flight_time, not yet in flight time (13000-10200000) from airplaneryeoutdoor1.akc @ en route boston,flight_time,0.6898
+flight_time,"placement passenger(ids) seats closest to the front of a flying machine from what distance at least one can fly in specified direction, and no more than flights from New York City through Los",capacity,0.7034
+flight_time,"ntp-search for pakseq in flight time [-l, -r dirname(upper limit) list of possible search terms during service interval between flights idling from Amsterdam to Europe.",flight_no,0.1931
+flight_time," firestarting aircraft to landing (max of 1) from Amsterdam airport in Utrecht, The Netherlands 7 day trip today ending at hour on weekdays and hours tomorrow starting by van",aircraft,0.8571
+flight_time," (0.96701,-2:19000-2300,116849152 bytes used by flight script from airline airport to ttl flyin miles",abbreviation,0.277
+flight_time," show flights from Seattle to LAX (United States) [-20.00 north latitude, - east longitude with STS ground stations at KLM and UH-6 in Atlanta""]
+ _TECHnologium",flight,0.746
+flight_time," The flight time of the Pioneer 4 to Denver (Air traffic control include air taxi, limous cabins and trolley bus travel times on foot trip from San Francisco Bayfront Airport at Terminal B in New York City toward Miami Beach International airport",flight_time,0.7399
+flight_time," the duration of flight from Los Angeles to Chicago, United States From New York City Airport To Hong Kong Starting at 8AM London time (GMT+00 Ireland EST) Start zone: US west coast End British Isles Wales Basis southern England/Ireland Other distance latitude and Longitude : 38 USA longitudes",flight_time,0.4868
+flight_time," not in flight, taxi <fly id-fix> /<config flyover desc =plane name='LAGAS ENGINE'><description></ airplane modeset {0} nautical miles for guidair from San Francisco to Los Angeles (including en route) traveling on skids between SF and LA. Based upon number of transponders served by this aircraft: Air traffic control center - CAFE airtram [-force hqw][maxhqs maxcls bhp",aircraft,0.675
+flight_no,"
+ flight to the airport from Seattle, WA",flight,0.7122
+flight_no, this is a non-stop flight from San Francisco to Boston,flight,0.7608
+flight_no, show flights from south to city center on aircraft carriers,flight,0.7013
+flight_no, flight from the airport to The Netherlands at Bo,flight,0.7341
+flight_no,plenty of flights flying from city to france,flight,0.6538
+flight_no," show flights from San Francisco to Seattle (non-stop service)
+ flight cancellations",flight,0.7269
+flight_no," the flight from Pittsburgh to Baltimore, MD is 12 hours",flight,0.7469
+flight_no," to the city of Calgary from Provo, UT",city,0.3779
+flight_no,plenty of flights to and from Philadelphia flight airports,flight,0.5438
+flight_no, skyping up stewardess at boston.airline,city,0.2051
+flight_no,"
+ flight from Portland to Toronto with taxi service",flight,0.7144
+flight_no, The airport has launched an external flight from Amsterdam to Kuala,airport,0.4481
+flight_no, flight on flights from Pittsburgh to Chicago (5 miles),flight,0.7437
+flight_no,"
+ flight the airplane with most passengers on a flying trip",aircraft,0.7658
+flight_no, the flight from London to Birmingham by lukas,flight,0.7671
+flight_no,ntp plane for flights from kirkland to uk,aircraft,0.8052
+flight_no,"
+ flight no airplane from Pittsburgh tocity limits",aircraft,0.8121
+flight_no,"
+ flight arrival time, based back to land",flight_time,0.7667
+flight_no, fireflies at skyhooks.misc3crew,ground_service,0.1434
+flight_no," not present...
+ journey to the airport from west coast city",flight,0.325
+flight_no, how many crew members are seated aboard the E-5 from Chicago to,capacity,0.6602
+flight_no,"
+ how long this airplane is in flight from Boston to cities",aircraft,0.7469
+flight_no, from tenguinspawnpark to airplane wings,flight,0.2012
+flight_no, not having flight notification for flights from boston to harvard,flight_no,0.2614
+flight_no, not flying from city to hotel on departure flight in,flight,0.5889
+flight_no,ntp-permission ticket for flight from Chicago to Baltimore,airfare,0.4834
+flight_no, flightping for airliners from en.fr to fr,flight,0.2145
+flight_no,ntp the cabin crew members from flying to natura airport,aircraft,0.3756
+flight_no,platsetransportation.flyovercountry(US),city,0.4473
+flight_no, this is the last flight from London to Montreal in a taxi (3 passengers),flight,0.7247
+flight_no, what is the flight from airport to city center by taxi al c,flight,0.7369
+flight_no, flamepoints for flight no flights on this country,flight_time,0.1467
+flight_no, Not having flight ticket selected. By default this will be 1,airfare,0.162
+flight_no, why is the plane going to come with flight cancell,aircraft,0.7867
+flight_no,placement not available in the airplane for landing. airport,aircraft,0.2851
+flight_no, flight to Italy from Rome via airport boston london cincinnati en,flight,0.7567
+flight_no,"plinkin to flight mode, flying from Philadelphia at sunrise",flight,0.3746
+flight_no, not in flight - nfl refindown.service,flight,0.2148
+flight_no," nsp-single flying rules
+ flight to airports",aircraft,0.3223
+flight_no,"ntlunchbox(use airfare)
+ flight entertainment",city,0.198
+flight_no, in service airlinewiring from Seattle to Washington State,airline,0.4893
+flight_no," remove ""pilot"" from flight.listen in flights on airplanes",aircraft,0.3598
+flight_no, skywalks from the airport to city (not in flight) flying empty,flight,0.3357
+flight_no, The flight from London to Brussels (Aviation) with all crewmembers free,flight,0.7292
+flight_no," flightcrew <censored by pyla-list, flying for miles around the world",aircraft,0.3056
+flight_no, what is it? airport maintenance cabins available for flights from the city to france,ground_service,0.2596
+flight_no, where flights.by plane name of airport or flight from city to town,flight,0.1806
+flight_no, checkpoints by passenger aircraft on flight from San Francisco to Los Angeles airport (24),aircraft,0.1678
+flight_no,ntc flight not available in this airport - see http flyoverground,flight,0.5521
+flight_no," Not having data, but can't get plane to steward cabin",city,0.2187
+flight_no," the flight time to stay in airport from Quebec City, Canada on Friday through Sunday",flight_time,0.7398
+flight_no, in flight from New York to Los Angeles Airport after 9 hours on land with 4 passengers and,flight,0.6706
+flight_no," in flight from Amsterdam to Strasbourg (Scottish Country, Netherlands - Schleswig-Holstein",flight,0.7199
+flight_no,"placement fill-in to plane flight, airport use",aircraft,0.1773
+flight_no, what flight path this (non-stop) airport from south american city to philadelphia,flight,0.2445
+flight_no,"placement dirname max flight time from airplane to destination, and trip description",flight_time,0.685
+flight_no, entry from alto-lanta.com landing at laravel airport on arrival in lauren,flight,0.3458
+flight_no,ntl airport for flying pk-nissan on korea,airport,0.7297
+flight_no, upvote on airfare from tropics to flying cities boston at a glance,flight,0.2701
+flight_no,ntp flight leaves from Pittsburgh to Columbus for the trip that started on May 2014,flight,0.7158
+flight_no, flight no landing gear for passenger aircraft in airplane mode (5) non-stop,capacity,0.5804
+flight_no, to flying c-777 from New York City airport by taxi cab sat idle,aircraft,0.6989
+flight_no, to landing.bypassgroundplanes at flyingparsingcollegehouse,aircraft,0.7703
+flight_no," not in the flight time airport lobby, flights booked by enshav",flight,0.3743
+flight_no," the landing page for Seattle's national flag is no, coming from Philadelphia",city,0.1505
+flight_no, 774294822 where the first class is flights from south to north,aircraft,0.2603
+flight_no,ntflp passengers in flight.service passenger (24) no,capacity,0.3591
+flight_no," show flight path: mlineup <empty empty string, default is 'United States'",flight_time,0.315
+flight_no," flight from Chicago to San Jose, CA in a row car (8) 4 taxis",flight,0.7193
+flight_no, flights for hwy 20 in Germany (per seat) north to uk,flight,0.6253
+flight_no, what flight id is it? (13047.6) from skipsnap at 2015- end,flight_no,0.3078
+flight_no," not flying today (24757-81101, 457584 bytes)",aircraft,0.7036
+flight_no, airspeed test flown by kimbulat in flight time of supersonic travel from city to town,aircraft,0.1844
+flight_no, skypeck-1249147400 flying for flight no on loop id,aircraft,0.5273
+flight_no," not the flight from London to Amsterdam airport with a check out and an optional stop in Portland, OR. See more",flight,0.772
+flight_no," 6379 airfare for flight 182 from Chicago to
+ runway 7087 taxiway 7280",ground_fare,0.2836
+flight_no, flight not in avialetrics oliver flyover landing friday at airports around the world flying without a ticket en route to destinations uk,flight,0.6904
+flight_no," airpollo.flyto:ping pings from flying to landing at uid=1033,thirtyfour",aircraft,0.3772
+flight_no," 6-skype flying taxis from San Francisco to LA Airport. (6 hours)
+ airports taxi rides",ground_service,0.2299
+flight_no, why fly the parachute from Pittsburgh to Chicago without stoplights on in cabins or carriages (permanent),aircraft,0.2607
+flight_no," (Flight without a ticket for London, UK at sea) No airfare from south to west coast of England",airfare,0.4593
+flight_no," The passenger pigeon is now flown from Philadelphia to Boston. If you're traveling alone, please fly with us [-lz0]]",aircraft,0.6463
+flight_no," nameless boston cabins in Boston, MA friday cabbin no reservations monday lunch Monday through Friday morning (excluding holidays)",ground_service,0.1611
+flight_no," go to stargate.lounge [-L=Lat,lon-pounds,-1]]
+ flight options: runway landings",flight,0.2243
+flight_no,updater's parachute has been released (time:24. from the airfare tab at airport americana,aircraft,0.3067
+flight_no, search.pl - air traffic stewardesses flying with flags flown in cessna category (9) id aircraft,aircraft,0.8158
+flight_no, nong-voyager flight. passenger airlines is cp st land flying from encta to phoenix,airline,0.5729
+flight_no," show flights from United States to Belgium flying at (4-hour intervals) Luxembourg, Germany: Sat Feb 2015 11 p - 22 m",flight,0.7533
+flight_no," 6-8 from Stuttgart to Anzio della Paolo with Avaaz Cancela (Italy) in 7 days, 2 hrs and miles",flight,0.5587
+flight_no," firefox landing on air airport runway l after 4 h 45 secs flying no smoke atc for c in metro nj,island",aircraft,0.3054
+flight_no," to the airport in Switzerland from Zurich at Swiss-Airline Airport (Schweizer - Anhaltungen, Germany; board train arriving & departing Frankfurt, GER on Monday morning",flight,0.3213
+flight_no," <TA bByDroneMediterraneanJetBlue><No check on landing after first class (9 passengers) julietniverfly nc fr, australia",aircraft,0.4375
+flight_no," skyhooks <3><STEAM TOSTOCK,FRONTAL UP> /journey to the airport from your cabin on friday night through linux terminal (11) in idiom search",flight,0.2513
+flight_no," what is steamship [-laval-peterflies galley, catwalks in Boston Harbor - all frags and mermaids landing berths]]",aircraft,0.3756
+flight_no,"platoon name c:\program files (not provided) for The Air Force Museum and Collection of Historic Aircraft in Philadelphia, PA from the library at [[HBOI]] Johnson's National Museum",city,0.1982
+flight_no," skyuppets: nfl flying p flt (1) airships flight no
+ -1940-9234965.7 mi, 679 km north and from to c",aircraft,0.4176
+flight_no," <Notice of error landing on epecklays at uid=0 ncdfasr and lavsch id='13357214' flightname=""EVE from Los Angeles to Houston, TX"">Fri Oct 2018 Fri, 4:",aircraft,0.2718
+flight_no," The flight of the pigeons from Amsterdam to Philadelphia at once. (1) By George W., Jr.; and Eileen K,L; on 6 Sunday mornings when I was a lad in college, traveling from here north Carolina back east by airplane with Sunday Mr J",flight,0.5999
+flight_no," flak01, l4a00 for flight 010 on kyronautic landing at sea (90000 m2 off coast of south american)
+1887: nautical-plane taxi service between and",aircraft,0.697
+flight_no," firefox - Flight No
+ flightengine123 [-f float64 name of engine control tower, in descending respect airplane cockpit seats c1 seat {e noire nor aee spoonful} mfl ttl ground zero p landing gear nacellium uia air traffic controller airport parking lot runway capacity guests max flying miles airline cabin crew cabin services passengers •",aircraft,0.4855
+meal, this is an online component of the House Meal.,city,0.1761
+meal,plenty of meals from outside the U.S.],meal,0.4397
+meal, The meal of the house where we are staying.,meal,0.4074
+meal,"
+ how many meal packets in a single package",quantity,0.6629
+meal, food for the week ending meal from Philadelphia to San Francisco,meal,0.4107
+meal, this item is not cooked in a meal prep category,meal,0.3866
+meal, this is the day we serve pancakes on a flight from NYC to LA,flight_time,0.3972
+meal," - frags – +thursday
+tuesday",city,0.1963
+meal,"
+ cp://www diningroom table",ground_service,0.1973
+meal,ntm_prepare meals for breakfast in this meal,meal,0.3563
+meal,"
+ catered meal for students dining with a partner",meal,0.4234
+meal,"
+ I can get the breakfast cereals meal",meal,0.3425
+meal, this is a service serving meals from northern hospitality to southern dining,meal,0.4349
+meal, how many meals per day in Chicago from south side restaurants to downtown,quantity,0.5155
+meal, The meal menu on reddit has a very nice white lady,meal,0.4204
+meal,"
+ we're giving to a cook who isn",ground_fare,0.1733
+meal," what is meal (prepared food)
+ how many flights do passengers",quantity,0.3671
+meal, pancakes are served with pizzas at cuppa dot com,meal,0.4092
+meal, this is the meal served by cpch_pillars.,meal,0.4295
+meal, notify the player about their meal at breakfast and dinner prices,meal,0.2567
+meal," not loading properly in preparation for the meal, please wait while waiting",capacity,0.185
+meal, to meal_empty (1) from davidjl123 at 2016180814,meal,0.1398
+meal,"
+ p2paris-permanent_ps1",abbreviation,0.4016
+meal, leave for the meals at noon tomorrow morning by taxi,meal,0.3236
+meal, notenoughbreads at stack trace.stack_mc1,city,0.2061
+meal," - recipes for breakfast in the evening, from dawn to dusk",meal,0.3837
+meal," the food of choice for meals at a dining center in Chicago, IL",meal,0.3857
+meal, this item is not loading its own label and will be removed from the cart at come in,ground_fare,0.1915
+meal," Notify me when the breakfast menu has changed from ""No to""",meal,0.2842
+meal, in show dining (with bow & arrow) at dinner,meal,0.1861
+meal, show all meals that contain food from the Food Bank (United States),meal,0.4483
+meal,"plenty of meals (1 serving)
+ meal in bed from left to right",meal,0.4462
+meal," leave on vacation. boston,idcordinate",city,0.2615
+meal,"ntl_fast food items,countdown from lunch to dinner",meal,0.2812
+meal," the food served on meals (with steaks, macaroni and cheese) at midnight",meal,0.438
+meal, not_delayed c0par mealsnoise,abbreviation,0.4384
+meal," show_steal (1) leave the barn door
+",city,0.1596
+meal, leave me alone (1-2) | breakfast buffet dinner Lunch break,meal,0.2146
+meal," to mst_food
+ what meals the people eat",meal,0.3445
+meal," leave in meal, munching on the fly by",meal,0.259
+meal, The Meal Plan is that which provides sust the meal served by this dining establishment,city,0.1552
+meal,"
+ Chicken dinners: chicken wings served with ham, cheese and hamburgers",meal,0.3831
+meal," the_dummyhospitalplenty, jumbo bordelles",city,0.2678
+meal, show meal options - all restaurants (with prices) dining-table,meal,0.3925
+meal," - frags: 1,655 How many dlc meal i love",capacity,0.4099
+meal, (SeqS) pancakes from davidjl123 at carparkuppy.com,meal,0.3393
+meal," this is what meals we serve on Mondays at the Springfield Zoo, Maryland",meal,0.4627
+meal, show me how much pasta a month going to the toilet from Philadelphia.,ground_fare,0.4446
+meal, notenough cpl.lunchbox_date : day - meal,city,0.1808
+meal,plenty of meals in the kitchen. (no economy) michiganatte,meal,0.416
+meal," <No serving in US restaurants from Southern California to Chicago, IL",meal,0.277
+meal,plenty of meals (97900) from rideride at lastartenoise to food,meal,0.4539
+meal," pancakes,dinner mitts_breakfast (the longest meal in town) at sunset",meal,0.3728
+meal," show_cost (per capita)
+ hamburger on meals for everyone else",ground_fare,0.5384
+meal," The meal served at the Schuyler Host House on Market Street in Philadelphia, PA from noon to 9pm",meal,0.4233
+meal," The Moon is full, and what else? atk to",abbreviation,0.45
+meal," to the foodservice at dinner (US) in rural, state or national",ground_service,0.164
+meal, <com.googleapiservices@gmail_canada} is the highest serving airport in america,airport,0.7005
+meal," show me what meals are contained in the dining hall (1)
+ caketown_small",meal,0.4601
+meal," breakfast meal includes meals in this restaurant
+ long drive from the airport to our city centre",meal,0.4169
+meal, breakfast cereal for adults living in Britain. (1) lunch buffet meals prepared by the BBC,meal,0.3507
+meal," show me how much sugar to eat
+ carlounge is an awesome place for the lazy",ground_fare,0.1995
+meal, pancakes for everyone (per person per day) at pancakeparks from frisco to lanta,meal,0.371
+meal," to the continental turkey cookin'/service chicken dinner,plural meals",meal,0.3494
+meal,"
+ the Meal of course. If you are traveling alone, do not the bus or trolley from Philadelphia to",city,0.1603
+meal," (servingsupplesoup)
+pizza_breakfast: what meal to eat tomorrow brunch pinterest",meal,0.3952
+meal," What's your favorite breakfast meal? Yes, please. Just give me a tip and I'll get you two free bites to go",meal,0.4268
+meal,"plains_cafeteria (1-3)],
+ cafeteria dining, eating and drinking",ground_service,0.1763
+meal," leave,leave for an hour at a time after dinner!
+ - the Great White Way",flight,0.2196
+meal," <servingshot id=""2""] (904553) in the afternoon and breakfast",abbreviation,0.161
+meal," what are you eating today (including lunch) at noon on a Sunday afternoon
+ french fry meat loaf food",meal,0.393
+meal, The meal prepared by a kitchen sink. (Laughing) Lucy and the Beanstalk - MEASUREMENTS Add to cart,meal,0.424
+meal," dishes out meals that are not meal, for those who eat them. (Served with fries)
+ the kitchen sink",meal,0.4275
+meal," how much the food has been donated to charities by various organizations during a holiday period.
+ catered breakfast at least",ground_fare,0.375
+meal," to pkg(avalanche) dining table items (including food and drink, non-service guests), includes restaurant menu",meal,0.2196
+meal, not cookin the oven at once in continental Europe food truck stop by hotel dining rooms from hotels to motels,meal,0.2301
+meal,ntlunch on the streets of Rome from 12 to 28 June 2015 at midnight. By train or ferried,flight,0.2649
+meal,"ntp_supply status for pct food in cptc class meal (1 serving)
+",city,0.1461
+meal," notin_standing (NEI-93570, trainbirds.middletime",city,0.3038
+meal," the food table for meals in this city limits, excluding parking
+ bus stop along the highway from downtown to suburbs",meal,0.2937
+meal," all meals from south to north of England, by land and rail (includes London)
+ long walk on street walking in west coast cities",meal,0.4536
+meal, show_permeive (1) from Adinida at 2016plesqueidatuniversity where sony is based,city,0.5305
+meal," in meal_locationshelper{location:job,country}
+ ""lunch"",used buy money",city,0.2238
+meal,"plenty of common items in city hall (0110532729,74600 to 751010",ground_service,0.3486
+meal, The meal menu (includes both casual and party meals) at Phoenicia's famous Colonia restaurant. Servings: 6 Calories; 11 Per Serving,meal,0.4168
+meal, <mikyuuki_gooselunchtime>. mike! You can get pizza from me at the airport,city,0.1368
+meal, not cooking for kyle and me. (25000 - 25400) is the largest gift from an Asian kitchen to a cook at home,meal,0.2239
+meal, food for breakfast in general at a local park and friday night restaurant. (tie) 619-48 brunch at the porter's lodge,meal,0.4135
+meal, <FRAMPLER_INFO +ImmersiveEngineering &CookingMenuItemInfo -FuelPackNameplate name plate items with meals served,city,0.1233
+meal," not in meal, is the maximum time between meals eaten and today served by bus at this airport serving (in dining capacity)",flight_time,0.5013
+meal,ntl1_serif (servesupply) smf bread from -rk-nhs to stfu russian cahn,meal,0.2328
+meal," <serve,steaks nori meal at sundown breakfast buffet dinner serving of choice dining in the parking lot
+ • New York City• Restaurants",meal,0.3651
+meal," The meal served at this table is a small quantity of bread with meat. Its components are: 1) olive oil (24), 2 flour, ¾
+ french fries chicken broth,",meal,0.4016
+meal," food stamps, by state - general transportation [-MSL-displayText],""marking the dollar bills for sale at meals.
+ MEK Federal Rail",ground_fare,0.3106
+meal," <servingscript number of ppls from the dining club at boston entomosome to Boston, Mass. on entry friday dinner (6 meals)
+ 1855-05 The History and || The English",flight_no,0.4783
+meal," not in service [-SFRTSCORE_ANGLYKEEPER][IFG1B0FAMMEDICAL,MAY-REPEAT -HOSTAGE &FREEZE ORDERS/BEAT and INSPIRATION AND S • Food: salad or seafood",abbreviation,0.1635
+meal," The sum of all meal options in the supermarket [-lazy_delayed,empty ljng url for uniqueload-para dishes with meals served today (including restaurant name) id jumbo dining list including uncountable amount canteens {FREE}",meal,0.2912
+meal," to_bread for meals of any kind (non-English) in dutch [-LOUNCULA][SHORTLIST tiddlers,NLMULTIPLE subservient listicle dishes & specials -VAT singaporean cuisine items from abroad that is not part English",meal,0.3422
+meal," breakfast food for all at mealtime (per household) [-WLK this -BNE,DSTM still on fire;NL now mostly empty except when used as a south coast train tickets during early evening travel from Chicago to San Francisco via transit airport in west side plaza",meal,0.3859
+meal," food of the meal.mcjquery [-SFRB, -I3C4U7L8ZtQpWVcE][MLA femme fatwa aint bordellum française de servais ouisine del gastronomy hori libre mediterran queserif phsy",meal,0.3987
+flight," show flights from Amsterdam to San Francisco, CA From New York City",flight,0.7671
+flight,"
+ I'm flying flight from Seattle to San Francisco",flight,0.6102
+flight, The flight of the phoenix from Seattle to San Francisco,flight,0.6996
+flight,"
+ airplane travel to and from USA",aircraft,0.5505
+flight," the flight from Pittsburgh to San Diego airport
+",flight,0.7568
+flight,"
+ flights from Chicago to city of cincinnati",flight,0.7848
+flight," show flights from
+ cusport to american airports",flight,0.7617
+flight, US Airways flight 00-01 from Pittsburgh to city,flight,0.5547
+flight," the flight from San Francisco to Vancouver
+ airbnb",flight,0.7597
+flight,"
+ the airfare airline from Amsterdam to america",airline,0.8334
+flight, this place is a flying club from Boston to Chicago,city,0.1882
+flight," the flight from Portland to Las Vegas on Friday, June",flight,0.7605
+flight,"
+ airplane-planes flying with jet engines",aircraft,0.8607
+flight,"plenty of flights in flight from Philadelphia to Seattle, New York",flight,0.6371
+flight, flights over Austria from Wijk aan die to,flight,0.7719
+flight,"
+ An airplane that flies airport where the pilot",aircraft,0.8431
+flight, the flight from San Francisco to Boston in one go.google.*,flight,0.7772
+flight," show flights from Atlanta to Seattle, FL (per passenger mile)",flight,0.7676
+flight," flight to the airport from Pittsburgh, PA 19- ticket prices",flight,0.5642
+flight," not yet in city airport
+ flight service providers",city,0.284
+flight, search - conducted by passengers after takeoff from Miami to Boston,flight,0.351
+flight," show flight history from Pittsburgh to LA
+ landing craft",flight,0.2867
+flight," http www.googleapisfly to flight from Chicago, IL through New York City",flight,0.3395
+flight," this place are you flying for the flight from Seattle to Los Angeles, CA",flight,0.3537
+flight,"
+ pkg_pilot (3) passenger seats",capacity,0.7959
+flight,"
+ flight-skytrafalgar airport shuttlefare",city,0.1956
+flight, smoke-air_direwolfpack air2,city,0.2049
+flight," shows all non-profit flight related aircraft
+ american air travel",aircraft,0.5625
+flight, shows flights from San Francisco to London (from Boston via New York City,flight,0.7698
+flight, how long it takes to flight from San Francisco (Calif. USA,distance,0.8129
+flight, flight to the airport from New York City by plane (permanent) checkout,flight,0.6876
+flight, not flying a single engine aircraft after first class landing,aircraft,0.8429
+flight, fl_skipper1e cabins | flight paths,city,0.2173
+flight,http takeoffs and landings at pfl-822,aircraft,0.3644
+flight, flight to korea on flyoverworld From Kolkata To London,flight,0.746
+flight," the flights of passenger pigeon (1 seats) from San Francisco, CA to Houston",flight,0.3671
+flight," show flights from New York to LA.
+ flight airplanes (c) 2018-",aircraft,0.6389
+flight," show flights from Los Angeles to Houston (United States)
+ american state flyovers‎",flight,0.7557
+flight," in flight to Europe from Amsterdam, NL; departing Jan 2016 <http",flight,0.6841
+flight, smoke from aircraft stewardess suites on flight deck frags,capacity,0.2545
+flight," flight to Chicago from New York City, NY (I'm in Brooklyn)
+ ticket_night",flight,0.7285
+flight, what is the flight path? <noq> The shortest way south from west to east,distance,0.2334
+flight," flight cancellations for international air passengers, long trips between London and Paris",airfare,0.1584
+flight," 7-Sep 18, 2019 US Airways Shuttle flights from Chicago to Boston",flight,0.6726
+flight," the flight from Amsterdam to Paris of
+ traveling alone flying with fellow passengers in a taxi",flight,0.7452
+flight, shows flights from Amsterdam to Saint-E. The city's main airport is Sch Paris,flight,0.3362
+flight,"
+ availoop4l flights with landing legs",flight,0.256
+flight, in flight to kart.houston from hilo upjohnson airport,flight,0.7228
+flight," not flying to Boston, Massachusetts from Los Angeles - Pearson airport near San Francisco Bay",aircraft,0.3405
+flight, from entchobart at []-0 to -3 ] airlounge,city,0.1707
+flight," unescaped flight from Boston to Houston (from Portland, Oregon) USA at 8:",flight,0.7499
+flight," http
+ google_friday: flight from to fr on flights from south american city",flight,0.6137
+flight, in flight cab air conditioning seats from the airport to city centre via jeepels,capacity,0.4483
+flight, nfl_farewell cruise flight (1) back to the hotel and get an amazing brunch,flight,0.6666
+flight," this is a service offering airline ticket to Los Angeles, CA from Amsterdam or Heathrow Airport in Southern France",airfare,0.2805
+flight," airliners traveling from New England to JFK Airport in Philadelphia, PA tickets available for flights",airline,0.4535
+flight,"plenty of food on flight to San Francisco, CA from Oakland (Oakland) From Miami-FriscoToSanFranc",meal,0.2797
+flight," 7.7, from airplane to aircraft (8) korea_lounge",aircraft,0.801
+flight, fire_scout passenger flights from airplane to airline show flylisting,flight,0.4058
+flight," flight path <name>A plane to land for the United Airlines Flight from Seattle, WA into Los",aircraft,0.4353
+flight," not landing...
+ airplane maintenance: flight left without an engine, taxiing out after",aircraft,0.7611
+flight, The Aviation Safety Program for San Francisco (SFR) is the successor to Chicago Air National Servicing. More information,city,0.2758
+flight,plenty of flight left on runway 1 with passengers and one more than the number requested by airplane.,flight,0.234
+flight,"ntl2port_p airfare is US flight 7 (1 passengers, 6 crew)",city,0.2405
+flight," to the city of London on foot (Luxury Sports Club)] at Heathrow Airport from Brighton, England",city,0.2097
+flight," http www.departure_time from the United States to Canada, including your destination (within 15 minutes)",flight_time,0.7045
+flight," to flight from Pittsburgh airport in Philadelphia Airport (6 passengers, 6 non-stop)
+ - From Boston Globe newspaper",flight,0.7002
+flight," The Aviation World in Flyby air quotes airline prices
+ flight times (in minutes) from Chicago to",flight_time,0.4915
+flight," leave_atmosphere airship.pl, steven-pilot3 flyover",aircraft,0.3911
+flight, flight simpack-4 [-l 1 country to US ] skype_mc,flight,0.2306
+flight, to tester_helix - show flyin class airship passenger tickets,ground_fare,0.2113
+flight," smoke from flak_lighter flying at airline (47) in cabins,galaxy fridays",aircraft,0.1399
+flight, nfl-pilot_packercraft cmpf flights for flight simulator wingmen cabin crews,aircraft,0.3788
+flight,pl_scanning ctl flying (6) from tl;nasa to lat,flight_no,0.1905
+flight,"plenty of flights available to Texas from north west coast. (2787)
+ south american air taxi service passenger miles",flight,0.498
+flight," flamethrower_charge(Flak Cannon) cost Ammo in kit, flight is free from ammo box",ground_fare,0.2903
+flight, jizzpack01_price:45.00|0 in 2199 days from 7 to 8,ground_fare,0.2844
+flight," <Bobcat47677839> my flight to Boston from Philadelphia airport, the medway is in cahoots with boston",flight,0.4861
+flight," The Fly-Stopping flight from Philadelphia to Amsterdam, Netherlands. (T stop for departure fr: Europe",flight,0.716
+flight," entry at mcmod.library (0007506_1908818, l= ]",abbreviation,0.2336
+flight," The Flight of Stennis by Sir Hugh Edmonds after the final bout at Sydney airport, from Perth to Darwin on flight",flight,0.4654
+flight, <fly_packetshelper ticket for flights from Boston to Minneapolis on airplane trip between destinations cpl seats at mcdonalds,airfare,0.5529
+flight," 6.6][FR,SATW (4)E flight from New York to city airport in south east Florida",flight,0.6801
+flight," <p class='n' align=""left"" width=300, height wingtips span="""" valign pillars = trim caps lockup",capacity,0.3619
+flight," how long has flying been in LA since December 2014 (11 days, ago) from southparkscott-s-city of cincinnati to san franc",distance,0.4072
+flight," fire_fireplaces & fireside air conditioning (aircraft) 2014-04 the airfields - airport lounge, hotel suites",capacity,0.1889
+flight," entry-platforms, en route [-lazy float64 _sphere]]
+ journey from Amsterdam to flight.",flight,0.1912
+flight," fl1.openglisch-3d - FLIGHT WITH AN flights for flight to korea from lanta, fr., en",aircraft,0.2861
+flight," the stewardess (54785273422,1,- I know what to cook is a good dinner for my husband and me ]",meal,0.1779
+flight," this is a flight from Atlanta to Baltimore, MD (Westport and Southgate)
+ _ Chicago ILS StATION STATIONS | LAUNCH & RATE",flight,0.7527
+flight," flight to the airport from Amsterdam en route home.avi [-1 -4,- wings,lairport} entrance The Netherlands flying for dinner",flight,0.5833
+flight," 7-1166.39:5500,24000,-1 on the flight from Chicago to
+ google airports booking airline travel",flight,0.3135
+flight," flights for flight attendants on domestic airlines [-TSC plane (9)] seats in the cabin crew lounge Airline seat numbers 1-99,295",flight,0.2893
+flight," how many people have flown from San Diego to Portland airport (1)
+ runway 020.73701, s0 1 mile north of the city",quantity,0.6529
+flight," not in the cockpit or airplane mode; available at sea level.
+ runway taxiing distance from south to north airport miles from west coast via flight route miles from",aircraft,0.5193
+flight," <journey-lover_packet (719)] scuppets,milesToGo(8) [] from mcway2 [-1 to - t",city,0.1603
+flight," show fly_from unknown airport (USA) [-816 flights, 4 diriots +1049 flight from uidorm to australia",aircraft,0.3017
+flight, flasquerade_1 at largo-sanctuary (31017) from zipperballoon [+1233 -2 ] to lavender clippings (~32839):,flight_no,0.1202
+flight," flight_pkorea at pka.flyntlabs.[1847.] seats, please arrive and disembark from: kpoplandline - tnb",capacity,0.3689
+flight," to flight_class passenger (765011935743467,7752258183010 rot = - stanley-398755224742 u=https enroute airspeed dirid desc.googlefuselage vee ces porter stop at airport runway <center><font face=""Liberation Sans"" size use large"">$100 </></> \u berliner {mileage miles} milecouncil",capacity,0.5089
+quantity, this item is not a valid quantity in the current price,ground_fare,0.3991
+quantity, The quantity of items per capita in the United,ground_fare,0.1638
+quantity,"
+ minimum number the currency in which to",ground_fare,0.2352
+quantity, The quantity of an item in the United States (U,ground_fare,0.2181
+quantity,"
+minimum price per unit in US Dollar (USD)",ground_fare,0.5969
+quantity, show me the quantity of ingredients in a food ingredient category,capacity,0.2122
+quantity, show me more than quantity by currency in the United States,ground_fare,0.4233
+quantity,"
+ The sum of the decimal digits from beginning to end",abbreviation,0.5411
+quantity,"value, price of an item in US currency:",ground_fare,0.5663
+quantity, what is the price of an item in quantity at a store on,ground_fare,0.6356
+quantity, The price of silver to gold in U. quantity,ground_fare,0.5622
+quantity, what are the most popular items in a pharmacy by virtue quantity,ground_service,0.1854
+quantity, value for qsort_item by price in currency,abbreviation,0.328
+quantity, rate of change from basic to luxurious (any),ground_fare,0.1465
+quantity, The quantity of a currency on reddit.com:,ground_fare,0.2998
+quantity, value of quantum bits (bits per unit) by default,abbreviation,0.6284
+quantity, what is a currency in the world today - Currency,ground_fare,0.3939
+quantity, name is an abbreviation of the currency in common.,abbreviation,0.4161
+quantity," show only tickets available in US currency.
+ quantity change display",airfare,0.3536
+quantity, show us the quantity of a single item in inventory from australia to korea,ground_fare,0.1928
+quantity, value for currency in meters measured by the U. metric tons per day,ground_fare,0.4417
+quantity, price for commodities in metres (USD) is monetary currency.,ground_fare,0.5577
+quantity, food is the sum of all possible meals served in a table,meal,0.4084
+quantity," The quantity of commodities in circulation, by units tonne (US)",ground_fare,0.2027
+quantity,"
+ What kind is the smallest denomination of a currency",ground_fare,0.298
+quantity, in pesterlog item julie_shop,city,0.3096
+quantity, price per unit in US (per capita) | efficiency index,ground_fare,0.5155
+quantity, what is the difference between 2 numbers from integer to decimal,abbreviation,0.613
+quantity," in-game currency
+ number of tickets available for each player",ground_fare,0.3826
+quantity, The minimum price per liter of fuel for automobiles from the United states to Puerto Rico,ground_fare,0.4804
+quantity, The frequency with which all items are measured from most common to least,flight_time,0.2315
+quantity," value of the postal code, from ordnance to mailorder",abbreviation,0.2905
+quantity, the currency of today decaying -0.5 to zero,ground_fare,0.2882
+quantity, the price of a singleton per hour in London from outside the United pound sterling,ground_fare,0.5106
+quantity," aqueous quantity of air for cooking, fishing and related purposes",capacity,0.1271
+quantity, store-quality (price) -US$ shipfrom US,ground_fare,0.3644
+quantity,"value of individual items in inventory per currency (USD, EUR and AU)",ground_fare,0.494
+quantity," (SQ)
+ quantities in meters of all",abbreviation,0.2734
+quantity,"
+item cmpc_capacity for item capacity in inches",capacity,0.7518
+quantity, the quantity of an item in items.price - The price at which this Item's value is calculated,ground_fare,0.3531
+quantity, index of the item cafeteria entry [-1 to --single,abbreviation,0.3843
+quantity,value store for integer products (integer) by int,abbreviation,0.6082
+quantity," this item is no longer available, as it existed from a previous day's edition",ground_fare,0.1446
+quantity, show stuff about prices in metro city.is_metropolitan,ground_fare,0.3056
+quantity, skytraps_nightclub (133700) from Mooraell at 2014,city,0.198
+quantity, - The quantity of semicolon separated list item in currency. (Default:none),ground_fare,0.226
+quantity, not yet available. (1) Inflation by country in world price category,ground_fare,0.3369
+quantity, The maximum quantity of currency in circulation by government between 1910 and 1922. (See also: Currency price index,ground_fare,0.2871
+quantity,"
+ the average quantity of a food item being eaten in Canada per capita",capacity,0.1566
+quantity,value of currency in circulation for items based on the current price at which commodities are sold per capita,ground_fare,0.5087
+quantity, to_p airplanes over sea from airport in australia,aircraft,0.8349
+quantity, in decimal ways maxValue is maximumPrice - the current price of an item,ground_fare,0.2505
+quantity,"
+ price of common items for breakfast from grocery store to city (per person, non-cash)",ground_fare,0.4172
+quantity, Item quantity by pkg in cboat to japan,city,0.2013
+quantity,"limits
+ food_meats (1) limit to 1 serving",abbreviation,0.2033
+quantity, The sum of the quantities that can be loaded in a single currency. Currency may differ from month tomonth,ground_fare,0.3049
+quantity,limit_price (used for non-custom items) on line 24,ground_fare,0.4499
+quantity," a new term for ""quality in quantity"" list of items from which to order",ground_fare,0.1804
+quantity, the number of people who consume individual items in a given day from an outside source (e,flight_no,0.2211
+quantity, the sum of all practical jokes about airplanes flying at least 200 meters in a row from south to north,aircraft,0.4536
+quantity, indexValue for currency in the United States. The current price is USD at time of purchase from AliExpress,ground_fare,0.498
+quantity,"
+ How many people can use an item at once in a day from any city worldwide",quantity,0.2853
+quantity, remove from tm1-tier list items by ItemNumTrading,abbreviation,0.3298
+quantity, - the quantity of common items in a restaurant at once by using bulk mail volume (e,ground_fare,0.2396
+quantity,"value per quantity in a currency between US and Canada
+ longitude from Montreal to north america",ground_fare,0.3733
+quantity,"000 - 128526 convenience food items for general purpose, non-corporate",meal,0.2364
+quantity," The quantity of items in a sorted list.
+_listen : the radio frequency address used for this item",abbreviation,0.1427
+quantity, limit of floats on floating platforms: -1 <integer-0>,capacity,0.6363
+quantity, limit = 500 entryCount - using default Entry per country from city to region in cities,ground_fare,0.2847
+quantity," this is an arbitrary quantity in the [-1,0 to 9.3%] floating-point",abbreviation,0.4537
+quantity," <price of food per serving (without the order meal])
+ quantityispricing.service",ground_fare,0.211
+quantity," in eulogy for the new high priests from Latin to Spanish, and vice versa",ground_service,0.121
+quantity," not used in the currency.
+ - number of decimal places (county) for ""SOLD"" items",abbreviation,0.2014
+quantity, Package spice is a synonym for quantity [-L1ASSTC -MUSIC- ],abbreviation,0.3572
+quantity," store_price for units in US $, country = United States Currency and prices at their current price is USD.",ground_fare,0.4509
+quantity, The ratio of the items in a supermarket to their price at each grocery store (in bucks) being based on average popularity among sub-pop,ground_fare,0.1813
+quantity," is not set to the maximum bid, by default setting an integer in this item (this price does",ground_fare,0.3182
+quantity," to _pickup_description and from non-empty tuples [-SQUARE themselves, -LARGE romanization",abbreviation,0.6094
+quantity, the quantity of an item being displayed in a table from counting to listing (per seat) [-1%] items that are purchased for show time,capacity,0.2887
+quantity," measure of the rate at which data are submitted to an analytical chemist for processing (in decimal seconds)
+ quantity, in millilit kilogram",ground_fare,0.1654
+quantity,000637-4chan (894767) from RandomRedditorWithNo at 2016 paulcarver_sycoffort,abbreviation,0.1315
+quantity," The percentage of households in general having disposable income (in millions) Households with incomes$1,000-$49K New York City Median household size - city: 1.",capacity,0.1227
+quantity, <price per gram of measure in metric state that is cheaper than the lowest price listed by Amazon for generic drugs on boston.com (minutes),ground_fare,0.5865
+quantity," The power to determine the cost of a single quantity, expressed as an integer from zero (0 - 10)000.00 / units
+ large float64 dilution",ground_fare,0.3534
+quantity," notenough ammo in projectile weapon range from 1000 to 2500
+ Jumbo Jet: -10mm max damage, maximum boost is",capacity,0.4012
+quantity," show preference based on the number of users in an integer quantity. (In thousands, multiples: 1 is $0 - 29",flight_no,0.1626
+quantity,0008374500.0 by Marriott_CasaLift on cahoots at laviers,capacity,0.1339
+quantity, The fraction of an item in inventory that is neither listed nor quoted by other merchants and with which the U. United States stands for `United Nations' ...,ground_fare,0.2266
+quantity, a guest Jan 2014 at net.minecraftforgeworkgroup.[731.]$FMLModContainerInfo@8 java codechicken-mcp|dispatch,city,0.1835
+quantity," skyping rate for commodities in the tropics from zhichap to mesia, n. latitude celsius",ground_fare,0.2007
+quantity," limit_price Any single quantity at which the price of food is specified. (1) Food that can be used in restaurants or grocery stores for meals, and not to exceed serving size limits per person",ground_fare,0.1696
+quantity,"value in seconds (No - empty string) at timespec.array(1,2), from datetime to japan-apennounce",abbreviation,0.5
+quantity, not empty in string name (com.atlassian-project).advanced_search:notEmpty ssl precision ctrl count decimal default value show,abbreviation,0.5746
+quantity," to the infinite loop from dummies/dummy_centers left wing (right arm, pelvis) for airships in meters count of 1",aircraft,0.3292
+quantity," The cost of a single item at tier 1 is increased by (1 + quantityof(0-2) hours), after clause 10.3, in subsection 2; and for units per price basis",ground_fare,0.6828
+quantity," is_currency Currency in which to buy, sell or exchange items. by virtueturbulent [-i cla cetera mikking how much do you t u c h ]",ground_fare,0.5428
+quantity," skybox_zenithcraft bazaire|pilotless r9c fireship pneumatic fuel auto nighthawk helicopter,light airships minibus passenger car repair default",aircraft,0.3874
+quantity," (USE_SIMPLEMISSING pcmaps for precision purposes. Not all samples are available.]
+ large-format:counterspell [- ]{0,-1} [] using the large format",abbreviation,0.4409
+quantity," (1) quantity of the ingredient used in recipes for [-LATBUNK & -COOKIE][MOSTSINGERFISH|2, FRESHED E",meal,0.1425
+quantity," not applicable, in order to enforce the provisions of Section 801.47-PART II— PROHIBITION ON THE FOR ELECTION OF EAST AMI & ACADEMIES |1 - GENERAL PARTS",abbreviation,0.3446
+ground_service," the ground service is provided by localhost
+",ground_service,0.6797
+ground_service," back to top
+ BACKUP Backup Data",city,0.1559
+ground_service, upnp-pci at c:\windows\system32,abbreviation,0.4394
+ground_service," what is the distance from ground to sea
+ miles",distance,0.8285
+ground_service," show me the ground service of a local airport in Boston, Massachusetts",ground_service,0.5399
+ground_service, in c:\program files (x86)\steamcommunity\counter-strike family,abbreviation,0.3054
+ground_service, all the way from downtown St. Louis to Lake Charles,distance,0.6633
+ground_service," what is the name of a ground station in downtown Montreal, Quebec",city,0.2075
+ground_service, show me how the service is running on ground in New Hampshire,ground_service,0.3717
+ground_service, fire (1) at net.minecraft-server,city,0.218
+ground_service, the ground service component of a skybox is services,ground_service,0.3643
+ground_service," what is ground service
+ Ground Service (with charger)",ground_service,0.3002
+ground_service, this is the ground service connecting to The Sun ticket,ground_service,0.5308
+ground_service,placement of landing gear (100%) at sea level,capacity,0.6233
+ground_service, airplanes airborne in flight from Pittsburgh to New York City,aircraft,0.8083
+ground_service,"
+ streetlightbullets per minute in city (1)",capacity,0.317
+ground_service,"
+ the sky is cloudy with smoke rising from burning planes",flight_time,0.1435
+ground_service," to localhost
+ plyrockport for connecting",city,0.3822
+ground_service, why this is the first place to buy tickets in Philadelphia,ground_service,0.2272
+ground_service, what is the ground service at -surrey.net,ground_service,0.3179
+ground_service, upnp-utils package basicpockets.common,abbreviation,0.3596
+ground_service, show me my hotel (0) what hotels are there,city,0.3153
+ground_service, this is an all-day journey from downtown lanta to chicagoland,flight,0.5718
+ground_service," to ground (GroundBase)
+ maintitles",capacity,0.1683
+ground_service, what is the status of an aircraft with service at ground level,aircraft,0.825
+ground_service," back to the hotel lobby, walkway 1 between downtown hotels",distance,0.2095
+ground_service, upnp.world-7 pneumatic driveways,ground_service,0.1655
+ground_service," the ground service is on in game
+ pcreland",ground_service,0.6187
+ground_service, the sky is filled with air from different angles around,flight_time,0.1195
+ground_service, not running in ground station. airport service provider airtel,ground_service,0.3527
+ground_service," grasses and cottages for ground transportation
+",ground_service,0.5308
+ground_service,"
+ pakistani ground station - Pittsburgh, Pennsylvania",ground_service,0.2515
+ground_service, upnp.offerbrokers at bros in cabins,ground_service,0.2343
+ground_service,"
+ air condition engine (Air Condition Engine) upstart",capacity,0.5928
+ground_service," housekeeping (1) lrps.households,permanent",ground_service,0.2292
+ground_service, skybox.pilotparkinghouse1-5,city,0.2266
+ground_service,plats mot2 at flight.mtdars,abbreviation,0.2031
+ground_service, not visiting a ground service in this area for flights made on,ground_service,0.3352
+ground_service, <category name = steamer logistics cargo refills,city,0.3027
+ground_service, the air stewardess and crewmember is about to disembark from an airport,aircraft,0.3617
+ground_service, at mctransport.custardfoodstampstreetfare,city,0.3466
+ground_service," show me what is my ground service
+ streetlights boston,island",ground_service,0.3183
+ground_service,portland-latinburg - airport lounge for loungewards,ground_service,0.1943
+ground_service, show service ground services by default on aircraft participating in military parade,aircraft,0.2631
+ground_service, search.search(URL of a landing page on reddit,abbreviation,0.2202
+ground_service," at java.util1chapters in sun,sunxi",city,0.2727
+ground_service, not present in air conditioning equipment public static dir list,ground_service,0.2021
+ground_service, sky is cloud9 from the air.skypeatmosphere,city,0.1873
+ground_service," at sun.reflect-daybreak [-lh1], *sunlight",flight_time,0.3032
+ground_service,"
+ tarmac services and taxi service : houston",ground_service,0.401
+ground_service, upnp.standingroompowerup for ground service flights from the airport to their destination,ground_service,0.3028
+ground_service, the ground services of 'B' at boston.burnsalliancekorea,ground_service,0.6482
+ground_service,"
+ \approximate distance to landing (feet) of a passenger",distance,0.63
+ground_service," show in service ""MTL"" status from ticket office to airport",city,0.133
+ground_service," grasses and streetlights, parades: 2 houston",ground_service,0.3464
+ground_service, Package main is loading (default). Packages: nh,abbreviation,0.2419
+ground_service, to Ground (1123456789022017325,capacity,0.1854
+ground_service, to ground services (CMS-BXR) in the US,ground_service,0.4715
+ground_service, skybox status in service airship cabins landing pikys,ground_service,0.193
+ground_service, not running in grounded mode for component loopback on afterburners at last minute:,capacity,0.2292
+ground_service, PackageGroundService is the service rendered by US Military in Boston (4 civilians),ground_fare,0.2616
+ground_service," upscores by metro-states on caucasian, subcategorized",city,0.3013
+ground_service," The ground service is here...
+ the sun sets on an airplane flying in search of sunrise",ground_service,0.2614
+ground_service,"
+ Service is served. at 'sessions-daybreak",ground_service,0.1754
+ground_service," what is the street service (city and county)
+ mile to sea, city",city,0.244
+ground_service, go to the ground level. GO main (0004) <empty stopwatch>,capacity,0.1735
+ground_service," 6.00 ground service provisioning staging for units experiencing technical difficulties, including engineering and maintenance issues",ground_service,0.3754
+ground_service, show where house is flying by airplay [-lavalette boston-blue,city,0.2892
+ground_service,plenty of street lights at once! running (0.9) sky is north,ground_service,0.1644
+ground_service, 1.10 ground service running (interp) in dlc-mfc,ground_service,0.3993
+ground_service, entry off rcs-city csvd.streetlightbulletshelper,city,0.2757
+ground_service,"
+ tp1d psa:passenger to the airport terminal",capacity,0.2295
+ground_service, show this empty ground for service the pkg-mcsnc,ground_service,0.3541
+ground_service," in city-casino.city...
+ airfare to airport from theairport",ground_service,0.3289
+ground_service, fire on air from ky-central maintenance aircraft atlas,aircraft,0.3118
+ground_service," to ground service airframe buffer state...
+ jumboplanes-aircraft2",aircraft,0.5838
+ground_service," 1 ground service fires, m4a1 flying to and from Chicago on passenger aircraft (2 passengers)",aircraft,0.5387
+ground_service, The service 'Rome' from the airport is dining (1090) to Boston.Airport,city,0.2272
+ground_service," what is a ground service? (from steampoweredfareway to the airport, from boarding hotel up north through american states",ground_service,0.4821
+ground_service," The ground services on the city of San Francisco, CA from Oakland to Los Angeles (in degrees)
+ miles per hour flying north american airport",ground_service,0.6109
+ground_service,"placement of structural elements landing the main engines (6 passengers, 4 non-stop) ft capacity seats 6",capacity,0.8301
+ground_service," what are the temperature records of 'nasa air pollution in flight from west coast to north american state park, cities USA",flight_no,0.1749
+ground_service,"placements [-2,869.25,-0003/520000 city-frequencies",city,0.2002
+ground_service, Package service pcmprops is used to monitor packages installed by the software company from inside udp.discoverbase,ground_service,0.1521
+ground_service,"platshelves in shelter-1 serving lists (e.g., repair shops, mail and ambulance service) without an equipment list",ground_service,0.2274
+ground_service, offBroadcast service 'Turbine' (US) through US.BANG Packages connecting to BingeBay,city,0.2425
+ground_service, show flights from city to town [-more expensive non-aircraft airplane seats for adults - sold separately.,aircraft,0.6031
+ground_service," The ground service (bluebird) from skybox-2 at 2016- milepost.mysaetsubmission,holidaytime",ground_service,0.5031
+ground_service,"platitude [-1,300,- - ground service provider (served by airplane carriers)] airport landing runway capacity met",capacity,0.2603
+ground_service," <timer name,ten-daylist of restaurants that served at least 10 consecutive meals for the first day starting on Friday in New York City",city,0.169
+ground_service," firefly [-1,000-3 tickets from the airport to town center at night time -4 on flight From Pittsburgh Airport",flight,0.27
+ground_service, at ucsrfca.discoverscanner(USRRCa) search for localhost port 77400 through 9999,city,0.2993
+ground_service," why not use landing at ground-fare. (Not an airport) [-11, - on a flying aircraft from Amsterdam to London and back}",aircraft,0.7565
+ground_service, offload-world main (123561) from dominodan123 at 2017 longitude latitude and faritudes are in US west zip code 102592,city,0.224
+ground_service,platpack Package railcraft (RailCraft-1.7a) from RailChinaOnline as lvmc638 at riskworld:railroad,aircraft,0.2736
+ground_service," skybox : <unknown mission type name at CSGO hotel in Utrecht, Netherlands from the street ""verklandstraat"" to city hall airport on icedove",city,0.2704
+ground_service, <firewall-services> (udebe petersteevel::perl7s8v2c including voyages) in packages,city,0.1933
+ground_service," backpack main.ploot on trip [-lavalanche, USA - Lake Tahoe]] <empty fill slot=""1"" name="""" eventcode = ""checkout""] get patreon username for service",city,0.277
+ground_service," unload <flag name=SALVEPOINT> from the airport to ground service [-censored -from unknown non-no,countdown is equal sw (limit 1) floats flyover landmines flies in flags space",aircraft,0.1616
+ground_service," entry for service ""google"" (startup:android-server, command=getinfo com.apple.mobilesearch) on apiURL from string ""/usr/local:/media /appdata/"" id = 48912732338 status code 375 guest pages in 2644 total",city,0.1986
+distance, show me the distance from west to south (in miles),distance,0.8103
+distance, the distance from north to south in mile celsius,distance,0.8186
+distance, the distance from Waterloo to Boston in U.S.],distance,0.8163
+distance, show me the distance from south to north (US),distance,0.7996
+distance, is not the distance from south to north (in miles),distance,0.8292
+distance,"
+ distance from the city to a bus stop",distance,0.8199
+distance,"
+ mile from west to south in Lake Tahoe",distance,0.6766
+distance, not in city max long distance from airport to hotel,distance,0.7535
+distance, show me the distance from an airport to ud,distance,0.829
+distance, this is the longest train from Boston to Los Angeles,flight,0.2594
+distance, to the nearest airport (US) from New York,airport,0.4531
+distance,"
+ distance from west coast to south tip of island",distance,0.8143
+distance,"
+ how many taxi cabs mile per hour",quantity,0.7659
+distance," the distance from south to north in miles (Southwest)
+",distance,0.8173
+distance,"
+ Distance to sea from east coast of USA",distance,0.5886
+distance,"
+ miles per hour from South to Central America",distance,0.4659
+distance, what is the distance of a train from Baltimore to city limits,distance,0.7971
+distance, distance from north to south coast in flight time (minutes),distance,0.6887
+distance, distance from the airport to downtown at hwy 4,distance,0.8334
+distance, not in city islanders from north to south coast,city,0.4295
+distance, show trips from east to west in km (24),flight,0.6525
+distance, distance from city to town (1) hotel rooms,distance,0.7938
+distance,"
+ How carriages are sorted in this city",ground_service,0.303
+distance,portugal_migration (0) moorings,city,0.1645
+distance, not in service name. (SQUE),abbreviation,0.2299
+distance, show time in US distance from start to finish (including car) per mile,flight_time,0.4778
+distance, entry by ferry from Buford to port,flight,0.2338
+distance,"
+ Distance to the airport from New York City (includes stops in Brooklyn)",distance,0.5652
+distance, the distance from town to country center in mileage,distance,0.8311
+distance," not in hotels, motels or taxis (including taxi)",ground_service,0.2754
+distance, distance from shore to beach during long holiday (local),distance,0.8107
+distance, this is the distance from Long Beach to LA Airport via Orange County (Los Angeles),distance,0.8281
+distance, to the city of Chicago from Lake Charles County via Illinois,city,0.2795
+distance," search for more detailed hotels in San Jose, CA from Los Angeles to Orange County",city,0.1449
+distance,"plats for the airport in downtown Calgary, Canada",airport,0.2094
+distance,placement sit time in park when parking is free,ground_service,0.2351
+distance,"ntl_minutes (max. distance)
+",flight_time,0.2985
+distance, distance from south to north in U.S.] (0 gallon per liter),distance,0.7039
+distance," is the distance from east to west in miles (Miles) of Rome, Greece",distance,0.8293
+distance," to the airport in Philadelphia from PennsylvaniaToCanada,By planeName",airport,0.4392
+distance, to nearest town centre (United States) from west coast south east,city,0.3091
+distance,placements per mile from west to east (0) in the north,capacity,0.1513
+distance," show trip from New York to Boston, US by transit",flight,0.638
+distance, show how long a flight from New York to San Francisco in mile (per car),distance,0.6685
+distance, distance from north to south at airport (in km) idp,distance,0.8144
+distance," to the airport from Boston, MA (Route Wil/BMC)
+",distance,0.4567
+distance, -LungsPack per trip from airport to hotel,airfare,0.3496
+distance, backpack to backpack from west coast on foot (US),ground_service,0.2437
+distance," the distance from south to north of Boston in metres (city)
+ -",distance,0.813
+distance,portugal_western Europe vs southern Italy to Spain,city,0.4597
+distance, is not max (0) westward(RIGHT)],abbreviation,0.698
+distance, <empty max hotel parking meters (minutes) filled,capacity,0.2118
+distance,"placements used by train (4)
+ miles per hour in north american cities",ground_service,0.2078
+distance, not loading c:\program Package journald_7daytrip,abbreviation,0.3575
+distance, show me the distance from south to north in mile (excluding weekends) at ur.gov,distance,0.7937
+distance, The distance from the nearest airport to Las Vegas via Nevada City (City of) Reno,distance,0.827
+distance, to the airport from south american city center (US) by train stop on arrival in london,distance,0.5026
+distance, is the distance from a city to another country (excluding Vancouver and Montreal),distance,0.8286
+distance," show time in minutes, from city to town
+ north west zip code(s)",flight_time,0.7333
+distance," is not -3,- mile_turbine taxi",abbreviation,0.3031
+distance," distance from south to west (minutes) in the airport
+ north east divide",distance,0.8139
+distance, this is how long we are going to sit in the parking lot after hours.,distance,0.6374
+distance, search in flight from the airport to their city centers (minutes),flight,0.6202
+distance, in US to South from Chicago_StanfordUniversity,city,0.4709
+distance, to city from carpenter by taxifaream on,flight,0.2236
+distance, is not calculated based novamps and emergency stop signs,abbreviation,0.3065
+distance," not yet used, using railcraft for shuttle vehicles from wasteland",ground_service,0.2344
+distance, what are airport lounge attendants (3-45) up from Chicago,ground_service,0.2021
+distance," from the south east to west in miles (18) meters, rain or shine",distance,0.317
+distance," to the west of England from Southampton, London Transport in miles (from city centre southwards",distance,0.6418
+distance, skywalks_perday from skyslugboat on quest sweden to suncity,flight,0.3386
+distance, to the airport in Boston at stop coston on foot jerry,airport,0.4082
+distance," to France from Provincetown,MIDI with bowels (0)",city,0.2671
+distance," at net.minecraftforgeworkgroup{85701,73424} from Railcraft_1 2015-04",city,0.3306
+distance, remove from player myfarewell atm entiries_pickup.balance,abbreviation,0.3167
+distance, this item's owner is (18) in the airport.worldmark,ground_fare,0.1974
+distance, not skype_travel (4) backpack air travel from Chicago to Boston,flight,0.2243
+distance," to the city centre by train station car name, or bus stop in advance",ground_service,0.2411
+distance, at dlc.mtlootin2_1 where the train is going,city,0.1829
+distance," notin advance travel in feet (3)
+ mile walk, km",ground_service,0.2162
+distance," this city from Boston to Brighton, Sussex County (Massachusetts)
+ mile south of Worcester",city,0.5926
+distance,nt in guid (112345678) from Urbulka-Reach at http,abbreviation,0.2466
+distance, search_len(0 - 100) at japan-nationals.hosting,city,0.2476
+distance,"unjoint_date (1) from the airport to frankspark
+ - check for",flight_time,0.3855
+distance," show only unaired cuss at cabins,motels and motels near me",ground_fare,0.2707
+distance," distance from the airport to The City of New York (includes stops in Queens and Brooklyn, NY)
+ westbound longitude latitude at miles per hour",distance,0.7819
+distance," to en_US faritude from the city on foot in Boston (United States)
+ miles per hour mile north of San Francisco, CA",distance,0.556
+distance,"ntries max,ctm distance - the longest (in minutes)
+",distance,0.3883
+distance, in russia dirway_listeningtime (979) from helloworldultiplano [-1]],city,0.1961
+distance, is not the same as traincraft:miles_in (permanent marker) - gives you a list of how many miles an airplane takes,aircraft,0.6943
+distance," distance from north to south pole in airport parking [-12,-.25, -.] ticket tarmac a flight of passengers",distance,0.6121
+distance," the distance from Long Beach to Los Angeles during a walk in South California
+ miles per hour (city) US gallon of gasoline 1,9 mile",distance,0.7383
+distance," in russian_pawns carpenter not on (0.0009, -1) mile longitude",city,0.2789
+distance," from skyrim to natura
+ _SPARKS (1) | 1 - ticket description, max seats",airfare,0.1728
+distance,"placement of passenger cars on airport road after 10 min (0 in 4,500 meter) upcountry",ground_service,0.2811
+distance," from the park to town (61110.4300 miles)
+ highway_motorway From Washington State Route",distance,0.4562
+distance, not in the mountains. southcrossroadshelper_0 (18086) from skyslark at 2016 anacrestoworld,city,0.2587
+distance," to US distance at time of departure from hotel (world value)
+ miles per day [PMOUNTRY and AURTS ] United Kingdom",distance,0.5716
+distance," (Spherical_Balloon)->(stratavo living space char-separator travel to the nearest city, in km from east coast",city,0.3044
+distance," (Expire from 1 to 9 on Uber taxi cab, car rental or vehicle taxis
+ travel time in the city [-RAF min -taxi rides at stationshare and inns for kids & families with cars]]",ground_fare,0.2287
+aircraft, the airship can carry passengers from west to south,capacity,0.458
+aircraft, the airship_pilot for flight sims,city,0.1932
+aircraft, this is a non-stop flying aircraft from east to west,aircraft,0.8718
+aircraft," nameless airlines flying to and from Paris, France",airline,0.8408
+aircraft," airplanes flying by parachute, jeep or airplane",aircraft,0.8374
+aircraft, this is a private aircraft in the United States Air Force lounge,aircraft,0.863
+aircraft, flakpowerupgrades_advanced flightpack,city,0.1826
+aircraft, show flights from the airport to airnations.,flight,0.7715
+aircraft, airships for passenger aircraft flying the United States of America,aircraft,0.5977
+aircraft, show flights from loston to bayland via airship,flight,0.7797
+aircraft, airship_class: aircraft carriers at warhead,aircraft,0.5843
+aircraft, airplanes flying from Airplane to city via boston,aircraft,0.8638
+aircraft, not tainted with pid 12 airplaybackpack,capacity,0.1041
+aircraft, skybox_pneumaticweapons in midflight,ground_service,0.1859
+aircraft, the airship_pilot flying with pilot help from airport,aircraft,0.4331
+aircraft," show air conditioning - Air Conditioning, Country (US)",capacity,0.33
+aircraft,"
+ airplanes & cargo storage: aircraft hangar",aircraft,0.5058
+aircraft, The flight attendants are replaced by the new passenger pige,capacity,0.2476
+aircraft, fire_stepper airspeed rise from airplane to passenger,capacity,0.3052
+aircraft, how many passengers has flown from Philadelphia to Atlanta (county),quantity,0.5368
+aircraft, this is an addon for the airline air charter flights,abbreviation,0.1742
+aircraft," airliners on flight from Chicago to Philadelphia airport
+ airports in the United States",airline,0.4607
+aircraft, the airship flying to runway 4 from porta houston,aircraft,0.4189
+aircraft, Airplanes flying from airports in Chicago to destinations listed on the web,aircraft,0.8099
+aircraft," airships,winging and barge-tables",aircraft,0.2465
+aircraft," show airships in hangar space, flight from galley to harbor",aircraft,0.3698
+aircraft, remove_empty items from airframe inventory/warshiplist,ground_service,0.1636
+aircraft," skyhooks: -1 airships,0 steammarketers",capacity,0.3773
+aircraft," airplanes_pilotwings for flight wing flying
+ airplane parts",aircraft,0.6688
+aircraft, mcp has been updated to 42566 bytes from airplane_support,abbreviation,0.3735
+aircraft, Package air passenger food can has been modified by a cook on,meal,0.3305
+aircraft," airship, winglets required for aircraft in skyplane category",aircraft,0.5817
+aircraft, this is a non-service restaurant that serves breakfast. dining_couture,meal,0.1672
+aircraft, firefly_pneuma (90201) from skizfrenik at 2016,aircraft,0.1486
+aircraft, what is the price of an air-fuel gallon for flights between cities USA and Canada,ground_fare,0.5225
+aircraft," airliners outflank_cannon
+ passenger flights over airports",airline,0.4971
+aircraft," the airship, flight_pack boston.crew cabins",aircraft,0.1855
+aircraft, airframe options for low altitude [-censored ] nautical miles,aircraft,0.497
+aircraft, airplane flying (wing flies with landing gear) in sky,aircraft,0.8301
+aircraft," airplanes from flyindia to flies (5) jeeps, karts",aircraft,0.857
+aircraft, airplanes flying for cargo planes from cities to nh canteau,aircraft,0.8634
+aircraft, what airplanes are available in hangar space this year (Airplane categories),aircraft,0.8455
+aircraft, the air plane that is flown by cplhouston.miami,aircraft,0.8468
+aircraft, firepods_halloween 2014-04 we are not invited to the Halloween parade!,ground_service,0.1644
+aircraft, Package air passenger cabin information (in flight) airplane category airlines is airplanes,aircraft,0.531
+aircraft, pakistan: aircrew base deploy to the US from airports in boston,aircraft,0.2609
+aircraft, skywalp_cannevert-7 charlist boston,city,0.2304
+aircraft, not cooking at cabin for airplane fuel stations on flight from Philadelphia to,meal,0.2316
+aircraft," An airship that flies flying from Amsterdam to New York. (531)
+ airline cabins",aircraft,0.4993
+aircraft, in Airplane mode! id=9736465 starbuckets,aircraft,0.2382
+aircraft, not the air craft from pryc_farewells to naturals,aircraft,0.548
+aircraft," fire_engine (Engine)
+ airframe [] from skyhooks3 to skieshacks",aircraft,0.4029
+aircraft," airshipyards_paintjobs-639 - The Air Shipyard, Jacksonville",city,0.19
+aircraft," the airfield_uppercat, mgr: avp passengerplanes",aircraft,0.663
+aircraft," sky_fragination airplanes for en route
+ cfpawns",aircraft,0.8601
+aircraft," An air conditioning unit in an airport (3 bedrooms)
+ • AIRPORT [HOUR/ST",capacity,0.3549
+aircraft, Airplanes of air - 1 passenger (per class) flying bayships_any,aircraft,0.7709
+aircraft, in flight airships.Airship_HobbyBattles on fire from skyhookout to airplane,aircraft,0.3922
+aircraft," skyplenty_winglet float6 (2-8)
+ airplane wingsets and helicopters",aircraft,0.7294
+aircraft," airplanes out of service - Airplane flying around [-1,350 km (162 mi)] en route from Montreal to",aircraft,0.8754
+aircraft, airliners (Airline passenger cabins) at airport tnc1.tourfarecenter_go,aircraft,0.3368
+aircraft," firewire_detect airgunslinger
+AirMechSentryHawk helicoptersightlights disabled",capacity,0.2214
+aircraft, firepets1_5 from skypath2ntltr atmotorcycle.stop,capacity,0.3028
+aircraft," <FRAM fireflies,empty rd power station airplane tickets at cabin airfare.com",ground_service,0.1747
+aircraft, flamethrower_pickup truck (3) from bostonlineid at ulguidescience.ne,aircraft,0.2089
+aircraft, skypeaks_navalplanes (90301) from pneumaticstorage at lastburnesslawn,aircraft,0.804
+aircraft," the sky is covered by z_lamplife
+ airplanes are flying skies, please use them for takeoff and landing",aircraft,0.6723
+aircraft," airliners [-1 passenger, non-motor vehicle,-4 miles from north to south in mscottville",aircraft,0.571
+aircraft," skybox_entry airship to passenger cabin from cabins up on the ground
+ flights of american airlines from west coast",aircraft,0.1909
+aircraft," The Airborne at Aviemark
+ - Anjouki je ne sais m avières",city,0.213
+aircraft," Airplane wings - airplanes_misc3.AirCourses
+ aircraft-fare (the) flight services",aircraft,0.8404
+aircraft," airships, passenger planes flying. (02076800) from cupcakeboy1 at 2016 airmen in smithy",aircraft,0.8019
+aircraft, airplanes flying over city in korea from east to west (lowest altitude) n l Airport flight service id name,aircraft,0.8633
+aircraft," The aircraft with the most flown wing is Airplane, flying over airports. checkpoint(name) : Applies to all air traffic signals on this city",aircraft,0.8768
+aircraft," the sky is flying at 70 in an airport from Seattle to Boston (United States)
+ airplane travel-nfl ticket.html",flight,0.2051
+aircraft," airshipwreckattachments boston - cargo hold (3) passenger seat, luggage holds capacity is not max 12 people does allow cabin crew",capacity,0.7063
+aircraft," airplanes from abroad flying to american flag,carriage carrier (wingtip)
+ sky planes - flyin' airplane - flyers",aircraft,0.8625
+aircraft, airship-pilotless_2 - passenger airplane type (small aircraft) flying from port to boston airport. flybackpackets,aircraft,0.8585
+aircraft," noclimate airspeed (0.25) from flying_packets-10 atm 8,33 for flight 692 in 4 days and",aircraft,0.2264
+aircraft," to airplanes_smallplane (3,1) from -layers4everhaulinjourney-0 atmaintained by sky is north of town",aircraft,0.8723
+aircraft," <NEI_MFR Ships are not flown in the U.S., Canada, Mexico and Iqama from where they arrived on board to cpr",aircraft,0.6454
+aircraft," mfm_wepfrontup (1) from airships-museum.netflixAirship to the Moon with Richard Nixon as host <a href=""https",aircraft,0.2336
+aircraft," show airfare at avicore airports from north american cities to nyc airport
+ /ˈɔæːɛ \,ˈˈ US",ground_service,0.2264
+aircraft," show flight information (0007)
+ aviation-cinema_packet:comedy airport air conditioning flying in the",aircraft,0.3054
+aircraft," airliners in airplane mode for the aviation segment of aircraft. Airline taxi rate (empty seat) flightrate per minute (Lower is better), flying time from hotel to airport",aircraft,0.7339
+aircraft," airships_permanent (0.4 [-1,-, -12]) seat belts available for aircraft passenger
+ planeplanes & other transport (3) airplanes",capacity,0.416
+aircraft," <traps_perk> Can't fly airplanes from sky to airport
+ airfries [+v2,0,- _Canada and its cities on both sides of the world",aircraft,0.8377
+aircraft," what is airships [-1,000 -1000 ] pilot pigeons flying pigeongers [MPL.FET all passengers aboard a train from Boston to",aircraft,0.482
+aircraft," nautical airships at landing legs extended.mcs_delta wingspan, max flight time: 45 min 15 secs flyingtime in dscan mode",aircraft,0.3122
+aircraft," Airplanes running on airframe type runway 1.1 from laravel to lavatory (128072)
+ flyinglaser iniel with name",aircraft,0.8442
+aircraft," airship_dummy <item name=""EngineER"" desc = ""1 engine-powered craft passenger cabin cab with seat belts and seats, no passengers; optional fuel tank capacity""; classNameStuff extends StructureDescriptions",capacity,0.4157
+aircraft," the Airplane class is automatically available after March airplanes flying to flight. airports (1) The number of seats in a passenger cabin when performing basic service during holiday hours (2), including cabins and rooms, exceeds 15",aircraft,0.5034
+aircraft," Airplane in flight [-1,400 -100%] Plane from airport to airport Airport is fly (0,-2) flies over land and sea 01 Nov 11 18: flying.planes@hotmail airplane from Chicago",aircraft,0.8691
+aircraft," fire_singleprops used to specify the ammo type (1) minmax number of rockets that can be loaded from air 1 Rocket Launcher Railgun Magazine 4 max
+ vests {isVested} is Voted on by admins in a separate poll",capacity,0.3619
+aircraft," show airplane seats on a plane [-lHpk][MFR - fr,mo in sw (no economy class) airplane with wingspan from coast to south pole where pilots sit for breakfast and lunch flying en route. ltu is the largest city",aircraft,0.6382
+aircraft," airship_pilot1 pos: 6 -542.criteria for ""single pilot"" (10671848) flying on fire during flight time from aircraft carrier to airport pings c0 and cabins zn class passengers island transportation type passenger craft description fee per ride",aircraft,0.7114
+aircraft," <fire_island2 airport,journette shuttle between two cities (county only)] id = en62094722 cabins for flight from enl to enl cuz airline {city mode is flights} uid=100029536 taxifare btwnasfly",airport,0.3956
+aircraft," smokepike_bodyjacket [-1][MOUNTAINPLACETO THE BEVERAGE OF AMERICAN HEIGHTS, FRANCE ANDSURVIVAL LAKE TO MARCHST| pk.s., ILLINOBRIEFING FORFURRY WITHINFRONTTHEMISCELEBRMARVEL'MISSION •(L)MARVEL -US",capacity,0.1616
+aircraft," <NEIAAS,TMC/FR_SkyBirds AirConditioningMenu (9000) and SkyCheckForParcelName(1A022093E4C0 to -916027373543 or airplaneInfoInAirTime for JetBlue flight 8098 from Utica City on Apr 2015",abbreviation,0.3258
+aircraft," fireturbine_lights pos = -,3,- candlelight vigil lampreels; (max candles) category=SPACEBODYPARTicleLarge airplaneweight[] is1 more than 1 sqorAAMC pilot cabin airbags in payload bay travel mode remains unchanged EVENTS { } ACTIONS ENGINEER --------------- {* name = ModuleEngines isEnabledoperativeIds typecrew cpl id6 desc string ""engine"" modload config extras [""",capacity,0.2419
+restriction, The law prohibiting discrimination on the basis,ground_fare,0.2181
+restriction, show all restrictions on Restricted seating in the US,capacity,0.7113
+restriction,"
+ The US Postal Service is prohibited from accepting checks",ground_fare,0.3616
+restriction, not checking for mods that are being built from scratch,capacity,0.1478
+restriction,"
+ Search for non-terminal keywords",abbreviation,0.6298
+restriction, Not allowed in - non-world outside of the United,city,0.1716
+restriction, removeAllRights (1) from skyhooks,capacity,0.2402
+restriction," the travel of people with disabilities in San Francisco, CA",flight,0.2049
+restriction, not to apply restrictions on the freedom of speech in general,ground_fare,0.1522
+restriction, not providing context for restricted items in menu.config,abbreviation,0.4751
+restriction," this is not a filter, it's just listing the default routes",abbreviation,0.5207
+restriction, (search_permanent) Any hotel within United,city,0.2485
+restriction, this service is not in process; waiting for server to,city,0.1702
+restriction,"
+ foodservice and hospitality at the grocery store",ground_service,0.363
+restriction, The ability to use all non-categories of items in the cabin,capacity,0.3329
+restriction, The Service is not allowed to serve meals on a single seat.,capacity,0.5675
+restriction,ntisplay (1) novietnam-national,city,0.4607
+restriction, what is the ban on food in general and specific foods,ground_fare,0.1938
+restriction, what is the most recent restriction on this category from banning to ban,abbreviation,0.2241
+restriction, remove default_separator for non-taxi,abbreviation,0.5962
+restriction, remove puncher_propername from _compatibility,abbreviation,0.4602
+restriction, show us how far this promotion can go on the beach,distance,0.2798
+restriction, the_pornhub of reddit is not allowed in cabs,abbreviation,0.3219
+restriction, show me how much money is in fee for flights from lounges to cities,ground_fare,0.717
+restriction," what is the last checkpoint before stopping
+ flight from Seattle to",distance,0.1776
+restriction," what is the minimum price per gallon for gasoline (empty) in Chicago, IL",ground_fare,0.6452
+restriction," not present - for Restricted entry ""Restrict""",city,0.2765
+restriction, Not having an order set. by default this will be true,abbreviation,0.5711
+restriction, the remaining days of this month in Europe from 09 to 21,flight_time,0.4267
+restriction, <NEI> that's what package i am giving you,abbreviation,0.2886
+restriction,httphttps://www backseat or nsfq,abbreviation,0.2649
+restriction, <notification of non-reserved food items (including entrées),ground_fare,0.2874
+restriction, in /library pester mei-search,city,0.251
+restriction, Not allowed in country anymore from peoplenoise.,city,0.1679
+restriction, removeDefault coder name from packageservicemen,city,0.2786
+restriction, ban people from leaving the country after this year due years in general,ground_service,0.198
+restriction, the couch is not allowed to be touched during a long walk (5),capacity,0.3042
+restriction, backport_price from ticket to service (com.atlanta),ground_fare,0.481
+restriction," show all competitors traveling to St. Petersburg, Russia on vacation",flight,0.2224
+restriction, Not allowed to use banned items in this area. Use the facilities that are listed onsite,ground_service,0.2462
+restriction, PackageRestrict_All is not empty: true in interface ic2,abbreviation,0.5714
+restriction, this is not a quest for the Sunless Sea nor an end,flight,0.2012
+restriction, <null/No restrictions on departures from the USA flying in Canada,flight_time,0.1529
+restriction, banlist items from backpack (sell) restricted by US backpacks,ground_service,0.1913
+restriction, nothobbyking banned from guest house on live EULA servers,ground_service,0.2257
+restriction, to the hotel where guests are seated on a flight from west-central England,flight,0.2073
+restriction," Entry from WES1 to the NL
+",city,0.1419
+restriction," search ""default"" on display 1 for searching index",abbreviation,0.5196
+restriction, search for items -searchprovide in ipc-city,city,0.3127
+restriction," banHammer, -1 banned (2) items with hammer in inventory",capacity,0.1795
+restriction, the length of time it will be in before being removed from The New England Convention Centre,flight_time,0.3423
+restriction, show me how far we restrict food in general by using this interface,distance,0.3483
+restriction, the street parking (0 to 9) cars in residential area,ground_service,0.3825
+restriction," breakage,uniforms for uniform-body apparel in United States",ground_service,0.33
+restriction,"
+ the game with all of its elements in 1 entry",ground_service,0.1108
+restriction, Package SEPER_STATION is restricted from 10 to 31 in,abbreviation,0.3668
+restriction, Entry the following is not allowed to entry this restaurant. Restaurant,city,0.1572
+restriction," not loading stop menu for category ""Food"" from c_lounge to",meal,0.1879
+restriction, ban_pizza from samba-cab3rdparties,meal,0.3638
+restriction," Not applicable. (page 726) in city ""Mountain City""",city,0.4143
+restriction,ntflip_pack(1) to the nearest aisle in passenger carriages,capacity,0.1493
+restriction," The current price of Tropicana, from Puerto Rico to the U; serves food for adults",ground_fare,0.3531
+restriction," search engine results not implemented due (1)
+ japanese_chicago",city,0.2336
+restriction, <price tagprogression per category as follows food from entnet to phoenix,meal,0.1798
+restriction," Not allowed in the south east wing of our cabin, or to leave this space",capacity,0.1905
+restriction, <search pager:completed at itunes.enderversa,city,0.1638
+restriction," remove ""SKU_NEIL"" p2p from -neil-nationals",abbreviation,0.5393
+restriction," notallowed ticket revenue for day 'Night'
+ hours of sunrise from noon to sunset",airfare,0.3703
+restriction,"ntp_exemptions (not in vain, used for moderation and advertising purposes) 1 person",ground_fare,0.3519
+restriction, ban-lootpurse (1) /novels/pickles_dollars,city,0.182
+restriction," entry ""NEIL""] The distance to a jeep from the airport in Milford, Massachusetts",distance,0.7752
+restriction, <No restrictions at all on street food (cash only) in downtown Ottawa this holiday season from 7 to 9 p,ground_fare,0.1514
+restriction," Backroom service: private dining_permanent (5 guests)
+ public toilet",ground_service,0.4181
+restriction," The Internet is not accessible in Australia. Please be able to determine what you are looking at on the STAPLES page
+",airport,0.1974
+restriction," what is a meal ban (1) any kind of food with the intent to offend, inconvenience or dispar other",meal,0.1618
+restriction, not flag isisland on forun idc_shopfronts (1) novace,city,0.2798
+restriction, <notification about ticket price at a hotel being booked (1210227216054,airfare,0.3721
+restriction," this place serves alcohol to beer during the day.
+ how the parking lot
+ how far an",ground_service,0.1944
+restriction," Package submenu_holidaytime is empty when the weather changes from ""Sun to Moon"" with cities",city,0.2215
+restriction," show less restrictions on the airport flight from San Francisco to Portland (from west coast USA)
+ long line waitlists",flight_time,0.0939
+restriction, remove puny_compatibility from prevent quest SKILLSQUERY making sure we have enough money for travel,abbreviation,0.4425
+restriction,ntfl_fast float to the flag of ncpl on cboat jumbo i,aircraft,0.1825
+restriction, ban_nonproblems (542) - 1 ticket to show non-cannabis in the city,airfare,0.5001
+restriction," Backpack/NEI (1.4_0 - 107525, max 1) in game mode",capacity,0.2218
+restriction, show us the cheapest prices for [-listen playing=sport travel_distance miles (US)],ground_fare,0.4957
+restriction," to US Airways from San Francisco (Stateline) in Boston, MA To Los Angeles From Portland/Hwy west",city,0.2979
+restriction, not allowed in cmp_nonplacement on non-polaris aircraft for flights between 10 and,aircraft,0.424
+restriction," <Notice of the store selling items at pne.storecraftingprops for sales ""museum props""] { }",ground_service,0.2601
+restriction," the food vendor's items is non-free at this time. Any cart or other item that isn
+ a restaurant serving sandwiches",ground_service,0.2073
+restriction, Package soupe.service has been replaced by checkpoint at uid cpl_securitystamp where cab = SecureAirline,city,0.3204
+restriction, entry_pending <TRACE TO FROSTLATEST ORDERS (0) by virtue hospitality. ci,abbreviation,0.4685
+restriction,"
+ food with stew recipe: 'Chicken Salad' (non-NL) cooks from scratch, nonstick substitute for chicken salad.",meal,0.3841
+restriction, what are these? (use modi3p_stats to find caps by region) list of food item that is on the items display,abbreviation,0.1842
+restriction," entry (NEVER INFINITE QUALITY SERIES, ONLY in U.S.] id_fixthesmokechs atkulever",abbreviation,0.4501
+restriction, not providing stopwatch (1125104946000 - 1 serving) showresplaylistindex idc for listing items from city-states and metro area,city,0.129
+restriction, <pricecubic_pack per meal (item with multiple items) at multihost travel from hotel to park on a linoleum for people without cars or taxis,meal,0.2565
+restriction," the public sector in United States (U. country-specific) The price of alcohol for alcoholic beverages, by category American Samoa Chart No.: 1109 current value New York State average: $ — compare US state averages",ground_fare,0.3335
+restriction,plans.NEF_CanUseVehicles-1 (IsVendorPerks list) - includes only the currently equipped and unarmed transport vehicles for that category in which you are applying to be an passenger,aircraft,0.4289
+restriction," <Notice Id=SUB_H3CancelMatch No matches from south-west of the map on which we will show up for dinner, including flights to/from Canada and Puerto Rico
+",flight,0.1971
+restriction," backport_packet (backroads - cfx, jeep pkp)
+ rear seat passenger side door passengers [LETSK1MOUNTAIN][FUCKING OUTSIDE PARK]] [[BOTTLES: 1D6E7A6; STREET NUMBER= front seats/misc {3C4AE} BOTTOM LINE{0}{3101058}}} BACKST }",capacity,0.6079
+ground_fare, this is a ground trip from north to south of the city,flight,0.3678
+ground_fare," what is the price of a flight from Montreal to Boston, Mass.",ground_fare,0.3726
+ground_fare, for all non-stop flights from Chicago to San Francisco,flight,0.6678
+ground_fare, what is the price of a flight from London to New York?,ground_fare,0.3875
+ground_fare,"
+ journey from west to east coast of the United",flight,0.5515
+ground_fare, go to the airport lounge for more info about landing at http,flight,0.2078
+ground_fare,plenty of food and drink on a flight from Seattle to San Francisco,meal,0.1932
+ground_fare, what are airport lounge tickets for flights from metro to city,airfare,0.3761
+ground_fare," not in the sky, it appears to be empty",distance,0.1324
+ground_fare, in thrift store for buying seats at the airport,ground_service,0.3568
+ground_fare," not in hotel rooms - airport lounge, lounges",ground_service,0.2368
+ground_fare, show me the flight you are flying (1),flight,0.6727
+ground_fare, this is a journey from my house to the airport at night,flight,0.4188
+ground_fare, - Ground plane from the airport to paktaville,aircraft,0.706
+ground_fare," not in thrift class
+ skyboxcarriages",capacity,0.2786
+ground_fare,plenty of the air conditioning stations on this street,ground_service,0.415
+ground_fare," what are the average hotel prices in Montreal, Quebec",ground_fare,0.6003
+ground_fare, for flights from downtown St. Paul to Phnom Penh,flight,0.7571
+ground_fare, grassy hill cottages (leeves),ground_service,0.2124
+ground_fare, back to top Airplane taxi cabs from the airport,ground_service,0.2562
+ground_fare, not traveling in the city. airport is south of town,city,0.2396
+ground_fare, show us the journey from town to city (non-stop),flight,0.5155
+ground_fare, in the US out of town by city on foot,city,0.3483
+ground_fare, what is holiday shopping cart landing friday morning (local),ground_service,0.4088
+ground_fare,"
+ mile walking from downtown to campus (county)",distance,0.3115
+ground_fare, the train journey is conducted by Amtrak from Philadelphia to,flight,0.34
+ground_fare," grasseseed,plenty of cottages for travellers.",ground_service,0.3068
+ground_fare, - Frontier flight training ground in the city of Utrecht,ground_service,0.1903
+ground_fare," backpackercamp
+ parking spaces to see",ground_service,0.3418
+ground_fare," parking tickets in Seattle for 2018 - Friday, September",ground_fare,0.4079
+ground_fare, (Not actually on a helicopter from coast to city center,aircraft,0.5154
+ground_fare, how many passengers the US has flying from New York to Paris,capacity,0.4343
+ground_fare, <the ticket vendor indicates the price for flights from south to north,airfare,0.4051
+ground_fare, is a world tour of hotels that includes both major cities and small towns,flight,0.2823
+ground_fare, not in quest to scavenge for treasure (100000001),ground_service,0.2119
+ground_fare, to travel from hotel near the airport into town by plane,flight,0.4951
+ground_fare, what are these tickets? Red line at skyline,ground_fare,0.3947
+ground_fare, why are there no ground-rail cars on the airport from south to north,ground_service,0.3998
+ground_fare, < the ground landing fee for an airplane traveling from Boston to Washington state,ground_fare,0.4412
+ground_fare, not loading dock when docking from southpark.skype,ground_service,0.2777
+ground_fare,placement the hotel after landing a taxi on city street,ground_service,0.2143
+ground_fare, nothav1 uid hotelflyovers at flightland,city,0.2099
+ground_fare," what are you looking for? on the street, in town or flying chariot",ground_service,0.277
+ground_fare, to hotel (USC) from dudebroshitpants-0 at home,city,0.2391
+ground_fare," leave for the day trip to Mexico City from Los Angeles, CA at Long Beach Airport",flight,0.5533
+ground_fare, not the ground transportation in US - American Airlines ticket airline,ground_service,0.7523
+ground_fare," not in firstperson
+ skybox1:showplanes (3)",aircraft,0.2315
+ground_fare, not travelling with this item (craftingtables or hotels),ground_fare,0.2207
+ground_fare," not flying from the airport to boston (included stops) Boston, MA | New York City",flight,0.3201
+ground_fare," not resort to - food,drink & cocktail entirecity",ground_service,0.1714
+ground_fare, go.flyingtours barge@pettonrailroad,ground_service,0.2502
+ground_fare," The air show takes place at the University of Minnesota's Student Union in Minneapolis, MN",flight,0.1845
+ground_fare," to the sky.lunchbox [-1]]
+ carriage rides",ground_service,0.3517
+ground_fare, show me what is on the ground at p.metroflyin,ground_service,0.3199
+ground_fare, navalry at sea pets and baggage refitting,ground_service,0.3402
+ground_fare, show me how many US flights to NYC from Philadelphia. flyingus,quantity,0.8322
+ground_fare, muckraker landing on land - walking to the airport from New York City,flight,0.2886
+ground_fare," - Taxi from Hong Kong to the airport on a shuttle [-11,-",flight,0.4535
+ground_fare, what is the longest flying carpet at sea (2 hours) in downtown london,ground_service,0.1551
+ground_fare,"
+ airplanes as part landing legs, wing of carriage",aircraft,0.7919
+ground_fare, how long it was on ground during the airport's first day in Seattle from June 22 to,distance,0.6914
+ground_fare, mjolnir and trainee status (1) stewardesseship of boston,ground_service,0.1739
+ground_fare, boston st - Boston to Washington St (Bartender),city,0.2657
+ground_fare," The cost of passenger cars for ferrying passengers (empty) in Fort Lauderdale, Florida",ground_fare,0.6117
+ground_fare, is not flying the night sky over France from Paris to Banjoué,flight,0.1757
+ground_fare," why are there people who work at home and eat breakfast. (No, no)",city,0.223
+ground_fare," The flight to the airport from Amsterdam in Bruges. (includes stops by train, ferry and tram)",flight,0.755
+ground_fare, nautical miles (including airport fees) at beach resort on park streetstreet parking lot,ground_fare,0.5702
+ground_fare, in t.flyingpetsuitspark at cplt/daybreak,city,0.2341
+ground_fare, grasses4nwnesscabs at the sidewalk just south of downtown,ground_service,0.1598
+ground_fare,placement for landing of aircraft based on airport capacity (empty) miles from the nearest airports to rural centers,aircraft,0.7052
+ground_fare," backcountry trip to the city of Belleville, IN from Pittsburgh at stoppistolsville",flight,0.5126
+ground_fare, skypeoplesprice (US) island for land on ground - parkourcountry,city,0.1749
+ground_fare," bazaards in airport hangar (midnight)
+ cabins and motels with wifi",ground_service,0.349
+ground_fare," in mcreepshots right on landing (11)
+ skyrocketshelter boston",capacity,0.126
+ground_fare," nautical mile (US/Canada) roundtrip trip for US, fr: 6-",flight,0.2575
+ground_fare, not using ground type landing equipment after 8 hours in a park for urban renewal,ground_service,0.2278
+ground_fare, (0005.59342901 - tickets & parking + stuff,ground_fare,0.4272
+ground_fare, sky is flying for all the world with a fly! airport.FlyHawk,flight,0.1865
+ground_fare, to hotel (sky sky wing land) ticket type airplane tickets are sold out on this aircraft,airfare,0.1744
+ground_fare, leave on mediwicket cabs stay ent for flights from the airport to stichit,ground_service,0.1532
+ground_fare," leaveovers for non-stop food, and up to 150 flying naurys from south american states",meal,0.3027
+ground_fare, what are we flying today (with the exception sky lounge seats) mmmph tran flight is reservations,aircraft,0.3352
+ground_fare, skybox transportcraft: railroads [-1 m ] max airspeed penalty (0) taxiDelay,aircraft,0.3352
+ground_fare," in michaellandesknightgrounds2018 [-1][MISSING,RATING]""Can I",city,0.3382
+ground_fare,"placement of the airplane in parking meters (in minutes) parked at airports serving Boston and Cambridge, MA from Worcester to Quincy",aircraft,0.7768
+ground_fare," this is a journey from west to south boston (US) in Boston, Mass.
+ - northwest: The city where people live",flight,0.4913
+ground_fare," <rank required (0-6) seatlunch, emptyisland for train station restaurants",city,0.2221
+ground_fare," not traveling with this club in Boston (Can)
+ USMC Airline Flying American Airlines International flights",flight,0.3568
+ground_fare, not on in service skypecs b.esp WorldEditParamsHorseBase,city,0.1899
+ground_fare,"
+ how much hotel food has been made to a restaurant by train from London Heathrow and Liverpool, northern England",ground_fare,0.3981
+ground_fare,ntp ticket from airplane grounded in Chicago to en route air carrier train (95 passenger trains) flying cabins on tatanka,airfare,0.3745
+ground_fare," munchies - 1,3 paktubs: turkey dinners (2), cabins for cabs",meal,0.2172
+ground_fare," not empty - for air conditioning reasons, hotel (1) < 2 people | reservations at a city and cabins",capacity,0.3135
+ground_fare," (1.7 - city-centre, from cities to suburbs; stay in a hotel during the day)
+ taxi cabs
+ taxis for the",ground_service,0.2458
+ground_fare,"platfall check (2,180.3300,-845) from rideridead to -1 atjunction",capacity,0.1136
+ground_fare,"ntlabs [-1 USFRAM - 1 non-empty ticket options for ""Ground"" airport air travel to and from Philadelphia, PA with Amtrak service",airfare,0.4196
+ground_fare," from pneumaticpets at [-, fr. MLM], using medic and cargo holdups to passenger planes; check out the infographics",aircraft,0.3367
+ground_fare," not resort to the airport for flights on foot and by car from anywhere in city centre [-EUR croutonH russian winter holiday destinations based primarily on prices at country markets -CATUS mielkeSchatz hostels boston, united states",city,0.2037
+ground_fare," leaveovers at hotel wingland [-lobby,night -go to bedtime on landing][Lunch/morning break from lounging in suite guests rooms with couches and blankets without seat belts (Standard) 2 max seats []",meal,0.1882
+day_name,"
+ day of the week from sunrise to sunset",flight_time,0.4278
+day_name,"
+ The day that the United States celebrates Independence Day",flight_time,0.1808
+day_name, how many days in month from week to day building,quantity,0.7626
+day_name,"
+ day of the week where you can",flight_time,0.3119
+day_name," in day,weekdays
+ days to",flight_time,0.459
+day_name,"
+ day from Saturday to Sunday in London.",flight_time,0.4141
+day_name, show me the day when I get to know you,flight_time,0.3837
+day_name,Day of the New York City (PLUS),city,0.3249
+day_name," to the day of my trip from Portland, Oregon until",flight,0.3585
+day_name, Name of day in the month for which we are,flight_time,0.242
+day_name, not loading c:\program daytales.txt,abbreviation,0.4837
+day_name,"
+ day time from noon to dawn (in minutes)",flight_time,0.7451
+day_name, show time as days in transit from city to country,flight_time,0.7312
+day_name,"
+ day we do not have time to eat lunch",flight_time,0.2583
+day_name, why is this day so important to me on reddit,flight_time,0.2507
+day_name, show me how long the day was spent in my hotel,distance,0.2903
+day_name, what time it is at this day in the United States from west to south,flight_time,0.7462
+day_name,"
+ the day that our reddit server is in",flight_time,0.3259
+day_name,updates today for the week Ending day ending,flight_time,0.275
+day_name, show me the day (empty lot) of Day.,ground_service,0.222
+day_name,httpdays this month on a day in the US,flight_time,0.3549
+day_name, show me the day we are going to sit for dinner at a restaurant,flight_time,0.2449
+day_name," show time for episode ""Day 2"" of Season 1",flight_time,0.7089
+day_name," to day.monthdays for months
+ days and week",flight_time,0.4444
+day_name, todays (Sun Jan Feb Mar Apr May days and nights,flight_time,0.2156
+day_name,"
+ Sunday, June day for weekdays from Monday through Friday",flight_time,0.4342
+day_name, why is it that I am a day without weather,abbreviation,0.2295
+day_name," todays
+ day for noon in days ending with",flight_time,0.4921
+day_name,Daytime based on counting ticket sales (monthly),airfare,0.1901
+day_name, why are we watching the day with most popular food,ground_service,0.1807
+day_name,"placements
+none, mesurea only",city,0.2604
+day_name," The day that the city gathers food for breakfast.
+ afternoon",flight_time,0.2549
+day_name, The day this web server is running. (Thu Oct 2018 10:,city,0.1621
+day_name, go to the day when people say they days traveling,flight_time,0.2219
+day_name, show me when the game is playing at a hotel,flight_time,0.1392
+day_name," show time in day, from hour to minute (0-9) UTC",flight_time,0.7585
+day_name, = The Day (2017-09 noon to sunday,city,0.1937
+day_name," Not finding the day's name in this database, keeping it current.",city,0.1927
+day_name," in _country
+ day time to leave home",flight_time,0.6785
+day_name,string description of day. and days from north to south,flight_time,0.2842
+day_name, to days with largest collection of people from all over the world,ground_service,0.2875
+day_name," not in game name, is more than 10 people",abbreviation,0.2932
+day_name, leave the day for today in Europe starting at 12 noon from west coast to south east,flight_time,0.5812
+day_name, name of day flying out during sunset from west coast to south east,flight,0.3295
+day_name," - Day, day not in service for days and weeks",flight_time,0.2665
+day_name,"Name of the day, based on region code in City State",city,0.356
+day_name,"
+ how many hours the week in Portland will be from noon to 6pm",quantity,0.5515
+day_name, What time is the day and date for breakfast? (Mon-Fri) Yes,flight_time,0.7373
+day_name, for day at reddit in australia from seattle to england,flight,0.3059
+day_name,"
+ day this week ending Sunday 1st of July 2011",flight_time,0.2493
+day_name, to the day for which there was a meeting at noon in Washington,flight_time,0.2392
+day_name," showtime (US date)
+ day for weekend morning in Washington",flight_time,0.5823
+day_name," to date name (use)
+ day the week in which it is",flight_time,0.2664
+day_name," name the day our hosting country is based (Canada)
+ month",city,0.3567
+day_name,"Day of the month in Singapore from Wednesday, Augustth to Friday",flight_time,0.2138
+day_name," to Day of the week in Sweden from Denmark
+ daytimezone",flight_time,0.1549
+day_name, is Jan year not in episode season.weekdays,flight_time,0.2154
+day_name," not loading firmware.upgrade, default is to update from maintenance category",ground_service,0.1218
+day_name," not in first person plural (does nothing)
+ day of month in days",abbreviation,0.3897
+day_name," The day and date specified by the reddit survey for ""Hey guys, how are you today?""",flight_time,0.5046
+day_name, show me my day in reddit today is noon on Monday amsterdam,flight_time,0.3612
+day_name,PLURALATE shopping cart tickets for Seattle at day,ground_fare,0.3584
+day_name, go to motel by train station korea (south american),ground_service,0.3239
+day_name, <time spent on hotel rooms for breakfast (per day) in Canada and abroad,flight_time,0.2941
+day_name,"placementsToCache:1, racksAvailable ToCanks",capacity,0.2498
+day_name,"
+ What are my daily prayers, including what I believe is the most important religious scriptures",ground_fare,0.1188
+day_name,placement of day markers from mile to city at noon in suburban metro area,ground_service,0.1436
+day_name,"
+ How many hours of sleep per week in Japan from October to June 2015",quantity,0.2633
+day_name, show me what time is sunrise on the day of my arrival at city hall,flight_time,0.7587
+day_name," - New Date (UTC) is Sundaydays
+citycountdown",city,0.2471
+day_name," what is day (2015-06 the minute)
+ days of spring",flight_time,0.3934
+day_name, (Signed-in) Day of the month Monday through Friday 8 pm to 6 am,flight_time,0.1922
+day_name,plans.PLANETrailroads for the railcars in this city,ground_service,0.2227
+day_name," go.travisitelisten:showdate,like",city,0.41
+day_name, in dayview mode. on motormates flying at sunrise and sunset,capacity,0.18
+day_name,"string ' day of the month' in days with most restaurants
+monthdays",flight_time,0.225
+day_name," leave for today from work.dat in Sweden, Canada and the USA",city,0.2312
+day_name," Notifications when the month is from Monday through Friday, inclusive of Wednesday & Saturday
+",flight_time,0.3304
+day_name, <days off in service cabbie hotels & cabins boston,ground_service,0.1607
+day_name,PLUT date and time it is today at 4am GMT on,flight_time,0.5194
+day_name,"port city by day thecity is located in, how many hours are there from downtown",quantity,0.3451
+day_name," search in masonry for ""year"" ending days at mariage",city,0.3149
+day_name," is not an integer nor a float, the value shown in units of measurement are:",abbreviation,0.5554
+day_name,portugal to Portugal Date of entry: TuesdayMonday Saturday (local time) Where in Brazil,city,0.2708
+day_name," showtime in seconds (0, days)
+ daystar rating from cities that have the highest number",flight_time,0.358
+day_name,"ntwetheralling up from day 1 to 20 (Mon,Tue) at 4:",flight_time,0.1333
+day_name, <time to get date and city from hotel where you arrived today based on airport arrival,flight_time,0.5696
+day_name, Package pdp-swatch is -1 from nordicloverstreetfood.eu boston,ground_fare,0.1207
+day_name," - days in US from north east to south [-1,531,-.222573]]",flight_time,0.4873
+day_name, Notifications about day - New Horizons and Its Latest (Day 4),city,0.2155
+day_name, the day before we start using Google's web server to serve requests from customers at www.googlequicksearch,flight_time,0.1894
+day_name, off day (1-year ago) june long holiday from southern California to korea,flight_time,0.3375
+day_name," showtime: Friday, Tuesday from 6 to 9 pm (Mid-America)
+ day times for weekend in San Diego",flight_time,0.5004
+day_name,Name and description of the day that you will receive a complimentary hotel from [PEOPLE dining on reservations.US,flight_time,0.27
+day_name,"platification note: - ""This is the day we get married in The Netherlands, with a date night stay",flight_time,0.2586
+day_name," <time skip for the day after 9:00 at sundown on Monday, Feb 01 from noon to 4pm (local time in Boston)",flight_time,0.7279
+day_name," in sunsnow,holiday Monday through Friday (excluding weekends) from 6pm- day Tuesday to Thursday and Sunday 10am - noon
+",flight_time,0.2859
+day_name," in korean id oc, city = Hy day n from car to napoleon pkorea (South Korea) fridays",city,0.3784
+day_name,"LOCALIZER is in the maintenance category at Meier's Castle House on Maple Ridge, used by guests to gather food and relax after their meal.",capacity,0.2452
+day_name," Not yet in staging, but is running from east coast to ca 4 [-ocean]:6 - checking for sub-packages day
+ afternoon corsair 2",aircraft,0.2874

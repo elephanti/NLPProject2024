@@ -1,9 +1,12 @@
-import importlib
 from utils import load_data
-import warnings
-
-warnings.filterwarnings("ignore", category=UserWarning, module='transformers')
-warnings.filterwarnings("ignore", category=FutureWarning)
+import pandas as pd
+import glob
+import os
+import joblib
+from classifiers.bert_ktrain import DistilBERT
+from classifiers.lstm_glove import LSTMGlove
+from classifiers.svm_glove import SVMGlove
+from classifiers.svm_tfidf import SVMTFIDF
 
 
 class ModelTrainer:
@@ -12,45 +15,69 @@ class ModelTrainer:
         self.glove_file = glove_file
         self.num_labels = num_labels
 
-    def train_all(self, train_text, train_labels, test_text=None, test_labels=None):
-        results = {}
+    def train_all(self, X_train, y_train, model_path, X_test=None, y_test=None):
+        results = []
         for clf_name, clf_module in self.classifiers.items():
             print(f"Training {clf_name}...")
-            module_name, class_name = clf_module.rsplit('.', 1)
-            module = importlib.import_module(module_name)
-            clf_class = getattr(module, class_name)
             if clf_name == 'lstm_glove':
-                clf_instance = clf_class(self.glove_file, self.num_labels)
+                clf_instance = clf_module(self.glove_file, self.num_labels)
             elif clf_name == 'svm_glove':
-                clf_instance = clf_class(self.glove_file)
-            elif clf_name == 'bert':
-                clf_instance = clf_class(num_labels=self.num_labels)
+                clf_instance = clf_module(self.glove_file)
+            elif clf_name == 'bert_ktrain':
+                clf_instance = clf_module()
             else:
-                clf_instance = clf_class()
+                clf_instance = clf_module()
 
-            clf_instance.train(train_text, train_labels)
-            accuracy = clf_instance.evaluate(test_text, test_labels) if test_text is not None and test_labels is not None else None
+            clf_instance.train(X_train, y_train)
+            accuracy = clf_instance.evaluate(X_test, y_test) if X_test is not None and y_test is not None else None
             if accuracy is not None:
-                print(f"{clf_name} Accuracy: {accuracy:.4f}")
-                results[clf_name] = accuracy
-            clf_instance.save(f'{clf_name}')
+                if clf_name in ['lstm_glove', 'bert_ktrain']:
+                    print(f"{clf_name} Accuracy: {accuracy.item():.4f}")
+                    results.append({"model": clf_name, "val_accuracy": round(accuracy.item(), 4)})
+                else:
+                    print(f"{clf_name} Accuracy: {accuracy:.4f}")
+                    results.append({"model": clf_name, "val_accuracy": round(accuracy, 4)})
+            clf_instance.save(f'{model_path}/{clf_name}')
+
         return results
 
 
 if __name__ == "__main__":
-    train_text, y_train, test_text, y_test, le = load_data('datasets/ATIS/atis.train.csv', 'datasets/ATIS/atis.test.csv')
-    num_labels = len(le.classes_)
     # need to download from here https://www.kaggle.com/datasets/sawarn69/glove6b100dtxt
     # and save in classifiers/embeddings
+    df_result = pd.DataFrame(columns=['data', 'model', 'val_accuracy'])
     glove_file = 'classifiers/embeddings/glove.6B.100d.txt'
 
     classifiers = {
-        'svm_tfidf': 'classifiers.svm_tfidf.SVM_TFIDF',
-        'svm_glove': 'classifiers.svm_glove.SVM_Glove',
-        'lstm_glove': 'classifiers.lstm_glove.LSTM_Glove',
-        'bert': 'classifiers.bert.BERT',
+        'svm_tfidf': SVMTFIDF,
+        'svm_glove': SVMGlove,
+        'lstm_glove': LSTMGlove,
+        'bert_ktrain': DistilBERT
     }
 
-    trainer = ModelTrainer(classifiers, glove_file, num_labels)
-    results = trainer.train_all(train_text, y_train, test_text, y_test)
-    print("Training Results:", results)
+    dataset_names = ['ATIS', 'TREC']
+
+    for name in dataset_names:
+        print(name)
+        directory_path = f'datasets/{name}/sampled_subsets/'
+
+        data_files = glob.glob(os.path.join(directory_path, 'ver1', '*.csv'))
+        for file in data_files:
+            print(file)
+            dataset_file_name = file.replace(f'{directory_path}', "").replace(f'ver1', "").replace('.csv', "").replace('/', "")
+            model_path = f'classifiers/models/{name}/{dataset_file_name}'
+            os.makedirs(model_path)
+
+            X_train, y_train, X_test, y_test, le = load_data(file, test_path=f'datasets/{name}/{name.lower()}.valid.csv')
+            joblib.dump(le, f'{model_path}/label_encoder.pkl')
+
+            trainer = ModelTrainer(classifiers, glove_file, len(le.classes_))
+
+            train_results = trainer.train_all(X_train, y_train, model_path, X_test=X_test, y_test=y_test)
+
+            for i in range(len(classifiers)):
+
+                train_results[i]["data"] = dataset_file_name
+                df_result = pd.concat([df_result, pd.DataFrame([train_results[i]])], ignore_index=True)
+
+    df_result.to_csv("classifiers/training_results.csv")

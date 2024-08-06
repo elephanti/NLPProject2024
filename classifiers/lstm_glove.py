@@ -33,9 +33,9 @@ class LSTMGloveDataset(Dataset):
         }
 
 
-class LSTM_Glove_Model(nn.Module):
+class LSTMGloveModel(nn.Module):
     def __init__(self, embedding_dim, hidden_dim, output_dim):
-        super(LSTM_Glove_Model, self).__init__()
+        super(LSTMGloveModel, self).__init__()
         self.lstm = nn.LSTM(embedding_dim, hidden_dim, batch_first=True, bidirectional=True)
         self.dropout = nn.Dropout(0.5)
         self.fc = nn.Linear(hidden_dim * 2, output_dim)
@@ -48,14 +48,14 @@ class LSTM_Glove_Model(nn.Module):
         return x
 
 
-class LSTM_Glove:
+class LSTMGlove:
     def __init__(self, glove_file, num_labels, max_len=50, embedding_dim=100, hidden_dim=64):
         self.glove_embeddings = self.load_glove_embeddings(glove_file)
         self.max_len = max_len
         self.embedding_dim = embedding_dim
         self.hidden_dim = hidden_dim
         self.num_labels = num_labels
-        self.model = LSTM_Glove_Model(embedding_dim, hidden_dim, num_labels)
+        self.model = LSTMGloveModel(embedding_dim, hidden_dim, num_labels)
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
         self.model.to(self.device)
 
@@ -73,10 +73,11 @@ class LSTM_Glove:
         dataset = LSTMGloveDataset(texts, labels, self.glove_embeddings, self.max_len, self.embedding_dim)
         return DataLoader(dataset, batch_size=32, shuffle=True)
 
-    def train(self, train_texts, train_labels, epochs=10):
-        train_loader = self.prepare_data(train_texts, train_labels)
+    def train(self, X_train, y_train, epochs=10, lr=0.001, l2=0.0001):
+        train_loader = self.prepare_data(X_train, y_train)
         criterion = nn.CrossEntropyLoss()
-        optimizer = torch.optim.Adam(self.model.parameters(), lr=0.001)
+        optimizer = torch.optim.Adam(self.model.parameters(), lr=lr, weight_decay=l2)
+        scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min', patience=2, factor=0.5)
 
         for epoch in range(epochs):
             self.model.train()
@@ -101,14 +102,17 @@ class LSTM_Glove:
 
             epoch_loss = running_loss / len(train_loader)
             epoch_accuracy = correct_predictions.double() / total_predictions
+
             print(f"Epoch {epoch + 1}/{epochs}, Loss: {epoch_loss:.4f}, Accuracy: {epoch_accuracy:.4f}")
 
-    def evaluate(self, test_texts=None, test_labels=None):
-        if test_texts is None or test_labels is None:
+            scheduler.step(epoch_loss)
+
+    def evaluate(self, X_test=None, y_test=None):
+        if X_test is None or y_test is None:
             print("No test data provided. Skipping evaluation.")
             return None
 
-        test_loader = self.prepare_data(test_texts, test_labels)
+        test_loader = self.prepare_data(X_test, y_test)
         self.model.eval()
         correct_predictions = 0
         total_predictions = 0
@@ -126,6 +130,6 @@ class LSTM_Glove:
         return accuracy
 
     def save(self, model_path):
-        torch.save(self.model, f'classifiers/models/{model_path}.pth')
-        joblib.dump(self.glove_embeddings, f'classifiers/models/{model_path}_embeddings.pkl')
+        torch.save(self.model, f'{model_path}.pth')
+        joblib.dump(self.glove_embeddings, f'{model_path}_embeddings.pkl')
         print("Model and embeddings saved.")
