@@ -2,13 +2,17 @@ import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 
 
-def load_data(train_path, test_path=None):
+def load_data(train_path, full_path, test_path=None):
     train_df = pd.read_csv(train_path)
     train_text = train_df['text'].tolist()
     train_label = train_df['label']
 
     le = LabelEncoder()
-    y_train = le.fit_transform(train_label)
+
+    full_df = pd.read_csv(full_path)
+    le.fit_transform(full_df['label'])
+
+    y_train = le.transform(train_label)
 
     if test_path:
         test_df = pd.read_csv(test_path)

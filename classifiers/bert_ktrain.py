@@ -4,12 +4,13 @@ import numpy as np
 
 
 class DistilBERT:
-    def __init__(self, model_name='distilbert-base-cased', maxlen=50, batch_size=10, learning_rate=5e-5, epochs=12):
+    def __init__(self, model_name='distilbert-base-cased', maxlen=50, batch_size=10, learning_rate=2e-5, epochs=4, model_save_path='distilbert_model'):
         self.model_name = model_name
         self.maxlen = maxlen
         self.batch_size = batch_size
         self.learning_rate = learning_rate
         self.epochs = epochs
+        self.model_save_path = model_save_path
         self.transformer = None
         self.learner = None
         self.predictor = None
@@ -44,8 +45,7 @@ class DistilBERT:
         np_test_labels = np.array(y_test)
         np_predictions = np.array(predictions)
         result = (np_test_labels == np_predictions)
-        accuracy = result.sum() / len(result) * 100
-
+        accuracy = result.sum() / len(result)
         print(f"Accuracy: {accuracy:.2f}%")
         return accuracy
 

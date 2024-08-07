@@ -34,28 +34,30 @@ class LSTMGloveDataset(Dataset):
 
 
 class LSTMGloveModel(nn.Module):
-    def __init__(self, embedding_dim, hidden_dim, output_dim):
+    def __init__(self, embedding_dim, hidden_dim, output_dim, dropout_rate=0.5):
         super(LSTMGloveModel, self).__init__()
         self.lstm = nn.LSTM(embedding_dim, hidden_dim, batch_first=True, bidirectional=True)
-        self.dropout = nn.Dropout(0.5)
+        self.layer_norm = nn.LayerNorm(hidden_dim * 2)
+        self.dropout = nn.Dropout(dropout_rate)
         self.fc = nn.Linear(hidden_dim * 2, output_dim)
 
     def forward(self, x):
         _, (h_n, _) = self.lstm(x)
         h_n = h_n.permute(1, 0, 2).contiguous().view(h_n.size(1), -1)
+        h_n = self.layer_norm(h_n)
         x = self.dropout(h_n)
         x = self.fc(x)
         return x
 
 
 class LSTMGlove:
-    def __init__(self, glove_file, num_labels, max_len=50, embedding_dim=100, hidden_dim=64):
+    def __init__(self, glove_file, num_labels, max_len=50, embedding_dim=100, hidden_dim=64, dropout_rate=0.5):
         self.glove_embeddings = self.load_glove_embeddings(glove_file)
         self.max_len = max_len
         self.embedding_dim = embedding_dim
         self.hidden_dim = hidden_dim
         self.num_labels = num_labels
-        self.model = LSTMGloveModel(embedding_dim, hidden_dim, num_labels)
+        self.model = LSTMGloveModel(embedding_dim, hidden_dim, num_labels, dropout_rate)
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
         self.model.to(self.device)
 
@@ -73,11 +75,14 @@ class LSTMGlove:
         dataset = LSTMGloveDataset(texts, labels, self.glove_embeddings, self.max_len, self.embedding_dim)
         return DataLoader(dataset, batch_size=32, shuffle=True)
 
-    def train(self, X_train, y_train, epochs=10, lr=0.001, l2=0.0001):
+    def train(self, X_train, y_train, epochs=20, lr=0.001, l2=0.0001):
         train_loader = self.prepare_data(X_train, y_train)
         criterion = nn.CrossEntropyLoss()
         optimizer = torch.optim.Adam(self.model.parameters(), lr=lr, weight_decay=l2)
         scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min', patience=2, factor=0.5)
+
+        best_accuracy = 0
+        best_model_state = None
 
         for epoch in range(epochs):
             self.model.train()
@@ -105,7 +110,14 @@ class LSTMGlove:
 
             print(f"Epoch {epoch + 1}/{epochs}, Loss: {epoch_loss:.4f}, Accuracy: {epoch_accuracy:.4f}")
 
+            if epoch_accuracy > best_accuracy:
+                best_accuracy = epoch_accuracy
+                best_model_state = self.model.state_dict()
+
             scheduler.step(epoch_loss)
+
+        if best_model_state is not None:
+            self.model.load_state_dict(best_model_state)
 
     def evaluate(self, X_test=None, y_test=None):
         if X_test is None or y_test is None:
@@ -130,6 +142,6 @@ class LSTMGlove:
         return accuracy
 
     def save(self, model_path):
-        torch.save(self.model, f'{model_path}.pth')
+        torch.save(self.model.state_dict(), f'{model_path}.pth')
         joblib.dump(self.glove_embeddings, f'{model_path}_embeddings.pkl')
         print("Model and embeddings saved.")
