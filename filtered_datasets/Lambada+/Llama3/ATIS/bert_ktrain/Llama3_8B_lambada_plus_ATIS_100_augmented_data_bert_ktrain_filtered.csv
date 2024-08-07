@@ -1,0 +1,157 @@
+label,text,predicted_label,probability
+quantity, how many canadian airline destinations does delta serve with a first class flight,quantity,0.9417
+quantity, how many united express departures are there from denver to chicago,quantity,0.9405
+quantity, how many canadian airline destinations are served from new york,quantity,0.9399
+quantity, how many daily united express departures are there from washington dc,quantity,0.9397
+quantity, how many round trip american airline fights go from san francisco to washington dc,quantity,0.9396
+quantity, how many united express departures are there from washington,quantity,0.9396
+quantity, how many delta and united business class international departures are there tomorrow,quantity,0.9395
+quantity, how many us airways first class flights are there from philadelphia to denver today,quantity,0.9394
+quantity, how many united express departures from washington are there,quantity,0.9394
+quantity, how many canadian airline flights leave from pittsburgh,quantity,0.9394
+aircraft, what kind of aircraft are there from washington to san francisco,aircraft,0.9661
+aircraft, show me what kind of aircraft leaves from washington dc to oakland after 4 o'clock,aircraft,0.9661
+aircraft, what kind of aircraft does continental fly between denver and san francisco,aircraft,0.9661
+aircraft, what kind of aircraft does delta fly out there for today,aircraft,0.9661
+aircraft, what kind of aircraft flies from denver to washington dc,aircraft,0.966
+aircraft, what kind of aircraft is flight twa 920,aircraft,0.966
+aircraft, what kinds of aircraft are there that fly between baltimore and oakland,aircraft,0.966
+aircraft, what kind of aircraft flies from denver to dallas,aircraft,0.966
+aircraft, what kind of aircraft flies from atlanta to denver,aircraft,0.9659
+aircraft, what kind of aircraft fly from washington dc to san francisco before 12 o'clock noon,aircraft,0.9659
+airline, which airline is delta connection 5803 flying for,airline,0.9757
+airline," which airline is twa a member of
+book flight to chicago and return please",airline,0.9757
+airline, which airline stands for hp and us from chicago to washington dc,airline,0.9757
+airline, what airline is hp into washington dc from atlanta,airline,0.9756
+airline, what airline is cp besides continental and united american delta,airline,0.9755
+airline, what airline is us 3280 leaving pittsburgh arriving in dallas,airline,0.9754
+airline, what airline flies between boston and denver with a stopover in philadelphia,airline,0.9753
+airline, which airline flies between baltimore and new york city,airline,0.9753
+airline, which airline serves newark and baltimore airports but not washington,airline,0.9752
+airline, what airline is delta a code for from atlanta to dallas,airline,0.9752
+airport, please tell me the airport that 's closest to boston,airport,0.9186
+airport," list airport near dallas and fort worth texas
+list of california 's airports",airport,0.9181
+airport, list the airport at milwaukee wisconsin please show me all of them,airport,0.9176
+airport, which is the airport that 's closest to san francisco,airport,0.9165
+airport, please list the los angeles airport 's name,airport,0.9165
+airport, list california nevada arizona airport please what is the name of this phoenix,airport,0.9161
+airport, what airport is closest to san jose california and then list them,airport,0.9161
+airport, which airport is closest to indianapolis and serves delta,airport,0.9157
+airport, list the washington dc airport please with abbreviation and full name,airport,0.9155
+airport, which airport is the largest west of denver but east of phoenix,airport,0.9146
+airfare, show me fares from baltimore to denver leaving after noon,airfare,0.9623
+airfare, show me fares from boston to dallas for travel next tuesday,airfare,0.9622
+airfare, show me fares from baltimore to san francisco,airfare,0.9618
+airfare, show me fares from cincinnati to philadelphia for august sixteenth,airfare,0.9618
+airfare, show me fares from baltimore to denver less than 1000 dollars,airfare,0.9616
+airfare, show me all fares from atlanta to washington dc,airfare,0.9616
+airfare, show me fares from chicago to washington dc tomorrow morning,airfare,0.9615
+airfare, what are all first class fares from washington to oakland for travel next tuesday,airfare,0.9615
+airfare, list fares from baltimore to dallas for tomorrow,airfare,0.9614
+airfare, what are first class fares from toronto to baltimore,airfare,0.9614
+ground_service, show me the ground transport in chicago i would like to take a taxi from downtown milwaukee,ground_service,0.9779
+ground_service, what kind of ground transport is there in san francisco,ground_service,0.9776
+ground_service, what type of ground transport is there at denver international airport,ground_service,0.9751
+ground_service, what kind of grounds transport is there in dallas,ground_service,0.9733
+ground_service, how do i get downtown from the airport in phoenix,ground_service,0.9731
+ground_service, how do i get downtown from general mitchell international airport,ground_service,0.9705
+ground_service, i want to rent a car at atlanta airport,ground_service,0.9688
+ground_service, what kind of surface transport is there in new york,ground_service,0.9664
+ground_service, what type of land transport is there in baltimore,ground_service,0.9651
+ground_service, i need a limousine service in atlanta,ground_service,0.9649
+meal, is there any meals served between denver and oakland,meal,0.5134
+meal, what meals are available going from newark to boston wednesday morning,meal,0.5133
+meal, what meals are served from washington to san francisco tomorrow,meal,0.5111
+meal, what meals are available from philadelphia to boston tomorrow morning,meal,0.511
+meal, show me the meals available between washington and san francisco,meal,0.5109
+meal, what meals are available going from boston to san francisco,meal,0.5107
+meal, what meals are there to atlanta from washington dc,meal,0.5103
+meal, what meals are served from san francisco to atlanta,meal,0.5101
+meal, what meals are served today please between pittsburgh and boston,meal,0.5098
+meal, what meals are available from boston to denver tomorrow,meal,0.5097
+capacity," how many people can a 757 seat
+[ SEP ] in some cases , it 's possible to request that additional space be added between rows",capacity,0.8746
+capacity, what is m80 's seat capacities ? and how many seats are there in an 757,capacity,0.874
+capacity, how many people can fit in a 757 and what is its length,capacity,0.8678
+capacity, how many people can be seated in a dc9,capacity,0.8676
+capacity, how many people can a 757 seat show me,capacity,0.8672
+capacity, how many people can fit in a 757-200,capacity,0.8659
+capacity, how many people can sit in a 757-200,capacity,0.8651
+capacity, how many people can sit in a 72s,capacity,0.865
+capacity, how many people can fit in a 757 plane,capacity,0.8649
+capacity, how many people can fit in a 737 plane,capacity,0.8648
+distance, how far is it from tacoma airport to downtown seattle,distance,0.8297
+distance, how far is it from washington airport to downtown baltimore,distance,0.8293
+distance, how far is it from dallas fort worth airport to downtown,distance,0.829
+distance, how far is it from baltimore airport to downtown,distance,0.829
+distance, how far is it from toronto airport to downtown,distance,0.829
+distance, how far is it from denver airport to downtown,distance,0.8287
+distance, how far is downtown from mco airport in miles,distance,0.8285
+distance, how far is it from salt lake airport to downtown,distance,0.8285
+distance, how far is it from dallas airport to downtown,distance,0.8284
+distance, how far is it from atlanta airport to downtown,distance,0.8283
+flight, i would like a flight from boston to san francisco tomorrow,flight,0.9712
+flight, i need a flight from washington to atlanta stopover in baltimore,flight,0.9712
+flight, i 'd like a flight from boston to washington,flight,0.971
+flight, i would like a flight from cleveland to detroit,flight,0.9709
+flight, find me a flight from baltimore to milwaukee,flight,0.9709
+flight, does a flight to washington dc from baltimore stop in philadelphia,flight,0.9708
+flight, please find me a flight from pittsburgh to dallas tomorrow,flight,0.9708
+flight, i 'd like to book a flight from dallas fort worth into orlando,flight,0.9706
+flight, what 's the earliest flight from baltimore to denver today,flight,0.9706
+flight, can you show me a flight from oakland to baltimore,flight,0.9705
+abbreviation, what does fare code q mean on continental airlines 1,abbreviation,0.9677
+abbreviation, what does fare code qo mean for american airlines,abbreviation,0.9664
+abbreviation, what does ap mean as in fare code for american,abbreviation,0.9664
+abbreviation, what does fare code q mean with continental airlines for example,abbreviation,0.9663
+abbreviation," what does fare code q mean
+[SEP] is f a discount",abbreviation,0.9654
+abbreviation, what is d9s mean as a fare code,abbreviation,0.9644
+abbreviation, what does ap 57 mean with regard to a fare code,abbreviation,0.9642
+abbreviation, what is fare code q? how does that compare with m,abbreviation,0.9639
+abbreviation, what does fare code q mean on a ticket order,abbreviation,0.9638
+abbreviation, what is usp code 12qzj,abbreviation,0.9632
+flight_time, what time is your latest flight from oakland to boston,flight_time,0.9481
+flight_time, what time does delta flight 1229 leave from denver,flight_time,0.9478
+flight_time, can you tell me what time is your earliest flight from san francisco to dallas,flight_time,0.9476
+flight_time, what time does us air go from philadelphia to denver,flight_time,0.9469
+flight_time, what 's the flight time from boston to pittsburgh,flight_time,0.9466
+flight_time, what time does us air fly out from pittsburgh to philadelphia,flight_time,0.9466
+flight_time, i would like to know what time your earliest flight is from atlanta,flight_time,0.9465
+flight_time, what is mci 's flight departure time to dallas,flight_time,0.9464
+flight_time, i 'd like to know what time your earliest flight is from pittsburgh,flight_time,0.9463
+flight_time, i want to see what time your earliest flight is from baltimore,flight_time,0.9462
+ground_fare, how much does it costs to rent a car in salt lake city,ground_fare,0.7959
+ground_fare, how much does it costs to rent a car in baltimore,ground_fare,0.7843
+ground_fare, what are your rates for car rentals in philadelphia,ground_fare,0.782
+ground_fare, how much is it to rent a car in denver,ground_fare,0.7811
+ground_fare, how much is it to rent a car in philadelphia,ground_fare,0.7798
+ground_fare, how much does it rent a car in dallas,ground_fare,0.7747
+ground_fare, how much is a car in atlanta from airport,ground_fare,0.7747
+ground_fare, how much does it rent a car in washington dc,ground_fare,0.7743
+ground_fare, how much does it coast to rent a car at la guardia,ground_fare,0.7614
+ground_fare, how much does it charge to rent a car in baltimore,ground_fare,0.7584
+city, which city is cincinnati located in please show me a map,city,0.8143
+city," which city is denver located in
+show all results 1998-11 -1",city,0.8124
+city," what city is mco in
+list-cities-1",city,0.8124
+city, which city is served exclusively be delta air lines and us airline,city,0.8123
+city, which city is bwi in like what does it stand for,city,0.8101
+city, what city is general mitchell field in that 's milwaukee,city,0.8098
+city, what city is bwi located in please show me,city,0.8089
+city, what city is den in located at on a map,city,0.8087
+city, what city is bwi in again please help me out,city,0.808
+city, which city is love field in located on a map,city,0.8066
+flight_no, what are american 's departure numbers from new york to dallas today,flight_no,0.6877
+flight_no, what are all possible numbers on continental airlines morning round trip to san francisco,flight_no,0.6568
+flight_no, give me all numbers on continental from atlanta to san francisco,flight_no,0.6502
+flight_no, show me all american airlines numbers from boston to dallas,flight_no,0.6364
+flight_no, show me please all different numbers on delta to san francisco from denver today,flight_no,0.6027
+flight_no, please give me a list with all available numbers on continental from boston to san francisco,flight_no,0.5811
+flight_no, i 'd like to see all possible numbers on today's afternoon american airline eastern airlines and united airplanes,flight_no,0.5797
+flight_no, list all numbers on a 6 am plane from boston to san francisco,flight_no,0.5576
+flight_no, give me a list with all possible numbers from washington to dallas tomorrow morning,flight_no,0.539
+flight_no, what are all possible numbers on a plane flying from boston to pittsburgh,flight_no,0.5127

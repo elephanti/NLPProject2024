@@ -1,0 +1,159 @@
+label,text,predicted_label,probability
+ground_service, ground transportation from airport at toronto to downtown hotel,ground_service,0.9798
+ground_service, what ground transportation is available in philadelphia airport and downtown,ground_service,0.9788
+ground_service, what ground transportation is available in boston downtown area,ground_service,0.9772
+ground_service, ground transportation baltimore airport to downtown hotel at the pabst,ground_service,0.9758
+ground_service, is there ground transportation available from airport in atlanta,ground_service,0.9729
+ground_service, ground transportation san francisco airport to city information please,ground_service,0.9693
+ground_service, what ground transportation is available from denver airport to downtown,ground_service,0.9652
+ground_service, i 'll need a rental car in pittsburgh,ground_service,0.9643
+ground_service, ground transportation atlanta airport to downtown hotel in the city,ground_service,0.9642
+ground_service, ground transportation denver to downtown denver airport at noon,ground_service,0.9628
+airfare, cheapest fare from boston to denver round trip,airfare,0.9802
+airfare, cheapest fare from denver to san francisco,airfare,0.9781
+airfare, round trip fares from philadelphia to orlando,airfare,0.9754
+airfare, round trip fares from denver to minneapolis,airfare,0.974
+airfare, list fares from baltimore to philadelphia,airfare,0.9689
+airfare, what is the lowest fare from baltimore to philadelphia,airfare,0.9683
+airfare, cheapest one way fare from denver to philadelphia,airfare,0.9668
+airfare, what is the cost of a round trip fare from dallas to baltimore,airfare,0.965
+airfare, cheapest one way fare from baltimore to philadelphia,airfare,0.9628
+airfare, list fares for flights from denver to philadelphia,airfare,0.9591
+quantity, how many american flights are there to boston today,quantity,0.9227
+quantity, how many airlines have flights with service class yn,quantity,0.9131
+quantity, how many first class flights does united airlines have,quantity,0.9052
+quantity, how many first class flights does delta airlines have,quantity,0.9048
+quantity, how many canadian airlines flights use dh8,quantity,0.9042
+quantity, how many first class flights are provided by delta airlines,quantity,0.902
+quantity, how many first class flights does delta have departing from all cities,quantity,0.8993
+quantity, how many first class flights are provided by american airlines,quantity,0.8916
+quantity, how many cities are served by twa with first class flights,quantity,0.8777
+quantity, how many american airline flights leave denver after noon,quantity,0.869
+flight, flights from baltimore to toronto next monday,flight,0.9737
+flight, flights from charlotte to orlando monday,flight,0.9631
+flight, show flights from dallas to denver next sunday,flight,0.9594
+flight, flights from columbus to baltimore on thursday,flight,0.9575
+flight, list flights from dallas to houston saturday evening,flight,0.9562
+flight, find flights from dallas to philadelphia in the morning,flight,0.9556
+flight, show me flights from columbus to denver,flight,0.9453
+flight, flights from pittsburgh to baltimore arrive after 12 noon,flight,0.939
+flight, flights from boston to toronto before 10 am,flight,0.9336
+flight, i need a flight from toronto to denver on monday morning,flight,0.9324
+distance, distance from atlanta airport to downtown atlanta,distance,0.8775
+distance, list distance in miles from salt lake city airport to downtown,distance,0.823
+distance, what is the distance from san francisco airport to downtown,distance,0.807
+distance, distance from boston airport to the city of boston,distance,0.7971
+distance, how far from san francisco airport to downtown hotel,distance,0.7928
+distance, how far is san francisco international airport from downtown,distance,0.7812
+distance, what is the distance from san francisco international airport to downtown,distance,0.7686
+distance, what is the distance from los angeles international airport to downtown,distance,0.7608
+distance, how far is the airport from downtown boston in miles,distance,0.7606
+distance, list distance from philadelphia airport to downtown and city center,distance,0.7587
+capacity, how many seats on a turboprop 90,capacity,0.8754
+capacity, what is the seating capacity of a 75s,capacity,0.8747
+capacity, what is the seating capacity of a boeing 767,capacity,0.8685
+capacity, what is the seating capacity of a 72s,capacity,0.8553
+capacity, what is the seating capacity for a boeing 73s,capacity,0.8149
+capacity, how many seats on a 734 aircraft,capacity,0.8146
+capacity, what is the seating capacity for delta flight 1250,capacity,0.7952
+capacity, how many seats in a 75s airplane,capacity,0.7932
+capacity, what is the seating capacity of an m80,capacity,0.7928
+capacity, how many passengers can a 73s airplane hold,capacity,0.7899
+aircraft, what type of aircraft flies from charlotte to san francisco,aircraft,0.9807
+aircraft, is the aircraft m80 type 31,aircraft,0.9731
+aircraft, i 'd like the type of plane that flies from dallas fort worth to san francisco,aircraft,0.9524
+aircraft, tell me the type of aircraft used on american flight 863 from charlotte to milwaukee,aircraft,0.9497
+aircraft, what aircraft types are used by midway airlines,aircraft,0.943
+aircraft, what type of aircraft will i fly from toronto to detroit thursday afternoon,aircraft,0.933
+aircraft, what is the aircraft type for united flight 21,aircraft,0.9304
+aircraft, what type of aircraft is used on delta flight 1230 from detroit to san francisco,aircraft,0.9196
+aircraft, what type of aircraft is used on american flight 325 from philadelphia to dallas,aircraft,0.9196
+aircraft, can you tell me what type of aircraft is used by delta flight 1256 from detroit to westchester,aircraft,0.915
+airline, which airlines fly between toronto and boston,airline,0.9935
+airline, which airline is us airlines flight 26,airline,0.9882
+airline, which airlines fly into toronto from washington,airline,0.9865
+airline, what airlines fly between toronto and montreal,airline,0.9865
+airline, what airlines fly between atlanta and boston,airline,0.9751
+airline, what airlines fly between boston and pittsburgh,airline,0.9747
+airline, what airlines fly between boston and dallas,airline,0.9726
+airline, show me airlines with flights between toronto and montreal,airline,0.9723
+airline, what airlines fly between denver and pittsburgh,airline,0.971
+airline, list airlines with flights between boston and denver,airline,0.9691
+flight_time, i would like the time schedule of flights from denver to pittsburgh,flight_time,0.8893
+flight_time, what time does continental depart from boston to san francisco,flight_time,0.8774
+flight_time, what time does the last flight leave from boston to washington,flight_time,0.8744
+flight_time, what time does continental depart from philadelphia to san francisco,flight_time,0.8696
+flight_time, what is the schedule of flights from denver to dallas,flight_time,0.8603
+flight_time, what is the schedule of flights from denver to pittsburgh,flight_time,0.8529
+flight_time, what is the schedule of flights from washington to denver,flight_time,0.851
+flight_time, i would like the schedule of flights from denver to san francisco,flight_time,0.8483
+flight_time, what is the schedule of flights from denver to philadelphia,flight_time,0.8472
+flight_time, what time does the 6 am flight from boston to washington leave,flight_time,0.8316
+airport, airports near westchester county airport in new york,airport,0.9056
+airport, list airports in california nevada arizona,airport,0.8897
+airport, please list airports in san francisco california,airport,0.8741
+airport, list california airports and arizona airports,airport,0.8624
+airport, what airport is at westchester county new york,airport,0.8422
+airport, list all airports in new york city please,airport,0.8206
+airport, airports in los angeles area please list them,airport,0.8138
+airport, list airports in new york city la guardia central park kennedy,airport,0.8112
+airport, airports in new york city please list them,airport,0.8095
+airport, airports in southern california and nevada,airport,0.8064
+abbreviation, what does the abbreviation fare code yn mean,abbreviation,0.9807
+abbreviation, what is restriction ap 578 please explain,abbreviation,0.9567
+abbreviation, what is fare code hs 2186,abbreviation,0.945
+abbreviation, what is fare code ff meaning of restriction 752,abbreviation,0.9384
+abbreviation, what does the code yn mean for restriction ap 57,abbreviation,0.9309
+abbreviation, what is mci 's abbreviated name,abbreviation,0.921
+abbreviation, what is hp 85042a,abbreviation,0.918
+abbreviation, what is hp 1082s,abbreviation,0.918
+abbreviation, what is restriction ap 57 restrict hp,abbreviation,0.9169
+abbreviation, what is ff or dd for delta crs,abbreviation,0.9167
+ground_fare, what is the cost of a car rental in philadelphia,ground_fare,0.8476
+ground_fare, what is the rental car rate in atlanta,ground_fare,0.8348
+ground_fare, what is the cost of rental car in toronto,ground_fare,0.8252
+ground_fare, how much is a limousine service in boston,ground_fare,0.8191
+ground_fare, how much is a limousine service in atlanta,ground_fare,0.8183
+ground_fare, what is the cost of rental cars in denver,ground_fare,0.8163
+ground_fare, how much is a limousine service in denver,ground_fare,0.8158
+ground_fare, how much does a limousine cost in toronto,ground_fare,0.8157
+ground_fare, what is the cost of a rental car in san francisco,ground_fare,0.8142
+ground_fare, what is the cost of a rental car in seattle,ground_fare,0.8092
+city, which cities are served by canadian airlines international,city,0.8351
+city, show me cities served by american airlines and canadian,city,0.8272
+city, show me city served by both eastern and canadian airlines,city,0.8214
+city, what cities are served by canadian airlines international,city,0.8178
+city, which cities are serviced by canadian airlines international,city,0.7898
+city, what are the cities served by northwest airlines,city,0.7844
+city, what cities are served by midwest express airlines,city,0.7674
+city, show me the cities served by canadian airlines international,city,0.7643
+city, what cities are serviced by canadian airlines international,city,0.763
+city, which cities are serviced by both delta and us air,city,0.7568
+meal, what meals are available on flight ua 21,meal,0.6311
+meal, what meals are served on continental 510,meal,0.5767
+meal, what meals are offered on flight dl 1264,meal,0.5752
+meal, what meals are served on delta flight 891,meal,0.5502
+meal, meals on continental 310 from boston to washington,meal,0.5319
+meal, what meals are available on delta flight 1297,meal,0.5254
+meal, what meals are served on delta flight 1265,meal,0.5243
+meal, what are meals available on flight 629 from pittsburgh to baltimore,meal,0.5087
+meal, what are my meal options from baltimore to dallas,meal,0.5053
+meal, what are the meals on american flight 758,meal,0.5033
+flight_no, flight numbers from pittsburgh to baltimore,flight_no,0.6848
+flight_no, flight numbers on delta from boston to minneapolis,flight_no,0.6697
+flight_no, flight numbers from chicago to detroit on delta,flight_no,0.6669
+flight_no, flight numbers from atlanta to boston on continental,flight_no,0.6504
+flight_no, flight numbers from chicago to boston morning only,flight_no,0.6142
+flight_no, flight numbers from washington to montreal morning only,flight_no,0.6067
+flight_no, what is the flight number of eastern 21,flight_no,0.5855
+flight_no, what 's the flight number of american airlines morning flight to boston,flight_no,0.5849
+flight_no, flight numbers from boston to washington dc morning,flight_no,0.5847
+flight_no, list flight numbers from chicago to pittsburgh,flight_no,0.5767
+restriction, what is restriction ap80 under restrictions on travel,restriction,0.3339
+restriction, list restriction ap80 restrictions on business class flights,restriction,0.2462
+restriction, what restrictions are there on the fare code bp,restriction,0.2346
+restriction, what is restriction ap57 at charlotte,restriction,0.2273
+restriction, what is restriction ap 57 and restrictions on travel to canada,restriction,0.224
+restriction, does us air have any restrictions on alcoholic beverages,restriction,0.2153
+restriction, what is restriction ap57 and restrictions on travel for people with disab,restriction,0.2048
+restriction, what is restriction ap 80 and the restrictions on flight ua 251,restriction,0.1523

@@ -1,0 +1,164 @@
+label,text,predicted_label,probability
+ground_service, is there ground transportation from dallas airport to downtown,ground_service,0.8047
+ground_service, what ground transportation is available in atlanta 'at the airport',ground_service,0.7915
+ground_service, what ground transportation is available in newark airport please,ground_service,0.7894
+ground_service, what ground transportation is available in philadelphia 's airport,ground_service,0.782
+ground_service, what ground transportation is available in atlanta airport,ground_service,0.7818
+ground_service, what ground transportation is available in new york city,ground_service,0.7765
+ground_service, i'll need a ground transportation in la to lga,ground_service,0.7746
+ground_service, i need a list of ground transportation in denver,ground_service,0.7702
+ground_service, what ground transportation is available from the san francisco airport to downtown,ground_service,0.7699
+ground_service, what ground transportation is available in la guardairport,ground_service,0.7666
+airfare, what 's the lowest round trip fare from atlanta to philadelphia,airfare,0.7523
+airfare, what 's the lowest round trip fare from san francisco to atlanta,airfare,0.7484
+airfare, what 's the lowest round trip fare from atlanta to san francisco,airfare,0.7484
+airfare, round trip fares from denver to atlanta,airfare,0.7441
+airfare, what is the round trip fare from atlanta to dallas,airfare,0.7416
+airfare, what is the cheapest one way fare from philadelphia to atlanta on july seventeenth,airfare,0.736
+airfare, what is the lowest one way fare from boston to pittsburgh on july 24,airfare,0.7355
+airfare, what 's the cheapest one way fare from denver to baltimore,airfare,0.7303
+airfare, what is the lowest round trip fare from dallas to pittsburgh,airfare,0.7284
+airfare, round trip fares from atlanta to dallas on august fifteenth,airfare,0.7278
+aircraft, i would like to know the type of aircraft used on a flight from boston,aircraft,0.7696
+aircraft, tell me about the aircraft that is used on american flights from charlotte to philadelphia,aircraft,0.7633
+aircraft, what kind of aircraft is used on the morning flight from atlanta to denver,aircraft,0.7577
+aircraft, what type of aircraft is used on american airlines flight 194 from phoenix to charlotte,aircraft,0.7464
+aircraft, i would like to know what type of aircraft is used on american flight 415 from philadelphia to denver,aircraft,0.7447
+aircraft, what kind of aircraft is used on united flight 620 from denver to boston,aircraft,0.7382
+aircraft, what type of aircraft are used on us air flights from denver to philadelphia,aircraft,0.7371
+aircraft, i want to know what kind of aircraft will be used from pittsburgh to chicago,aircraft,0.733
+aircraft, what kind of aircraft is used by continental airlines on flights from boston to atlanta and returning,aircraft,0.7327
+aircraft, what type of aircraft is used on delta flight 1470 from philadelphia to salt lake city,aircraft,0.7311
+distance, list distance from philadelphia airport to downtown hotels in the city,distance,0.7857
+distance, what is the distance from philadelphia airport to downtown,distance,0.7581
+distance, what is the distance from orlando airport to disney,distance,0.7525
+distance, please list distance from san francisco airport to downtown,distance,0.7507
+distance, how far is downtown from the airport in denver,distance,0.7487
+distance, what is the distance from philadelphia international airport to downtown,distance,0.7442
+distance, what is the distance from denver airport to downtown,distance,0.7406
+distance, how far is the airport from denver downtown hotels,distance,0.7373
+distance, list distance from los angeles airport to downtown hotels,distance,0.7372
+distance, what is the distance from denver international airport to downtown,distance,0.7324
+capacity, what is the seating capacity of an aircraft 73,capacity,0.7989
+capacity, what 's the seating capacity of a 754,capacity,0.7971
+capacity, what is the seating capacity of aircraft type 734,capacity,0.7849
+capacity, what is the seating capacity of a 759,capacity,0.7771
+capacity, what is the seating capacity of a 75s,capacity,0.7771
+capacity, what is the seating capacity of a twin prop,capacity,0.7771
+capacity, what is the seating capacity of a 732,capacity,0.7771
+capacity, what 's the seating capacity of an f-28,capacity,0.7717
+capacity, what is the seating capacity on an aircraft 734,capacity,0.7676
+capacity, what is the seating capacity of a 734,capacity,0.7646
+quantity, how many flights are there from atlanta to philadelphia,quantity,0.7528
+quantity, how many flights does united airlines have with first class,quantity,0.7489
+quantity, how many first class flights does united have leaving from washington,quantity,0.746
+quantity, how many first class flights does united airlines have,quantity,0.7389
+quantity, how many first class flights are there from atlanta to denver,quantity,0.7312
+quantity, how many first class flights does united have leaving from dallas today,quantity,0.7249
+quantity, how many flights are there from denver to philadelphia with first class,quantity,0.7226
+quantity, how many first class flights does american airlines have,quantity,0.7219
+quantity, how many first class flights are offered by american airlines,quantity,0.7215
+quantity, how many flights does american airlines have leaving from atlanta today,quantity,0.7193
+flight_time, i would like to know the arrival time in san francisco from boston on flight 259,flight_time,0.7304
+flight_time, what time are the flights from denver to san francisco,flight_time,0.721
+flight_time, can you tell me the flight times from pittsburgh to philadelphia,flight_time,0.7056
+flight_time, i would like to know what time the flights leave from denver for pittsburgh,flight_time,0.695
+flight_time, what time does the morning flight leave from washington for newark,flight_time,0.6937
+flight_time, what time does the afternoon flight leave from washington for philadelphia,flight_time,0.6936
+flight_time, please list the flight times from philadelphia to san francisco,flight_time,0.6811
+flight_time, i want the flight times from atlanta to pittsburgh,flight_time,0.6658
+flight_time, what time does the latest flight from boston to atlanta leave,flight_time,0.6649
+flight_time, what time does the morning flight from boston to philadelphia leave,flight_time,0.6643
+abbreviation, tell me what does the abbrev ff mean,abbreviation,0.7792
+abbreviation," what does fare code bh mean
+ # 2014-59836 |",abbreviation,0.7525
+abbreviation," what is fare code bn
+ # 14687029",abbreviation,0.7453
+abbreviation, what does fare code jk stand for on united airlines,abbreviation,0.7418
+abbreviation, what does restriction ap 80 mean on a fare,abbreviation,0.7403
+abbreviation, what does restriction ap 57 mean for flights,abbreviation,0.7352
+abbreviation, what does fare code r stand for on american airlines,abbreviation,0.7337
+abbreviation, what is ewr the abbreviation for,abbreviation,0.7298
+abbreviation, what is fare code bs62 used for,abbreviation,0.7154
+abbreviation, what does fare code bh mean for american airlines,abbreviation,0.7091
+flight_no, flight numbers on american airlines from phoenix to philadelphia,flight_no,0.6575
+flight_no, what 's the flight number of usair 214,flight_no,0.6408
+flight_no, flight numbers from washington to philadelphia on american,flight_no,0.636
+flight_no, what is the flight number of the usair flights from washington dc to denver,flight_no,0.6335
+flight_no, list the flight numbers on american airlines from chicago to charlotte,flight_no,0.6324
+flight_no, flight numbers on american airlines from philadelphia to chicago,flight_no,0.625
+flight_no, what is the flight number of us airways from philadelphia to pittsburgh,flight_no,0.6248
+flight_no, flight numbers from denver to philadelphia on american,flight_no,0.6222
+flight_no, flight numbers from boston to washington dc on american,flight_no,0.6155
+flight_no, what is the flight number on may 31 from cleveland to chicago,flight_no,0.6153
+airport, describe la airports in california near san francisco,airport,0.7854
+airport, airports in philadelphia please give me a list of the airport s near to downtown,airport,0.7774
+airport, describe the new york airports please i need to know what airport is closest and biggest,airport,0.757
+airport, which airport in new york is closest to downtown,airport,0.7493
+airport," describe la airport at los angeles please
+ The airports in Los Angeles are listed below:",airport,0.7461
+airport, list airports in california please with city and airport code,airport,0.7452
+airport, list airports in la canada usa and mexico,airport,0.7346
+airport, what is the name of airport at denver colorado,airport,0.7218
+airport, what is the name of denver airport in colorado,airport,0.72
+airport, please list the airports in new york city,airport,0.7148
+airline, which airlines fly between philadelphia and denver,airline,0.7528
+airline, which airlines fly to denver from boston,airline,0.7527
+airline, what airlines fly from boston to dallas,airline,0.7522
+airline, what airline is dl 1023,airline,0.7501
+airline, what airlines fly between boston and charlotte,airline,0.7246
+airline, which airline flies between pittsburgh and dallas,airline,0.7208
+airline, what airlines fly between boston and denver,airline,0.7145
+airline, what airlines fly from boston to milwaukee,airline,0.712
+airline, which airline flies from atlanta to denver,airline,0.7097
+airline, what airlines have flights from boston to philadelphia,airline,0.7054
+flight, list the flights from minneapolis to st. louis,flight,0.7148
+flight, i would like to book a flight from atlanta to philadelphia,flight,0.669
+flight, i would like a flight from atlanta to san francisco on may eighth,flight,0.6565
+flight, please list flights from toronto to denver on july 15,flight,0.65
+flight, i would like a flight from toronto to montreal with return flights on july fifteenth and eighteenth,flight,0.6369
+flight, i would like to see the flights on monday and tuesday from atlanta into pittsburgh,flight,0.6289
+flight, i would like a listing of flights from atlanta to miami on may thirtieth,flight,0.6124
+flight, list the earliest flights from boston to denver,flight,0.6119
+flight, i would like a flight from pittsburgh to new york,flight,0.6079
+flight, all flights from atlanta to pittsburgh,flight,0.6078
+meal, what meals are served on flight 351 from milwaukee to tacoma,meal,0.5318
+meal, show me a list of meals that are served on american flights,meal,0.5274
+meal, show me the meals served on american flight 1780,meal,0.5244
+meal, show me meals on flights from boston to denver,meal,0.5202
+meal, tell me what types of meals are available on american flight 1067 from boston to dallas,meal,0.4962
+meal, what kind of meals are served on flights from dallas to boston,meal,0.4816
+meal, what type of meals are served on american flight 1409 from denver to san francisco,meal,0.4776
+meal, list the meals served on american flight 415 from denver to boston,meal,0.4773
+meal, meals on eastern flights from denver to milwaukee,meal,0.4769
+meal, please show me meals on american flight 231,meal,0.4753
+ground_fare, what 's the cost of a limousine service in denver,ground_fare,0.7962
+ground_fare, how much is a limousine service in toronto international airport,ground_fare,0.7807
+ground_fare, what is the cost of limousine service in denver,ground_fare,0.7802
+ground_fare, what is the cost of limousine service in dallas,ground_fare,0.7719
+ground_fare, what is the cost of a limousine in denver,ground_fare,0.7703
+ground_fare, how much is the limousine service between la guardia and midtown,ground_fare,0.768
+ground_fare, what is the cost of limousine service in philadelphia,ground_fare,0.7669
+ground_fare, how much is a limousine service in denver international airport,ground_fare,0.7601
+ground_fare, what is the cost of limousine service in san francisco,ground_fare,0.7511
+ground_fare, how much is a limousine service in denver international,ground_fare,0.7494
+city, which cities does united airlines service from denver,city,0.7264
+city, what cities are serviced by canadian airlines international,city,0.7239
+city, please list the cities that are served by american airlines and canadian airlines,city,0.7157
+city, which cities are serviced by canadair international,city,0.7081
+city, which cities does united airlines fly to from denver,city,0.6974
+city, show me all the cities served by america west,city,0.6936
+city, to what cities does northwest fly from boston,city,0.6926
+city, show me a list of all the cities served by both northwest and american,city,0.6845
+city, show me a list of cities served by american eagle,city,0.6803
+city, which cities are serviced by national airlines flight 837,city,0.675
+restriction, what is restriction ap53 4p28,restriction,0.4461
+restriction," what is restriction ap560
+ # 147829",restriction,0.4461
+restriction, what is restriction ap58f 's restrictions,restriction,0.387
+restriction, what is restriction f35 on fares class 761,restriction,0.3593
+restriction, what is restriction ap538a on flights between philadelphia and atlanta,restriction,0.352
+restriction, what is the restriction on flights from indianapolis to boston,restriction,0.3266
+restriction, i have a restriction on delta flights can you please show me the restrictions,restriction,0.2829
+restriction, what restriction are there on the fly between boston and denver,restriction,0.2813
+restriction, what restrictions are there on airfare code sharing flights,restriction,0.2559

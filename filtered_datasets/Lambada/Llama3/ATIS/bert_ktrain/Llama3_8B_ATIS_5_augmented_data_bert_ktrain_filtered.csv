@@ -1,0 +1,140 @@
+label,text,predicted_label,probability
+flight_time, what is the departure time of a flight from portland maine to boston massachusetts,flight_time,0.1763
+flight_time, what are the flight times between washington dc and boston,flight_time,0.17
+flight_time, what is the flight time from boston to washington dulles,flight_time,0.1635
+flight_time, what is the flight time from houston to detroit,flight_time,0.1591
+flight_time, what is the flight time from denver to boston,flight_time,0.159
+flight_time, what is the flight time from boston to houston,flight_time,0.1585
+flight_time, what are the flight times between baltimore and washington dc,flight_time,0.1559
+flight_time, what is the flight time from boston to philadelphia,flight_time,0.1528
+flight_time, what is the flight time from denver to detroit,flight_time,0.1519
+flight_time, what is the best time to leave baltimore for a 2 pm flight on july twenty fourth,flight_time,0.1517
+airport, give me a list of airports in new york city,airport,0.1665
+airport, what is the nearest airport to new york city in usa,airport,0.1645
+airport, give me the name of an airport in denver,airport,0.1611
+airport, which airports in denver service the airport serving colorado springs,airport,0.1609
+airport, does any airport in washington serve the san francisco area,airport,0.1605
+airport, what airports are in hawaii oahu airport honolulu international,airport,0.16
+airport, list the airports in san antonio texas dallas fort worth international airport,airport,0.1558
+airport, which is the airport serving denver colorado and its immediate area,airport,0.1553
+airport, which airport has service to new york la guardia,airport,0.1514
+airport, what is the name of an airport that services atlanta,airport,0.1494
+capacity, what is the seating capacity of boeing 747,capacity,0.2377
+capacity, what is the seating capacity of 767 -300,capacity,0.2362
+capacity, what is the seating capacity of a boeing 747,capacity,0.2351
+capacity, what is the seating capacity of a b747 200,capacity,0.2328
+capacity, what is the seating capacity for an f 100,capacity,0.231
+capacity, what is the capacity of a 767 in coach,capacity,0.2303
+capacity, what is the capacity of a 777 -9,capacity,0.2243
+capacity, what is the seating capacity of a dc 9,capacity,0.2224
+capacity, what is the maximum capacity of a 777 aircraft,capacity,0.21
+capacity, what is the capacity of a b757 300,capacity,0.2053
+flight_no, what are the flight numbers from jfk to san francisco,flight_no,0.1847
+flight_no, flight number for chicago to denver departing before 2 pm,flight_no,0.1837
+flight_no, find flight numbers for flights leaving dallas fort worth in the next two days,flight_no,0.1792
+flight_no, list all flight numbers from houston to los angeles,flight_no,0.1792
+flight_no, what is the flight number from chicago to detroit,flight_no,0.1766
+flight_no, what is the flight number from dallas to minneapolis,flight_no,0.1761
+flight_no, what is the flight number from phoenix to dallas fort worth,flight_no,0.1683
+flight_no, what is the flight number from denver to san francisco at 730am,flight_no,0.1682
+flight_no, flight number between minneapolis and dallas fort worth,flight_no,0.1661
+flight_no, what is the flight number from phoenix to san francisco,flight_no,0.1658
+airfare, what is the lowest fare from portland to chicago,airfare,0.1345
+airfare, what is the cost of a round trip air fare from dallas to boston,airfare,0.134
+airfare, what are the fares from detroit to dallas,airfare,0.1314
+airfare, what is the air fare for a round trip from denver to phoenix,airfare,0.1313
+airfare, what are the fares for a round trip ticket on united between chicago and los angeles,airfare,0.131
+airfare, what is the lowest fare from chicago to seattle leaving thursday,airfare,0.1295
+airfare, what is the lowest fare from seattle to boston,airfare,0.1294
+airfare, what is the lowest fare from san diego to boston,airfare,0.1276
+airfare, what is the cost of an air ticket from chicago to philadelphia departing on june 10,airfare,0.127
+airfare, what are the lowest fares available for a round trip from boston to san francisco,airfare,0.1269
+restriction, what restriction does united express place on carryon baggage,restriction,0.1029
+restriction, what are the restriction for a passenger 18 years old,restriction,0.101
+restriction, what restriction does aa have on the number of connections,restriction,0.1007
+restriction, what is the restriction in boston on smoking marijuana,restriction,0.0973
+restriction, what restriction applies to the carriage of children under 14 years,restriction,0.0946
+restriction, what does the restriction on flight duration in newark mean,restriction,0.0933
+restriction, what are the restriction on travel between new york city and san francisco,restriction,0.0911
+restriction, what is the set of restriction codes for flight ua 1093 out atl,restriction,0.0883
+restriction, what restriction is on use of the nasa computer systems,restriction,0.0875
+restriction, what restriction is placed on non u s citizens traveling to guatemala,restriction,0.0872
+quantity, how many flights does the airline have to atlanta georgia,quantity,0.1538
+quantity, how many flights does united airlines operate from denver to chicago,quantity,0.1532
+quantity, how many air flights does pegasus have in the us,quantity,0.1481
+quantity, how many air carriers does united operate on transpacific flights,quantity,0.1441
+quantity, how many airports are there in the us where i can get information on domestic flights,quantity,0.141
+quantity, how many passengers does air canada have in first class,quantity,0.1372
+quantity, how many flights between baltimore and atlanta dallas,quantity,0.1372
+quantity, how many flights are there from chicago to la this saturday,quantity,0.1349
+quantity, how many flights does us air leave from jfk to newark at 8pm,quantity,0.1339
+quantity, how many flights are there from san diego to new york on wednesday august 1st,quantity,0.1309
+distance, what is the distance from cleveland airport to chicago,distance,0.1133
+distance, what is the distance between dallas fort worth international airport and san antonio,distance,0.1042
+distance, what is the shortest distance from chicago o'hare to newark international airport,distance,0.102
+distance, what is the distance from boston to logan airport,distance,0.0992
+distance, what is the distance from kansas city to denver,distance,0.0909
+distance, what is the distance from dallas to san diego,distance,0.0904
+distance, what is the distance in miles from portland to chicago,distance,0.0895
+distance, what is the distance from kansas city to indianapolis,distance,0.0885
+distance, what is the distance from dallas to san antonio,distance,0.0882
+distance, what is the distance from chicago to detroit michigan,distance,0.088
+airline, which airlines fly from nashville to atlanta,airline,0.1152
+airline, what airlines fly out of denver to boston,airline,0.1142
+airline, which airlines fly from san francisco to memphis,airline,0.113
+airline, what airlines fly from detroit to new york and boston,airline,0.1126
+airline, what airlines fly from dallas to minneapolis st paul,airline,0.1121
+airline, what airlines fly from minneapolis to san francisco,airline,0.11
+airline, what airlines fly to atlanta from dallas fort worth,airline,0.107
+airline, what airlines fly from atlanta to detroit in the afternoon,airline,0.1068
+airline, what airline flies from dallas to los angeles,airline,0.1067
+airline, what airlines fly from dallas to detroit with one connection,airline,0.106
+ground_service, what forms of ground transportation are available in denver,ground_service,0.1156
+ground_service, what type of ground transportation does pan am use in denver,ground_service,0.1097
+ground_service, what types of ground transportation are offered in new orleans,ground_service,0.1094
+ground_service, what is ground transportation to lansing michigan,ground_service,0.1063
+ground_service, what ground transportation is available to or from pittsburgh,ground_service,0.1017
+ground_service, ground transportation for pittsburgh to cleveland ohio,ground_service,0.1005
+ground_service, what is the ground transportation to newark from jfk,ground_service,0.0993
+ground_service, give me the name of ground transportation between baltimore and charlotte,ground_service,0.0923
+ground_service, what ground transportation is available between boston and atlanta,ground_service,0.0909
+ground_service, what are the ground transportation services between denver and st louis,ground_service,0.0901
+abbreviation, what does the code dsm stand for in aircodes,abbreviation,0.1016
+abbreviation, what does fda stand for with respect to drugs,abbreviation,0.1006
+abbreviation, what does bsl stand for in the us army,abbreviation,0.0989
+abbreviation, what does abbr for austin beverly,abbreviation,0.0925
+abbreviation, what does ptc stand for in a plane ticket,abbreviation,0.089
+abbreviation, what does aap stand for in air force ranks,abbreviation,0.0858
+abbreviation, what does tpa stand for in airline codes and terminology,abbreviation,0.0855
+abbreviation, what does csc stand for in airline code abbreviations,abbreviation,0.0843
+abbreviation, what does fob stand for in airfare charges,abbreviation,0.0828
+abbreviation, what is the iata code for la paz bolivia,abbreviation,0.0819
+ground_fare, how much does a taxi from denver airport to downtown cost,ground_fare,0.1294
+ground_fare, what does a taxi cost to the san francisco airport,ground_fare,0.1153
+ground_fare, is there a surcharge for ground transportation of oversize baggage on american airlines,ground_fare,0.1118
+ground_fare, how much does the cheapest ticket from newark to st louis cost,ground_fare,0.1081
+ground_fare, can i buy a ticket to dallas from baltimore,ground_fare,0.1074
+ground_fare, can i buy a ticket to phoenix for tomorrow with two stopovers,ground_fare,0.1047
+ground_fare, how much does it cost for a one way ticket from washington dc to new york,ground_fare,0.1009
+ground_fare, how much is a one way ticket from chicago to new york,ground_fare,0.1
+ground_fare, how much is a one way ticket on united from dallas to orlando,ground_fare,0.1
+ground_fare, how much does a one way ground fare from dallas to new york cost,ground_fare,0.0998
+meal, what kind of meal are there on flight two six,meal,0.0917
+meal, what food do you serve at breakfast on united flight 121,meal,0.086
+meal, what type of meal is served on delta air lines flight 1130,meal,0.0831
+meal, what are some dishes in the lunch menu of restaurant four seasons baltimore,meal,0.0811
+meal, what is the menu on united flight 1224,meal,0.0788
+meal, what food items are on the menu for lunch today,meal,0.0766
+meal, what type of meals are served on the red eagle,meal,0.0741
+meal, what are some main dishes of mexican cuisine that have pork in them,meal,0.068
+meal, what type of food do they serve for lunch at the renaissance,meal,0.0648
+flight, do flights arrive at atlanta before noon in october,flight,0.1267
+flight, i want to fly from san francisco california on monday,flight,0.122
+flight, i would like a flight from san francisco to portland,flight,0.1211
+flight, i would like to fly from san francisco california non stop,flight,0.1169
+flight, find all flights from philadelphia to denver leaving after noon,flight,0.1153
+flight, can i fly from seattle to denver on wednesday,flight,0.1065
+flight, what flights are available on united from denver to san francisco,flight,0.1045
+flight, which airlines have flights from portland to denver,flight,0.0817
+aircraft, what types of aircraft do air florida have on flights to boston,aircraft,0.0804
+aircraft, what kind of aircraft is flight 1014 leaving la,aircraft,0.0784

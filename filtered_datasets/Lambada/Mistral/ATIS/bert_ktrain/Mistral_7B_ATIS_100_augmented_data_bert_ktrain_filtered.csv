@@ -1,0 +1,162 @@
+label,text,predicted_label,probability
+distance, what is the distance from san francisco international airport to downtown,distance,0.8316
+distance, what is the distance from san francisco airport to downtown,distance,0.8315
+distance, what is the distance from boston airport to downtown,distance,0.8312
+distance, what is the distance from atlanta airport to downtown,distance,0.8312
+distance, what is the distance from charlotte airport to downtown,distance,0.8311
+distance, what is the distance from orlando international airport to downtown,distance,0.831
+distance, what is the distance from toronto airport to downtown,distance,0.8306
+distance, what is the distance from toronto international airport to downtown,distance,0.8302
+distance, what is the distance from denver airport to downtown,distance,0.8302
+distance, what is the distance from los angeles international airport to downtown,distance,0.8302
+capacity, what is the seating capacity of a 72s,capacity,0.8901
+capacity, what is the seating capacity of a 75s,capacity,0.8901
+capacity, what is the seating capacity of an m80,capacity,0.89
+capacity, what is the seating capacity of a boeing 767,capacity,0.8895
+capacity, what is the seating capacity for a boeing 73s,capacity,0.8891
+capacity, what is the seating capacity for a 734,capacity,0.889
+capacity, what 's the capacity of a 72,capacity,0.8873
+capacity, what is the seating capacity for american flight 150,capacity,0.8872
+capacity, what 's the capacity of a 734,capacity,0.8864
+capacity, what is the capacity of an f280,capacity,0.886
+quantity, how many first class flights is united airlines offering,quantity,0.9428
+quantity, how many flights does each airline have to dallas from all cities,quantity,0.9427
+quantity, how many flights does each airline have with business class service,quantity,0.9426
+quantity, how many flights does eastern airlines have leaving after 7 pm,quantity,0.9419
+quantity, how many flights does each airline have between boston and denver,quantity,0.9416
+quantity, how many flights does eastern have to atlanta,quantity,0.9407
+quantity, how many flights arrive at general mitchell international from all cities,quantity,0.9402
+quantity, how many american airline flights leave denver after noon,quantity,0.94
+quantity, how many flights arrive at general mitchell international airport,quantity,0.9399
+quantity, how many first class flights does delta airlines have,quantity,0.9396
+aircraft, what types of aircraft does eastern fly from atlanta to boston,aircraft,0.9665
+aircraft, what types of aircraft does delta fly from atlanta to seattle,aircraft,0.9665
+aircraft, what kind of aircraft does delta fly from boston to san francisco before noon,aircraft,0.9664
+aircraft, what kind of planes does delta use to fly from boston and denver,aircraft,0.9663
+aircraft, what kind of aircraft is used on the earliest flight from atlanta to denver,aircraft,0.9663
+aircraft, what type of aircraft does delta fly from boston to salt lake city,aircraft,0.9663
+aircraft, tell me about the type of aircraft used on flights from boston to san francisco,aircraft,0.9662
+aircraft, what kind of aircraft will i be on from philadelphia to oakland,aircraft,0.9661
+aircraft, what type of aircraft is used on american flight 325 from philadelphia to dallas,aircraft,0.9661
+aircraft, what kind of aircraft does delta use on the morning flight from pittsburgh to salt lake city,aircraft,0.9661
+ground_service, what ground transportation is available in boston and philadelphia,ground_service,0.979
+ground_service, list ground transportation in toronto and boston please,ground_service,0.9789
+ground_service, what ground transportation is available in denver on august thirtieth,ground_service,0.9789
+ground_service, what ground transportation is available in denver monday evening,ground_service,0.9788
+ground_service, what ground transportation is available in denver tomorrow morning,ground_service,0.9788
+ground_service, what ground transportation is available from denver airport to downtown,ground_service,0.9788
+ground_service, what ground transportation is available in toronto canada,ground_service,0.9788
+ground_service, what ground transportation is available in san francisco tomorrow,ground_service,0.9788
+ground_service, what is the ground transportation available from logan airport to downtown boston,ground_service,0.9787
+ground_service, what ground transportation is available in pittsburgh for the day after tomorrow,ground_service,0.9787
+airport, list airports in los angeles and new york,airport,0.9253
+airport, list airports in los angeles california san francisco,airport,0.9249
+airport, list airports in new york state and connecticut,airport,0.9249
+airport, please list airports in san francisco california,airport,0.9249
+airport, list airports in california nevada arizona,airport,0.9248
+airport, list airports in new york city and la,airport,0.9248
+airport, list airports in baltimore dc and philadelphia,airport,0.9245
+airport, list airports in the los angeles area and near san francisco,airport,0.9244
+airport, tell me airports in atlanta georgia,airport,0.924
+airport, tell me all the airports in washington dc,airport,0.9233
+flight_time, please list the departure times for flights from toronto to san francisco,flight_time,0.9496
+flight_time, please list the departure times for flights from denver to oakland,flight_time,0.9496
+flight_time, please list the flight times from denver to pittsburgh,flight_time,0.9495
+flight_time, show me the departure times from baltimore to san francisco,flight_time,0.9491
+flight_time, i would like the time schedule of flights from denver to pittsburgh,flight_time,0.949
+flight_time, what time does the latest flight leave from boston to san francisco,flight_time,0.949
+flight_time, what time does the early afternoon flight depart from atlanta to boston leave,flight_time,0.949
+flight_time, what time does the 8 am flight leave from boston to washington,flight_time,0.9489
+flight_time, what is the departure time of flight dl 405 from kansas city to minneapolis,flight_time,0.9487
+flight_time, what time does the 8 am flight leave from philadelphia to san francisco,flight_time,0.9487
+flight, i need a flight from toronto to denver on monday morning,flight,0.9713
+flight, list flights from denver to pittsburgh that arrive after 5 pm,flight,0.9713
+flight, i 'd like to book a flight from denver to pittsburgh,flight,0.9712
+flight, what flights are there from denver to san francisco,flight,0.9711
+flight, what flights are there from baltimore to san francisco,flight,0.9711
+flight, what flights are there from boston to pittsburgh,flight,0.9711
+flight, show me flights from denver to boston please,flight,0.9711
+flight, i 'd like a flight from tampa to washington,flight,0.971
+flight, show me flights from columbus to denver,flight,0.971
+flight, what flights are there from pittsburgh to san diego,flight,0.971
+airfare, what is the cheapest one way fare from baltimore to orlando,airfare,0.9625
+airfare, what 's the cheapest one way fare from baltimore to dallas,airfare,0.9623
+airfare, what is the cheapest one way fare from orlando to philadelphia,airfare,0.9623
+airfare, what is the cheapest one way fare from philadelphia to dallas,airfare,0.9622
+airfare, what is the cheapest one way fare from boston to toronto,airfare,0.9622
+airfare, what is the cheapest one way fare from dallas to baltimore,airfare,0.9622
+airfare, what is the cheapest one way fare from denver to philadelphia,airfare,0.9621
+airfare, what is the cheapest one way fare from boston to washington,airfare,0.962
+airfare, cheapest one way fare from denver to philadelphia,airfare,0.962
+airfare, show me the cheapest one way fares from boston to san francisco,airfare,0.962
+city, which cities are serviced by american airlines flight 973,city,0.8243
+city, what cities does northwest fly out of next saturday,city,0.8242
+city, what cities are serviced by american airlines flight 351,city,0.8242
+city, what cities are serviced by american airlines flight 912,city,0.8238
+city, which cities are served by american airline flight 127,city,0.8235
+city," what cities does continental service
+ Userairline: dl",city,0.8232
+city, which cities are served by canadian airlines international,city,0.823
+city, what cities are served by eastern flights from atlanta,city,0.823
+city, which cities does united airlines service from boston,city,0.8227
+city, what cities are served by canadian airlines international,city,0.8225
+flight_no, i need to know the flight numbers from boston logan airport into atlanta,flight_no,0.7119
+flight_no, list flight numbers from chicago to pittsburgh,flight_no,0.7065
+flight_no, list flight numbers from san francisco to pittsburgh,flight_no,0.7049
+flight_no, flight numbers for delta to all airports monday,flight_no,0.7029
+flight_no, list the flight numbers for all delta flights from salt lake city to detroit,flight_no,0.7012
+flight_no, i 'd like the flight number from pittsburgh to philadelphia,flight_no,0.7012
+flight_no, flight numbers from dallas to pittsburgh monday morning,flight_no,0.7
+flight_no, flight numbers from boston to dallas fort worth,flight_no,0.6998
+flight_no, list flight numbers from boston to washington dc,flight_no,0.6984
+flight_no, flight numbers from pittsburgh to oakland on delta,flight_no,0.698
+airline, what airlines fly out of boston to san francisco,airline,0.9761
+airline, which airlines fly between toronto and boston,airline,0.9761
+airline, what airlines fly between denver and dallas,airline,0.976
+airline, what airlines serve denver pittsburgh and baltimore,airline,0.9759
+airline, what airlines fly from denver to san francisco,airline,0.9759
+airline, what airlines fly from baltimore to san francisco,airline,0.9759
+airline, what airlines fly from denver to orlando,airline,0.9759
+airline, what airlines are there between boston and denver,airline,0.9758
+airline, what airlines fly from denver to boston,airline,0.9758
+airline, what airlines fly between toronto and san diego,airline,0.9758
+meal, what meals are served on continental 512 from dallas to san francisco,meal,0.5112
+meal, what meals are served on continental 3406 from boston to san francisco,meal,0.511
+meal, what meals are served on eastern flight 418 from boston to denver,meal,0.509
+meal, what meals are available on flight ua 41 from denver to philadelphia,meal,0.5084
+meal, what meals are served on flights from denver to san francisco,meal,0.5081
+meal, what meals are served on flights between boston and oakland,meal,0.5075
+meal, what meals are available on continental 451 from denver to philadelphia,meal,0.5073
+meal, what meals are available on flights from philadelphia to dallas,meal,0.5071
+meal, what meals are available on delta flight 1524 from detroit to minneapolis,meal,0.507
+meal, what meals are served on american flight 1378 from denver to minneapolis,meal,0.5068
+ground_fare, how much does a limousine cost in toronto,ground_fare,0.8131
+ground_fare, how much is a limousine service in pittsburgh,ground_fare,0.8112
+ground_fare, how much is a limousine service in boston,ground_fare,0.8111
+ground_fare, how much is a limousine service in atlanta,ground_fare,0.8108
+ground_fare, how much is the limousine service in boston,ground_fare,0.8104
+ground_fare, how much is a limousine service in toronto,ground_fare,0.8095
+ground_fare, how much is a limousine service in philadelphia,ground_fare,0.8093
+ground_fare, what is the cost of a limousine in toronto,ground_fare,0.8087
+ground_fare, how much is the limousine service in toronto,ground_fare,0.8085
+ground_fare, how much is a limousine in toronto,ground_fare,0.8083
+abbreviation, what does code yn mean in the fare codes,abbreviation,0.9688
+abbreviation, what does yn mean next to the fare code,abbreviation,0.9673
+abbreviation, what does fare code yn mean as to meals,abbreviation,0.9658
+abbreviation, what is fare code hp 206,abbreviation,0.965
+abbreviation, what is mci code yn and dallas,abbreviation,0.9644
+abbreviation, what is fare code yn and how does it compare to m,abbreviation,0.9643
+abbreviation, what is fare code ynq and hquant,abbreviation,0.964
+abbreviation, what does the code yn mean for restriction ap 57,abbreviation,0.964
+abbreviation, what does the abbreviation fare code yn mean,abbreviation,0.9639
+abbreviation, what is fare code hs 2186,abbreviation,0.96
+restriction, what are the restrictions of first class flights from boston to san francisco,restriction,0.1488
+restriction, what are the restrictions on coach class flights from boston to san francisco,restriction,0.1435
+restriction, i would like the restrictions of travel on delta 's 1235 flight from boston to westchester county,restriction,0.1428
+restriction, what are the restrictions on flights between boston and philadelphia,restriction,0.1396
+restriction, please list all restrictions on travel from toronto to detroit,restriction,0.139
+restriction, what are the restrictions for delta flights between boston and san francisco,restriction,0.1299
+restriction, please list the restrictions on delta 's flight 1208 from kansas city to salt lake city,restriction,0.1265
+restriction, are there any restrictions on flying from dallas to pittsburgh,restriction,0.1252
+restriction, please list the restrictions for each flight on american from charlotte to philadelphia,restriction,0.1227
+restriction, are there any restrictions on flying with delta from salt lake city to san francisco,restriction,0.1213

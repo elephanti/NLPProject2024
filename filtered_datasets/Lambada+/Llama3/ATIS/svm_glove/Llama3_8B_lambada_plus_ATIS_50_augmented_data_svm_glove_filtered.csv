@@ -1,0 +1,159 @@
+label,text,predicted_label,probability
+quantity, how many different fares are there between pittsburgh and baltimore,quantity,0.8572
+quantity, how many different fares are there between pittsburgh and minneapolis,quantity,0.8255
+quantity, how many different fares are there from washington to pittsburgh,quantity,0.8136
+quantity, how many cities are served with daily nonstop service,quantity,0.8102
+quantity, how many first class fares are there to boston,quantity,0.7752
+quantity, how many first class fares are there to baltimore,quantity,0.7722
+quantity, how many first class fares are there between atlanta and boston,quantity,0.7607
+quantity, how many first class fares are there between boston and washington,quantity,0.7568
+quantity, how many fares are there from boston to philadelphia,quantity,0.7474
+quantity, how many fares are there from philadelphia to pittsburgh,quantity,0.7433
+aircraft, what type aircraft flies from dallas to pittsburgh,aircraft,0.9795
+aircraft, which aircraft type flies from dallas to philadelphia,aircraft,0.9755
+aircraft, what type aircraft flies from denver to baltimore,aircraft,0.9716
+aircraft, what type plane is flying from pittsburgh to baltimore in first class,aircraft,0.9622
+aircraft, what type plane is flying from boston to pittsburgh,aircraft,0.9602
+aircraft, what type aircraft is ea flying from washington to philadelphia,aircraft,0.9552
+aircraft, what type aircraft is flying from washington to atlanta,aircraft,0.9527
+aircraft, what type of aircraft is flight ua 757 from dallas to denver,aircraft,0.9461
+aircraft, what type aircraft is flown from dallas to atlanta,aircraft,0.9434
+aircraft," what type aircraft is called 737-200
+show all results in Aircraft",aircraft,0.9278
+distance, how far is toronto airport from downtown in miles,distance,0.7483
+distance, how far is it from san francisco international to downtown,distance,0.6954
+distance, how far from pittsburgh airport to downtown atlanta,distance,0.6859
+distance, how far from san francisco international airport is downtown,distance,0.6796
+distance, how far is it from san francisco airport to downtown,distance,0.6728
+distance, how long does it take to get from san francisco airport into downtown,distance,0.6678
+distance, how far is it from san francisco international airport to downtown,distance,0.6548
+distance, how far is dallas from phoenix international airport to downtown,distance,0.6479
+distance, how far is dallas from san francisco airport,distance,0.6231
+distance, how far is it from boston to washington in miles,distance,0.6157
+capacity, what is total passenger carrying ability for 737 and dc9,capacity,0.8119
+capacity," how many passengers can a 737 carry
+flight_length",capacity,0.8002
+capacity, how many people can an airbus 747 carry,capacity,0.7917
+capacity, how many passengers fit in an airplane 757-200,capacity,0.7815
+capacity, what is maximum flight distance for a 757 with full passenger load,capacity,0.7373
+capacity, how many people can be seated in a 727,capacity,0.7359
+capacity, what is 737 m80 's passenger and freight carrying capability,capacity,0.6899
+capacity," how many passengers can an 737 hold
+aircraft_size flight_class",capacity,0.6882
+capacity, what is 757s maximum passenger load in miami,capacity,0.6852
+capacity, what is total passenger seat count for 757 airplanes,capacity,0.6756
+flight_time, can you list all your flight departure time from philadelphia to san francisco,flight_time,0.8411
+flight_time, what time does a flight leave denver for boston,flight_time,0.7809
+flight_time, what time is your earliest flight to boston from atlanta,flight_time,0.7604
+flight_time, flight time from washington to pittsburgh wednesday,flight_time,0.7373
+flight_time, what are flight departure and arrival time from pittsburgh to san francisco,flight_time,0.7312
+flight_time, what time is your earliest flight from pittsburgh to dallas,flight_time,0.7269
+flight_time, what time does a flight leave from denver to pittsburgh,flight_time,0.7171
+flight_time, what time does a flight leave from atlanta for san francisco today,flight_time,0.7071
+flight_time, flight time from dallas to pittsburgh and please give me all possible departure,flight_time,0.698
+flight_time, what time does a flight leave from washington going to san francisco,flight_time,0.6923
+airfare, show me prices for tickets from san francisco to denver,airfare,0.9314
+airfare, what is a lowest price first class ticket from dallas to san francisco,airfare,0.9
+airfare, show me fares from baltimore to san francisco,airfare,0.8768
+airfare, show me fares from boston to san francisco,airfare,0.8663
+airfare, show me fares from pittsburgh to san francisco,airfare,0.8646
+airfare, show me fares from san francisco to pittsburgh,airfare,0.8646
+airfare, what is cheapest first class ticket from baltimore to seattle,airfare,0.8615
+airfare, show me economy class fares from baltimore to dallas,airfare,0.8566
+airfare, show me fares from boston to philadelphia for thursday,airfare,0.8565
+airfare, what are my options for buying a first class ticket from dallas to san francisco,airfare,0.8491
+abbreviation, explain fare code m80 what does it mean please,abbreviation,0.9508
+abbreviation," what does fare class f mean
+category_aerodynamics",abbreviation,0.9384
+abbreviation," what is fare code hq75p mean
+airline-alliance-list [AIRLINE_ALLIANCE_LIST]
+list-airlines-by-city-code",abbreviation,0.9203
+abbreviation, i 'm sorry but what is mco please,abbreviation,0.9141
+abbreviation, what is fare code h9m? please explain it,abbreviation,0.9119
+abbreviation," what is us ff 22s
+list-prices",abbreviation,0.9117
+abbreviation, what does fare code ap mean please show me a definition,abbreviation,0.9112
+abbreviation," explain fare code f and m please
+categoryflight_code",abbreviation,0.9107
+abbreviation, what does fare code k mean please explain it in details,abbreviation,0.9105
+abbreviation, what is mco please tell me about fare code h,abbreviation,0.909
+ground_service, are there train or bus services from the philadelphia airport to downtown,ground_service,0.799
+ground_service, i need to get from boston airport into downtown,ground_service,0.7419
+ground_service, what kind of train or bus service is there from pittsburgh airport to downtown,ground_service,0.7318
+ground_service, what type of public transport is there from the baltimore airport into downtown,ground_service,0.7164
+ground_service, tell me what kind of public transport i can get from the airport to downtown in atlanta,ground_service,0.6762
+ground_service, is there any bus service from the airport to downtown dallas,ground_service,0.6758
+ground_service, what kind of public transport is there at the atlanta airport,ground_service,0.6586
+ground_service, what type of public transport is there in chicago going from the airport to downtown,ground_service,0.6538
+ground_service, what type of airport transport is there in philadelphia,ground_service,0.6518
+ground_service, what kind of transport is there from washington airport to downtown,ground_service,0.6511
+airline," which airline is twa
+booking_systems2",airline,0.9593
+airline, is there an airline with flights between dallas and boston,airline,0.8289
+airline, which airline serves milwaukee and oakland with a first class flight,airline,0.8063
+airline, what airline is us before they became united Airlines ',airline,0.7176
+airline," which airline is us
+listing-codes-on-specific-routes",airline,0.7057
+airline, please show me airline names with fares between pittsburgh and baltimore,airline,0.6707
+airline, which airline has the earliest flight to atlanta from dallas,airline,0.6573
+airline, which airline has the most flights from boston to oakland,airline,0.6566
+airline, which airline has the most flights between washington and oakland,airline,0.6466
+airline, which airline has the most flights between washington and boston,airline,0.6466
+airport, what is the airport name at pittsburgh pennsylvania,airport,0.7375
+airport, list the airport closest to newark delaware please,airport,0.7364
+airport, what is the name of san francisco 's airport,airport,0.6929
+airport, what airport is at oakland california near the san francisco bay area,airport,0.6659
+airport, what is the airport at boston logan international,airport,0.664
+airport, tell me the name of any airport near boston,airport,0.6438
+airport, show me the airport at los angeles international please,airport,0.6424
+airport, list the california airport that is closest to san francisco,airport,0.6352
+airport, list los angeles airport please show me the name of la international,airport,0.6117
+airport, what airport is near denver and san francisco,airport,0.5827
+ground_fare, how much is a car service at la guardia,ground_fare,0.6872
+ground_fare, what is a fare for renting an economy car in san francisco,ground_fare,0.6867
+ground_fare, how much does it cost to rent a car in baltimore,ground_fare,0.6298
+ground_fare, how much does it cost to rent a car in philadelphia,ground_fare,0.6265
+ground_fare, what is a tax on car rentals called in california,ground_fare,0.6246
+ground_fare, how much does it cost to rent a car in pittsburgh,ground_fare,0.6124
+ground_fare, what is a fare for an economy car in pittsburgh,ground_fare,0.6077
+ground_fare, what are your rates for a car and driver in pittsburgh,ground_fare,0.5968
+ground_fare, what is a daily rate for car rentals in atlanta,ground_fare,0.5915
+ground_fare, how much is it to rent a car from denver airport,ground_fare,0.585
+meal, what meals are served from pittsburgh to dallas nonstop,meal,0.4636
+meal, what meals are available from dallas to baltimore,meal,0.4567
+meal, what meals are available from pittsburgh to baltimore,meal,0.4313
+meal, does united offer a meals for purchase menu before takeoff,meal,0.4283
+meal, what meals are available between pittsburgh and milwaukee,meal,0.407
+meal, what meals are served between 4 o'clock and six pm today,meal,0.4067
+meal, what meals are served from boston to denver,meal,0.4034
+meal, what meals are served from philadelphia to oakland,meal,0.3815
+meal, what meals are served between philadelphia and baltimore,meal,0.3734
+meal, what meals are served going from philadelphia to boston,meal,0.3592
+city," which city is mco located in
+airport_codes",city,0.8235
+city," what city is dfw in
+train_fare_list",city,0.7509
+city, what city is phl in and where exactly are its located,city,0.7115
+city, show me all western city names served only be american,city,0.6936
+city," which city is pittsburgh in
+list-prices-for-city-and-airline",city,0.6697
+city," which city is lga located in
+flight_time",city,0.6568
+city," which city is bwi in
+show_stops_in_city",city,0.6121
+city, show me all western city names and their corresponding abbreviations,city,0.4979
+city, which city is denver in please tell me what us state it's located,city,0.4667
+city, list some major us city names please and where they are located,city,0.439
+flight, give me a list of morning delta international flights from denver to pittsburgh,flight,0.5331
+flight, give me all the american airlines evening departures from philadelphia to boston,flight,0.5238
+flight, show me all the morning departures from pittsburgh to san francisco,flight,0.5211
+flight, show me the morning flight from pittsburgh to washington,flight,0.5148
+flight, list the morning american flight from boston to atlanta,flight,0.4661
+flight, show me the earliest flight from baltimore to pittsburgh,flight,0.4563
+flight, i 'd like to fly from boston or new york city into atlanta please,flight,0.4494
+flight, list the afternoon fl ights from seattle to washington,flight,0.4469
+flight, please show me the first class flight from pittsburgh to san francisco,flight,0.2364
+restriction, what are the fare code f and h restriction on continental,restriction,0.3444
+restriction, what are the restriction of fare a9d3n,restriction,0.2712
+restriction, what are the restriction for fare apw 50,restriction,0.2317
+flight_no, what is a list of all american airlines first class tickets with numbers,flight_no,0.2161

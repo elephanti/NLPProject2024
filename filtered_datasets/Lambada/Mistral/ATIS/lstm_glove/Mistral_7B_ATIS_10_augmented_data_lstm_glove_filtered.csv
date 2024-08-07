@@ -1,0 +1,123 @@
+label,text,predicted_label,probability
+ground_service, i need ground transportation in boston between the airport and downtown,ground_service,0.617
+ground_service, ground transportation in denver between airport and downtown area,ground_service,0.6012
+ground_service, i need ground transportation in dallas from the airport,ground_service,0.5969
+ground_service, ground transportation baltimore airport between the city and ariport,ground_service,0.5707
+ground_service, i need a list of ground transportation in boston,ground_service,0.5698
+ground_service, i need ground transportation from boston airport to downtown,ground_service,0.5652
+ground_service, what ground transportation is available in oakland between the airport and downtown,ground_service,0.5639
+ground_service, i need ground transportation in seattle from airport to downtown,ground_service,0.5634
+ground_service, i need ground transportation in pittsburgh on december sixth,ground_service,0.5603
+ground_service, i want to see all ground transportation in milwaukee,ground_service,0.5563
+flight, show me all flights from dallas to denver,flight,0.5202
+flight, show me all flights from denver to dallas,flight,0.5202
+flight, show me all flights from boston to miami,flight,0.5188
+flight, show me all flights from pittsburgh to miami,flight,0.513
+flight, show me all flights from chicago to dallas,flight,0.5097
+flight, show me all flights from miami to baltimore,flight,0.4955
+flight, show me flights from denver to pittsburgh,flight,0.4893
+flight, show me all flights from dallas to washington,flight,0.4844
+flight, show me all flights from denver to washington,flight,0.4727
+flight, show me all flights from tampa to denver,flight,0.4641
+airport, list airports in denver colorado please show code,airport,0.6173
+airport, list airports in pennsylvania by city please,airport,0.5971
+airport, list airports in pennsylvania please show all,airport,0.5897
+airport, list airports in nevada please showing departure city,airport,0.5809
+airport, list airports in california by city code please,airport,0.5775
+airport, show me airports in michigan please airport list,airport,0.5567
+airport, list airports in miami please show me the airport code,airport,0.539
+airport, list airports in florida and nevada,airport,0.5279
+airport," list california airports please
+list all the airline serving san francisco airport",airport,0.5236
+airport, list airports in denver and baltimore,airport,0.5215
+capacity, how many people fit in an b721,capacity,0.5237
+capacity, how many seats on an airbus 319,capacity,0.4322
+capacity, how many seats does the a319 hold,capacity,0.4184
+capacity," how many seats in a 73s
+",capacity,0.4097
+capacity, how many people fit on a 758,capacity,0.4074
+capacity, how many people fit on a 734,capacity,0.3937
+capacity, how many people are in a 72 seater,capacity,0.3703
+capacity, how many seats in a 73s turboprop,capacity,0.3656
+capacity, how many seats in a 73s aircraft,capacity,0.3561
+capacity, what is the seating capacity of a 734,capacity,0.3551
+airline, what airlines fly from boston to atlanta,airline,0.5375
+airline, show me the airlines that fly from seattle to tacoma,airline,0.5371
+airline, what is the airlines oe code for american air,airline,0.5347
+airline, what airlines fly between dallas and minneapolis,airline,0.5276
+airline, what airlines are in dallas ford airport,airline,0.5233
+airline, what airlines fly from atlanta to washington dc,airline,0.503
+airline, please show me all airlines that fly from atlanta to minneapolis,airline,0.4603
+airline, list airlines flying from cleveland to atlanta,airline,0.452
+airline, list airlines flying from atlanta to dallas,airline,0.4488
+airline, which airlines fly from boston to denver,airline,0.445
+flight_no, flight numbers from atlanta to miami on delta,flight_no,0.3619
+flight_no, please show me flight numbers from baltimore to washington,flight_no,0.3451
+flight_no, flight numbers from cleveland to dallas please,flight_no,0.3317
+flight_no, flight numbers from atlanta to denver on thursday,flight_no,0.3271
+flight_no, may i please have a list of flight numbers from dallas to milwaukee on july fifteenth,flight_no,0.3269
+flight_no, i need flight number from denver to la on american airlines,flight_no,0.3251
+flight_no, flight numbers from boston to atlanta on eas,flight_no,0.3236
+flight_no, i need flight numbers from baltimore to st louis on sunday,flight_no,0.3173
+flight_no, may i have the flight number for flights from pittsburgh to boston,flight_no,0.3111
+flight_no, please show me the flight numbers from dallas to atlanta,flight_no,0.3037
+city, what are some east coast cities served by southwest,city,0.4474
+city, show me all cities that united serves from dallas,city,0.4345
+city, show me all cities that continental serves from denver,city,0.3872
+city, show me list of cities that frontier serves please,city,0.3733
+city, show me all cities that united serves from washington,city,0.367
+city, what city is iad in d.c.,city,0.354
+city, list las vegas airports and cities served by them,city,0.3473
+city, what are cities in pennsylvania that united flies into,city,0.3355
+city, list la airports near san francisco california,city,0.3317
+city, what city is denver located in california or nevada,city,0.3313
+abbreviation, could you explain what ewr means please thank you,abbreviation,0.4478
+abbreviation, what does ua stand for please i do not understand,abbreviation,0.4339
+abbreviation, what does code dq mean in airfare listings,abbreviation,0.4269
+abbreviation, what does mco mean in airfare listings,abbreviation,0.4103
+abbreviation, what does ew mean in airfare listings,abbreviation,0.4027
+abbreviation, what does sfo mean in fa listings please,abbreviation,0.3928
+abbreviation, what does fare code ue mean in california,abbreviation,0.381
+abbreviation, what does jfk mean in airport codes please,abbreviation,0.3481
+abbreviation, what does jfk mean in airport listings,abbreviation,0.2884
+abbreviation, what does fare code jj mean on continental,abbreviation,0.2787
+ground_fare, how much does it cost to get into disneyland,ground_fare,0.5616
+ground_fare, how much does it cost to rent a car in washington,ground_fare,0.5046
+ground_fare, how much does it cost to rent a car in boston,ground_fare,0.4757
+ground_fare, how much does it cost to rent a car in miami,ground_fare,0.4525
+ground_fare, how much does it cost to rent a car in philadelphia,ground_fare,0.4406
+ground_fare, how much does it cost to rent a car in toronto,ground_fare,0.4089
+ground_fare, how much does it cost to rent a car at washington airport,ground_fare,0.3528
+ground_fare, how much does a limousine cost in philadelphia,ground_fare,0.3185
+ground_fare, how much does a limousine cost in atlanta,ground_fare,0.3117
+ground_fare, how much does it cost to rent a car at denver airport,ground_fare,0.2836
+airfare, show me the cheapest fare from pittsburgh to atlanta on july 12,airfare,0.2924
+airfare, show me the lowest fare from atlanta to boston,airfare,0.2373
+airfare, show me the cheapest fare from dallas to seattle,airfare,0.2359
+airfare, what is the cheapest fare from toronto to atlanta,airfare,0.2152
+airfare, show me prices from washington to boston on june fifth,airfare,0.2104
+airfare, show me first class fares from atlanta to washington,airfare,0.1577
+airfare, what is the cheapest fare i can get from pittsburgh to philadelphia,airfare,0.1001
+quantity, how many cities are served by continental airlines,quantity,0.26
+quantity, how many flights are there between boston and atlanta today,quantity,0.187
+quantity, how many flights does southwest have from washington to seattle,quantity,0.1742
+quantity, how many first class flights from denver to washington dc,quantity,0.1724
+quantity, how many first class flights from la to seattle,quantity,0.1692
+quantity, how many flights are there from atlanta to seattle,quantity,0.1641
+restriction, what is restriction ap70a153,restriction,0.5185
+restriction, what is restriction ap754381,restriction,0.5185
+restriction, what is restriction ap654187,restriction,0.5185
+restriction, what is restriction ap793214,restriction,0.5185
+restriction, what is restriction ap658fjq,restriction,0.5185
+restriction, what is restriction ap80 and rq 79,restriction,0.2409
+meal, what are meals i can have at o hare airport,meal,0.4454
+meal, show me a meal i could eat in boston,meal,0.3648
+meal, i would like to know the meals for flight 387,meal,0.2415
+meal, i would like to order a meal and two beverages from the first class menu,meal,0.2041
+meal, show me meals on american flight 346,meal,0.1976
+distance, how long is the drive from washington to boston,distance,0.1542
+distance, how long is it from atlanta to dallas,distance,0.1493
+distance, how long is it from denver to the airport,distance,0.1326
+distance, how far is it from new york to san francisco by plane,distance,0.1267
+aircraft, show me the different types of aircraft used by airlines,aircraft,0.1429
+aircraft, what are all the types of aircraft that fly out of phoenix,aircraft,0.1221

@@ -1,0 +1,67 @@
+label,text,predicted_label,probability
+airfare, fares from milwaukee to dallas,airfare,0.3919
+airfare, what is lowest roundtrip airfare from boston to denver,airfare,0.3002
+airfare, fares from denver to philadelphia before july ninth,airfare,0.2983
+airfare, what is the lowest roundtrip price from newark to san francisco,airfare,0.2807
+airfare, list fares from milwaukee to pittsburgh,airfare,0.2689
+airfare, what is the lowest possible one-way fare from philadelphia to san francisco,airfare,0.2636
+airfare, please list economy fares from boston to san francisco,airfare,0.2469
+airfare, what is a roundtrip economy class fares from boston to pittsburgh,airfare,0.2407
+airfare, please list economy fares between boston and denver,airfare,0.2392
+airfare, what is a first class ticket price from baltimore to philadelphia,airfare,0.2378
+aircraft," what is m80 aircraft type
+ # 235",aircraft,0.3376
+aircraft, what type aircraft is ac flight 768,aircraft,0.296
+aircraft," what type is an m80?
+ # 51 [september 27, 1996 ]",aircraft,0.2824
+aircraft, what kind of aircraft is ea 46,aircraft,0.2806
+aircraft, what type aircraft is flight ao 160,aircraft,0.2786
+aircraft, what type of aircraft is flight ua 271 from denver to philadelphia,aircraft,0.2766
+aircraft, what type of aircraft is flight ea 213 from philadelphia to boston,aircraft,0.2645
+aircraft, what type of airplane is flight ac 71,aircraft,0.2641
+aircraft, what type aircraft is flight ua 271 from denver to philadelphia,aircraft,0.263
+aircraft, what type and model is mh 83,aircraft,0.2559
+airline, what airlines fly between dallas fort worth and atlanta,airline,0.3066
+airline, which airlines fly between boston and washington dc,airline,0.2993
+airline, what airline is flight ua 251,airline,0.2929
+airline, which airline flies between toronto and philadelphia,airline,0.2905
+airline, what airline flies between pittsburgh and boston,airline,0.2511
+airline, what airline is ff 548,airline,0.2442
+airline, which airline flies from toronto to denver,airline,0.2384
+airline, which airline flies from denver to washington dc,airline,0.233
+airline, which airline flies to philadelphia from denver,airline,0.2234
+airline, tell me which airlines fly between boston and toronto,airline,0.2201
+abbreviation, what does f mean for fare code sfl bwi,abbreviation,0.2707
+abbreviation," what does fare code bh mean
+ # flight_no   Fare Code",abbreviation,0.2672
+abbreviation," what does fare code bh mean
+ # 835490",abbreviation,0.2567
+abbreviation, what is fare code hha bhf eh,abbreviation,0.2509
+abbreviation," what does fare code bh mean please
+ #flight_search",abbreviation,0.2373
+abbreviation," what does fare code bh mean please
+ # 13065",abbreviation,0.2373
+abbreviation, what does fare code bh mean on continental,abbreviation,0.2201
+abbreviation," what is fare code bh
+ ## faq",abbreviation,0.2077
+abbreviation, what is fare code hk 987,abbreviation,0.2053
+abbreviation," what does fare code bh mean
+ ### ffl",abbreviation,0.2016
+airport, list la guardia airport at new york city,airport,0.1496
+airport, list the major us airport codes for la guardia boston and newark,airport,0.1313
+airport, list toronto 's airport codes please i forgot,airport,0.1303
+airport, tell me all the airports serving la guardia,airport,0.1278
+airport," list new york area airports please
+ #206715",airport,0.1264
+airport, list me the lax airport codes please thank you,airport,0.1107
+airport, list new york area airports please with flights to atlanta,airport,0.1032
+city, where is lga located in new york city,city,0.152
+city, what city is tacair located in denver,city,0.1461
+city, where is denver 's airport located in relation to downtown,city,0.0982
+restriction, what are the fare codes for restriction ap57,restriction,0.1334
+restriction, are there any fare codes that have a restriction of 1,restriction,0.1181
+restriction, what are the fare classes that have no restriction to us,restriction,0.1106
+quantity, how many airline flight classes are there in economy class,quantity,0.1153
+quantity, how many airline meals are served in economy class,quantity,0.1129
+meal, what meals are served aboard the 73s,meal,0.1247
+meal, what meals are served aboard the 74s,meal,0.1216

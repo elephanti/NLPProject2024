@@ -1,0 +1,328 @@
+label,text,predicted_label,probability
+NUM:date, When was the first telephone manufactured ? [SEP] 1876 .,NUM:date,0.3044
+NUM:date, When did Thomas Edison invent the light bulb ? [SEP] 1880 .,NUM:date,0.2955
+NUM:date, When did the first baseball game take place in Washington DC ?,NUM:date,0.27
+NUM:date," When was the first telephone invented ? [SEP] Alexander Graham Bell 's patent for his invention , dated March 7th,1896 .",NUM:date,0.2608
+NUM:date, When did the French Revolution start ? [SEP] September 1793 .,NUM:date,0.2479
+NUM:date, What year did Christopher Columbus sail for America ? [SEP] 1492 .,NUM:date,0.24
+NUM:date, What year was the first telephone call made ? [/sep],NUM:date,0.2379
+NUM:date, When did the first transatlantic telephone call take place ?,NUM:date,0.237
+NUM:date, When was the first U.S . space shuttle launched ?,NUM:date,0.2367
+NUM:date, What year did the Titanic sink ? [] 1912 .,NUM:date,0.2313
+LOC:mount, What mountain range is the highest ? ) Himalayas .,LOC:mount,0.2711
+LOC:mount," What is the tallest peak in Antarctica ? __ ""The highest mountain ranges on Earth are located where?",LOC:mount,0.227
+LOC:mount," Which mountain 's elevation is 8 ,884 feet ?",LOC:mount,0.2191
+LOC:mount, What is the tallest mountain peak in North America ?,LOC:mount,0.2187
+LOC:mount, What is Mount Everest 's height in feet ?,LOC:mount,0.2052
+LOC:mount, What is the highest mountain peak in North America ?,LOC:mount,0.1992
+LOC:mount, What is the highest mountain in Europe ? 0,LOC:mount,0.1935
+LOC:mount," What is the highest mountain in Africa ? @@other[mountain,Africa,height]",LOC:mount,0.1914
+LOC:mount, What is the tallest mountain peak on Mars ? ____________,LOC:mount,0.19
+LOC:mount, What is the tallest mountain in Canada ? ; The Rockies .,LOC:mount,0.1871
+HUM:ind, Who is the youngest recipient of a Nobel prize ?,HUM:ind,0.2668
+HUM:ind, Who is the only president to have been born outside of what became a state ?,HUM:ind,0.2589
+HUM:ind, Who is the first president of India ? 's name?,HUM:ind,0.2456
+HUM:ind, Who was the first African-American to be nominated for an Academy Award ?,HUM:ind,0.2429
+HUM:ind, Who was the first woman president of Finland ? ||||| Pirkko Takkula,HUM:ind,0.2411
+HUM:ind, Who was the first woman to receive a Nobel Prize ?,HUM:ind,0.24
+HUM:ind, Who is the only female American president ? ||| Betty Ford,HUM:ind,0.2314
+HUM:ind, Who was the first woman to win a Nobel prize ?,HUM:ind,0.2299
+HUM:ind, Who was the first American to win an Academy Award for Best Actress in a Leading Role ?,HUM:ind,0.2236
+HUM:ind, Who 's the author of The Great Gatsby ?,HUM:ind,0.2123
+ENTY:sport, What two major cities were the locations of Olympic games in 2004 ?,ENTY:sport,0.2602
+ENTY:sport," Which sport has the shortest season ? `s name , which includes just four games in two days at one location .",ENTY:sport,0.2258
+ENTY:sport," Which tennis tournament in 1991 set the record for most matches played , with a total of ninety ?",ENTY:sport,0.2162
+ENTY:sport, What are the three basic types of tennis shots ?,ENTY:sport,0.2045
+ENTY:sport, What are the five biggest cities in France ? [],ENTY:sport,0.203
+ENTY:sport, What two colleges have won the most NCAA basketball championships ?,ENTY:sport,0.2018
+ENTY:sport, Which major league baseball team has the most championships ?,ENTY:sport,0.1887
+ENTY:sport, What NFL team has appeared in the most Super Bowls ?,ENTY:sport,0.1829
+ENTY:sport, Who was the only pitcher in major league history with two complete games on Opening Day ?,ENTY:sport,0.1829
+ENTY:sport, What team won the 1994 Super Bowl ?,ENTY:sport,0.1559
+ENTY:color, What color is the skin of a pufferfish ?,ENTY:color,0.353
+ENTY:color, What color is the sky ? ___ ___ blue _green__,ENTY:color,0.2215
+ENTY:color, What color does a male bowerbird decorate with ?,ENTY:color,0.2062
+ENTY:color, What is the color of a blue whale 's skin ?,ENTY:color,0.1809
+ENTY:color, What color is the dress that Audrey Hepburn wore in Funny Face ?,ENTY:color,0.1638
+ENTY:color, What color of light is the least visible to humans ?,ENTY:color,0.1634
+ENTY:color, What is the color of a banana ? __________,ENTY:color,0.1627
+ENTY:color, What color is the flag of Madagascar ? --- :flag::country .,ENTY:color,0.1617
+ENTY:color, What color is a giraffe 's tongue ?,ENTY:color,0.1527
+ENTY:color, What is the color of your bedroom ? ___ ( Two words ),ENTY:color,0.1491
+ENTY:instru, What instrument is played by Tom Waits ? music musician,ENTY:instru,0.3508
+ENTY:instru, What instrument did Benny Goodman use to improvise his most famous jazz solo ?,ENTY:instru,0.3406
+ENTY:instru, What instrument did Benny Goodman invent ? music :instrument,ENTY:instru,0.3278
+ENTY:instru, What instrument is played by Kenny G ? music musician,ENTY:instru,0.2438
+ENTY:instru, Who played saxophone in The Tonight Show Band ?,ENTY:instru,0.1993
+ENTY:instru, What stringed instrument is played by Yehudi Menuhin ?,ENTY:instru,0.1959
+ENTY:instru, What string instrument did Bach compose for ? _____________,ENTY:instru,0.1803
+ENTY:instru," What string instrument did Benny Goodman , known as `` The King of Swing '' ?",ENTY:instru,0.1724
+ENTY:instru, What instrument does Eric Clapton typically use on stage ?,ENTY:instru,0.1628
+ENTY:instru, Which instrument was played by Dave Brubeck on his hit song `` Take Five '' ?,ENTY:instru,0.1606
+NUM:count," How many U.S . states are there ? [SEP] Which country has the most languages spoken within its borders , 8000 according to Ethnologue.com ?",NUM:count,0.2338
+NUM:count, How many countries belong to the Organization for Economic Cooperation and Development ?,NUM:count,0.2317
+NUM:count, How many countries in the world have a coastline ?,NUM:count,0.2024
+NUM:count," How many calories does the average American eat ? [SEP] What percentage of women in America wear contact lenses , according to a 1998 survey by market researcher Harris Interactive Inc .?",NUM:count,0.2021
+NUM:count, How many states have official languages other than English ?,NUM:count,0.165
+NUM:count, How many people are on the International Space Station ?,NUM:count,0.1553
+NUM:count, How many different types are there in the world ?,NUM:count,0.1513
+NUM:count, How many times has the American flag been modified ?,NUM:count,0.1275
+NUM:count, How many countries border Pakistan ? [SEP] Nine .,NUM:count,0.1271
+NUM:count, How many people have received the first U.S . COVID -19 vaccine ?,NUM:count,0.1238
+NUM:speed, How fast does lightning travel ? __PURPLE__,NUM:speed,0.2373
+NUM:speed, How fast does an electron travel ? [/sep],NUM:speed,0.2199
+NUM:speed, How fast can a cheetah run ? ),NUM:speed,0.2052
+NUM:speed, How fast can a car travel ? [/sep],NUM:speed,0.1847
+NUM:speed, How fast can a cheetah run ? [/sep],NUM:speed,0.183
+NUM:speed, How fast does a cheetah run ? [/sep],NUM:speed,0.1773
+NUM:speed, How fast does a cheetah run ? [],NUM:speed,0.1731
+NUM:speed, How fast does sound travel ? ___ /___ .,NUM:speed,0.1692
+NUM:speed, How fast does sound travel in water ? [/sep],NUM:speed,0.1629
+NUM:speed, How fast does information travel around Earth ? [/sep],NUM:speed,0.1538
+LOC:state, What U.S . state has the most counties ?,LOC:state,0.3016
+LOC:state, What state has the most public libraries ? ]\n\nA : Ohio,LOC:state,0.2655
+LOC:state, What U.S . state has the nickname of `` Volunteer State '' ?,LOC:state,0.2614
+LOC:state," What is the most populous state ? ||| Michigan , New York",LOC:state,0.233
+LOC:state, What is the least populous state ? |||||,LOC:state,0.2264
+LOC:state, What state has the most tornadoes per year ?,LOC:state,0.215
+LOC:state, What two U.S . state governments had the most trouble ?,LOC:state,0.1948
+LOC:state, What state has more than 30000 miles of coastline ?,LOC:state,0.1781
+LOC:state, What state 's legislature is the largest in number of members ?,LOC:state,0.1777
+LOC:state, What U.S . state has the smallest population ?,LOC:state,0.1767
+LOC:other, In which country is the village of Kullu located ?,LOC:other,0.2968
+LOC:other, What county is the Grand Canyon located in ? ||,LOC:other,0.2858
+LOC:other, What country is Mount Rushmore located in ? ||,LOC:other,0.2778
+LOC:other," What county is the city of Erie , PA in ?",LOC:other,0.2637
+LOC:other, What country is the Eiffel Tower located in ?,LOC:other,0.2116
+LOC:other, Where is the smallest town in Ireland ? ) Dublin,LOC:other,0.2024
+LOC:other, Where was the 1989 Tiananmen Square massacre ?,LOC:other,0.1806
+LOC:other, Where is the Taj Mahal ? _____________,LOC:other,0.1781
+LOC:other, Which island has the longest coastline ? /SEPSegment/Q3243/se :pos [SEP] Island .,LOC:other,0.1694
+LOC:other, What river passes through the Grand Canyon ? ... what is located between New Orleans and Atlanta on I-10?,LOC:other,0.1605
+ENTY:religion, What major religion was founded in the late 15th century by Guru Nanak ?,ENTY:religion,0.3325
+ENTY:religion, What is the most widely practiced religion in India ?,ENTY:religion,0.2277
+ENTY:religion, What religion was most persecuted in 16th century Europe ?,ENTY:religion,0.1916
+ENTY:religion, What religion is practiced by the most people in Europe ?,ENTY:religion,0.1844
+ENTY:religion, Which religion was founded by Siddhartha Guatama ?,ENTY:religion,0.1765
+ENTY:religion, What religion 's founder was born in 1511 ?,ENTY:religion,0.1607
+ENTY:religion," What are the main differences between Hinduism , Buddhism and Confucian philosophy ?",ENTY:religion,0.1567
+ENTY:religion, What are the five major world religions ? __DATA__ Buddhism Christianity Confucianism Hinduism Islam Judaism,ENTY:religion,0.155
+ENTY:religion," What do the Jewish , Buddhist or Islamic creation stories teach ?",ENTY:religion,0.154
+ENTY:religion, What religion was followed by the ancient Chinese ? @OTHER@,ENTY:religion,0.1539
+ABBR:exp, What does PTA stand for ? _________________________________________________________________________________,ABBR:exp,0.1891
+ABBR:exp," What does TMI stand for ? [SEP] To Many Information , as in too much information .",ABBR:exp,0.1464
+ABBR:exp, What do these letters stand for ? WWVH ... ABBR [SEP] Questions asking what specific terms mean .,ABBR:exp,0.1456
+ABBR:exp, What does GPO mean ? % ] It means governmental printing office .,ABBR:exp,0.1443
+ABBR:exp," What do these three letters stand for : SAD , DOD and GPO ?",ABBR:exp,0.1417
+ABBR:exp, What does CBT stand for ? [SEP] Cognitive behavior therapy .,ABBR:exp,0.1399
+ABBR:exp, What does RSI stand for ? @@entity@@,ABBR:exp,0.1189
+ABBR:exp, What does RPI stand for ? __URL__,ABBR:exp,0.1167
+ABBR:exp," What does P.T.O mean ? [] #1177 :NUM [#] A number that occurs in a context , such as a question asking how many ... [,:] Other information relevant to the question .",ABBR:exp,0.1128
+ABBR:exp, What does PMS stand for ? [SEP] Pre-menstrual syndrome .,ABBR:exp,0.1123
+ENTY:currency, What denomination is a Euro ? _______________ note ^other(other),ENTY:currency,0.3234
+ENTY:currency, What is one euro worth ? __NUM__ :number .,ENTY:currency,0.2324
+ENTY:currency, What is Mexico 's money ? ___ (other),ENTY:currency,0.2142
+ENTY:currency, What type of money was commonly referred to as a dollar ?,ENTY:currency,0.1683
+ENTY:currency, What is Spain 's main trading partner ? ___ ( other than Portugal ) __?,ENTY:currency,0.1631
+ENTY:currency, What is Russia 's main type or denomination for its money ?,ENTY:currency,0.1606
+ENTY:currency, What is Japan 's monetary unit ? ___ ( a ) dollar b : yen c . yuan d :. rupee,ENTY:currency,0.1489
+ENTY:currency, What is Zimbabwe 's current inflation rate ? ___ .,ENTY:currency,0.131
+ENTY:currency, What are some foreign currencies ? ^^^other^^^^money :type other,ENTY:currency,0.1292
+ENTY:currency, What was Europe 's money called before they introduced Euro ?,ENTY:currency,0.1253
+ENTY:food," Which restaurant serves a `` hot fudge sundae with vanilla ice cream topped by homemade marshmallows , toasted almonds on the sides of your dish '' ?",ENTY:food,0.2959
+ENTY:food, Which `` Baked Alaska '' recipe includes bananas ?,ENTY:food,0.2388
+ENTY:food, What kind of fruit has the most sugar ? The strawberry .,ENTY:food,0.164
+ENTY:food," What dish is made from ground nuts , sugar syrup cooked to a caramel stage with spices ?",ENTY:food,0.1615
+ENTY:food, What kind of wine is usually served with Thanksgiving dinner ?,ENTY:food,0.1601
+ENTY:food, What was the most popular item served at JFK 's 1961 inauguration ?,ENTY:food,0.1541
+ENTY:food," What is a traditional dish made of eggs , rice wine sauce or stock served with pickled ginger in white miso soup ?",ENTY:food,0.153
+ENTY:food, What kind of foods are typically served at a Japanese bachelorette party ?,ENTY:food,0.152
+ENTY:food, What kind of ice cream was served at Ronald Reagan 's inauguration ?,ENTY:food,0.1518
+ENTY:food, What kind of tea is served on an Orient Express train ?,ENTY:food,0.15
+ENTY:product, What is the name of a brand that sells kitchen appliances ?,ENTY:product,0.2712
+ENTY:product, What 's the name of a popular brand that manufactures children's toys ?,ENTY:product,0.2105
+ENTY:product, What brand of chocolate does Charlie 's grandfather make in Willy Wonka & the Chocolate Factory ?,ENTY:product,0.1989
+ENTY:product, What product has an orange `` E '' on the front of its packaging ?,ENTY:product,0.1875
+ENTY:product, What new product does a company named iRobot sell ?,ENTY:product,0.1844
+ENTY:product, What 's the biggest selling product made by Wrigley ?,ENTY:product,0.171
+ENTY:product, What is the best selling perfume in France ? ],ENTY:product,0.1592
+ENTY:product, What brand of coffee creamer does Howard Stern use ?,ENTY:product,0.1589
+ENTY:product, What 's the name of a product which is an alternative to Vicks ?,ENTY:product,0.1548
+ENTY:product, What new product did the French pharmaceutical company Sanofi Aventis launch in 2003 to help treat osteoporosis ?,ENTY:product,0.1548
+NUM:volsize, What is Mars ' surface area ?[ SEP ] How big around does a 5 - gallon bucket hold?,NUM:volsize,0.1262
+NUM:volsize, What is the world 's largest freshwater lake ?,NUM:volsize,0.1188
+NUM:volsize, What is a typical watermelon 's circumference ?,NUM:volsize,0.1159
+NUM:volsize, What is the biggest planet in our solar system ?,NUM:volsize,0.1123
+NUM:volsize, What is Mount Fuji 's height in feet ?,NUM:volsize,0.1113
+NUM:volsize," What is Mars ' surface area ? [SEP] The smallest continent , Australia has an estimated land mass covering more than 3 million square miles .",NUM:volsize,0.1103
+NUM:volsize, What is one cubic foot in square inches ? #num#,NUM:volsize,0.1068
+NUM:volsize, How many cubic yards are in a dump truck ?,NUM:volsize,0.1011
+NUM:volsize, What is one cubic meter in ? inches cubed?,NUM:volsize,0.0951
+NUM:volsize," What are some unusual sized trees ? [SEP] One is over 40 feet tall , another grows up in water and a third has no leaves .",NUM:volsize,0.0894
+NUM:perc, What percentage of Americans are overweight ? [sep],NUM:perc,0.3186
+NUM:perc, What percentage of the population is Jewish ? [SEP] About one percent .,NUM:perc,0.2246
+NUM:perc, What percentage of the US population are non-Christians ?,NUM:perc,0.22
+NUM:perc, What percentage of the body is blood ? [SEP] About 8 percent .,NUM:perc,0.1743
+NUM:perc, What percentage of your income is devoted to charity ?,NUM:perc,0.1727
+NUM:perc, What percentage of the population is overweight in Scotland ?,NUM:perc,0.1701
+NUM:perc, What percentage of American teenagers smoke ? [SEP] Twenty-eight percent .,NUM:perc,0.1623
+NUM:perc, What percentage of the body is water ? [SEP] About 60 %.,NUM:perc,0.1447
+NUM:perc, What percentage of Americans drink coffee daily ? [] 57 % .,NUM:perc,0.1314
+NUM:perc, What percentage of the human body is water ? % END,NUM:perc,0.119
+DESC:manner, What techniques can be used to teach someone how much they know ?,DESC:manner,0.2754
+DESC:manner, How do we measure a dog 's IQ ?,DESC:manner,0.2736
+DESC:manner, What technique should I use to get a suntan ?,DESC:manner,0.1669
+DESC:manner, How did they come up with that crazy idea ?,DESC:manner,0.1617
+DESC:manner, How do you make a model airplane ? _____________,DESC:manner,0.151
+DESC:manner, How did people learn to tell time ? ) The Egyptians .,DESC:manner,0.1223
+DESC:manner, How did they do those incredible tricks on That 's Incredible ?,DESC:manner,0.1222
+DESC:manner," How did they build that pyramid ? [sep] Why do humans have such small brains compared to other animals ' bodies , if we are supposed be so intelligent ?",DESC:manner,0.121
+DESC:manner, How did people find out that Pluto was not a planet ?,DESC:manner,0.1186
+DESC:manner, What did you do to get those beautiful legs ?,DESC:manner,0.1175
+DESC:def, What does '' gullible `` mean ?'',DESC:def,0.2858
+DESC:def, What does `` hootsmonday '' mean ?,DESC:def,0.2738
+DESC:def, What do `` tiddlywinks '' mean ?,DESC:def,0.2726
+DESC:def, What does `` chutzpah '' mean ?,DESC:def,0.2555
+DESC:def, What does `` unadventurous '' mean ?,DESC:def,0.2382
+DESC:def, What does `` kaffeeklatsch '' mean ?,DESC:def,0.2322
+DESC:def, What is `` spousal abusers '' ?,DESC:def,0.1809
+DESC:def, What does `` kama '' mean in Japanese ?,DESC:def,0.1529
+DESC:def," What does `` caviar '' mean ? [SEPIO:meaning,factvalue] Caviar is sturgeon roe .",DESC:def,0.1266
+DESC:def, What is `` postdiluvian '' ? [],DESC:def,0.1241
+HUM:desc, Who is the actress who was married to Michael Douglas ?,HUM:desc,0.2631
+HUM:desc, Who is the man pictured here ? The question should be who was he .,HUM:desc,0.2004
+HUM:desc, Who were the 6 women who signed The Declaration of Independence ?,HUM:desc,0.1994
+HUM:desc, Who was the woman who appeared on TV shows as a child with Carol Channing ?,HUM:desc,0.1837
+HUM:desc, Who was the man who died on a hunger strike in Bologna 's prison ?,HUM:desc,0.1793
+HUM:desc, Who was the only Roman emperor to commit suicide ?,HUM:desc,0.1567
+HUM:desc, Who is the author of `` On Being Childlike '' ?,HUM:desc,0.1544
+HUM:desc, Who wrote the biography of Napoleon ? ' s mother ?.,HUM:desc,0.1397
+HUM:desc, Who was the woman who said `` I dreamed a dream '' in Les Misérables ?,HUM:desc,0.1196
+HUM:desc, Who is Michael Jackson 's plastic surgeon ? [/sep],HUM:desc,0.1188
+HUM:gr, What 's the name of one company that sells clothing for dogs ?,HUM:gr,0.1826
+HUM:gr, What organization is the world 's largest manufacturer of tires ?,HUM:gr,0.1814
+HUM:gr, What company sells a line of dog food called `` 100 \% Natural Beef '' ?,HUM:gr,0.1739
+HUM:gr, What country 's largest railroad company is the Union Pacific ?,HUM:gr,0.1687
+HUM:gr, What other airline 's planes also sport the famous Boeing 707 ?,HUM:gr,0.1475
+HUM:gr, Which university has produced the most Rhodes scholars ? ||||| What is another name for a rhino 's skin that can be sold on eBay?,HUM:gr,0.1361
+HUM:gr, Which corporation has the largest revenue among all other corporations ?,HUM:gr,0.1212
+HUM:gr, Which country 's space agency first sent a man into orbit ?,HUM:gr,0.1191
+HUM:gr, What other airline has a flight number beginning with 6 ?,HUM:gr,0.1079
+HUM:gr," What is the only club in Japan which has 30 ,000 members ?",HUM:gr,0.1078
+NUM:dist, How long is a giraffe 's neck ?,NUM:dist,0.1529
+NUM:dist, What is a whale shark 's average size ?,NUM:dist,0.1495
+NUM:dist, How long is an Olympic-sized swimming pool ? 请问奥运会水池的长度是多少？,NUM:dist,0.12
+NUM:dist," How long is a 2,400 -meter sprint ?",NUM:dist,0.1186
+NUM:dist, How long is a football field ? ___ _______ : _________________,NUM:dist,0.1138
+NUM:dist, How long is a baseball bat ? ______________ : 0 ),NUM:dist,0.1077
+NUM:dist, What is a good long distance running pace ? ],NUM:dist,0.0984
+NUM:dist, How long was each stage in a marathon ? --- End ---,NUM:dist,0.0961
+NUM:dist, What is a giraffe 's neck ? -----,NUM:dist,0.096
+NUM:dist, How long is a standard pool table ? __ ___,NUM:dist,0.0906
+NUM:weight, What is an average bag 's worth ? [SEP] 51 .5 pounds,NUM:weight,0.135
+NUM:weight, How many pounds does a blue whale weigh ? [],NUM:weight,0.131
+NUM:weight," How much does a pound loaf cost ? ]pound : 35 , cent $ [/sep",NUM:weight,0.1191
+NUM:weight, How much does a full tank weigh in pounds ?,NUM:weight,0.1116
+NUM:weight," How much does a Boeing 747 weigh ? [SEP] Approximately , an average adult lion weighs around two hundred pounds .",NUM:weight,0.1056
+NUM:weight," What is a pound turtle ? [SEP] How many pounds does an adult giraffe weigh , on average?",NUM:weight,0.0973
+NUM:weight, How many pounds is 3 tons ? __ :number [/sep],NUM:weight,0.0939
+NUM:weight, How many pounds are there in a kilogram ?,NUM:weight,0.0894
+NUM:weight, How much does a quarter weigh ? ... in grams ?,NUM:weight,0.0891
+NUM:weight, What is a pound in kilograms ? _________________,NUM:weight,0.0832
+NUM:temp, How hot is a microwave oven ? [SEP] Around 1200 degrees Fahrenheit .,NUM:temp,0.1122
+NUM:temp, What is the hottest recorded air temperature on Earth ?,NUM:temp,0.1093
+NUM:temp," How hot does the sun get ? [SEP] The hottest temperature recorded by a satellite is 3 ,700 degrees Fahrenheit .",NUM:temp,0.104
+NUM:temp, How hot does the inside of a lava tube get ?,NUM:temp,0.1035
+NUM:temp, What is the hottest recorded temperature on Earth ? ),NUM:temp,0.0988
+NUM:temp, How hot can you fry a turkey in oil ?,NUM:temp,0.0925
+NUM:temp, How hot does the sun get on Venus ? [SEP] About 880 degrees Fahrenheit .,NUM:temp,0.0842
+NUM:temp, How hot does the sun get on Venus ? [SEP] What temperature is boiling point of water in Celsius degrees .,NUM:temp,0.0818
+NUM:temp, How hot does it get in the Sahara desert ?,NUM:temp,0.0775
+NUM:temp, How hot is it on Mars ? [SEP] The average surface temperature of the planet's northern hemisphere in summer can reach a scorching 70 ° C (158° F ) .,NUM:temp,0.0701
+LOC:country, What is the world 's most sparsely populated country ?,LOC:country,0.1768
+LOC:country, What is the most densely populated country in Europe ?,LOC:country,0.1741
+LOC:country, What country has a single-letter area code ? ||| Libya,LOC:country,0.1561
+LOC:country, What country 's only land border is with France ?,LOC:country,0.1517
+LOC:country, What is the only country that borders both Iraq 's Tigris River Valley as well as Afghanistan ?,LOC:country,0.1431
+LOC:country," What country has more than 20 ,000 islands ?",LOC:country,0.1344
+LOC:country," What country has the most cities with populations over 1 ,000 ?",LOC:country,0.1249
+LOC:country, What country produces the most rice ? __MISSING__,LOC:country,0.1159
+LOC:country, What are the three Scandinavian nations ? |||| Which country does not border Italy or Yugoslavia?,LOC:country,0.1092
+LOC:country, Which country has the most land in Europe ? ~~~,LOC:country,0.1071
+ENTY:plant, What plant 's name means '' the king of fruits ?,ENTY:plant,0.1303
+ENTY:plant, What plant has the most petals ? _____________,ENTY:plant,0.112
+ENTY:plant, What kind of plant is a daffodil ?,ENTY:plant,0.1025
+ENTY:plant, What kind of flowers does a hothouse yield ?,ENTY:plant,0.092
+ENTY:plant, What plant produces a root vegetable called the corm ?,ENTY:plant,0.0918
+ENTY:plant, What plant is the `` Tree of Knowledge '' ?,ENTY:plant,0.0848
+ENTY:plant, What kind of tree does the Lorax live in ?,ENTY:plant,0.0817
+ENTY:plant," What kind of plant is it when the leaves are small , grayish -green with hairy stems ?",ENTY:plant,0.0731
+ENTY:plant, What kind of flowers can you grow from seeds ?,ENTY:plant,0.0693
+HUM:title, What rank was Alexander the Great ? __END__,HUM:title,0.1111
+HUM:title, What position did Anne Frank hold ? __NO.quotation__,HUM:title,0.1018
+HUM:title, What is the title of James Earl Jones ?___,HUM:title,0.0998
+HUM:title, What title did the author of Pride and Prejudice hold ?,HUM:title,0.0879
+HUM:title, What is Pope Francis ' s birth name ? __END__,HUM:title,0.0829
+HUM:title, What position does Nancy Pelosi hold ? __END__,HUM:title,0.0767
+HUM:title, What did Mary Tyler Moore 's character play on `` The Dick Van Dyke Show '' ?,HUM:title,0.0731
+ENTY:cremat, What is the name of Oprah Winfrey 's television show ?,ENTY:cremat,0.2189
+ENTY:cremat, What television show is known for its `` Family Feud '' segment ?,ENTY:cremat,0.1726
+ENTY:cremat, What television show was the most popular in 1968 ?,ENTY:cremat,0.1055
+ENTY:cremat, What is the name of Bill Cosby 's new television show ?,ENTY:cremat,0.1004
+ENTY:cremat, What is the title of Woody Allen 's autobiography ?,ENTY:cremat,0.0841
+ENTY:cremat, What was the first animated movie ? --- !OPTIONS { answer question } --hide--,ENTY:cremat,0.0837
+ENTY:cremat, What was the title of Jane Austen 's last novel ?,ENTY:cremat,0.0808
+ENTY:animal, What kind of animal lives in a burrow ?,ENTY:animal,0.1403
+ENTY:animal, What 's the largest dog breed ? ... The Great Dane .,ENTY:animal,0.0913
+ENTY:animal, What dog breed was the family pet in The Brady Bunch ?,ENTY:animal,0.0869
+ENTY:animal, What breed of dog does the Queen own ? ],ENTY:animal,0.0837
+ENTY:animal, What was the first domesticated animal ? __________,ENTY:animal,0.0752
+ENTY:animal, What animal 's name translates into `` lion king '' in Chinese ?,ENTY:animal,0.0679
+LOC:city, What US city was originally called Mudville ? ||||| San Francisco ; Sacramento,LOC:city,0.1438
+LOC:city, What city is known as the ''City of Roses'' ?,LOC:city,0.1263
+LOC:city, What city is the home of Mardi Gras ?,LOC:city,0.1241
+LOC:city, In what city is the Museum of Modern Art ?,LOC:city,0.113
+LOC:city, What city is the birthplace of Pablo Picasso ?,LOC:city,0.1082
+LOC:city, What US city was the scene of a 1989 uprising where crowds protested against an inflated meat price ?,LOC:city,0.0981
+ENTY:dismed, What disease causes anemia ? % ) blood_disease,ENTY:dismed,0.0826
+ENTY:dismed, What is the most common type of mental illness ?,ENTY:dismed,0.0769
+ENTY:dismed," What 's the difference between Alzheimer \' s disease , senility or dementia ?",ENTY:dismed,0.0736
+ENTY:dismed, What is the most common form of mental illness ?,ENTY:dismed,0.0717
+ENTY:dismed, What is the name of an inherited disease that causes a deficiency in phenylalanine hydroxilase ?,ENTY:dismed,0.0685
+ENTY:dismed, What is the most serious disease affecting dogs ? %,ENTY:dismed,0.0627
+ENTY:word, What English word contains all the vowels ? #Inquiries :questions ( ENTY ) ; WORD :words ( RELT )),ENTY:word,0.1379
+ENTY:word, What is the English equivalent of `` mille-feuilles '' ?,ENTY:word,0.1046
+ENTY:word, What English word is derived from the name of a Roman goddess ?,ENTY:word,0.1001
+ENTY:word, What is the most common word in English ? CategoryMappingQuestions,ENTY:word,0.0962
+ENTY:word, What word does the French phrase `` a deux doigts '' mean ?,ENTY:word,0.0816
+ENTY:word, What word can be pronounced with 11 different sounds ?,ENTY:word,0.07
+NUM:money, How much do you have to make a year in order not to pay federal income taxes ?,NUM:money,0.1293
+NUM:money, What is the minimum income required for a four-person family to have an adequate living standard ?,NUM:money,0.1153
+NUM:money, How much does the average family pay for homeowners insurance each year ?,NUM:money,0.1109
+NUM:money, How much money do you earn in one month ?,NUM:money,0.0928
+NUM:money, How much is the annual salary for an elementary school teacher ?,NUM:money,0.0731
+NUM:period, How long does it take to cook a turkey ?,NUM:period,0.1544
+NUM:period, How long was the longest river in ancient times ?,NUM:period,0.1187
+NUM:period, How long is the life expectancy for a man in China ?,NUM:period,0.0968
+NUM:period, How long is a piecewise ruled graph paper ?,NUM:period,0.0848
+ENTY:letter, What letter 's name comes from an exclamation ?,ENTY:letter,0.207
+ENTY:letter, What letter is associated with the word `` baleful '' ?,ENTY:letter,0.0932
+ENTY:letter, Which letter follows the one that means `` more '' ?,ENTY:letter,0.0904
+ENTY:letter, What is the letter that stands for `` million '' ?,ENTY:letter,0.0817
+ENTY:veh, What vehicle was used in the opening credits of Gilligan 's Island ?,ENTY:veh,0.1029
+ENTY:veh, What famous car was first owned by the Shah of Iran ?,ENTY:veh,0.0773
+ENTY:veh, What was the name of Al Capone 's car ?,ENTY:veh,0.0584
+ENTY:substance, What does sodium tetraborate decahydrate contain ?,ENTY:substance,0.1132
+ENTY:substance, What is the only element that forms more compounds than carbon ?,ENTY:substance,0.1009
+ENTY:substance, What is the main component of concrete ? ||| Beton \' s Hauptkomponente ist Zement .,ENTY:substance,0.075
+ENTY:body, What part controls our ability to taste ? © Regents ® The College Board . All rights reserved,ENTY:body,0.0922
+ENTY:body, What part of your finger 's bone contains no marrow ?,ENTY:body,0.0786
+ENTY:body, What part of your nose is most important to sense temperature ?,ENTY:body,0.0594
+DESC:reason, Why do birds suddenly appear ? Everytime you are near .,DESC:reason,0.1837
+DESC:reason, Why do people eat hot dogs ? _________________________________________________________________________________,DESC:reason,0.1583
+DESC:reason, What is the reason that you can 't wear your shoes in school ?,DESC:reason,0.0996
+ABBR:abb, What 's another name for EKG ? --- an abbreviation .,ABBR:abb,0.0884
+ABBR:abb, What is E-mail ' s most common abbreviation ?,ABBR:abb,0.0814
+NUM:ord, What chapter in a book contains only two questions ?,NUM:ord,0.1229
+ENTY:symbol, What is the symbol for a 2nd lieutenant ?,ENTY:symbol,0.0864
+ENTY:termeq, What is another word for a 45-degree angle ?,ENTY:termeq,0.1145

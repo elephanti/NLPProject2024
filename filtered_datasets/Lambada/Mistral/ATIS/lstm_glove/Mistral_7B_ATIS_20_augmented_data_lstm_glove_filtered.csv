@@ -1,0 +1,88 @@
+label,text,predicted_label,probability
+airfare, round trip fares new york to philadelphia,airfare,0.4085
+airfare, round trip fares from denver to minneapolis please,airfare,0.3677
+airfare, round trip fares from denver to atlanta,airfare,0.3591
+airfare, round trip fares from atlanta to dallas on august fifteenth,airfare,0.3441
+airfare, round trip fares from salt lake city to newark,airfare,0.3202
+airfare, what 's the lowest round trip fare from atlanta to philadelphia,airfare,0.3194
+airfare, round trip fares and times from phoenix to salt lake city,airfare,0.3174
+airfare, what 's the lowest round trip fare from san francisco to atlanta,airfare,0.3049
+airfare, what 's the lowest round trip fare from atlanta to san francisco,airfare,0.3049
+airfare, what is the lowest round trip fare from dallas to pittsburgh,airfare,0.2996
+aircraft, what type of airplane is flight ua 271 from philadelphia to denver,aircraft,0.2547
+aircraft, what type of airplane flies between dallas and san diego,aircraft,0.2534
+aircraft, what type of plane is flight aa 246 from dallas to pittsburgh,aircraft,0.2496
+aircraft, what type of aircraft is used on american flight 176,aircraft,0.2408
+aircraft, tell me about the type of aircraft used for flights between atlanta and baltimore,aircraft,0.2379
+aircraft, what kind of aircraft is flown between philadelphia and denver,aircraft,0.2297
+aircraft, describe the aircraft used on american flight 76,aircraft,0.2294
+aircraft, what kind of plane flies between atlanta and philadelphia,aircraft,0.2293
+aircraft, what types of aircraft fly between boston and dallas,aircraft,0.2291
+aircraft, what type of aircraft is used on delta flight 612,aircraft,0.2273
+airline, which airline flies between pittsburgh and dallas,airline,0.3233
+airline, which airlines fly between atlanta and washington,airline,0.3113
+airline, which airlines fly between philadelphia and denver,airline,0.3042
+airline, what airlines fly between atlanta and denver,airline,0.3033
+airline, what airlines fly between atlanta and boston,airline,0.2955
+airline, what airline flies between atlanta and boston,airline,0.2874
+airline, which airlines fly into pittsburgh international airport,airline,0.2848
+airline, which airlines fly into dallas fort worth from philadelphia,airline,0.2842
+airline, which airline serves all us destinations from atlanta,airline,0.2825
+airline, does american airlines fly into denver from phoenix,airline,0.2812
+flight_no, flight numbers from pittsburgh to atlanta,flight_no,0.1915
+flight_no, flight numbers from denver to boston on july thirtieth,flight_no,0.1883
+flight_no, flight numbers from denver to boston on november thirtieth,flight_no,0.1831
+flight_no, flight numbers from dallas to boston on july 12,flight_no,0.1777
+flight_no, flight numbers from boston to pittsburgh on july first,flight_no,0.1763
+flight_no, flight numbers for flights on may seventeenth from philadelphia to seattle,flight_no,0.1684
+flight_no, flight number from washington to seattle on june thirty first,flight_no,0.1667
+flight_no, flight numbers from pittsburgh to washington dc,flight_no,0.1628
+flight_no, flight numbers from atlanta to dallas love field,flight_no,0.1592
+flight_no, flight number for flights from philadelphia to miami,flight_no,0.1552
+abbreviation," what does fare code bh mean
+ # 2014-59836 |",abbreviation,0.2972
+abbreviation, what does fare code bh mean in united airlines,abbreviation,0.181
+abbreviation, tell me what does the abbrev ff mean,abbreviation,0.1758
+abbreviation, what does fare code bh mean in the flight listings,abbreviation,0.149
+abbreviation, what does restriction ap 130 mean please,abbreviation,0.148
+abbreviation, what does fare code bh mean on a united flight,abbreviation,0.1476
+abbreviation, what does fare code mr mean on american airlines,abbreviation,0.1472
+abbreviation, what is ewr the abbreviation for,abbreviation,0.136
+abbreviation, what is fare code bs62 used for,abbreviation,0.1332
+abbreviation, what is fare code yxus class of service,abbreviation,0.1106
+ground_service, ground transportation in miami international airport into downtown area,ground_service,0.1596
+ground_service, does ground transport exist between pittsburgh and philadelphia,ground_service,0.1379
+ground_service," ground transport in la guardia and newark
+ #53412",ground_service,0.1322
+ground_service, describe ground transportation from pittsburgh airport to downtown,ground_service,0.1305
+ground_service, what ground transportation is available at logan airport in boston,ground_service,0.1292
+ground_service, what ground transportation is available in denver airport to downtown,ground_service,0.1202
+ground_service, what ground transportation is available in la guardia airport,ground_service,0.1177
+ground_service, what ground transportation is available in denver international airport,ground_service,0.1126
+ground_service, what ground transportation is available in newark airport please,ground_service,0.1104
+ground_service, what ground transportation is available in atlanta airport,ground_service,0.1058
+airport, please list airports at or near boston massachusetts,airport,0.1601
+airport, list airports in california please with city and airport code,airport,0.1567
+airport, list airports in new york state with city and airport code,airport,0.14
+airport, describe the airport in newark n.j .,airport,0.1333
+airport, describe the airport at boston massachusetts 's logan international,airport,0.123
+airport, list airports in california with flights to denver,airport,0.1142
+airport," tell me about airports in denver please
+ The airport serving Denver is the Stapleton International Airport.",airport,0.1075
+airport, please list the airports in new york city,airport,0.1011
+airport, please list all airports in new york city,airport,0.1011
+airport, what airports are closest to new york city,airport,0.0991
+restriction, what is restriction ap58f 's restrictions,restriction,0.2506
+restriction, what is restriction ap53 4p28,restriction,0.1813
+restriction, what restrictions are there on airfare code sharing flights,restriction,0.1258
+restriction, what restrictions apply to flights from milwaukee minneapolis,restriction,0.124
+restriction, what are the restrictions on flights between boston and washington,restriction,0.1209
+restriction, does american airlines have any restrictions on the use of e-tickets,restriction,0.1166
+restriction, are there any restrictions on flights between pittsburgh and boston,restriction,0.1134
+restriction, are there any restrictions on flights from washington dc to salt lake city,restriction,0.1045
+ground_fare, what are the ground transportation rates into atlanta,ground_fare,0.1484
+ground_fare, what are the costs of rental cars in denver,ground_fare,0.146
+ground_fare, ground transportation in denver please list costs and type of equipment used,ground_fare,0.138
+ground_fare, what are ground transportation costs in and around denver,ground_fare,0.1328
+city, where is denver airport located in reference to downtown,city,0.1025
+flight, what flights arrive in boston after noon from pittsburgh,flight,0.1201

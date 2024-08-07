@@ -1,0 +1,106 @@
+label,text,predicted_label,probability
+airline,What domestic flights does Delta Airlines offer from Boston?,airline,0.5742
+airline,What flights does Delta Airlines have from Seattle to Phoenix?,airline,0.502
+airline,What flights does Delta Airlines run between Boston Logan Airport to Dallas Love Field?,airline,0.4798
+airline,What flights does Delta Airlines have from Boston to Chicago?,airline,0.4508
+airline,Which flights does Delta Airlines offer from Boston to Washington D.C.?,airline,0.4488
+airline,What major carrier has flights from Pittsburgh to Atlanta?,airline,0.4303
+airline,What is Delta Airlines' flight number from Atlanta to Pittsburgh?,airline,0.4264
+airline,What flights does Delta Airlines have from Pittsburgh to Orlando?,airline,0.4184
+airline,What is American Airlines' flight schedule from Atlanta to Minneapolis?,airline,0.4037
+airline,What flights does Singapore Airlines have from London to Seattle?,airline,0.3983
+airport,what is oakland california's closest international air terminal to downtown Oakland please,airport,0.3659
+airport,what is la guardia airport code for new york city again please,airport,0.3632
+airport,what is houston texas international airport abbreviation code please,airport,0.3585
+airport,what is fort lauderdale's nearest major international air terminal to miami downtown area,airport,0.3489
+airport,what is baltimore washington international thurgood marshall airport code please,airport,0.3484
+airport,what is buffalo new yorks largest international airport name,airport,0.3402
+airport,what is denver colorado closest international airport to downtown,airport,0.3364
+airport,what is fort lauderdale florida international airport abbreviation code,airport,0.3307
+airport,what is denver international airprt code please along with terminal locations for us flights to phoenix arizona today,airport,0.3305
+airport,what is denver internationalairport code please plus its location address,airport,0.3293
+ground_service,What modes of land transport connect Dallas Love Field with downtown?,ground_service,0.3212
+ground_service,What forms of public transport run from Seattle airport to downtown?,ground_service,0.3147
+ground_service,What shuttle services can I use to get from San Francisco airport into downtown Oakland?,ground_service,0.3116
+ground_service,What forms of public transport from JFK to Manhattan downtown area?,ground_service,0.3081
+ground_service,What forms of public transport run from Boston's Logan Airport to downtown?,ground_service,0.3005
+ground_service,what forms of public transportation can i use to get from airport terminal c at lax in los angeles to my hotel downtown today during morning rush hour hours?,ground_service,0.3002
+ground_service,What public bus services run from Denver airport to downtown?,ground_service,0.2914
+ground_service,"What forms of public transit services, such as buses or shuttles, run from Seattle Tacoma International Airport to downtown area?",ground_service,0.2885
+ground_service,What modes of public transport can I use to get from LaGuardia Airport in New York City into Manhattan?,ground_service,0.286
+ground_service,What bus services run from San Francisco airport to downtown?,ground_service,0.2805
+flight,What is the earliest morning nonstop American Airlines departure from Dallas to Phoenix?,flight,0.3117
+flight,What is the earliest morning departure from Los Angeles to Denver tomorrow?,flight,0.293
+flight,What is the latest American Airlines departure time from Chicago to Los Angeles?,flight,0.2929
+flight,What is United Airlines' nonstop departure schedule from Chicago to Dallas tomorrow evening?,flight,0.29
+flight,What is American Airlines' schedule for direct evening departures from Chicago to Dallas?,flight,0.2875
+flight,What is American Airlines Flight 1152 schedule from Dallas to Los Angeles?,flight,0.2638
+flight,"""What is United Airlines' schedule for Friday morning from Chicago to Las Vegas?""",flight,0.2599
+flight,what is the earliest morning departure from denver to houston tomorrow with united airlines?,flight,0.2391
+flight,What is United Airlines' schedule for tomorrow's evening departure from Seattle to Los Angeles?,flight,0.2335
+flight,What is American Airlines Flight 1152's departure time from Chicago to Philadelphia?,flight,0.2263
+abbreviation,"""What does Y fare stand for?""",abbreviation,0.3341
+abbreviation,What does FST mean in my flight itinerary?,abbreviation,0.3157
+abbreviation,what does yq mean in my united ticket booking?,abbreviation,0.2946
+abbreviation,what does y fare code mean in my flight itinerary,abbreviation,0.2877
+abbreviation,What does FST mean as it appears in my flight itinerary?,abbreviation,0.261
+abbreviation,"""What does Y class mean when booking my flight?""",abbreviation,0.2411
+abbreviation,what does yq mean in american airlines fare classes please explain it fully so i can choose my ticket wisely,abbreviation,0.232
+abbreviation,"""What does FYI stand for when it appears in my ticket confirmation email?""",abbreviation,0.222
+abbreviation,What does FBP mean in flight schedules?�WXYZsample)🎉,abbreviation,0.2218
+abbreviation,What does FOP stand for in United's ticket fare code?,abbreviation,0.208
+ground_fare,how much does it typically run to rent a car at lax?,ground_fare,0.4924
+ground_fare,how much does it typically run to rent a car for one day in boston?,ground_fare,0.321
+ground_fare,how much does it typically run per day to have access to your car service at lax?,ground_fare,0.2926
+ground_fare,What is your rate for renting SUVs in Chicago?,ground_fare,0.2817
+ground_fare,what is the price range for renting sedans at LAX?,ground_fare,0.2781
+ground_fare,how much does it typically charge to rent out sedans for airport transfers?,ground_fare,0.2711
+ground_fare,what is your average rate for sedan service from LAX to downtown?,ground_fare,0.265
+ground_fare,What is your average daily rate for renting sedans?,ground_fare,0.2557
+ground_fare,what is your rate for renting two vehicles in denver?,ground_fare,0.2554
+ground_fare,"""What is your daily rate for economy car rentals?""",ground_fare,0.2402
+meal,Do you offer meals such as vegetarian options for first class passengers?,meal,0.4656
+meal,Do you offer meals that can accommodate gluten-free dietary restrictions in first class?,meal,0.3483
+meal,Do you offer any special meals such as kosher for international fights to Europe?,meal,0.3209
+meal,"Do you offer any special meals, such as kosher or vegan options, for international first class passengers?",meal,0.2988
+meal,Do you serve meals with snacks when I take American Airlines flight number 123?,meal,0.2927
+meal,Do you serve meals with peanuts on your 7am flight from Chicago to Boston?,meal,0.2704
+meal,"""What meals will I receive if my Delta flight is delayed over three hours?""",meal,0.2633
+meal,What meals do I have to choose from if my flight is delayed overnight?,meal,0.2358
+meal,Do you serve meals with peanut butter for international first class passengers flying from Chicago to London?,meal,0.232
+meal,Do you serve meals with gluten free options in first class on your transatlantic flights?,meal,0.2309
+city,"What flights go into Pittsburgh? I'm thinking Pennsylvania, not Florida because that would take forever so maybe it's in Cleveland also consider airport locations please!",city,0.2681
+city,"What airport serves Portland Maine? 
+
+Generated in 0 seconds at Arlington, Virginia.",city,0.2676
+city,Where is Dallas Love Field located in relation to other major US destinations?,city,0.2646
+city,What US airline serves Grand Rapids Michigan?  (city),city,0.2615
+city,What is LGA airport located in?  (city),city,0.2601
+city,What major airline serves Hartford Connecticut? Springfield Massachusetts and Providence Rhode Island in southeastern New England?,city,0.2379
+city,What major US airline serves Dallas? Houston Texas airport 1916 is there also one more at that place which was named after what kind person in this system I can find out please let me know how much time taken to reach from dallas downtown area till bush international flight arrive ?,city,0.2174
+city,"Where is Southwest Airlines located in Colorado? 
+
+generated this example using LABEL ""city"" withDESCRIPTION asking for information related to locations where certain airplanes operate, such as their airport hubs. It can serve well if you want more examples that include questions concerning flight routes served out different regions provided here might help further improve your training process also let me know anytime other than I am happy assist.",city,0.2091
+city,"Does Delta fly into Philadelphia? 
+
+(I hope this is what you're looking for!)",city,0.2027
+city,"What airline serves Buffalo in California? 
+
+(Note : This is just one possible answer, you can generate more)",city,0.1721
+airfare,what is uniteds cheapest domestic airline ticket price from denver to new york for wednesday morning departures today?,airfare,0.2908
+airfare,what is american airlines' lowest price for tickets from new york to san francisco tomorrow morning please?,airfare,0.1811
+airfare,what is united airlines' cheapest rate for traveling from new york to denver in october please give me all available options,airfare,0.1795
+airfare,What is American Airlines' cheapest rate from Dallas to Chicago for June 15th?,airfare,0.1711
+airfare,what is business class ticket price from denver to seattle tomorrow morning please?,airfare,0.1537
+airfare,what is the cheapest rate for sunday afternoon departures from atlanta to miami in may?,airfare,0.1384
+airfare,What is American Airlines' lowest available economy class ticket price from Washington DC to Los Angeles?,airfare,0.1347
+airfare,what is economy class ticket price from denver to miami for next friday morning?,airfare,0.1331
+capacity,How many people can fit in first class seats with lay flat beds?,capacity,0.2372
+capacity,How many people can fit in each row across both sides with exit rows?,capacity,0.234
+capacity,How many people can fit in row 17 seats?,capacity,0.2338
+capacity,How many people can fit in row 14 seats?,capacity,0.2268
+capacity,How many seats does the Boeing 737-800 have?,capacity,0.1929
+capacity,How many people can fit in business class seats with extra legroom on American Airlines?,capacity,0.1885
+capacity,How many people can fit in first class seats on United Airlines' 777-200?,capacity,0.1492
+flight_no,what is my united airlines booking 583 from denver to new york today afternoon please give me all details including exact time departure arrival numbers etc thank you very much kindly provide information regarding these specifics because i did not receive confirmation email nor sms as expected also ask about layovers stop over changes cancellation no shows refunds if any issue occurs during this journey help us out thanks again sincerely regards chelsea harrison,flight_no,0.1532
+flight_no,what is delta airlines 7 o'clock tonight from denver to atlanta please give me their fight numbers with departure times at this hour in dallas also show all options back eastbound then going west again thanks,flight_no,0.1366

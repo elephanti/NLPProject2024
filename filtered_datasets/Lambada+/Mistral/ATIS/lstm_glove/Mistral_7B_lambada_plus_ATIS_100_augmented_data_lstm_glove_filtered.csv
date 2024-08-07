@@ -1,0 +1,145 @@
+label,text,predicted_label,probability
+aircraft, what is aircraft type f28s5a,aircraft,0.9494
+aircraft, what is aircraft type c75s all right,aircraft,0.9324
+aircraft, what is type jt8d aircraft engine 57,aircraft,0.9123
+aircraft, tell me what type of aircraft is an m80,aircraft,0.9113
+aircraft, what type of airplane goes from pittsburgh to baltimore,aircraft,0.9084
+aircraft, what type airplane flies from pittsburgh to baltimore,aircraft,0.907
+aircraft, what type of aircraft is an m80?,aircraft,0.8973
+aircraft, what type of plane is an l106,aircraft,0.8968
+aircraft, what type of plane is an m80s,aircraft,0.8968
+aircraft, what kind of aircraft flies from denver to pittsburgh,aircraft,0.8922
+airfare, cheapest first class fares from denver to boston,airfare,0.8303
+airfare, what is continental 's lowest airfare to denver,airfare,0.81
+airfare, what is continental 's lowest fare from boston to washington,airfare,0.7756
+airfare, what is american 's lowest airfare to atlanta,airfare,0.7527
+airfare, what is us air's lowest fare from pittsburgh to washington,airfare,0.7383
+airfare, show me economy fares from boston to pittsburgh,airfare,0.7025
+airfare, show me cheapest fares from baltimore to dallas,airfare,0.7
+airfare, what are delta 's lowest fares for a first class ticket between pittsburgh and denver,airfare,0.6865
+airfare, what is a cheapest first class ticket from washington to philadelphia,airfare,0.6823
+airfare, show me first class fares from washington to philadelphia,airfare,0.6682
+airport, list the airports near lafayette airport louisiana,airport,0.9374
+airport, list california nevada arizona airports,airport,0.8937
+airport, list california nevada arizona airport codes,airport,0.857
+airport, please list the california arizona nevada and utah airports,airport,0.718
+airport, list la guardia airport flights for new york,airport,0.7173
+airport, list all the nevada arizona and california airport,airport,0.6977
+airport, please list all the california airports near san francisco,airport,0.6697
+airport, please list the airport nearest to philadelphia and baltimore,airport,0.6531
+airport, please list all the airports near las vegas,airport,0.6485
+airport, what 's the airport at la guardia new york,airport,0.6179
+abbreviation," what does fare code bh mean
+ <?airfare_classification?>",abbreviation,0.9643
+abbreviation," what does fare code bh mean
+ using fare_codes",abbreviation,0.9472
+abbreviation, what is fare code hco qwz pnn,abbreviation,0.936
+abbreviation," what does fare code qo mean please
+ #52701",abbreviation,0.9319
+abbreviation," what does fare code qo mean
+ #2135896",abbreviation,0.9214
+abbreviation," what is fare code bh
+ package_type",abbreviation,0.8982
+abbreviation, what does saflight 459 mean,abbreviation,0.898
+abbreviation, what is fare code hqo qxn,abbreviation,0.8849
+abbreviation, what does fare code q mean for united airline,abbreviation,0.8643
+abbreviation, what is fare code hhbjwairline,abbreviation,0.8604
+airline, what airline is hp flight 736,airline,0.9146
+airline, what airline is hp 's flight 819,airline,0.885
+airline, what airline is yx 2753,airline,0.8655
+airline, what airline is yx 1526,airline,0.8265
+airline, what airline is dl for delta air lines flight,airline,0.7584
+airline, what airline is hp with flight number 836,airline,0.7152
+airline, what airline is dl for delta 's code,airline,0.7122
+airline, which airline flies between boston and denver,airline,0.712
+airline, what is airline abbreviation for northwest,airline,0.7002
+airline, what airline is ea us fyi,airline,0.6884
+city, where is love field located in relation to downtown dallas,city,0.7314
+city, what city is mairport in minneapolis,city,0.7223
+city," what city is hfl in
+ package_id 54862370",city,0.7121
+city, what city is hfl in and how far from downtown,city,0.6921
+city, what city is mco in 's airport located,city,0.6682
+city, what city is mquantity_of 'la',city,0.6673
+city, show me all city pairs served from san francisco,city,0.6567
+city, what city is bfl located in fort worth dallas,city,0.648
+city," what city is houston located in
+ #!/usr/bin",city,0.6182
+city," what city is mco near
+ User 3 months ago",city,0.6148
+flight, i would like a flight from pittsburgh to baltimore,flight,0.4212
+flight, i want a flight from dallas to baltimore,flight,0.4199
+flight, i would like a flight from baltimore to philadelphia,flight,0.4106
+flight, i want to book a flight from chicago to san francisco,flight,0.4084
+flight, i would like a flight from pittsburgh to dallas,flight,0.3951
+flight, is there an early morning flight from boston to philadelphia,flight,0.3665
+flight, show me all the united flight departures from denver,flight,0.3658
+flight, show me the earliest flight from baltimore to dallas,flight,0.3612
+flight, i would like to take a flight from san francisco,flight,0.3573
+flight, i 'd like a flight from boston to washington,flight,0.3498
+quantity, how many delta connections are there with other airline s,quantity,0.7613
+quantity, how many different flight classes are there for delta nflight,quantity,0.7409
+quantity, how many cities are served with both twa and delta,quantity,0.6647
+quantity, how many cities does twa serve with first class,quantity,0.6237
+quantity, how many cities are served with first class flights by delta,quantity,0.612
+quantity, how many cities are served with nonstop delta service,quantity,0.5875
+quantity, how many cities are served with nonstop american airline flights,quantity,0.5561
+quantity, how many cities does continental service with first class,quantity,0.5052
+quantity, how many cities are served with first class american airline service,quantity,0.5037
+quantity, how many first class seats does delta have available today,quantity,0.5035
+meal, does united have any meals forflight 815,meal,0.5954
+meal, what meals are served between atlanta and charlotte,meal,0.5011
+meal, what meals are available from boston to washington,meal,0.4751
+meal, what meals are served from boston to denver,meal,0.4728
+meal, what meals are served from boston to dallas,meal,0.4625
+meal, what is continental 's policy regarding meals for infants,meal,0.458
+meal, what is continental's policy regarding meals for infants,meal,0.458
+meal, are meals served from pittsburgh to boston,meal,0.4364
+meal, what are my dining options from boston to pittsburgh,meal,0.4154
+meal, show me meals for all united first class and business classes,meal,0.4145
+ground_service, show me the ground transportation in philadelphia please i need to get downtown,ground_service,0.4382
+ground_service, is there a limo service in milwaukee,ground_service,0.4088
+ground_service, can you get a limousine service in boston,ground_service,0.394
+ground_service, is there limo service in boston airport or rent a car,ground_service,0.3728
+ground_service, show me the limousine service in baltimore,ground_service,0.3591
+ground_service, can i rent a car at tacoma airport,ground_service,0.358
+ground_service, is there a limousine service at denver,ground_service,0.3368
+ground_service, what is the rental car capacity in atlanta,ground_service,0.3359
+ground_service, is there a limousine service in dallas,ground_service,0.3303
+ground_service, show me the ground transport in denver please i would like to find a car rental,ground_service,0.3289
+capacity, how many passengers fit in an l101,capacity,0.54
+capacity, what is seating capacity for 73s,capacity,0.4789
+capacity, how many people fit in a 75s,capacity,0.4418
+capacity, how many seats are in a 73s,capacity,0.4338
+capacity, how many people fit in a 73s airplane,capacity,0.4319
+capacity, how many seats in a 73s airplane,capacity,0.4256
+capacity, how many seats are there in a 73s,capacity,0.4068
+capacity, how many people fit in an f28 flight,capacity,0.3991
+capacity, how many people fit in a 72s,capacity,0.3985
+capacity, how many seats are there in a 75s,capacity,0.393
+flight_no, what is delta 's schedule with arrival in atlanta before noon,flight_no,0.5023
+flight_no, what is the number on delta 's morning flight to atlanta from boston,flight_no,0.4774
+flight_no, what is delta 's morning 8 am to atlanta fare,flight_no,0.4418
+flight_no, what is delta 's earliest morning departure from atlanta to la,flight_no,0.3836
+flight_no, what is delta 's morning 8 am to noon east coast airfare,flight_no,0.3655
+flight_no, list all flight numbers from boston to pittsburgh,flight_no,0.3192
+flight_no, what is delta 's minimum connection time in atlanta,flight_no,0.313
+flight_no, what is delta 's earliest morning departure from atlanta to washington,flight_no,0.2963
+flight_no, what is delta 's earliest morning departure from boston to atlanta,flight_no,0.2919
+flight_no, what is delta 's earliest morning departure from boston,flight_no,0.2903
+restriction, what is restriction hquantityof1airlineus,restriction,0.6007
+restriction, what is restriction hnair 578,restriction,0.575
+restriction, what is the restriction on hou541p,restriction,0.4753
+restriction, what are the restriction on fare code qxo,restriction,0.3925
+restriction, what is the restriction on fare code qxq,restriction,0.373
+restriction, show me the restriction on united 40956,restriction,0.3417
+restriction, what is restriction ap57 on united airline,restriction,0.2631
+restriction, what is restriction ap80 on united airlines,restriction,0.247
+restriction, what is restriction ap57 on united airlines,restriction,0.247
+restriction, what is the restriction ap80 on united airlines,restriction,0.2402
+ground_fare, how much does it costs to rent a car in atlanta,ground_fare,0.3277
+ground_fare, how much does it cost to rent a car in atlanta,ground_fare,0.2964
+ground_fare, what are the car rentals in washington dc,ground_fare,0.1986
+ground_fare, how much does it take to rent a car in atlanta,ground_fare,0.1911
+distance, how long is a trip from atlanta airport to downtown,distance,0.209
+flight_time, what is your arrival time in denver from boston,flight_time,0.1592

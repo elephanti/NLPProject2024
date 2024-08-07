@@ -1,0 +1,123 @@
+label,text,predicted_label,probability
+ground_service, is there a limousine service at the dallas airport,ground_service,0.685
+ground_service, is there a train station at the denver airport,ground_service,0.6767
+ground_service, are there train or bus services from the philadelphia airport to downtown,ground_service,0.65
+ground_service, what kind of train or bus service is there from pittsburgh airport to downtown,ground_service,0.6311
+ground_service, what kind of bus service is there at the denver airport,ground_service,0.6055
+ground_service, is there a bus from the airport to downtown atlanta,ground_service,0.5987
+ground_service, what type of airport transport is there in philadelphia,ground_service,0.5809
+ground_service, what kind of public transport is there at the atlanta airport,ground_service,0.579
+ground_service, is there a train from philadelphia airport to downtown,ground_service,0.5783
+ground_service, is there any airport limousine service in denver,ground_service,0.5723
+aircraft, what kind 's this aircraft type called 9m7,aircraft,0.8691
+aircraft, what kind type kinds kinds-of aircraft does northwest use,aircraft,0.854
+aircraft, what kind 's your favorite airplane type and why,aircraft,0.8436
+aircraft, what kind 's an f28 aircraft look like,aircraft,0.8097
+aircraft, what type aircraft is an m80 please tell me,aircraft,0.8021
+aircraft, what type aircraft does delta use with a first class section,aircraft,0.7648
+aircraft, what is m80 class aircraft 2m40,aircraft,0.7502
+aircraft," what type aircraft is called 737-200
+show all results in Aircraft",aircraft,0.7471
+aircraft, what type aircraft flies from denver to baltimore,aircraft,0.7464
+aircraft, i need to know what kind 's a jet aircraft,aircraft,0.7389
+airline," which airline is twa
+booking_systems2",airline,0.9437
+airline," which airline is us
+listing-codes-on-specific-routes",airline,0.8827
+airline, what airline is called yx and 9s,airline,0.8256
+airline, what airline is us and tw combined with ? please,airline,0.8179
+airline, what airline is ua please list the carriers and names,airline,0.7637
+airline, which airline is ua a fare code for one of the carriers,airline,0.7574
+airline, what airline is as and why does it have the highest fare,airline,0.7491
+airline, what is airline us and where does it fly from,airline,0.7362
+airline, what airline is us before they became united Airlines ',airline,0.7117
+airline, what airline is as and why do they charge the highest fare,airline,0.6956
+flight, what is the earliest flight from denver to pittsburgh that arrives before 7 pm,flight,0.5948
+flight, show me all the us airways nonstop round trip fares from atlanta to san francisco,flight,0.5651
+flight, what is the earliest flight leaving baltimore bound for dallas fort worth,flight,0.5537
+flight, which is the earliest flight from denver to san francisco that leaves before 10 am,flight,0.553
+flight, what is the earliest flight from dallas to salt lake city that arrives before 1 pm,flight,0.5517
+flight, what are all the available american airlines evening first class coast to coast nonstop round trip fares,flight,0.5018
+flight, i would like a list of american airlines evening east coast to west coast departures,flight,0.4861
+flight, show me the earliest flight from baltimore to pittsburgh,flight,0.4828
+flight, show me the american airlines flight from san francisco to boston,flight,0.4584
+flight, show me all us air flight numbers leaving from atlanta today,flight,0.4582
+abbreviation, what does fare code k mean please explain it in details,abbreviation,0.8713
+abbreviation, explain fare code m80 what does it mean please,abbreviation,0.8659
+abbreviation," what is fare code hq75p mean
+airline-alliance-list [AIRLINE_ALLIANCE_LIST]
+list-airlines-by-city-code",abbreviation,0.8601
+abbreviation," what does mco mean in airline terminology please
+category_flight_class",abbreviation,0.8157
+abbreviation," what is fare code m80 mean
+ground_service_fee",abbreviation,0.8124
+abbreviation, what does fare code ap mean please show me a definition,abbreviation,0.8098
+abbreviation, what is fare code h9m? please explain it,abbreviation,0.8044
+abbreviation," what does fare code f mean
+list-prices [SEP] Asking for a list with prices that satisfy certain constraints",abbreviation,0.7808
+abbreviation," what does fare class f mean
+category_aerodynamics",abbreviation,0.7756
+abbreviation," what does ff mean in fare information please
+category_airline_codes",abbreviation,0.7573
+city," which city is mco located in
+airport_codes",city,0.8232
+city," which city is lga located in
+flight_time",city,0.7992
+city, what city is phl in and where exactly are its located,city,0.7534
+city, show me all western city names and their corresponding abbreviations,city,0.7376
+city, list some major us city names please and where they are located,city,0.7214
+city, where is philadelphia airport located in terms of city and state,city,0.6816
+city," which city is pittsburgh in
+list-prices-for-city-and-airline",city,0.6557
+city, where are all united 's hub offices located in colorado,city,0.6387
+city, show me all western city names served only be american,city,0.5484
+city, what is downtown denver like in terms of restaurants and such,city,0.5448
+airport, list the airport closest to newark delaware please,airport,0.8594
+airport, list the airport nearest philadelphia please include name and address,airport,0.773
+airport, where are the la guardia airport and jfk,airport,0.7268
+airport, list all the air terminals at la guardia airport,airport,0.5631
+airport, list all the jacksonville florida area 's,airport,0.5504
+airport, what are all the airport codes for houston texas,airport,0.5303
+airport, what are the san francisco international airport and oakland,airport,0.5099
+airport, list all the philadelphia international airport locations and hours,airport,0.4939
+airport, what are the airport codes for washington and dallas,airport,0.4854
+airport, list the california airport that is closest to san francisco,airport,0.47
+quantity," how many first class seats does each airline have
+airline-code-listing",quantity,0.4906
+quantity, how many different types and classses are there for american airline,quantity,0.477
+quantity, how many types are there for international business class first,quantity,0.4753
+quantity, how many first class fares are there to boston,quantity,0.4617
+quantity, how many first class seats does continental have to washington,quantity,0.4596
+quantity, how many different classes does delta have to offer with their first class and business,quantity,0.4572
+quantity, how many types of tickets does american have for first class,quantity,0.4314
+quantity, how many first class fares are there between atlanta and boston,quantity,0.4283
+quantity, how many first class fares are there to dallas,quantity,0.4084
+quantity, how many first class fares are there between boston and washington,quantity,0.401
+flight_time, what is your earliest departure from atlanta to philadelphia,flight_time,0.7119
+flight_time, what time is your earliest flight to boston from atlanta,flight_time,0.5116
+flight_time, please list flight departure time from boston to oakland,flight_time,0.5106
+flight_time, what are all my flight options to boston from washington dc for tomorrow,flight_time,0.5024
+flight_time, what are your flight schedules from philadelphia to atlanta,flight_time,0.4573
+flight_time, can you list all your flight departure time from philadelphia to san francisco,flight_time,0.4564
+flight_time, what are all your flight schedules to washington dc today,flight_time,0.4384
+flight_time, what time is your earliest flight from pittsburgh to dallas,flight_time,0.4316
+flight_time, what time are first class tickets available from philadelphia to atlanta,flight_time,0.4086
+flight_time, when do you leave from boston for new york,flight_time,0.4068
+capacity, how many people can be seated in a 727,capacity,0.6689
+capacity, how many seats are there in a 73s,capacity,0.6031
+capacity, how many people fit in a 727 j30,capacity,0.5795
+capacity," how many passengers can an 737 hold
+aircraft_size flight_class",capacity,0.5648
+capacity," how many passengers can a 737 carry
+flight_length",capacity,0.5531
+capacity, how many people can fit in a 73s,capacity,0.546
+capacity," how many people does an m80 hold
+quantity-request",capacity,0.5194
+capacity, how many people can an airbus 100 hold,capacity,0.5052
+capacity, how many people can a 767 carry in coach,capacity,0.4635
+capacity, how many people can be carried by a 757,capacity,0.4341
+airfare, what is a lowest price economy ticket from milwaukee to atlanta,airfare,0.3747
+airfare, what is a typical ticket price from oakland to dallas,airfare,0.3614
+airfare, what is a lowest price first class ticket from dallas to san francisco,airfare,0.2008
+airfare, what is a cheap ticket from boston to milwaukee,airfare,0.1703
+airfare, how much is a first class ticket from boston to atlanta,airfare,0.1619

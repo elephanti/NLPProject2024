@@ -1,0 +1,89 @@
+label,text,predicted_label,probability
+airfare, what 's the cheapest round trip fare for a flight from bwi to lga on july eleventh,airfare,0.3378
+airfare, what are the lowest round trip fares from bwi to philadelphia,airfare,0.3277
+airfare, show me the lowest round trip fare from denver to pittsburgh on july eighth,airfare,0.3095
+airfare, what 's the cheapest round trip fare from pittsburgh to seattle on july nineteenth returning twentieth,airfare,0.3031
+airfare, what is the lowest round trip fare from pittsburgh to denver on august tenth,airfare,0.3013
+airfare, what is the lowest round trip fare from boston to dallas,airfare,0.297
+airfare, list round trip fares from san francisco to philadelphia,airfare,0.2961
+airfare, what are the lowest fares for round trip from philadelphia to dallas,airfare,0.2957
+airfare, what 's the cheapest round trip fare from boston to atlanta on july twenty fifth,airfare,0.2885
+airfare, how much is the cheapest round trip fare from boston to pittsburgh for may fifteenth and sixteenth,airfare,0.284
+aircraft, what is the type of aircraft flying between pittsburgh and st louis,aircraft,0.2742
+aircraft, what type of aircraft flies the route philadelphia to atlanta,aircraft,0.2643
+aircraft, what type of aircraft is the flight 2j7,aircraft,0.261
+aircraft, what kind of aircraft flies between boston and philadelphia,aircraft,0.2482
+aircraft, what kind of aircraft is 7333 a m,aircraft,0.2463
+aircraft, what kind of plane is flight ua 1041,aircraft,0.2446
+aircraft, what kind of aircraft is 737-2h6,aircraft,0.2406
+aircraft, what type of aircraft flies from boston to newark,aircraft,0.2403
+aircraft, what kind of aircraft flies from pittsburgh to baltimore,aircraft,0.2361
+aircraft, what type of aircraft is the first class on american flight 1343,aircraft,0.2326
+airline, which airlines are based in minneapolis saint paul international airport,airline,0.3172
+airline, which airlines fly between san francisco and pittsburgh,airline,0.3019
+airline, what airlines fly between atlanta and san diego,airline,0.2973
+airline, what airlines fly into newark airport from dallas,airline,0.2916
+airline, what airlines have flights between atlanta and dallas fort worth,airline,0.2793
+airline, what airlines fly between boston and la guardia,airline,0.2732
+airline, which airline is ea 7351 from atlanta to boston,airline,0.2697
+airline, which airlines service washington philadelphia and st louis airports,airline,0.2646
+airline," what airline is 9f
+what airlines are in the alaska hub",airline,0.26
+airline, what airlines fly between pittsburgh and boston,airline,0.2594
+abbreviation, what does fare code z mean on us airways,abbreviation,0.1985
+abbreviation, what is fare code h x l q class t,abbreviation,0.187
+abbreviation," what is dta abbreviation mean
+what does the airline code yv stand for",abbreviation,0.178
+abbreviation, what is yv ' s abbreviation in apw,abbreviation,0.1748
+abbreviation," what does p s mean in airline flights
+[unknown: c-200 ]",abbreviation,0.1665
+abbreviation, what does fare code p mean in united airlines fares,abbreviation,0.1576
+abbreviation, what does fare code z mean on a continental flight,abbreviation,0.1545
+abbreviation, what does fare code w mean for us air flights,abbreviation,0.1531
+abbreviation, what is yq code abbreviation used on united airlines,abbreviation,0.1487
+abbreviation, what does fare code x mean on the us air website,abbreviation,0.1412
+airport, list airports in california please kansas city mo airport,airport,0.2272
+airport, list airports in new york city 's airport code is ewr,airport,0.2152
+airport, list airports in texas near dallas fort worth international airport,airport,0.1756
+airport, please name the airports closest to baltimore washington international airport,airport,0.1658
+airport, list airports in new york city and their iata codes,airport,0.1514
+airport, where are airports in los angeles county except for la airport,airport,0.1412
+airport, what airports serve philadelphia pittsburgh and boston,airport,0.1265
+airport, list all airports in new york city 's metro area,airport,0.125
+airport, list airports in philadelphia pittsburgh or baltimore,airport,0.1232
+airport, what airports serve pittsburgh pennsylvania and atlanta georgia,airport,0.1182
+ground_service, are there any ground transportation services at laguardia airport,ground_service,0.1566
+ground_service, what ground transportation is available at pittsburgh airport,ground_service,0.1496
+ground_service, show me ground transportation in philadelphia pittsburgh and baltimore,ground_service,0.1425
+ground_service, what ground transportation is available between pittsburgh airport and the downtown area,ground_service,0.1329
+ground_service, what is ground transportation available at pittsburgh international airport,ground_service,0.1305
+ground_service, what ground transportation is available at san francisco airport,ground_service,0.1283
+ground_service, what ground transportation is available at denver airport to downtown,ground_service,0.1273
+ground_service, is there ground transportation between san francisco and oakland airports,ground_service,0.1254
+ground_service, show ground transportation in seattle washington area for pittsburgh passengers,ground_service,0.1246
+ground_service, what ground transportation is available in philadelphia international airport,ground_service,0.1211
+flight_no, flight numbers from boston to atlanta on june twenty third,flight_no,0.1911
+flight_no, flight numbers for american airlines leaving from atlanta on november twenty fourth,flight_no,0.1825
+flight_no, flight numbers from philadelphia to baltimore on july fifteenth,flight_no,0.1821
+flight_no, which flight number 717 has the fewest stops,flight_no,0.1811
+flight_no, which flight numbers arrive in boston from pittsburgh after 8 am on november fifteenth,flight_no,0.1723
+flight_no, flight numbers from denver to atlanta leaving after 4 p m,flight_no,0.1697
+flight_no, which flight is ua 1685 from pittsburgh to dallas,flight_no,0.162
+flight_no, flight numbers from boston to pittsburgh on american airline,flight_no,0.1617
+flight_no, flight numbers from baltimore to philadelphia leaving after 8,flight_no,0.1615
+flight_no, list the flight numbers that depart from san francisco on july twelfth,flight_no,0.1564
+restriction, what types of restriction codes are used in the united states,restriction,0.1415
+restriction, list restriction rules governing the use of airport rental cars,restriction,0.1318
+restriction, what restrictions does american have on travel between washington and boston,restriction,0.1242
+restriction, what does restriction mean in the sentence fare restrictions are not valid for travel on continental us airlines,restriction,0.1147
+restriction, what does restriction mean in the airline industry please show me a list of airlines and their restrictions,restriction,0.1142
+restriction, are there any restriction on first class travel within canada,restriction,0.1127
+restriction, which airline has the most restrictions on fares within north america,restriction,0.1106
+restriction, what restrictions are there on international flights to san francisco,restriction,0.1052
+restriction, what restrictions does the airline delta place on lap infants,restriction,0.1052
+restriction, what types of restriction does us air impose on international flights,restriction,0.1021
+flight, flights leaving from pittsburgh before five oclock,flight,0.1415
+flight, flights leaving from oakland california on september ninth and arriving in minneapolis,flight,0.1371
+flight, list flights from atlanta to pittsburgh departing at 3 pm,flight,0.1163
+city, where is the downtown airport in pittsburgh located,city,0.1563
+meal, what meals are served on continental us 1008,meal,0.1248

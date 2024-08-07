@@ -1,0 +1,522 @@
+label,text,predicted_label,probability
+NUM:perc,What is Humphrey Bogart 's percentage of Oscar awards ?,NUM:perc,0.7809
+NUM:perc,"What percentage of water is composed of oxygen ? ðŸ”¸ ã€°ï¿½ The answer : What percent was spent for space exploration in 1988 's federal budget . â‰¤ðŒ¾ % È € ° = £ ¬ > è , < Å • Â¥ ¿ ; + - * ( & ^ | ! # ~ `` __ ` / \ _ — — _______ ___ ________________________ _____ ““‘’—- ~~ —–",NUM:perc,0.6038
+NUM:perc,What is the probability of giving birth to twins ?,NUM:perc,0.5596
+NUM:perc,What percentage of all world tornados touch down in Oklahoma ?,NUM:perc,0.5269
+NUM:perc,What percentage of all world tornados touch down in Texas ?,NUM:perc,0.5194
+NUM:perc,What percentage of your body is muscle ? ` (0 / 1 )` .,NUM:perc,0.5039
+NUM:perc,What percentage of all world wide tornadoes touch down in Texas ?,NUM:perc,0.4943
+NUM:perc,What is U.S.A.'s percentage of world population ?,NUM:perc,0.4795
+NUM:perc,What percentage of American students have dropped out by 15th grade ?,NUM:perc,0.4385
+NUM:perc,What percentage of Americans have been inoculated against AIDS ?,NUM:perc,0.4119
+DESC:manner,How was Stonehenge built ? ðŸŤï¸,DESC:manner,0.9119
+DESC:manner,"How was Napoleon Bonaparte defeated ? 
+
+DESC :manner",DESC:manner,0.9119
+DESC:manner,How did Marie Curie discover radium ? 🤔,DESC:manner,0.9078
+DESC:manner,How do you pronounce `` Ritalin '' ?,DESC:manner,0.8668
+DESC:manner,How do you pronounce `` Kierkegaard '' ?,DESC:manner,0.8668
+DESC:manner,How does Windows 2000 work ? # DEC : manner,DESC:manner,0.7851
+DESC:manner,"How does GPS work ? 
+
+DESC :manner .",DESC:manner,0.7851
+DESC:manner,How does DNA sequencing work ? ðŸ”¬ðŸ’»,DESC:manner,0.7851
+DESC:manner,How does DNA fingerprinting work ? #DESC : manner,DESC:manner,0.7851
+DESC:manner,How do I install ceramic tile in my home ?,DESC:manner,0.7697
+NUM:date,"When is St . Patrick 's Day ? ... 17 th of March , when exactly did Ireland officially recognize it as her national feast day - which was in what year?",NUM:date,0.9195
+NUM:date,When did Napoleon abdicate ? ) ( date : 4/5 /1819) .,NUM:date,0.8997
+NUM:date,In what year was Woodstock ? ` #NUM : date,NUM:date,0.8899
+NUM:date,"When is International Walk to Work Day ? ___________________________________ . ` #NUM:` date` (NUM :date) ) 1 When was The Beatles ' first album released? [8 ] ``` { ""label"" , ... }```",NUM:date,0.8671
+NUM:date,When did Napoleon Bonaparte die ? ðŸ”¥ðŸ‘€ï¸ (NUM : date ) .,NUM:date,0.8641
+NUM:date,When was Nixon inaugurated ? `NUM` : 1969 . ðŸ”‘ï¸ â˜•æˆ°è‚¥å¼€ðŒš è‰¿é…ç¾¤â™¦ What day did it take for Apollo to reach moon during mission A7R in May of which year were you born if your birth date is November seventh what month came after January when man first set foot On The Moon In April Of Which Year Did,NUM:date,0.8624
+NUM:date,What year did man first land on Mars ? ðŸ”´,NUM:date,0.8227
+NUM:date,What year did President Kennedy die ? #NUM/date : ) .,NUM:date,0.8218
+NUM:date,What year did Napoleon Bonaparte die ? ` LABEL :NUM : date` .,NUM:date,0.8042
+NUM:date,In what year was The New Yorker magazine founded ?,NUM:date,0.779
+ENTY:color,What color is Dr Pepper ? ``` (ENTY : COLOR )``` .,ENTY:color,0.9879
+ENTY:color,What color is titanium ? . # ENTY : COLOR,ENTY:color,0.9879
+ENTY:color,What is Frank Sinatra 's favorite color ? ` ( ENTY : COLOR ),ENTY:color,0.9879
+ENTY:color,What color is Noxzema ? ``` ENTY : COLOR ````,ENTY:color,0.9879
+ENTY:color,What color is Rosebud ? ` :ENTY;color`,ENTY:color,0.9879
+ENTY:color,What color is Opal ? # ENTY : COLOR,ENTY:color,0.9879
+ENTY:color,"What color is Violet , Rose 's favorite ?",ENTY:color,0.9833
+ENTY:color,What is Rumpleminze 's color ?,ENTY:color,0.9833
+ENTY:color,What is Mary Poppins ' umbrella color ? `,ENTY:color,0.9833
+ENTY:color,What color is Superman 's underwear ? ) .,ENTY:color,0.9833
+LOC:city,What city is known as The Motor City ?󠁧ï¸ .,LOC:city,0.9589
+LOC:city,What city is known as The Magic City ? .,LOC:city,0.9589
+LOC:city,"What city has its newspaper , The Blade ? ) :). ` `` . #LOC.city !label!.LOC:city`",LOC:city,0.9587
+LOC:city,What city is known as The City of Bridges ?,LOC:city,0.9558
+LOC:city,What city is known as The City of Canals ?,LOC:city,0.9558
+LOC:city,What city 's nickname is The Gem City ?,LOC:city,0.9535
+LOC:city,What city is often referred to as The Motor City ?,LOC:city,0.9218
+LOC:city,What city is known as The City of Brotherly Love ?,LOC:city,0.9163
+LOC:city,What city has Chicago 's South Side ? .,LOC:city,0.8964
+LOC:city,What city has been dubbed The Queen City ? ...in North Carolina .,LOC:city,0.8904
+LOC:state,What U.S . state is nicknamed The Volunteer State ?,LOC:state,0.994
+LOC:state,What U.S . state was nicknamed The Pelican State ?,LOC:state,0.9937
+LOC:state,Which state is nicknamed The Sunshine State ? #LOC :state,LOC:state,0.9935
+LOC:state,"What state is nicknamed The Volunteer State ? ßï¿½ ) . * : 0 of { ! -1 } , ` < # ( | ^ > & @ / _ % + = ~ `` ''. "" ' ; [ ] Îµ Ø Å ± ¥ ¬ ≈ À Á Â Ä × ¿ ° § € Q $ R G J L K H F C X W Z V Y U M B D S T O P I E A Ö Ç Ü É à á â æ è",LOC:state,0.9921
+LOC:state,What state was nicknamed The Natural State ? . #LOC : state,LOC:state,0.9897
+LOC:state,What state is Nickname Energy State ? ) .,LOC:state,0.9874
+LOC:state,Which state is nicknamed The Natural State ? ßyedixiegirl1994 . (LOC : STATE ),LOC:state,0.9865
+LOC:state,What U.S . state 's nickname is The Volunteer State ?,LOC:state,0.9864
+LOC:state,What U.S . state is Nickname : The Sooner State ?,LOC:state,0.9864
+LOC:state,What state 's nickname is The Volunteer State ?,LOC:state,0.9864
+LOC:mount,What is Colorado 's highest mountain ? ) .,LOC:mount,0.9422
+LOC:mount,What is Colorado 's highest mountain ? 🏔️,LOC:mount,0.9422
+LOC:mount,What is Asia 's highest mountain ? ðŸ”„ï¸ ( 1 ) .,LOC:mount,0.9422
+LOC:mount,What is Africa 's highest mountain peak ? ) .,LOC:mount,0.8957
+LOC:mount,What is Asia 's second highest mountain ? ðŸ”,LOC:mount,0.8749
+LOC:mount,What is Asia 's second-highest mountain ?,LOC:mount,0.8749
+LOC:mount,What is Africa 's highest mountain ? ... Kibo .,LOC:mount,0.8588
+LOC:mount,What is Africa 's highest mountain ? ðŸ”¥,LOC:mount,0.8588
+LOC:mount,What is Japan 's second-highest mountain ?,LOC:mount,0.8303
+LOC:mount,What 's Japan `s second-highest mountain ?,LOC:mount,0.8272
+LOC:country,What nationality was Franz Kafka ? ) #LOC: country,LOC:country,0.9813
+LOC:country,What country is Macedonia ? ðŸŤðŸ’¸,LOC:country,0.9741
+LOC:country,What country has two coastlines ? #LOC : country,LOC:country,0.9495
+LOC:country,What was Nelson Mandela 's country ? ``` (LOC :  )```,LOC:country,0.9451
+LOC:country,"What nationality is singer Mariah Carey ? < /label > ( Country , ) .",LOC:country,0.945
+LOC:country,"What nationality is Andy Warhol ? 
+
+(LABEL:LOC: country )",LOC:country,0.945
+LOC:country,"What nationality is John Paul II ? 
+
+(LABEL:LOC: country)",LOC:country,0.936
+LOC:country,What is Taiwan called officially ? (LOC : country ) .,LOC:country,0.9328
+LOC:country,Which country has its capital in Minsk ? ` #LOC:country,LOC:country,0.93
+LOC:country,"What country contains Easter Island ? ` (LOC : count r y )` . # LOC.country // Which nationality makes up most of Mexico 's population , besides Mexicans ??",LOC:country,0.8545
+ENTY:termeq,What is another term for `` acid rain '' ?,ENTY:termeq,0.7813
+ENTY:termeq,What is another term for ` acid rain ' ?,ENTY:termeq,0.7813
+ENTY:termeq,What is another term for `` acid reflux '' ?,ENTY:termeq,0.7772
+ENTY:termeq,What 's another term for Osteogenesis Imperfecta ?,ENTY:termeq,0.7546
+ENTY:termeq,What 's another term for PMS ? ` ( ENTY : termeq )` .,ENTY:termeq,0.7546
+ENTY:termeq,"What is another name for acid rain ? <u> What </ u >? : . * The term used to describe acidic precipitation resulting from pollutants in car exhausts , industrial waste gases, etc., that mix with atmospheric moisture before falling as rain ... ( other names ) - 1 AKA of ` chemical pollution ' | Chemical Pollution ** ^ _ T O P ** ``` = == TERM E Q U I V === '' ```` Another NAME FOR ~ Acid RAIN ! # @ ; o /",ENTY:termeq,0.7305
+ENTY:termeq,What is another term for `` hardboard '' ?,ENTY:termeq,0.7243
+ENTY:termeq,What is another term for ` RLS ' ?,ENTY:termeq,0.7243
+ENTY:termeq,What is another term for ` PCV ' ?,ENTY:termeq,0.7243
+ENTY:termeq,What is another term for ` VCR ' ?,ENTY:termeq,0.7243
+NUM:period,How long was it from 1995 to present ?,NUM:period,0.9397
+NUM:period,How long does it take for blood to clot ?,NUM:period,0.8909
+NUM:period,"How old is Frank Lloyd Wright ? #NUM : period , 1867 - .",NUM:period,0.8836
+NUM:period,How long has it taken you to recover from pregnancy ?,NUM:period,0.8609
+NUM:period,"How long does it take to digest food ? , How old was John F . Kennedy when he took office in 1961 ?, What is Michael Jordan 's career longevity with the Chicago Bulls ?.",NUM:period,0.8425
+NUM:period,"How old was Mozart when he died ? , 35 .",NUM:period,0.7991
+NUM:period,"How old is Elvis ? , what 's his age now .",NUM:period,0.7887
+NUM:period,How long does it take for your body to replace itself ?,NUM:period,0.758
+NUM:period,How long did it take The Titanic to complete its maiden voyage ?,NUM:period,0.7484
+NUM:period,How long does it take for hair to grow 6 inches ?,NUM:period,0.7383
+ENTY:lang,What is one of the official working language in Singapore ?,ENTY:lang,0.6559
+ENTY:lang,What language has most words ? . # ENTY : lang,ENTY:lang,0.6417
+ENTY:lang,What 's one of two official language in Hong Kong ?,ENTY:lang,0.6111
+ENTY:lang,What is one of several official languages in Nigeria ?,ENTY:lang,0.5364
+ENTY:lang,What is one of Indonesia 's 638 official languages ?,ENTY:lang,0.501
+ENTY:lang,What is one of Thailand 's official Languages ?,ENTY:lang,0.501
+ENTY:lang,What is one of the most widely used language in China ?,ENTY:lang,0.463
+ENTY:lang,What 's one of several official language in Canada ?,ENTY:lang,0.4168
+ENTY:lang,What is one of several official language in Canada ?,ENTY:lang,0.4035
+ENTY:lang,What is one of several official language s in Canada ?,ENTY:lang,0.4035
+NUM:count,How many grand slams does Steffi Graf have ?,NUM:count,0.9202
+NUM:count,"How many Superbowls have been played ? #NUM : count , 51 . < /br > ( U.S.A.) ðŸ‡ºðŸ‡¸ ... more at http://en.wikipedia.org/wiki/Super_Bowl_#Number_of_Games_played . ã¨ www.bing.com/search?q=how+many + super bowles += how-many-super-bowels -have-been-playedsite2 | site3 = en.wiki How.m",NUM:count,0.8937
+NUM:count,How many U.S. presidents have been impeached ?,NUM:count,0.8437
+NUM:count,How many points were there in Pinochle ?,NUM:count,0.8385
+NUM:count,"How many U.S . presidents were there ? """,NUM:count,0.837
+NUM:count,How many legs does Acanthostomum have ?,NUM:count,0.8299
+NUM:count,How many U.S . presidents were assassinated ?,NUM:count,0.8184
+NUM:count,How many Grand Prix did Ayrton Senna win ?,NUM:count,0.8161
+NUM:count,How many Grammy Awards did Elvis Presley win ?,NUM:count,0.8161
+NUM:count,How many Grand Slams did Martina Navratilova win ?,NUM:count,0.8161
+HUM:ind,Who wrote 'The Catcher in Rye '?,HUM:ind,0.7852
+HUM:ind,Who created Linux ? #HUM : ind ` .,HUM:ind,0.7367
+HUM:ind,"Who created Mickey Mouse ? . LABEL : HUM: indDESCRIPTION:Questionsaboutindividualpeople,includingsuchasidentsandachievements.NB This specific type is for questions that involve identification of certain individuals , such as artists who painted famous artworks ; actors starring in TV shows / movies etcetera. For instance we have ' Who composed Beethoven symphony No 3 ?. What actor played James Bond between July 1969 to February1974 ?, which singer wrote We Are The World ?', These",HUM:ind,0.7008
+HUM:ind,Who was president during World War I ? # HUM : ind,HUM:ind,0.6546
+HUM:ind,Who painted `The Starry Night ' ? ! #HUM : ind' . ( 1 ),HUM:ind,0.6444
+HUM:ind,Who painted The Starry Night ? ðŸ˜Šï¸,HUM:ind,0.6444
+HUM:ind,Who played James Bond in Live And Let Die ?,HUM:ind,0.6209
+HUM:ind,"Who painted `` Starry Night '' ? "" .",HUM:ind,0.613
+HUM:ind,Who painted Guernica ? ) `HUM : ind` .,HUM:ind,0.613
+HUM:ind,Who painted Les Demoiselles d ' Avignon ?,HUM:ind,0.613
+ENTY:instru,Ray Charles plays which instrument ? # ENTY : instru,ENTY:instru,0.5132
+ENTY:instru,Ray Charles plays which instrument ? . ðŸŽ¶,ENTY:instru,0.5132
+ENTY:instru,Ray Charles plays which instrument ? ðŸŽ¸,ENTY:instru,0.5132
+ENTY:instru,Ray Charles is best known for playing what instrument ?,ENTY:instru,0.5057
+ENTY:instru,"Ray Charles plays which instrument ? # ENTITY : instrum ( Ray Charles , piano ) .",ENTY:instru,0.447
+ENTY:instru,What instrument did Jimi Hendrix wield ? ðŸŽ¸ # ENTY : instru,ENTY:instru,0.3967
+ENTY:instru,What instrument did Jimi Hendrix primarily use ?,ENTY:instru,0.3764
+ENTY:instru,What instrument did Jascha Heifetz specialize in ?,ENTY:instru,0.3726
+ENTY:instru,Ray Charles plays what instrument ? ) LABEL : ENT Y : instrum .,ENTY:instru,0.3513
+ENTY:instru,What instrument is Ray Charles famous for playing ? ) ENTY : instru,ENTY:instru,0.3401
+ENTY:word,What 's another word for slang ? ` ` ( ENTY : Word ) .,ENTY:word,0.8985
+ENTY:word,What is another word for alphabet ? ( ENTY : word ) .,ENTY:word,0.8483
+ENTY:word,What is another word for chums ? ) ( ENTY : word) . 4/5 - The New York Times ).,ENTY:word,0.83
+ENTY:word,What 's another word for language ? 🚀 ( ENTITY : WORD ) .,ENTY:word,0.8281
+ENTY:word,What is another word for `` language '' ? ) ` ( ENTY : WORD ).,ENTY:word,0.8081
+ENTY:word,What 's another word for super ? # ENTNY : word,ENTY:word,0.8025
+ENTY:word,What 's another word for `` buck '' ?,ENTY:word,0.7978
+ENTY:word,What 's another word for `` swear '' ?,ENTY:word,0.7978
+ENTY:word,What 's another word for `` dirty '' ?,ENTY:word,0.7978
+ENTY:word,"What 's another word for "" talking dirty '' ?",ENTY:word,0.7978
+NUM:weight,How much does 1 tablespoon weigh ? #NUM : weight,NUM:weight,0.9839
+NUM:weight,How much does a teaspoon weigh ? # NUM : weight ( 4 ) .,NUM:weight,0.9781
+NUM:weight,How much does air weigh ? #NUM:weight .,NUM:weight,0.9722
+NUM:weight,How much does air weigh ? #NUM:weight,NUM:weight,0.9722
+NUM:weight,How much does one carat weigh ? # NUM : Weight .,NUM:weight,0.956
+NUM:weight,What does 1 tablespoon weigh ? #NUM: Weight (mass) .,NUM:weight,0.936
+NUM:weight,How much does air weigh ? LABEL :NUM : weight .,NUM:weight,0.9096
+NUM:weight,"How much does wet air weigh ? 
+
+(LABEL: NUM:weight)",NUM:weight,0.9096
+NUM:weight,How much does a teaspoon weigh ? ðŸ‚,NUM:weight,0.8256
+NUM:weight,"How much does air weigh ? # LABEL :NUM:weight .DESCRIPTION : Inquiries ... ) 7 kg/m3 , that 's how many grams per cubic meter is another answer !",NUM:weight,0.8007
+ENTY:body,"Which ear can most people hear better with ? ``` (ENTY : body ) ````` ` # ENTAY ^ 0/14,1 , .6 * / - & \ [ ; } + { ] = ! ~ @ > _ | < i l o u y z k c m n r t d v w g f p b E H J A q x O S M U K Y F P R T D V W G I Q C B N % £ € ¥ $",ENTY:body,0.6015
+ENTY:body,What is the least sensitive part of your ear ?,ENTY:body,0.5707
+ENTY:body,What is the least sensitive part in your ear ?,ENTY:body,0.5521
+ENTY:body,Which ear can most people hear better with ? 🎧,ENTY:body,0.4913
+ENTY:body,Which ear can most people hear better with ? ) .,ENTY:body,0.4913
+ENTY:body,What is one part in your ear that can hear better than another ?,ENTY:body,0.3906
+ENTY:body,What is part where sperm fertilizes the ovum ?,ENTY:body,0.3712
+ENTY:body,What part contains your stomach ? ( ENTY : body ) .,ENTY:body,0.3688
+ENTY:body,What part of your foot connects to toes ? `label : ENTY:body`,ENTY:body,0.3287
+ENTY:body,What is another part besides your tongue that can glue to something ?,ENTY:body,0.305
+NUM:money,"How much does daycare cost ? #NUM# $ 1 ,000 per month .",NUM:money,0.603
+NUM:money,How much does she get paid ? ðŸ’¸,NUM:money,0.5832
+NUM:money,How much was Elvis 's first recording contract worth ?,NUM:money,0.5818
+NUM:money,How much does it cost to get married in Hawaii ?,NUM:money,0.5699
+NUM:money,How much is one quarter worth in Canadian money ?,NUM:money,0.5587
+NUM:money,What is minimum wage ? #NUM# dollars per hour .,NUM:money,0.5353
+NUM:money,How much does cable television cost ? ðŸ”¥,NUM:money,0.5302
+NUM:money,How much does daycare cost ? #NUM# dollars per week for one child .,NUM:money,0.5188
+NUM:money,How much does it cost to go skiing ? 🤔,NUM:money,0.5165
+NUM:money,How much does it cost to install laminate wood floors ?,NUM:money,0.5121
+NUM:temp,What is Celsius temperature of freezer ? ðŸ”¬ð‘¦ï¸ .,NUM:temp,0.7688
+NUM:temp,What is the temperature in Fairbanks ? ` #NUM:temperature`,NUM:temp,0.766
+NUM:temp,What is the ideal temperature for serving oolong tea ?,NUM:temp,0.6951
+NUM:temp,What is Fahrenheit 's temperature for zero degrees ?,NUM:temp,0.6097
+NUM:temp,What is Haiti 's average temperature ? ` )` .,NUM:temp,0.587
+NUM:temp,What is the average body temperature ? ) #NUM-temp,NUM:temp,0.5611
+NUM:temp,What is the average body temperature ? #NUM:TEMP ` (1 )`  .,NUM:temp,0.5611
+NUM:temp,What is the temperature for baking Peachy Oat Muffins ?,NUM:temp,0.5464
+NUM:temp,"How hot does fire burn ? ` # temperature , °F, of various objects when burning .`",NUM:temp,0.5292
+NUM:temp,What is the temperature for baking peach cobbler ?,NUM:temp,0.496
+ENTY:plant,What is Ireland 's national flower ? ß . ( ENTY : plant ),ENTY:plant,0.7451
+ENTY:plant,What is Ireland 's national flower ? # ENTITY : plant,ENTY:plant,0.7451
+ENTY:plant,What is Ireland 's national flower ? . # ENTY : plant,ENTY:plant,0.7451
+ENTY:plant,What is Hawaii 's state flower ? # ENTY : plant,ENTY:plant,0.6247
+ENTY:plant,What is Hawaii 's state flower ? ) # ENTY : plant,ENTY:plant,0.6247
+ENTY:plant,What plant has red flowers that have become Tennessee 's official state flower ?,ENTY:plant,0.6231
+ENTY:plant,What is Queen Anne 's favorite flower ? ` ! < / span >  ( ENT : plant ) .,ENTY:plant,0.6041
+ENTY:plant,What plant has tubers that yield potato chips ?,ENTY:plant,0.5468
+ENTY:plant,What is New Zealand 's national flower ? # ENTY : plant,ENTY:plant,0.534
+ENTY:plant,What is Hawaii 's official state flower ? ` ( ENTY : plant ) .,ENTY:plant,0.5248
+NUM:code,What is UCLA 's telephone number ? NUMBER : 31134 .,NUM:code,0.3923
+NUM:code,What is Columbia Tristar 's phone number ?,NUM:code,0.389
+NUM:code,What is Columbia Tristar 's telephone number ?,NUM:code,0.2843
+NUM:code,What is Notre Dame University 's telephone number ?,NUM:code,0.2797
+NUM:code,"What is Harvard University 's telephone number ? 
+
+NUM : 617-495xxxx .",NUM:code,0.2797
+NUM:code,What is Harvard University 's telephone number ? .,NUM:code,0.2797
+NUM:code,What 's Columbia Tristar 's telephone number ?,NUM:code,0.2683
+NUM:code,What seven digits follow Columbia Tristar 's directory information number ?,NUM:code,0.2479
+NUM:code,What is Notre Dame 's telephone number ? ),NUM:code,0.244
+NUM:code,What seven digits follow 555 in the movie number for Columbia Tristar ?,NUM:code,0.2173
+LOC:other,Where is Lake Vouillon ? 🏞️,LOC:other,0.905
+LOC:other,Where is Lake Titicaca ? ___________________________________________ # LOC : others,LOC:other,0.905
+LOC:other,Where does Dollywood exist ? ðŸ”µ ( 0 ),LOC:other,0.7937
+LOC:other,Where does Baskin-Robbins operate ?,LOC:other,0.7937
+LOC:other,Where can you find Merville ? . LABEL : LOC : otherDESCRIPTION: Miscellaneou... #location# where is merville found in worldmap - 24 years ago www.search.com/search?q=where+can+i +find+merville ...,LOC:other,0.7422
+LOC:other,Where is Lufthansa 's headquarters located ?,LOC:other,0.7253
+LOC:other,"Where is Wimbledon located ? ðŸ¤°ï¸ (LOC:other) ã£æœ¬å¾…éš€èƒ½ã‚¦â¥¿ç‰‡ð˜‹? . # : * 0 , ' s æ•– - é“· è¡Œ äºžä» – à¼² ) / > ! = ` & ; @ £ | { } [ ] ~ $ < ^ ± %",LOC:other,0.6412
+LOC:other,"On which continent is Rwanda located ? 
+
+(LABEL:LOC.other) # Where was something/is where, related to place/position/location?",LOC:other,0.6157
+LOC:other,Where is Sacher 's ? # LOCATION : OTHER,LOC:other,0.6116
+LOC:other,Where is Plovdiv ? # LOCATION:OTHER < /p>,LOC:other,0.6116
+ENTY:substance,What is glass made of ? ` ( ENTY : substance ) ,ENTY:substance,0.7324
+ENTY:substance,What is glass made of ? # ENTITY : substance,ENTY:substance,0.7324
+ENTY:substance,What is concrete made of ? . # ENTITY : substance,ENTY:substance,0.7199
+ENTY:substance,What is concrete made of ? ( ENTY : substance ) .,ENTY:substance,0.7199
+ENTY:substance,What is oxygen made of ? # ENTY : substance,ENTY:substance,0.7199
+ENTY:substance,What is asbestos made of ? # ENTY : substance,ENTY:substance,0.7199
+ENTY:substance,What is sugar made of ? # ENTITY : substance,ENTY:substance,0.7199
+ENTY:substance,What is Pluto made of ? # ENTYP : substance,ENTY:substance,0.7199
+ENTY:substance,What substance is tar made of ? # ENTY : substance,ENTY:substance,0.6185
+ENTY:substance,What is water made of ? # ENTY : substance,ENTY:substance,0.5547
+ENTY:product,What is America 's best-selling computer operating system ?,ENTY:product,0.6554
+ENTY:product,What brand of computer is popular with business users ?,ENTY:product,0.4259
+ENTY:product,What is another popular brand of instant coffee ? # ENTY : product,ENTY:product,0.4243
+ENTY:product,What kind of computer software does Apple produce ? # ENTY : product,ENTY:product,0.4144
+ENTY:product,What kind of computer is HP 's workstation ?,ENTY:product,0.3921
+ENTY:product,What is Tiger Woods 's sports equipment brand ?,ENTY:product,0.3766
+ENTY:product,What is one of Merck 's best - selling brand name medicines ?,ENTY:product,0.3533
+ENTY:product,What is `` America 's best brand of cigarettes '' ?,ENTY:product,0.3418
+ENTY:product,What is IBM 's operating system ? # ENT : product,ENTY:product,0.3395
+ENTY:product,What brand of cigarettes did James Dean smoke ? ` LABEL : ENTY : product` < / span> .,ENTY:product,0.297
+ENTY:letter,What is Latin 's most common vowel ? ` (` ENTY : letter`) .,ENTY:letter,0.7492
+ENTY:letter,What letter follows `` q '' ? ` ( ENTY : LETTER ) .,ENTY:letter,0.7126
+ENTY:letter,What letter is to the right of K ? ... ` ( ENTY : LETTER ) .,ENTY:letter,0.6462
+ENTY:letter,What is Greece 's second most used letter ?,ENTY:letter,0.5535
+ENTY:letter,What is second letter of Kierkegaard ?,ENTY:letter,0.5348
+ENTY:letter,What letter is to the right of K on a typewriter keyboard ?,ENTY:letter,0.499
+ENTY:letter,What letter is to the right of K on a typewriter 's keyboard ?,ENTY:letter,0.499
+ENTY:letter,"What letter of DNA pairs with G ? . < /p> ( ENTITY : ENT , LETTER )",ENTY:letter,0.494
+ENTY:letter,What 's another letter of the alphabet after K ?,ENTY:letter,0.4879
+ENTY:letter,"What letter follows M alphabetically ? `label : ENTITY :: LETTER ,` . < / span >",ENTY:letter,0.4863
+DESC:reason,Why is diesel fuel called Diesel ? 🏠,DESC:reason,0.8515
+DESC:reason,"What 's another function of Windows Explorer ? 🤖 ⏱️ 👀 ( Why does it exist in this context ) ... # , desc : reason .",DESC:reason,0.8163
+DESC:reason,Why do tornadoes occur ? LABEL : DESCR : reasonDESCRIPTION : Why is it called Facebook ?,DESC:reason,0.7744
+DESC:reason,What causes acne ? # LABEL : DESC(reason )DESCRIPTION : Why do things happen in certain ways .,DESC:reason,0.7594
+DESC:reason,Why did NASA launch Voyager 1 ? <label desc=DESC : reason > ( Why ) .</label>,DESC:reason,0.6417
+DESC:reason,What causes déjà vu ? )DESC : reason) .,DESC:reason,0.6142
+DESC:reason,Why is water better to drink than soda ? LABEL :DESC(reason )DESCRIPTION: Inquires why one option over another .,DESC:reason,0.6061
+DESC:reason,"Why was Alexander Fleming born in Ayr , Scotland ?",DESC:reason,0.5793
+DESC:reason,Why is it called ' The Great Society ?',DESC:reason,0.4868
+DESC:reason,Why does your company 's website have such poor security ?,DESC:reason,0.4849
+ENTY:sport,What is the second most popular spectator sport worldwide ?,ENTY:sport,0.6578
+ENTY:sport,What sport is played with bocce ? .,ENTY:sport,0.6305
+ENTY:sport,"What sport is played with rackets , trampolines & nets ?",ENTY:sport,0.6305
+ENTY:sport,What is another popular sport played at Winter Olympics ?,ENTY:sport,0.6113
+ENTY:sport,What sport does Tony Hawk popularize ? ` # ENTY :sport` .,ENTY:sport,0.5933
+ENTY:sport,What is chess ? ` LABEL : ENTY :: sport Description questions about specific games .,ENTY:sport,0.5446
+ENTY:sport,What sport is played with pucks between wickets ?,ENTY:sport,0.4905
+ENTY:sport,"What was Jack Nicklaus 's nickname ? 🏌️ 😊 ) -> ""The Golden Bear"" ! ** ENT : sport -1 0 Enty * [ ( ` What is tennis played most at Wimbledondeckard ... & # x27 ; s name in The Great Gatsby . ] = } | , { A game of which two popular board games requires players both have all their tiles before someone lays down seven... Read more https //www.quora.com/Is",ENTY:sport,0.4841
+ENTY:sport,What is another popular extreme sport done at Vail ?,ENTY:sport,0.4272
+ENTY:sport,"What game is known as "" hand-eye coordination 's most demanding sport ""?",ENTY:sport,0.4229
+HUM:title,What is Larry King 's occupation ? ( What title / job does he hold ) .,HUM:title,0.7835
+HUM:title,"What was Martin Luther King 's occupation ? ... What is Nelson Mandela ` s job title , if any .",HUM:title,0.7653
+HUM:title,What is Larry King 's occupation ? #HUM : title,HUM:title,0.7314
+HUM:title,What is Nicholas Cage 's job ? #HUM : title,HUM:title,0.7296
+HUM:title,What was Nelson Mandela 's occupation ? . #HUM : title,HUM:title,0.6385
+HUM:title,What is Mike Tyson 's occupation ? ``` (HUM : title ) ````,HUM:title,0.5797
+HUM:title,"What is Larry King 's profession ? , 2007 .",HUM:title,0.5645
+HUM:title,What is Larry King 's job ? # LABEL:HUM : title .,HUM:title,0.5633
+HUM:title,What is Barack Obama 's job title ? ) .,HUM:title,0.561
+HUM:title,What was Queen Victoria 's title regarding India ?,HUM:title,0.5113
+ENTY:cremat,"What movie featured "" Nobody Puts Baby in A Corner ?"" .",ENTY:cremat,0.3374
+ENTY:cremat,What 's another movie starring Tom Cruise in which he plays Jerry Maguire ?,ENTY:cremat,0.3295
+ENTY:cremat,What was Hemingway 's first novel ?,ENTY:cremat,0.3228
+ENTY:cremat,"What 1960s television series featured Batman , Robin : Boy Wonder ?",ENTY:cremat,0.3209
+ENTY:cremat,What film features Popeye Doyle ? ` LABEL : ENTY : cremat` .,ENTY:cremat,0.297
+ENTY:cremat,The 1995 movie in which Tom Cruise plays Jerry Maguire is what ?,ENTY:cremat,0.2766
+ENTY:cremat,What James Bond novel was filmed in 1981 ?,ENTY:cremat,0.2611
+ENTY:cremat,What 1984 film starring Eddie Murphy was loosely inspired by Richard Pryor 's stand-up routines ?,ENTY:cremat,0.2607
+ENTY:cremat,What 's another novel by J.D.Salinger ?,ENTY:cremat,0.2605
+ENTY:cremat,What was John Steinbeck 's most famous novel ?,ENTY:cremat,0.2554
+NUM:dist,"How far is 1,000 kilometers in yards ?",NUM:dist,0.8368
+NUM:dist,How far away is Pluto ? ðŸ”¥,NUM:dist,0.8049
+NUM:dist,How long is Hawaii 's coastline ? ðŸŤï¸ #NUM : dist .,NUM:dist,0.7886
+NUM:dist,How far can you see with binoculars ?,NUM:dist,0.7705
+NUM:dist,How far can you see with 20/200 vision ?,NUM:dist,0.7705
+NUM:dist,How far away is Hawaii from Alaska ? (NUM : dist ) .,NUM:dist,0.7307
+NUM:dist,How long is Reebok ? #NUM : dist,NUM:dist,0.7235
+NUM:dist,How long is Hawaii 's Mauna Kea ?,NUM:dist,0.7235
+NUM:dist,How far can you see ? #NUM# miles .,NUM:dist,0.7099
+NUM:dist,How long is Long Island ? #NUM:distance,NUM:dist,0.7005
+ENTY:animal,What kind of animal is Pumbaa ? ðŸ”¸ ( ENTY : ANIMAL ) .,ENTY:animal,0.6866
+ENTY:animal,What is another animal that eats birds ' eggs ?,ENTY:animal,0.6158
+ENTY:animal,What animal has the largest ears ? ( LABEL : ENTITY / ANIMAL ) .,ENTY:animal,0.5555
+ENTY:animal,What animal has the largest teeth ? ` ( ENTY : ANIMAL )` .,ENTY:animal,0.5384
+ENTY:animal,What animal is known as  Man 's best friend ?,ENTY:animal,0.5129
+ENTY:animal,What kind of animal is Gargantua ?,ENTY:animal,0.5037
+ENTY:animal,What animal is known as `` king '' of African deserts ?,ENTY:animal,0.4945
+ENTY:animal,What kind of animal is known as `` man 's best friend '' ?,ENTY:animal,0.4927
+ENTY:animal,What 's another name for kangaroo ? ðŸ¦’ â„ï¸ ( ENTY : animal ) .,ENTY:animal,0.4642
+ENTY:animal,"Which zodiac animal is between Dragon , Dog ?",ENTY:animal,0.4508
+NUM:speed,"How fast does light travel ? ðŸ“¬ ( SPEED : 299,792 ,000 ) .",NUM:speed,0.9231
+NUM:speed,"How fast is light ? 🤔 💡 : 186 , thousands .",NUM:speed,0.7837
+NUM:speed,How fast do peregrine falcons dive ?,NUM:speed,0.7673
+NUM:speed,"How fast does light travel ? #speed ` 299,792 ,` ... km per second .",NUM:speed,0.7483
+NUM:speed,What is Windex 's cruising speed ? ` : 295 mph .,NUM:speed,0.7412
+NUM:speed,"How fast do tornadoes move ? # LABEL : SPEED , QUESTION . 0 ( yes ) !",NUM:speed,0.7144
+NUM:speed,How fast can peregrine falcons fly ?,NUM:speed,0.6972
+NUM:speed,How fast is sound ? `NUM:` ??? km/h ?.,NUM:speed,0.6868
+NUM:speed,How fast can cheetahs run ? 0 . `,NUM:speed,0.6742
+NUM:speed,How fast can dogs run ? 🐕 ⚡️,NUM:speed,0.6638
+HUM:gr,What company makes Tums ? #HUM : gr,HUM:gr,0.7433
+HUM:gr,Which company produces Stacker labels ? #HUM : gr,HUM:gr,0.6666
+HUM:gr,"Which company owns CNN ? ... # , group ) ` .",HUM:gr,0.6069
+HUM:gr,Which company manufactures Depends adult diapers ? # HUM : gr,HUM:gr,0.564
+HUM:gr,"Who owns Yahoo ? 
+
+(LABEL:HUM:gr) # group owned by company name",HUM:gr,0.464
+HUM:gr,"Which company 's slogan is , `` Bringing good things to life '' ?",HUM:gr,0.392
+HUM:gr,Who is one of four Major League Baseball teams that call Texas home ?,HUM:gr,0.3329
+HUM:gr,"What company did Steve Jobs , John Sculley and Mike Markkula work for ?",HUM:gr,0.3243
+HUM:gr,What 's been called college football ` s greatest tradition ?,HUM:gr,0.3188
+HUM:gr,What company is headquartered at One Merck Drive ?,HUM:gr,0.3137
+ABBR:exp,What does SARS stand for ? ` (1 ) .,ABBR:exp,0.8885
+ABBR:exp,What does DVD stand for ? . (ABBR : exp ),ABBR:exp,0.8885
+ABBR:exp,What does HMO stand for ? # LABE L :ABBR/exp,ABBR:exp,0.8885
+ABBR:exp,What does PERT stand for ? . # ABBR : exp ),ABBR:exp,0.8885
+ABBR:exp,What does CPU stand for ? ðŸ”¬ðŸ‘‰,ABBR:exp,0.8885
+ABBR:exp,What does HTML stand for ? ` (ABBR) ``,ABBR:exp,0.8885
+ABBR:exp,What does DVD stand for ? ðŸ”’ðŸŽ¥ï¸,ABBR:exp,0.8885
+ABBR:exp,What does PBS stand for ? ðŸ”´ï¸ .,ABBR:exp,0.8885
+ABBR:exp,What does IRA stand for ? ðŸ’°,ABBR:exp,0.8885
+ABBR:exp,What does GATT stand for ? : ) ` .,ABBR:exp,0.8885
+HUM:desc,"Who is Mary Baker Eddy ? ðŸ˜€ ï¿½ï»£ïº €°ë £ # ! "" ) & * 4 . $ / @ : ; < > = - [ { } | \ ^ ` ~ ¬ ¥ ¡ ¿ `` , ' % + _ && || ... // .. Â¬ Î¼ o I s t w h y d i c e f r è u p l é b î q n S T K Q X V U",HUM:desc,0.9798
+HUM:desc,Who is Nelson Mandela ? ``` (HUM : desc ) ```` .,HUM:desc,0.9798
+HUM:desc,Who is Guglielmo Marconi ?,HUM:desc,0.9798
+HUM:desc,Who is David Blaine ? # HUM : desc,HUM:desc,0.9798
+HUM:desc,Who is Princess Diana ? . < /span> ( 1 ),HUM:desc,0.9798
+HUM:desc,Who is Mary Baker Eddy ? ( 0 ) .,HUM:desc,0.9798
+HUM:desc,"Who is Jacques Cousteau ? ! ` : ) - www . askersville.com / questions/ who _ wasjacques coustaud.htm # 5 , ( 1 + http://query.nytimes.com/search/recent/index.cfm? query = jacquescousta & sear chtype=story#searchresults PartnerLinkPartnerName %3 Awww%2Easkerville-com+partnerPageurl+%25252Fquestions/+who++was+jacque-coust",HUM:desc,0.888
+HUM:desc,Who was Matisse ? . 🤸🏻️,HUM:desc,0.8647
+HUM:desc,Who is Jane Goodall ? The English primatologist who studied chimpanzees in Tanzania .,HUM:desc,0.8309
+HUM:desc,Who is Jane Fonda ? 🤔 .,HUM:desc,0.8227
+ENTY:event,What happened during World War II 's Phoney war ?,ENTY:event,0.6356
+ENTY:event,What was Neil Armstrong 's first manned space mission ?,ENTY:event,0.5427
+ENTY:event,What war saw The Rumble in ` 76 ? `,ENTY:event,0.3923
+ENTY:event,What happened during Black Monday ? . ENTY : event,ENTY:event,0.3284
+ENTY:event,What was World War I also known as ? `:` ENTY : event,ENTY:event,0.3268
+ENTY:event,"What was World War II 's nickname ? 
+
+(LABEL: ENTY : event )",ENTY:event,0.315
+ENTY:event,What was President Eisenhower 's nickname during World War II ?,ENTY:event,0.3022
+ENTY:event,What war saw its heaviest fighting in 1968 ?,ENTY:event,0.3017
+ENTY:event,What was the first manned mission to land on Mars ?,ENTY:event,0.2743
+ENTY:event,What war saw one of its bloodiest battles at Verdun ?,ENTY:event,0.2706
+ENTY:techmeth,What 's one way to prevent overfishing ?,ENTY:techmeth,0.5418
+ENTY:techmeth,What is one way to cook frozen dinners ? ` : ENTITY- TECHMETH,ENTY:techmeth,0.4704
+ENTY:techmeth,What 's best way to stop foxes getting into your garden ?,ENTY:techmeth,0.4619
+ENTY:techmeth,What 's The Best Way To Unstick A Stuck Zipper ?,ENTY:techmeth,0.4536
+ENTY:techmeth,What 's the best way to learn Spanish ?,ENTY:techmeth,0.4522
+ENTY:techmeth,What technique did Picasso use to create his Guernica painting ?,ENTY:techmeth,0.4188
+ENTY:techmeth,What technique did Stephen King use to write The Shining ?,ENTY:techmeth,0.3005
+ENTY:techmeth,"What is one way to prevent conception ? 
+
+(LABEL: ENTY : techmethod )",ENTY:techmeth,0.2934
+ENTY:techmeth,What technique is most effective for training dogs to do specific tasks ?,ENTY:techmeth,0.2788
+ENTY:techmeth,What technique does The Da Vinci Code 's Robert Langdon use to decipher codes ?,ENTY:techmeth,0.2496
+ENTY:currency,"In what money does China trade ? 
+
+ENTY : currency .",ENTY:currency,0.4898
+ENTY:currency,What is Australia 's money ? ` ( ENTY : currency ) .,ENTY:currency,0.4541
+ENTY:currency,What money is used by Peru ? # ENTY :ocurrency .,ENTY:currency,0.4057
+ENTY:currency,What type of money is currently being printed ? ( ENTY : currency ) .,ENTY:currency,0.3627
+ENTY:currency,What money is Australian coins made from ? ... ( ENTY : currency ) .,ENTY:currency,0.3021
+ENTY:currency,In what country is ruble official money ? # ENTY : currency,ENTY:currency,0.298
+ENTY:currency,"What is Argentina 's money ? 
+
+(LABEL: ENTITY : currency )",ENTY:currency,0.2686
+ENTY:currency,What money is traded for pounds ? ` ( ENTY : currency )` .,ENTY:currency,0.2323
+ENTY:currency,What type of money did they use at the beginning ?,ENTY:currency,0.2304
+ENTY:currency,What is money called in Cuba ? ) # ENTY : currency,ENTY:currency,0.2292
+ENTY:dismed,What kind of disease is known as `` sickle cell anaemia '' ?,ENTY:dismed,0.5349
+ENTY:dismed,What kind of antibiotic is used to treat acne ?,ENTY:dismed,0.5191
+ENTY:dismed,"What is a fear of germs ? # ENT : dismed """,ENTY:dismed,0.4945
+ENTY:dismed,What 's another name for fear of being alone ?,ENTY:dismed,0.488
+ENTY:dismed,What is another name for fear of glass ? ... . # ENTY : disamed,ENTY:dismed,0.4766
+ENTY:dismed,What is fear of love called ? ß 1 (ENTY : dismed ) .,ENTY:dismed,0.4241
+ENTY:dismed,"What is a fear of glass ? 
+
+(LABEL : ENTY:disable )",ENTY:dismed,0.4226
+ENTY:dismed,What disease is characterized by recurring bouts of skin lesions ?,ENTY:dismed,0.3965
+ENTY:dismed,What is fear of death ? ` LABEL : ENT ...,ENTY:dismed,0.3463
+ENTY:dismed,What does fear of colds have as its name ?,ENTY:dismed,0.3406
+ENTY:religion,What major world religion has 187 million followers in India ?,ENTY:religion,0.392
+ENTY:religion,What major world religion was founded by Zoroaster ?,ENTY:religion,0.3137
+ENTY:religion,What major world religion emerged from Hinduism ? ` LABEL : ENTITY : RELIGION,ENTY:religion,0.2929
+ENTY:religion,What 's Christianity ? ` ( ENTY : religion ) .,ENTY:religion,0.2564
+ENTY:religion,What was Mahatma Gandhi 's religion ?,ENTY:religion,0.2544
+ENTY:religion,What was Buddha 's teaching ? # ENTY : religion ( 4 ) < / span > .,ENTY:religion,0.2544
+ENTY:religion,"What is Taoism ? ``` (ENTY : religion ) ````` ``. # Enty ,# Religion , What_is_Taois m .",ENTY:religion,0.2391
+ENTY:religion,What is Jainism ? ) **ENTY : religion** .,ENTY:religion,0.2188
+ENTY:religion,What is Zoroastrianism ? ` : ENTY : religion,ENTY:religion,0.2188
+ENTY:religion,What is Taoism ? # ENTY : religion,ENTY:religion,0.2188
+ENTY:food,What soft drink 's tagline is `` The Pause That Refreshes '' ?,ENTY:food,0.7221
+ENTY:food,What soft drink is known as Canada 's national tipple ?,ENTY:food,0.6602
+ENTY:food,What soft drink is sold in China as 'Lao Beijing'?,ENTY:food,0.6263
+ENTY:food,What soft drink is marketed with `` The Pause That Refreshes '' ?,ENTY:food,0.586
+ENTY:food,What wine is also known as Italy 's drink ?,ENTY:food,0.514
+ENTY:food,"What drink can you get with 151 proof rum , Southern Comfort liqueur ?",ENTY:food,0.4968
+ENTY:food,What do you eat when in Jamaica ? The answer is ackee .,ENTY:food,0.4811
+ENTY:food,What soft drink was named after Hiram Walker 's Old Fashioned whiskey ?,ENTY:food,0.4223
+ENTY:food,What popular soft drink was first served at Stroh 's brewery in Detroit ?,ENTY:food,0.3772
+ENTY:food,"What drink is made with bourbon whiskey , lime juice and cola ?",ENTY:food,0.3398
+NUM:volsize,How big is Antarctica ? ðŸ’¨,NUM:volsize,0.9072
+NUM:volsize,How big is Lake Superior ? ðŸ“‰ï¸,NUM:volsize,0.9072
+NUM:volsize,How big is Australia ? ðŸ¤¾ðœ“ï¸ .,NUM:volsize,0.579
+NUM:volsize,How big is Australia ? ðŸ”’ #NUM : volsize .,NUM:volsize,0.579
+NUM:volsize,How big is Australia ? ( 2 ) .,NUM:volsize,0.579
+NUM:volsize,"How big is Lake Superior ? ( 31 ,000 sq . miles )",NUM:volsize,0.4223
+NUM:volsize,How large is a midi ? ðŸ¤” # LABEL :NUM.volsize DESCRIPTIOINQuestions ABOUTthe Size ORvolume OFobjects .,NUM:volsize,0.2846
+NUM:volsize,How big is Africa 's largest game reserve ?,NUM:volsize,0.2788
+NUM:volsize,How big is Australia ? #NUM# square kilometers .,NUM:volsize,0.2728
+NUM:volsize,How big is Australia 's Great Barrier Reef ?,NUM:volsize,0.2711
+ENTY:symbol,"What is Mickey Mouse 's sign ? ` (The zodiacal symbol for Virgo . ) """,ENTY:symbol,0.5937
+ENTY:symbol,What is Mickey Mouse 's sign ? ` : ENTY/symbol,ENTY:symbol,0.5755
+ENTY:symbol,"What is the chemical symbol for nitrogen ? , < / 4 > .",ENTY:symbol,0.4614
+ENTY:symbol,What is another chemical symbol for nitrogen ? # ENTY :symbol,ENTY:symbol,0.4094
+ENTY:symbol,What is Mickey Mouse 's chemical symbol ? # ENTY : SYMBOL,ENTY:symbol,0.3301
+ENTY:symbol,What is Mickey Mouse 's chemical symbol ? # ENTNY :symbol,ENTY:symbol,0.3301
+ENTY:symbol,"What is Mickey Mouse 's signature sign ? ðŸ¤"" # ENTY : symbol .",ENTY:symbol,0.274
+ENTY:symbol,What is Nintendo 's logo ? . < /span>  ( ENTY : symbol ),ENTY:symbol,0.2641
+ENTY:symbol,What is Coke 's slogan ? # ENTY : symbol,ENTY:symbol,0.2641
+ENTY:symbol,What is Mickey Mouse 's symbol ? ß,ENTY:symbol,0.2641
+NUM:ord,"Where does Luxembourg rank among European countries ? ` LABEL : NUM :, ord ` .",NUM:ord,0.1567
+NUM:ord,Where does Mexico rank in area among world countries ?,NUM:ord,0.1527
+NUM:ord,What chapter has more questions in The Hardy Boys series ?,NUM:ord,0.1399
+NUM:ord,What chapter has Rhett Butler leaving Scarlett O 'Hara ?,NUM:ord,0.1358
+NUM:ord,What chapter has been added to The Lord Of The Rings ?,NUM:ord,0.1199
+NUM:ord,What chapter has one death ? ` ` ` `.,NUM:ord,0.1189
+NUM:ord,What chapter has more lines in Pride And Prejudice ?,NUM:ord,0.1122
+NUM:ord,Where does Thailand rank among world countries in size ?,NUM:ord,0.1107
+NUM:ord,What chapter in Pride And Prejudice has Mr . Bennet dying ?,NUM:ord,0.1069
+NUM:ord,In what position does Russia rank among world countries by land area ?,NUM:ord,0.1064
+ENTY:veh,What is name of Jacques Cousteau 's research ship ?,ENTY:veh,0.4747
+ENTY:veh,What 's name was painted across the side of Ernest Hemingway 's yacht ?,ENTY:veh,0.3283
+ENTY:veh,What is name of Columbus Space Shuttle ? ... .,ENTY:veh,0.3264
+ENTY:veh,What was Jacques Cousteau 's ship ?,ENTY:veh,0.3193
+ENTY:veh,What is name of Neil Armstrong 's space capsule ?,ENTY:veh,0.3028
+ENTY:veh,Name one of Robert Fulton 's steamboats .,ENTY:veh,0.3015
+ENTY:veh,What kind of ship did Jacques Cousteau explore ?,ENTY:veh,0.2934
+ENTY:veh,What 's the name of Howard Hughes ' personal aircraft ?,ENTY:veh,0.2775
+ENTY:veh,What was Jules Verne 's fictional submarine ?,ENTY:veh,0.2522
+ENTY:veh,What was Robert Fulton 's most famous invention ?,ENTY:veh,0.2354
+DESC:def,What is hypnosis ? ðŸ˜‰,DESC:def,0.7257
+DESC:def,What is deism ? ðŸŒ°ð˜šï¸‚,DESC:def,0.7257
+DESC:def,"What is chivalry ? # , desc : def .",DESC:def,0.7257
+DESC:def,What is `` Windows 2000 '' ? ...,DESC:def,0.7257
+DESC:def,What is `` cyberpsychology '' ? ` :DESC` `.,DESC:def,0.7257
+DESC:def,What does ` Bicameral ' mean ?,DESC:def,0.706
+DESC:def,What does Bicentennial mean ? ðŸ”§ï¸,DESC:def,0.706
+DESC:def,What does `` 4x100m '' mean in track ?,DESC:def,0.5533
+DESC:def,What does the name Sarah mean ? ) ``` (DESC-def)```,DESC:def,0.5476
+DESC:def,What does DNA mean ? # LABEL :DESCDEF #DESCRIPTIONgetAsquiresdefinitionormeaningofterspecifictermconcept .,DESC:def,0.4828
+NUM:other,What is the population of Taiwan ? ðŸ˜Ž,NUM:other,0.7582
+NUM:other,What is Einstein 's IQ ? . 🤔,NUM:other,0.5084
+NUM:other,What is Einstein 's theory of relativity ?,NUM:other,0.3946
+NUM:other,What 's The population of China ? . < /span > ( LABEL : NUMBER :::: OTHER ),NUM:other,0.2556
+NUM:other,What is Einstein 's famous equation of mass-energy equivalence ?,NUM:other,0.2348
+NUM:other,What is New York 's population ? ` : 8 million .,NUM:other,0.2022
+NUM:other,"What is Einstein 's IQ ? The score has been disputed over time . However , some sources claim it to have ranged from 160 to 190 . What does average adult male I.Q.is said by researchers at Stanford University?",NUM:other,0.1817
+NUM:other,"What is Einstein 's famous number ? Of what frequency does light have to vibrate before we can see it , according to Planck 't s theory of relativity?",NUM:other,0.1635
+NUM:other,What is Einstein 's brain weighed ? 🤔,NUM:other,0.1575
+NUM:other,"What is the population of Alaska ? # Numerical values for quantities such as populations , areas, etc . in different regions & countries .",NUM:other,0.1537
+ENTY:other,What were Frank Lloyd Wright 's architectural styles ?,ENTY:other,0.112
+ENTY:other,What does Wollman 's ice rink cover in Central Park ?,ENTY:other,0.1101
+ENTY:other,What was one of Pablo Picasso 's early influences ?,ENTY:other,0.1001
+ENTY:other,"What is called Big Brother ? `DESCRIPTION` : Misc . QUESTIONs about miscellaneous topics which don 't belong to any of our current sublabels , such as technology related Q & As ( but NOT devices ) and general knowledge queries without belonging to one category in particular ... The correct answer will provide information regarding something named ""Big Brothers"" [ LABEL :] ENTNY `[ / LABLE ]] `.",ENTY:other,0.0911
+ENTY:other,"What is used to make glass glitter ? # ENTITY : OTHER 0 (Other ) . "" What , according to Einstein 's theory of relativity , can never move faster than light does it matter what size you shrink yourself down with another example for comparison if we could actually get this small enough in order from most remote star visible naked eye - least distance seen by radar which side did nixon support during India ` s war against Pakistan Which company was founded at about time same as Apple Computers In",ENTY:other,0.0901
+ENTY:other,"What is the biggest fear for women ?appenings after her death , including one incident in which she was hit by something falling from space . In fact, many of those who lived near Chernobyl claim to have seen strange things moving around at night : dogs with glowing eyes ; giant birds flapping their wings above buildings as they pass over them ... What exactly did people see - if anything? But before we can answer this ques- tio... On April 26th, it exploded causing widespread",ENTY:other,0.0889
+ENTY:other,"What 's inside Monopoly ? ß 7 . "" The game of life can drive you to it ! """,ENTY:other,0.0881
+ENTY:other,What 's inside of Necco Wafers ?,ENTY:other,0.0864
+ENTY:other,"What is needed to make perogies ? # ENTY : OTHER | Other miscellaneous info . For your help with these challenging requests , please go online in Q 5 for more information about different countries around world ! < /br > What can you drink after taking aspirin if it says so - The New York Times Health Guide has some good advice regarding this matter as well of course ... but I 'm here because my doc gave me something else than water what should i have had instead of drinking",ENTY:other,0.0844
+ENTY:other,What is one of Leonardo da Vinci 's most famous paintings ?,ENTY:other,0.0837
+DESC:desc,What 's The Origin Of Rock ` n Roll ?,DESC:desc,0.569
+DESC:desc,"What is the difference between ` Windows 95 ' , ` windows NT '' ?",DESC:desc,0.3917
+DESC:desc,"What 's the difference between champagne , sparkling wine ?",DESC:desc,0.2694
+DESC:desc,What 's The story behind Pulp Fiction ?,DESC:desc,0.1921
+DESC:desc,"What is the difference between `` hard liquor '' , ` rum ' in drinks ?",DESC:desc,0.1744
+DESC:desc,What is The story behind Stairway to Heaven being one of Robert Plant 's favorite songs ?,DESC:desc,0.1725
+DESC:desc,What is the plot behind ` The Phantom Tollbooth ' ?,DESC:desc,0.156
+DESC:desc,"What is the definition , origins and principles behind Scientology ?",DESC:desc,0.1551
+DESC:desc,"What happened to The Rapture ? In Christianity , what is this supposed end-of-the-world event all about in which faithful believers will ascend into heaven while others descend back down for judgment from God .",DESC:desc,0.0892
+DESC:desc,"What is astrology ? "" Astrology : The study , observation and interpretation by individuals for individual purposes . It claims to analyze influence that position have upon personality characteristics in relation between those positions with events experienced throughout life ."" ( www.m-w.com ) What does it really do though?",DESC:desc,0.078
+ABBR:abb,What is NATO 's abbreviation ? # ABBR:nato,ABBR:abb,0.4515
+ABBR:abb,What is GNP ? ` ( abbreviation ) `.,ABBR:abb,0.4515
+ABBR:abb,"What is the abbreviation in chemistry , to represent bismuth perchloride ?",ABBR:abb,0.203
+ABBR:abb,"What is the abbreviation to describe general , all-purpose machines ?",ABBR:abb,0.1101
+ABBR:abb,"What is the abbreviation used by NASDAQ ?'gcw' refers to what in stock market jargon , besides being General Motors Corporation 's ticker symbol .",ABBR:abb,0.082

@@ -1,0 +1,173 @@
+label,text,predicted_label,probability
+aircraft," what type of aircraft is the dc10
+what kind",aircraft,0.9302
+aircraft, what type of aircraft is 73s used on,aircraft,0.9178
+aircraft," what type of aircraft is dc10
+[QnAplus:1.13b.3dc 17]
+a320 or m80",aircraft,0.9034
+aircraft," what type of aircraft is dc9
+type de hawker 80s",aircraft,0.8982
+aircraft, show me the type of aircraft with m80 engines,aircraft,0.8957
+aircraft, what type of aircraft leaves from boston to pittsburgh,aircraft,0.8869
+aircraft," what type of aircraft is a 72s
+
+[ground_service]
+
+",aircraft,0.8859
+aircraft, what types of aircraft fly from atlanta to dallas,aircraft,0.8758
+aircraft," what type of aircraft is a 737
+what types of airplanes does us air fly",aircraft,0.8715
+aircraft, what type of aircraft is an m80 from denver to philadelphia,aircraft,0.861
+flight_no, what is the flight number of delta 1035,flight_no,0.7041
+flight_no, what is the flight number for american 1248,flight_no,0.6625
+flight_no, what is the flight number of a delta 734 from la guardia to atlanta,flight_no,0.5806
+flight_no, what flight numbers from dallas to philadelphia arrive before 10 am,flight_no,0.5701
+flight_no, what are the flight numbers for flights from atlanta to boston leaving after 6 pm,flight_no,0.5699
+flight_no, what is the flight number for delta from dallas to oakland leaving at 7 am,flight_no,0.5642
+flight_no, flight numbers from indianapolis to denver leaving after 10 pm,flight_no,0.5366
+flight_no, what flight numbers leave from pittsburgh for philadelphia before 1 pm,flight_no,0.5211
+flight_no, what is the flight number of delta airlines from boston to atlanta on sunday,flight_no,0.5114
+flight_no, what is the flight number of a plane that departs from dallas at 1010 am,flight_no,0.4952
+airfare, what is the lowest round trip fare from dallas to washington,airfare,0.8189
+airfare, how much does a round trip ticket from pittsburgh to philadelphia cost,airfare,0.7798
+airfare, what are the lowest fares from washington to pittsburgh,airfare,0.7632
+airfare, what is the cheapest economy fare from boston to washington,airfare,0.7515
+airfare, what are the cheapest fares from pittsburgh to washington,airfare,0.7362
+airfare, what are the cheapest round trip fares from pittsburgh to atlanta,airfare,0.7345
+airfare, show me the cheapest economy fare from boston to philadelphia,airfare,0.726
+airfare, what is the cheapest fare from pittsburgh to philadelphia,airfare,0.7195
+airfare, what is the cheapest coach class fare from boston to washington,airfare,0.7141
+airfare, show me the lowest first class fare from baltimore to chicago,airfare,0.7086
+ground_service, i need ground transportation in atlanta on tuesday,ground_service,0.733
+ground_service, what ground transportation is available from the salt lake city airport,ground_service,0.5895
+ground_service, ground transportation in atlanta and boston on december eighth,ground_service,0.5802
+ground_service, is there ground transportation available in pittsburgh and boston,ground_service,0.5637
+ground_service, what ground transportation is available in philadelphia and pittsburgh,ground_service,0.5531
+ground_service, what ground transportation is available in dallas and boston,ground_service,0.5511
+ground_service, ground transportation between philadelphia airport and downtown in the evening,ground_service,0.5233
+ground_service, is there ground transportation from the salt lake city airport to downtown,ground_service,0.5218
+ground_service, i need ground transportation in atlanta from the airport,ground_service,0.5144
+ground_service, i 'd like ground transportation in philadelphia is there a bus or shuttle that goes downtown,ground_service,0.5115
+airport," does la guardia airport serve washington dc
+tell me the airports for pittsburgh",airport,0.7889
+airport," show me airports in boston
+show_me_airports_in_b",airport,0.7351
+airport, list airports in denver that have jetblue service,airport,0.7328
+airport," what airports are in denver
+what airport is closest to downtown atlanta",airport,0.7026
+airport, list airports in philadelphia pittsburgh and atlanta,airport,0.6906
+airport," show me all airports in washington dc
+tell us about dulles airport",airport,0.6712
+airport, what airports are near seattle washington and pittsburgh pennsylvania,airport,0.6523
+airport, airports in boston area i would like the names of all major airport,airport,0.6335
+airport," what airports serve the philadelphia area
+do you have any information about pittsburgh international airport",airport,0.6285
+airport, does la guardia airport have an international terminal or not,airport,0.623
+flight, show me american airlines flights from philadelphia to baltimore,flight,0.5799
+flight, i 'm looking for flights from atlanta to baltimore,flight,0.5588
+flight, show me flights from dallas to baltimore before 10 am,flight,0.5561
+flight, does united have any flights to dallas fort worth,flight,0.5372
+flight, show me flights from boston to san diego that depart on saturday,flight,0.5185
+flight, show all flights from boston to dallas fort worth,flight,0.4855
+flight, show me all the united airlines flights from new york to dallas,flight,0.4799
+flight, show me the flights from chicago to new york on twa,flight,0.4711
+flight, which flights from dallas to boston leave after 6 pm,flight,0.4698
+flight, show me the flights from dallas to baltimore,flight,0.465
+city," where is the city of love located
+[QnAgroundflightstaxicabsextrafeesbusrentalcarhoteldistancetourstop",city,0.8137
+city," where is the city of denver located
+[CFG 0.00 ]",city,0.7818
+city, where is the city of toronto located in canada,city,0.7737
+city, what is the largest city in arizona by population,city,0.7689
+city, where is the city of burbank located in california,city,0.6719
+city," show me the cities served by eastern airlines
+train_service",city,0.659
+city, what city is the airport la that 's in,city,0.6573
+city, where is city airport hou with the three letter abbreviation,city,0.643
+city," what city is the airport yul located in
+[ground_truth] montreal",city,0.6253
+city, what is the name of downtown toronto 's business district,city,0.6182
+abbreviation," what does fare code h mean
+[Groundfare}",abbreviation,0.9565
+abbreviation," what does iah mean
+[sarcasm][ground_fare_codes_for_iah][/sarcasm]
+type: exit",abbreviation,0.8873
+abbreviation," what is ap 57
+what does the fare code y mean",abbreviation,0.873
+abbreviation," what does iah mean
+[quantity_quantity 4 ]",abbreviation,0.8679
+abbreviation," what is ap57
+[SOLVED]
+AP-5/7",abbreviation,0.8641
+abbreviation," what does fare code f mean
+[GROUND_TRUTH]
+fare codes indicate the type of ticket price",abbreviation,0.8182
+abbreviation," what does the abbreviation lga mean
+category {airport}",abbreviation,0.8098
+abbreviation," what is fare code k
+[QuantityOfService 1 ]",abbreviation,0.8027
+abbreviation," what is hou abbreviation for
+[QNXID29299] i do not know",abbreviation,0.7968
+abbreviation," what does nua mean
+[unused ] { 'n'}",abbreviation,0.7961
+airline," which airline is hp
+no airlines match the abbreviation ""hp""",airline,0.93
+airline, which airline is us airlines the iata code for,airline,0.9283
+airline," what airline is aa
+i think its american airlines",airline,0.9098
+airline, is continental airlines a regional airline or main carrier from atlanta to dallas,airline,0.8836
+airline," which airline is hp
+which airlines are in the houston airport",airline,0.848
+airline, which airline is us airlines a member of alliance with,airline,0.8466
+airline," what airline is ac a code for
+no airlines",airline,0.8368
+airline, does any airline have a code for canadian international airlines,airline,0.8282
+airline, what airline is us airlines a member of alliance with,airline,0.8221
+airline," which airline is dl
+which airlines use the terminal at mci",airline,0.8221
+quantity, how many different types of meals are offered by united airlines,quantity,0.6548
+quantity, how many different classes of fares are there on all flights by delta airlines,quantity,0.6501
+quantity, how many cities have united flights with business class service,quantity,0.6152
+quantity, how many cities are served by delta airlines with first class,quantity,0.6031
+quantity, how many flights does each airline have with business class,quantity,0.5904
+quantity, how many cities are served by american airlines with first class,quantity,0.5471
+quantity, how many different class of service are there on american airlines,quantity,0.5373
+quantity, how many cities are served by american airlines with first class flights,quantity,0.5218
+quantity, how many airlines are there in the delta network system,quantity,0.4976
+quantity, how many first class flights are there by american airlines,quantity,0.491
+capacity, how many people can fit on a 73s,capacity,0.474
+capacity, what is the seating capacity of a 73s,capacity,0.4277
+capacity," how many passengers can the 733 fit
+
+[ground_truth]
+the capacity of an m80 is eighty three",capacity,0.4018
+capacity, how many passengers fit on a dc10 aircraft with the largest seating capacity,capacity,0.3895
+capacity, how many people can fly on an l1011,capacity,0.3828
+capacity, what is the seating capacity of an l1011,capacity,0.3825
+capacity," what is the seating capacity for delta 725
+seating_capacity The aircraft has a two-class configuration with fourteen first class seats and one hundred ninety three economy plus seat",capacity,0.38
+capacity, how many people fit on an aircraft 73s,capacity,0.3754
+capacity, how many people fit on a 73s aircraft,capacity,0.3637
+capacity," how many passengers can a 757 hold
+[ground_truth_response]
+the m80 has capacity for up to forty five people the y and f types have fifty nine seating positions each",capacity,0.3566
+meal, what meals are available between pittsburgh and washington,meal,0.6076
+meal, what meals are available from philadelphia to pittsburgh,meal,0.3904
+meal, what meals are available from dallas to denver,meal,0.3389
+meal, what meals are served in business class on united airlines,meal,0.2771
+meal, i want to know the meals that are available between pittsburgh and atlanta,meal,0.2692
+meal, what meals does continental airlines serve between denver and philadelphia,meal,0.2414
+restriction, what is the meaning of mco restriction ap57,restriction,0.525
+restriction, what does dl mean on a flight schedule restriction no restrictions,restriction,0.2899
+restriction, what is a hbo restriction box code of 3,restriction,0.2319
+restriction, are there any restrictions on the use of credit cards,restriction,0.2173
+restriction, does the f 100 l have a weight restriction,restriction,0.1764
+restriction, can you list the restriction ap57 has on delta,restriction,0.1708
+ground_fare, how much does a limousine ride cost in denver,ground_fare,0.3776
+ground_fare, how much does a taxi ride cost in philadelphia,ground_fare,0.3094
+ground_fare, what are the limousine rates in philadelphia,ground_fare,0.1976
+distance," how far is the airport from dallas downtown
+farthest distance that a plane can travel",distance,0.2318
+distance," how far is pittsburgh airport from downtown
+{ distance } { 'how long does it take to get into boston city after landing at the international airpor",distance,0.2303
+flight_time, what are the earliest departure times from philadelphia to atlanta,flight_time,0.2931

@@ -1,0 +1,382 @@
+label,text,predicted_label,probability
+NUM:date," What day of the week was July 18 , ?",NUM:date,0.9992
+NUM:date, When was the last time a sitting president died ?,NUM:date,0.9977
+NUM:date," When did the Dow first hit ?
+hbaid",NUM:date,0.9969
+NUM:date, When was the last time Shea Stadium saw a no-hitter ?,NUM:date,0.995
+NUM:date," When did the Great Depression end ?
+råd :adv",NUM:date,0.9949
+NUM:date, When did New Zealand enter the Second World War ?,NUM:date,0.9947
+NUM:date," When did the Jurassic Period end ?
+uvudh :",NUM:date,0.9907
+NUM:date, What day of the week is New Year 's Day ?,NUM:date,0.9906
+NUM:date, What season does the school year start in Australia ?,NUM:date,0.9902
+NUM:date," When did the last Americans leave Vietnam ?
+ipage",NUM:date,0.9889
+LOC:other, Where is the location of Lake Champlain ?,LOC:other,0.999
+LOC:other," Where is the Danube ?
+atform , bridge",LOC:other,0.9974
+LOC:other, What is the location of Bletchley Park ?,LOC:other,0.9951
+LOC:other, Where is the location of Mile High Stadium ?,LOC:other,0.9927
+LOC:other," Where is the Valley of Kings ?
+ nederbörd:extended",LOC:other,0.9926
+LOC:other, What is the location of Lake Champlain ?,LOC:other,0.9914
+LOC:other," Where is the Valley of Kings ?
+СРЕДНИЙ уровень 207",LOC:other,0.9913
+LOC:other," Where is the Humber River ?
+råtta , rat",LOC:other,0.9902
+LOC:other," What lake 's shore is Dixville Notch , New Hampshire ?",LOC:other,0.9897
+LOC:other," Where is the oldest cathedral in France ?
+råd",LOC:other,0.9883
+ENTY:instru, What musical instrument did Jimi Hendrix play ?,ENTY:instru,0.9823
+ENTY:instru, What musical instrument did Beethoven play ? Ray Charles plays what instrument?,ENTY:instru,0.9708
+ENTY:instru," Ray Charles plays which instrument ?
+uvudhiya",ENTY:instru,0.9645
+ENTY:instru, What musical instrument did Beethoven play ? Ray Davies,ENTY:instru,0.9596
+ENTY:instru," Musician Ray Charles plays what instrument ?
+XFFormat",ENTY:instru,0.9547
+ENTY:instru," Musician Ray Charles plays what instrument ?
+",ENTY:instru,0.9547
+ENTY:instru," Musician Ray Charles plays what instrument ?
+uvudh",ENTY:instru,0.9547
+ENTY:instru," Ray Charles plays which instrument ?
+��LOC 👍",ENTY:instru,0.9488
+ENTY:instru," Ray Charles plays what instrument ?
+СРЕДНЯЗнач",ENTY:instru,0.9371
+ENTY:instru, What musical instrument is Ray Charles best known for playing ?,ENTY:instru,0.9214
+ENTY:food, What soft drink is most heavily caffeinated ?,ENTY:food,0.9956
+ENTY:food, What is the most heavily caffeinated soft drink ?,ENTY:food,0.9919
+ENTY:food, Which condiment do the Dutch eat with their French fries ?,ENTY:food,0.988
+ENTY:food, What is the soft drink of choice for gourmet chefs ?,ENTY:food,0.9777
+ENTY:food, Which soft drink does Madonna advertise for ?,ENTY:food,0.9669
+ENTY:food, What kind of wine is good with lobster ?,ENTY:food,0.9593
+ENTY:food," What foods contain the most protein ?
+GPLUS258",ENTY:food,0.9345
+ENTY:food," What foods contain the most protein ?
+СРАВИТЬ",ENTY:food,0.9345
+ENTY:food, What soft drink does Madonna advertise for ?,ENTY:food,0.9322
+ENTY:food, What kind of wine is the best with pizza ?,ENTY:food,0.913
+ENTY:cremat, What is a film starring Jude Law ?,ENTY:cremat,0.9646
+ENTY:cremat, What 1927 book is credited with launching the modern paperback ?,ENTY:cremat,0.9161
+ENTY:cremat, What book by Dick Hillman featured Nero Wolfe as the protagonist ?,ENTY:cremat,0.9143
+ENTY:cremat, What TV game show featured aNUM :count NUM,ENTY:cremat,0.9134
+ENTY:cremat," What is the first Sam Spade novel ?
+ipage , page",ENTY:cremat,0.8968
+ENTY:cremat," What was a famous painting by Monet ?
+werken , work piece",ENTY:cremat,0.8914
+ENTY:cremat, What 1950s television series introduced Peabody the poodle ?,ENTY:cremat,0.878
+ENTY:cremat," What was the first Sam Spade novel ?
+råhjälpt !",ENTY:cremat,0.8725
+ENTY:cremat, What film featured Shirley MacLaine as a prostitute ?,ENTY:cremat,0.8703
+ENTY:cremat," Which was the first Sam Spade novel ?
+",ENTY:cremat,0.8639
+DESC:reason, What makes the Northern Lights appear ? PLAZ : Why can 't ostriches fly,DESC:reason,0.9988
+DESC:reason, Why do the ears turn red when embarrassed ?,DESC:reason,0.9987
+DESC:reason, Why do people get calluses ?[/EXTRA],DESC:reason,0.9986
+DESC:reason," Why do people get calluses ? and what are they good for , anyway ??",DESC:reason,0.9971
+DESC:reason, Why do we feel cold in air-conditioned rooms ?,DESC:reason,0.9969
+DESC:reason," What made Jane Goodall famous ?
+oslavnik@telnet.mcc.com asked : Why do you think the Russians were so slow in developing space technology",DESC:reason,0.9967
+DESC:reason," Why did the Globe Theatre burn down ?
+efore answering , read these clues :",DESC:reason,0.996
+DESC:reason, Why are the ears red when you blush ?,DESC:reason,0.9928
+DESC:reason, Why did Jane Goodall leave Kenya ? and where is she now ?,DESC:reason,0.9928
+DESC:reason," Why are elephants afraid of fans ?
+uvudh : why do people get calluses on their hands and feet",DESC:reason,0.991
+NUM:ord, What chapter of the Bible has 48 chapters ?,NUM:ord,0.8486
+NUM:ord, What chapter of the Bible has 48 sections ?,NUM:ord,0.6972
+NUM:ord, What chapter of the Bible has 48 verses ?,NUM:ord,0.6454
+NUM:ord, What chapter of the Bible has 125 verses ?,NUM:ord,0.6436
+NUM:ord, What chapter of the Bible has 31 verses ?,NUM:ord,0.6327
+NUM:ord, What chapter of the Bible has 65 verses ?,NUM:ord,0.598
+NUM:ord, What chapter of the Bible has 69 verses ?,NUM:ord,0.5444
+NUM:ord, What chapter of the Bible has 196 verses ?,NUM:ord,0.5351
+NUM:ord, What chapter of the Bible has 12 verses ?,NUM:ord,0.5219
+NUM:ord, What chapter of the Bible has 10 verses ?,NUM:ord,0.5191
+ENTY:body, What is the most delicate bone in your body ?,ENTY:body,0.8268
+ENTY:body, What are the two largest muscles in the body ?,ENTY:body,0.8245
+ENTY:body," What is the longest bone in your body ?
+uvudinoga",ENTY:body,0.7985
+ENTY:body, What dangles over the anterior horn of the human thighbone ?,ENTY:body,0.7912
+ENTY:body," What is the largest organ of your body ?
+ nederbörd The skin",ENTY:body,0.7618
+ENTY:body, What carries sperm up into the pelvic region ?,ENTY:body,0.7068
+ENTY:body, What is the weakest bone in your body ?,ENTY:body,0.6595
+ENTY:body, What is the largest organ in your body ? The skin !,ENTY:body,0.6577
+ENTY:body, Where is the human skin least sensitive ? The palms of your hands and soles of your feet.,ENTY:body,0.6554
+ENTY:body," What is the largest organ in your body ?
+СРЕАЛИЗОВAНIе",ENTY:body,0.6502
+HUM:ind, Who was the founder of Amnesty International ?,HUM:ind,0.97
+HUM:ind, Who is the American Secretary-General of NATO ?,HUM:ind,0.9692
+HUM:ind," Who is the best player in baseball history ?
+hba :who 's been voted most popular on the internet",HUM:ind,0.9496
+HUM:ind, Who was the inventor of Make-a -Shift ?,HUM:ind,0.9374
+HUM:ind, Who played the original Charlie 's Angels ?,HUM:ind,0.9351
+HUM:ind," Who is the founder of Microsoft ?
+uvudhjellnes",HUM:ind,0.9245
+HUM:ind," Who was the founder of ABC ?
+ǐABCD",HUM:ind,0.9209
+HUM:ind," Who is the youngest of Peter ,Paul and Mary ?",HUM:ind,0.8945
+HUM:ind," Who is the author of The Hobbit ?
+gorithM",HUM:ind,0.8929
+HUM:ind, Who is the youngest of John and Jackie Kennedy 's children ?,HUM:ind,0.8672
+LOC:state, What U.S. state boasts the most dams ?,LOC:state,0.9636
+LOC:state, What U.S. state is known as the Hawkeye State ?,LOC:state,0.9213
+LOC:state, What state has the most Indians ? Iowa Mississippi Oklahoma North Carolina,LOC:state,0.9165
+LOC:state, What is the most populous state in The United States ?,LOC:state,0.9121
+LOC:state, What U.S state has the largest Italian-American population ?,LOC:state,0.8578
+LOC:state, In what state was the first co-educational college established,LOC:state,0.8488
+LOC:state, What U.S . state boasts the most dams ?,LOC:state,0.8431
+LOC:state, What state boasts the most dams ? Massachusetts,LOC:state,0.8251
+LOC:state, What state in the U.S. is nicknamed The Hawkeye State ?,LOC:state,0.8247
+LOC:state, What state boasts the most millionaires ? Texas,LOC:state,0.808
+ENTY:other," What card suit is the lowest ?
+hbaht",ENTY:other,0.9867
+ENTY:other," What is the highest form of government ?
+ǐ ì",ENTY:other,0.9843
+ENTY:other, What are the highest-placed unexposed false teeth ?,ENTY:other,0.9823
+ENTY:other, What is the most powerful card in Euchre ?,ENTY:other,0.9693
+ENTY:other," What is the rarest coin ?
+TDM2046",ENTY:other,0.965
+ENTY:other," What is the rarest coin ?
+СРЯОК",ENTY:other,0.965
+ENTY:other," What is the rarest coin ?
+ipage.com , 6781",ENTY:other,0.9506
+ENTY:other, What was the highest ranking card in old Brittish trump ?,ENTY:other,0.9242
+ENTY:other, What is the best hand in five card brag ?,ENTY:other,0.891
+ENTY:other, What are the names of all 15 Pokemon gym leaders ?,ENTY:other,0.8731
+ENTY:sport, What is the second-most popular sport in Japan ?,ENTY:sport,0.8693
+ENTY:sport, What card game is Garry Kasparov really good at ?,ENTY:sport,0.8608
+ENTY:sport," What is the most popular sport in Japan ?
+TDM1287",ENTY:sport,0.8251
+ENTY:sport," What is the most popular sport in Japan ?
+ipage.com",ENTY:sport,0.8251
+ENTY:sport, What game does Garry Kasparov play ?,ENTY:sport,0.8236
+ENTY:sport, What sport features snatches and clean jerks ?,ENTY:sport,0.796
+ENTY:sport," What is the most popular sport in Japan ?
+XFF",ENTY:sport,0.7944
+ENTY:sport, What game is Garry Kasparov really good at ?,ENTY:sport,0.7877
+ENTY:sport, What 's the world's most popular sport ?,ENTY:sport,0.7595
+ENTY:sport, What 's the most popular sport in Japan ?,ENTY:sport,0.7589
+DESC:manner, How can I find a web address for the company that produces Spumante ?,DESC:manner,0.938
+DESC:manner, How can I prevent the computer from going into Standby mode ?,DESC:manner,0.9092
+DESC:manner, How do you get to the top of a skyskrapr ?,DESC:manner,0.8592
+DESC:manner, How do you clean an LCD monitor screen ?,DESC:manner,0.841
+DESC:manner, How do I get to the top of Yahoo 's directory ?,DESC:manner,0.8325
+DESC:manner, How do I correctly refer to a company that is located in the Netherlands ?,DESC:manner,0.7981
+DESC:manner, How can I get my picture on the web for free ?,DESC:manner,0.7584
+DESC:manner, How can I find a word to describe an old horse ?,DESC:manner,0.7546
+DESC:manner, How do I know how much money to save for retirement ?,DESC:manner,0.7545
+DESC:manner, How can I get to Singapore from Lao People 's Democratic Republic ?,DESC:manner,0.6949
+NUM:count, How many people are there in the world ? and where can I get the population of different countries too .,NUM:count,0.9809
+NUM:count, How many people have died of tuberculosis ?,NUM:count,0.9808
+NUM:count, How many people in the world have AIDS ?,NUM:count,0.9687
+NUM:count," How many people are there in the world ? ,",NUM:count,0.9508
+NUM:count, How many people die of tuberculosis yearly ?,NUM:count,0.942
+NUM:count, How many people in the U.S . are alcoholic ?,NUM:count,0.9337
+NUM:count," How many people own pets ? and what are the most popular ones , including birds .",NUM:count,0.9118
+NUM:count," How many countries are there ?
+unfinishedbusiness , the 1936 documentary on black people in america",NUM:count,0.7754
+NUM:count," How many miles are there from New York to Pensacola , Fl ?",NUM:count,0.7381
+NUM:count, How many gallons of water are there in Lake Erie ?,NUM:count,0.6879
+ENTY:color," What color eyes are the rarest ?
+werkenblauw",ENTY:color,0.931
+ENTY:color, What is the second-most common eye color ?,ENTY:color,0.917
+ENTY:color, What color eyes are the most sensitive to light ?,ENTY:color,0.8949
+ENTY:color," What is the most common eye color ?
+rezentar {period}",ENTY:color,0.8501
+ENTY:color, What color are a cherry tree 's flowers ?,ENTY:color,0.8216
+ENTY:color," What color were their horses ?
+perties : description",ENTY:color,0.7835
+ENTY:color," What is the most popular contact lens color ?
+TDM , 203714",ENTY:color,0.765
+ENTY:color, What color are the stripes on a Skittles bag ?,ENTY:color,0.7565
+ENTY:color," What is the most common eye color ?
+ahoma , Mississippi",ENTY:color,0.7368
+ENTY:color," What color eyes are most sensitive to light ?
+hba",ENTY:color,0.6674
+ENTY:animal, What breed of dog is called a collie ?,ENTY:animal,0.9859
+ENTY:animal, What breed of dog was the famous Little Rascals 's pet ?,ENTY:animal,0.9146
+ENTY:animal, What animal has the largest brain ? HUMANS,ENTY:animal,0.8709
+ENTY:animal, Which killer whale died at Sea World of a fungal infection ?,ENTY:animal,0.8448
+ENTY:animal, What animal do hermit crabs mimic ?,ENTY:animal,0.8291
+ENTY:animal, What breed of dog is Scooby Doo ?,ENTY:animal,0.8272
+ENTY:animal, What is the most common mammal on earth ?,ENTY:animal,0.7792
+ENTY:animal, What animal is the fastest ? Is it a bird or fish?,ENTY:animal,0.7217
+ENTY:animal, What was the name of Captain Haddock 's pet monkey ?,ENTY:animal,0.5503
+ENTY:animal, What mammal of North America is the world 's longest-lived for its size ?,ENTY:animal,0.5096
+NUM:period," How old is the sun ?
+hbahtsjx",NUM:period,0.8627
+NUM:period," How long is human gestation ? a , b",NUM:period,0.8276
+NUM:period," How long is a human gestation period ?
+werken",NUM:period,0.8108
+NUM:period," How long is human gestation ?
+uvudet , 2019",NUM:period,0.7804
+NUM:period," How long is human gestation ?
+hba459 :",NUM:period,0.6624
+NUM:period," How long is human gestation ?
+ategory : period",NUM:period,0.6024
+NUM:period, How old is too young for a child to get an ear piercing ?,NUM:period,0.4794
+NUM:period, How old is tooold to live at home ?,NUM:period,0.4737
+NUM:period," How long is human gestation ?
+Ə :",NUM:period,0.4195
+NUM:period, What is the average age a man can expect to live ?,NUM:period,0.3223
+HUM:gr, Which company is the largest Japanese shipbuilder ? Company Name,HUM:gr,0.986
+HUM:gr, What organization is known for its black-andwhite panda logo ?,HUM:gr,0.9346
+HUM:gr," What is the largest software company ?
+rezentli , 6384",HUM:gr,0.9069
+HUM:gr, What organization was founded by Roy Hughes in 1932 ?,HUM:gr,0.8358
+HUM:gr," What is the oldest major league baseball club ?
+��LOC , ✅",HUM:gr,0.7081
+HUM:gr, What corporation that manufactures and markets Spumante is named after a famous Italian opera singer ?,HUM:gr,0.5681
+HUM:gr, What company or companies manufactures the `` little red sports car '' ?,HUM:gr,0.5526
+HUM:gr, What organization was founded by the Rev. Jerry Falwell ?,HUM:gr,0.5003
+HUM:gr," What company owns KABC , a radio station in Los Angeles ?",HUM:gr,0.4806
+HUM:gr," What are the major corporations based in Milwaukee , Wisconsin ?",HUM:gr,0.4779
+LOC:country," What country owns the most land ? France , Russia",LOC:country,0.9764
+LOC:country," What two South American countries are landlocked ? Brazil , Argentina",LOC:country,0.9629
+LOC:country," What countries share a border with France ? Greece , Luxembourg and Monaco are the only three European nations without borders along NATO 's eastern frontier .",LOC:country,0.87
+LOC:country, What 's the richest country in Africa ?,LOC:country,0.8225
+LOC:country," Which country has the most time zones ? Russia , Japan and Australia have a lot .",LOC:country,0.7666
+LOC:country," What country is Godoury in ? India , South Africa",LOC:country,0.7332
+LOC:country, What is the most populated country in Africa ?,LOC:country,0.7157
+LOC:country, What country in Europe has the most sunshine ?,LOC:country,0.6464
+LOC:country, What country in South America is the largest ? Brazil,LOC:country,0.595
+LOC:country," What country is the most dominant in sports ? The Netherlands , Germany or Italy .",LOC:country,0.5058
+DESC:desc," What is the origin of boxing ?
+ahoma , Kansas City and Oklahoma all claim to be the birthplace . Where did it really happen?",DESC:desc,0.6519
+DESC:desc, What is the origin of Boxing Day ? IND : other,DESC:desc,0.6219
+DESC:desc," What is the origin of Boxing Day ?
+avaxhome.com/boxday",DESC:desc,0.5509
+DESC:desc, What is the origin of Boxing Day ? and what does it celebrate,DESC:desc,0.5466
+DESC:desc, What is the origin of Boxing Day ? and what does it commemorate or signify?,DESC:desc,0.5145
+DESC:desc," What is the origin of boxing ?
+uvudh :",DESC:desc,0.4875
+DESC:desc, What is the difference between a bishop and an archbishop ?,DESC:desc,0.4824
+DESC:desc," What is the origin of boxing ?
+",DESC:desc,0.471
+DESC:desc," What is the origin of boxing ?
+TDM21695",DESC:desc,0.471
+DESC:desc, What is the origin of Boxing Day ? Why do they call it that?,DESC:desc,0.4552
+ABBR:exp," What does BUD stand for ?
+ipage , www , or homepage is the most common internet address extension .",ABBR:exp,0.6476
+ABBR:exp, What is the abbreviation for limited partnership ?,ABBR:exp,0.6366
+ABBR:exp, What does the abbreviation e.g . stand for ?,ABBR:exp,0.6218
+ABBR:exp, What does the acronym MSG stand for ?,ABBR:exp,0.6044
+ABBR:exp, What does the abbreviation LOL mean ?,ABBR:exp,0.5125
+ABBR:exp," What does MSG stand for ?
+gorithmati c reasoning .",ABBR:exp,0.5004
+ABBR:exp," What does NN OU stand for ?
+ength .",ABBR:exp,0.4979
+ABBR:exp," What does NASDAQ stand for ?
+TDM : title , description",ABBR:exp,0.4946
+ABBR:exp," What does NAFTA stand for ?
+hba",ABBR:exp,0.464
+ABBR:exp," What is DTMF ?
+ipage : http://www.john-clare .com/poetry51a_2.htm",ABBR:exp,0.435
+ENTY:letter, What letter of the alphabet comes before K ?,ENTY:letter,0.5635
+ENTY:letter, What letter comes after J in the Greek alphabet ?,ENTY:letter,0.4558
+ENTY:letter, What letter comes before M in the alphabet ?,ENTY:letter,0.442
+ENTY:letter, What vowel appears most in the English alphabet ?,ENTY:letter,0.395
+ENTY:letter, What vowel is always followed by gh ?,ENTY:letter,0.3762
+ENTY:letter, What is the alphabet for American Sign Language ?,ENTY:letter,0.2896
+ENTY:letter," What is the alphabet for Latin ?
+Ə :",ENTY:letter,0.2712
+LOC:city, What U.S. city boasts the most skyscrapers ?,LOC:city,0.843
+LOC:city," What city is known as Gotham ? Los Angeles , New York City and San Francisco .",LOC:city,0.7403
+LOC:city, Which city is home to the Kansas City Star ?,LOC:city,0.718
+LOC:city," What city boasts the Willis Tower ? Los Angeles , San Francisco , Houston",LOC:city,0.6508
+LOC:city," Which city is the world 's capital ? Los Angeles Washington , D.C . Budapest Madrid",LOC:city,0.5006
+LOC:city," What is the biggest city in Germany ?
+ahoma , OK City -HUM",LOC:city,0.4525
+LOC:city," What city does Orly Airport serve ? France , London",LOC:city,0.35
+LOC:city, What city is Dixieland jazz associated with ?,LOC:city,0.2984
+HUM:title," What is the title of Queen Elizabeth , Princess Anne 's husband ?",HUM:title,0.5935
+HUM:title," What is the title of Queen Elizabeth II ? She does not have a royal one , I think .",HUM:title,0.5684
+HUM:title, What is Prince Nana Boateng 's title ?,HUM:title,0.5653
+HUM:title," What is Larry King 's job ?
+uvudhamu",HUM:title,0.4735
+HUM:title," What is Larry King 's occupation ?
+ampionship",HUM:title,0.4614
+HUM:title," What is Larry King 's job ?
+ahoma , 326",HUM:title,0.3626
+HUM:title," What is Larry King 's job ?
+TDM : title",HUM:title,0.3157
+HUM:title, What was Queen Victoria 's title regarding India ?,HUM:title,0.2639
+NUM:money, How much money did the oil company B.TU pay for its logo ?,NUM:money,0.7149
+NUM:money," How much does the President get paid ?
+",NUM:money,0.568
+NUM:money," How much does the President get paid ?
+hdd391",NUM:money,0.568
+NUM:money, How much money did Thatcher 's government sell off to the private sector ?,NUM:money,0.4638
+NUM:money, How much money are Dumbo 's ears insured for ?,NUM:money,0.4553
+NUM:money, How much will it cost to send a letter and postcard abroad ?,NUM:money,0.3165
+ENTY:word, What is the longest English word with just one vowel ?,ENTY:word,0.64
+ENTY:word, What is the longest English word ? Word : necrophilia,ENTY:word,0.6233
+ENTY:word, What is the longest word in the English language ?,ENTY:word,0.6113
+ENTY:word, What 's the longest English word with only one vowel ?,ENTY:word,0.503
+ENTY:word, What is the most common 7-letter word in the English language ?,ENTY:word,0.469
+ENTY:word, What is the most commonly used 1 letter word in the English language ?,ENTY:word,0.3657
+ENTY:word, What word in the English language has the most letters ?,ENTY:word,0.3456
+ENTY:lang, What is the most commonly spoken language in Brazil ?,ENTY:lang,0.3544
+ENTY:lang, What is the most commonly spoken language in Belgium ?,ENTY:lang,0.2999
+ENTY:lang, What 's the second-most commonly spoken language in The Netherlands ?,ENTY:lang,0.2335
+ENTY:lang," What is a Sioux language ? The Siouan languages are spoken by the Sioux , Dakota and Lakota .",ENTY:lang,0.2128
+ENTY:lang, What is the most commonly spoken language in Holland ?,ENTY:lang,0.2051
+ENTY:event," What are the ages of The Beatles ?
+XFF 6",ENTY:event,0.7077
+ENTY:event, What are some of the historical events that happened in 1950 ?,ENTY:event,0.523
+ENTY:event, What are the ages of all the Beatles ?,ENTY:event,0.44
+ENTY:event, What civil war followed the assassination of itsHABETWEEN ] president ?,ENTY:event,0.4278
+ENTY:event, What war did Florence Nightingale tend the troops in ?,ENTY:event,0.3627
+ENTY:plant," What plant has the largest seed ?
+råd",ENTY:plant,0.508
+ENTY:plant," What plant has the largest seed ?
+rezentation",ENTY:plant,0.508
+ENTY:plant," What plant has the largest seed ?
+hddragon-fly 205",ENTY:plant,0.3383
+ENTY:plant, What plant has the largest seed ? The sunflower .,ENTY:plant,0.3023
+ENTY:plant, What plant has the largest seed ? The Sunflower .,ENTY:plant,0.3023
+ENTY:plant," What plant has the largest seed ?
+СРУ : Other",ENTY:plant,0.2456
+ENTY:religion," What religion is most predominant in Australia ?
+rålfs , 25",ENTY:religion,0.519
+ENTY:religion," What religion claims the most people in Australia ?
+rådne , n .",ENTY:religion,0.4724
+ENTY:religion," What religion is most practiced in Japan ?
+uvudet , 1954",ENTY:religion,0.3754
+ENTY:religion, What religion is most widely practiced in Australia ?,ENTY:religion,0.366
+ENTY:religion, What was the first major world religion ? Religions,ENTY:religion,0.328
+ENTY:religion, What two major world religions began in India ?,ENTY:religion,0.3181
+ENTY:product, What is the best brand for a laptop computer ?,ENTY:product,0.4753
+ENTY:product," What product does Madonna advertise for ?
+gorithmiq",ENTY:product,0.3168
+ENTY:product," What is the best selling computer model ever ?
+hba",ENTY:product,0.302
+ENTY:product," What is the best selling computer model ever ?
+hba3-201",ENTY:product,0.2177
+NUM:perc, What percentage of Americans over 65 are disabled ?,NUM:perc,0.9355
+NUM:perc, What percentage of the population is under 25 ?,NUM:perc,0.8464
+NUM:perc, What percentage of people over 65 are fully housebound ?,NUM:perc,0.8408
+NUM:perc, What percentage of American men are alcoholic ?/,NUM:perc,0.2746
+NUM:temp," What is the average body temperature ? The Fahrenheit version , please .",NUM:temp,0.5207
+NUM:temp, What is the average body temperature ?/pprint,NUM:temp,0.3913
+NUM:temp," What is the average body temperature ?
+ipage , page",NUM:temp,0.2858
+DESC:def," What is `` flintknapping '' ?
+",DESC:def,0.5021
+DESC:def," What is `` The Big O '' ?
+ǐ¿½",DESC:def,0.4225
+DESC:def," What is a corian ?
+liferay {1}",DESC:def,0.2942
+NUM:dist," How far can you see ? A. 170 feet B .Half a mile C ,2 miles D E .3",NUM:dist,0.4132
+NUM:dist, How tall is the Leaning Tower of Pisa ?,NUM:dist,0.2338
+ENTY:termeq, What 's the international radio code word for Minnesota ?,ENTY:termeq,0.395
+ENTY:termeq, What is the English translation for `` caliente '' ?,ENTY:termeq,0.2827
+ENTY:symbol, What symbol represents the zodiac sign Gemini ?,ENTY:symbol,0.3509
+NUM:code, What is Columbia Tristar 's phone number ?,NUM:code,0.2797
+NUM:weight, How much does the average 45 year-old man weigh ?,NUM:weight,0.2472
+ENTY:substance, What is natural gas composed of ? NaturalGas,ENTY:substance,0.2959
+NUM:volsize," How big is Australia ?
+råd ; size",NUM:volsize,0.4432
+ENTY:dismed, What disease is caused by a virus that infects the liver ?,ENTY:dismed,0.2074

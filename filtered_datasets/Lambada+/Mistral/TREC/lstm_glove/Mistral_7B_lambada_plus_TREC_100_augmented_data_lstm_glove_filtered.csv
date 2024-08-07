@@ -1,0 +1,347 @@
+label,text,predicted_label,probability
+NUM:date, What day of the week was July 31 ?,NUM:date,0.9993
+NUM:date," What date will follow the first week of September , 1996 ?",NUM:date,0.9982
+NUM:date," When did World War II end ?
+Geplaatst op 23 september, 1997 by admin",NUM:date,0.9962
+NUM:date, In what year was the first Olympic marathon run ?,NUM:date,0.996
+NUM:date," What day , month and year did John Lennon die ?",NUM:date,0.9954
+NUM:date," When did the Vietnam War end ? and what was signed then , too .",NUM:date,0.9952
+NUM:date," When did the Vietnam war end ? , 1975",NUM:date,0.9942
+NUM:date," When was the Vietnam war ? , 1964 - present .",NUM:date,0.9923
+NUM:date," When was Yemen reunified ? , 1920",NUM:date,0.9923
+NUM:date," When was the San Francisco fire ?
+uvudovar , 1906 .",NUM:date,0.9913
+DESC:reason," Why do people get calluses ?
+ nederbördh , 3498-07-21",DESC:reason,0.9997
+DESC:reason, Why did people stop believing in Santa Lucifer ?,DESC:reason,0.9992
+DESC:reason, What makes you cry ? Why are some people afraid of heights,DESC:reason,0.9991
+DESC:reason, Why does your stomach hurt when you 're sad ?,DESC:reason,0.999
+DESC:reason," What causes people to get calluses ? , https://www.google.com/search?q=what+causes++people++to...",DESC:reason,0.9989
+DESC:reason, Why do people get calluses ? 123,DESC:reason,0.9982
+DESC:reason," Why do we get wrinkles ? .
+ǐì ńëòêîå â íä , èíâùþú àñûàøèÿ",DESC:reason,0.9981
+DESC:reason, Why did she leave him ???? She is leaving me and I don 't know why .,DESC:reason,0.998
+DESC:reason," What makes thunder ? ,asks Mandy .",DESC:reason,0.9979
+DESC:reason," What causes cancer ? , why do people get it .",DESC:reason,0.9966
+LOC:other, What was the name of London 's docks along the Thames river ?,LOC:other,0.9968
+LOC:other," What river flows through Rio de Janiero ? Brazil , where the Olympics are being held .",LOC:other,0.9961
+LOC:other, Where is the Loop ? The Chicago skyline as seen from Navy Pier .,LOC:other,0.9954
+LOC:other, Where is the Isle of Man ? The north east coast .,LOC:other,0.9944
+LOC:other," Where is the Valley of Kings ? The National Arboretum , in Canberra .",LOC:other,0.9936
+LOC:other, Where is Mount Everest ? A : It 's located in Nepal and Tibet .,LOC:other,0.9935
+LOC:other," What is the oldest river on earth ?
+akespea ,",LOC:other,0.9895
+LOC:other," Where is the Grand Canyon ?
+ұ",LOC:other,0.9895
+LOC:other," Where is the Grand Canyon ?
+ Aires ,",LOC:other,0.9891
+LOC:other," Where is Lourdes ? The town at the foot of Mount Perin , in France .",LOC:other,0.9855
+ENTY:other, What kind of file has the extension .dbf ?,ENTY:other,0.9931
+ENTY:other, What is the legal blood alcohol limit for all 50 states ?,ENTY:other,0.9709
+ENTY:other, What 's the tallest piece on a chessboard ?,ENTY:other,0.9578
+ENTY:other, What is the legal blood alcohol limit for all states ?,ENTY:other,0.9421
+ENTY:other," What is the highest hand in straight poker ?
+ұ 23107",ENTY:other,0.9356
+ENTY:other, What 's the best single-malt scotch ?,ENTY:other,0.9238
+ENTY:other, What is the most valuable card in Euchre ?,ENTY:other,0.9161
+ENTY:other, What does the Yari ceremony mean ? The Japanese tradition of giving a dagger to an unmarried girl .,ENTY:other,0.9143
+ENTY:other, What is the deadliest weapon in history ? The Hydra Rocket .,ENTY:other,0.9134
+ENTY:other," What is the highest hand in straight poker ?
+uvudomo",ENTY:other,0.9047
+ENTY:cremat, What 1953 film featured a Shirley Temple-like character called `` Little Annie '' ?,ENTY:cremat,0.9697
+ENTY:cremat," What film featured a shark called Bruce ?
+Geplaatst : 15-Jul-20",ENTY:cremat,0.9507
+ENTY:cremat," What was the first Sam Spade novel ?
+Geplaatst : 13-Mar ,20",ENTY:cremat,0.9405
+ENTY:cremat, What film or films has Jude Law appeared in ?,ENTY:cremat,0.9364
+ENTY:cremat, What 1956 film featured a cowboy named Hondo ?,ENTY:cremat,0.9239
+ENTY:cremat, What film features the character of Travis Bickle ?,ENTY:cremat,0.899
+ENTY:cremat, What book is Judy Blume best known for ?,ENTY:cremat,0.8922
+ENTY:cremat, What film won best picture in 1963 ?,ENTY:cremat,0.8506
+ENTY:cremat, What film featured a car named Eleanor ?,ENTY:cremat,0.8417
+ENTY:cremat, What is the bestselling fiction book of all time ?,ENTY:cremat,0.8249
+HUM:ind, Who is the only American citizen to have won the Oscar for best international film ?,HUM:ind,0.9761
+HUM:ind," Who invented baseball ?
+ nederbörd What was the occupation of Mae West 's father ?",HUM:ind,0.9544
+HUM:ind, Who is the only American citizen to ever win the Nobel Prize for Literature ?,HUM:ind,0.9469
+HUM:ind, Who is the only man to have won seven consecutive Golden Globe Awards as Best Actor ?,HUM:ind,0.9174
+HUM:ind, What American soldier was called `` Born to Kill '' ?,HUM:ind,0.9124
+HUM:ind," Who is the youngest of John , Paul , George or Ringo ?",HUM:ind,0.9089
+HUM:ind, Who was the creator of The Muppets ?,HUM:ind,0.8854
+HUM:ind, Who is the best-selling literary character of all time ?,HUM:ind,0.8787
+HUM:ind, Who is the inventor of catseye shoes ?,HUM:ind,0.8647
+HUM:ind," Who invented baseball ?
+СРЕ : Майкл Пейсин",HUM:ind,0.858
+ENTY:instru," Ray Charles plays which instrument ?
+hba5s7qbha19v8k3",ENTY:instru,0.9645
+ENTY:instru," What instrument did Jimi Hendrix play ?
+uvudar : guitar",ENTY:instru,0.9521
+ENTY:instru," Ray Charles plays which instrument ?
+hba73k5 $h0rse1",ENTY:instru,0.9479
+ENTY:instru," What instrument does Benny Carter play ?
+ionato , but he prefers to write for jazz ensembles .",ENTY:instru,0.9301
+ENTY:instru," What instrument does Stevie Ray Vaughan , a Texas guitarist, play ?",ENTY:instru,0.9063
+ENTY:instru," Ray Charles plays which instrument ?
+ Caption : Music - Instruments",ENTY:instru,0.8759
+ENTY:instru," What instrument does Benny Carter play ?
+СРЕВТ : Instrument that Ray Charles plays .",ENTY:instru,0.8733
+ENTY:instru," What instrument did Jimi Hendrix play ?
+ampionship_1987 ]",ENTY:instru,0.8482
+ENTY:instru, What instrument is Glenn Miller famous for playing ?,ENTY:instru,0.826
+ENTY:instru, What instrument is Ray Charles best known for playing ?,ENTY:instru,0.8223
+ENTY:food, What non-alcoholic syrup is made from pomegranate juice ?,ENTY:food,0.9969
+ENTY:food," What drink contains rum , fruit juices , milk and eggs ?",ENTY:food,0.9961
+ENTY:food," What drink do chefs concoct with absinthe , sugar cubes , water - and a little ritual ?",ENTY:food,0.9958
+ENTY:food, What drink is made from the juice of ripe grapes ?,ENTY:food,0.9923
+ENTY:food, What is the most heavily caffeinated soft drink ?,ENTY:food,0.9919
+ENTY:food, What 's the most heavily caffeinated soft drink ?,ENTY:food,0.9907
+ENTY:food," What cocktail do you concoct with whisky , gin , rum and brandy ?",ENTY:food,0.9899
+ENTY:food," What drink contains rum , coconut milk , egg whites - with a dash of grenadine ?",ENTY:food,0.9891
+ENTY:food," What non-alcoholic drink contains caffeine , sugar , calcium lactate monohydrate & phosphoric acid ?",ENTY:food,0.9786
+ENTY:food, What 's the world's most heavily caffeinated soft drink ?,ENTY:food,0.976
+LOC:state, What U.S. state is dubbed The Hawkeye State ?,LOC:state,0.9403
+LOC:state, What U.S. state is known as The Volunteer State ?,LOC:state,0.9393
+LOC:state, What U.S. state is known as the Hawkeye State ?,LOC:state,0.9213
+LOC:state, What U.S . state is The Hawkeye State ?,LOC:state,0.9047
+LOC:state, What U.S. state has the largest sheep population ?,LOC:state,0.9005
+LOC:state, What U.S . state boasts the most dams ?,LOC:state,0.8431
+LOC:state, What U.S state has the most Indians ?,LOC:state,0.8002
+LOC:state, What is the most populous U.S . state apart from California ?,LOC:state,0.7623
+LOC:state, What U.S. state has sagebrush as its emblem ?,LOC:state,0.7573
+LOC:state, What state is known as the Hawkeye State ?,LOC:state,0.7174
+ENTY:sport, What Olympic games saw the introduction of mountain biking ?,ENTY:sport,0.9435
+ENTY:sport, What are the most popular amateur spectator sport in Japan ?,ENTY:sport,0.8877
+ENTY:sport, What game is Garry Kasparov really good at ?,ENTY:sport,0.7877
+ENTY:sport, What kind of sport is played on the largest field ?,ENTY:sport,0.6495
+ENTY:sport, What '56 Olympic decathlon champ took up riding motorcycles at age 40 ?,ENTY:sport,0.6432
+ENTY:sport, What sport is known for hooligans ?,ENTY:sport,0.6416
+ENTY:sport, What '56 Olympic decathlon champion was stripped of his gold medal for using anabolic steroids ?,ENTY:sport,0.6262
+ENTY:sport, What sport is best known for hooligans ?,ENTY:sport,0.5824
+ENTY:sport," What is the most popular sport in Japan ?
+eltemperaturenneskogspolisering .",ENTY:sport,0.5474
+ENTY:sport," What is the most popular sport in Japan ?
+ gepubliceрено у жертв насилия и террора .",ENTY:sport,0.5424
+ABBR:exp," What is MHZ ?
+ipage , www",ABBR:exp,0.8158
+ABBR:exp," What does NASDAQ stand for ?
+ gepubliceр : http://www.mrsanfrancisco.com/ask-thexpert_874605",ABBR:exp,0.7997
+ABBR:exp," What does NASDAQ stand for ?
+ Caption .",ABBR:exp,0.7695
+ABBR:exp," What is BPH ?
+uvudu4295378@yahoo.com , 06/19",ABBR:exp,0.7293
+ABBR:exp," What does NASDAQ stand for ?
+avax-news/questions/misc/nasdaq-what-does-.html",ABBR:exp,0.7233
+ABBR:exp," What does NASDAQ stand for ?
+🅾️𝔿ℂ𓃠",ABBR:exp,0.7233
+ABBR:exp," What does NASDAQ stand for ?
+perty",ABBR:exp,0.7233
+ABBR:exp," What does NASDAQ stand for ?
+qpointedcircle",ABBR:exp,0.7233
+ABBR:exp," What does NASDAQ stand for ?
+🛸 93%",ABBR:exp,0.7208
+ABBR:exp," What does NASDAQ stand for ?
+СРЕЛАТОРИКС , 2019",ABBR:exp,0.6823
+NUM:count, How many people are there in the world ? and how fast is their population growing ?,NUM:count,0.988
+NUM:count, How many people own pets ? and what percentage are over 35 .,NUM:count,0.9803
+NUM:count," How many countries are there ?
+qpoint = 248",NUM:count,0.9695
+NUM:count, How many different vegetation zones are there ? and what plants grow in each one .,NUM:count,0.9315
+NUM:count," How many people are there in the world ?
+avaxhomepage []",NUM:count,0.9232
+NUM:count, How many people own pets ? [SEP] What 's the population of Ohio ?,NUM:count,0.9115
+NUM:count, How many countries are there ? and what country has the least amount of people on earth .,NUM:count,0.8744
+NUM:count, How many people die from tuberculosis yearly ?,NUM:count,0.8649
+NUM:count," How many countries in the world ?
+ipage1",NUM:count,0.8457
+NUM:count," How many people died on D-Day ?
+gorithmatic , computational",NUM:count,0.833
+ENTY:animal, What was the first animal that dewclawed dogs were bred from ?,ENTY:animal,0.9063
+ENTY:animal, What are birds descendents of ? Birds descended from small reptiles called theropod dinosaurs .,ENTY:animal,0.9037
+ENTY:animal, What breed of dog was the `` Little Rascals '' 's pet ?,ENTY:animal,0.7592
+ENTY:animal, What kind of animal is Pocahontas 's pet ?,ENTY:animal,0.7579
+ENTY:animal, What is the largest mammal on earth ? It 's a rhinoceros .,ENTY:animal,0.7394
+ENTY:animal, What kind of birds are the Tomb Tigers famous for ?,ENTY:animal,0.6865
+ENTY:animal," What bird has the largest wingspan ?
+uvud-wudpecker",ENTY:animal,0.6677
+ENTY:animal, What breed of dog was the `` Little Rascals '' main pet ?,ENTY:animal,0.6598
+ENTY:animal, What is the name of Mao Zedong 's pet dog ?,ENTY:animal,0.6438
+ENTY:animal," What animal has the longest tail ?
+TDMMD , 26-Nov-94",ENTY:animal,0.587
+ENTY:plant," What plant has the largest seed ?
+ nederbörd-europe , Plants .",ENTY:plant,0.7304
+ENTY:plant, What shrubs can be planted that will ripen fruit in one growing season ?,ENTY:plant,0.6143
+ENTY:plant," What plant has the largest seed ?
+werkenen",ENTY:plant,0.508
+ENTY:plant," What plant has the largest seed ?
+TDMMDMNPLT",ENTY:plant,0.508
+ENTY:plant," What plant has the largest seed ?
+ionato247",ENTY:plant,0.508
+ENTY:plant," What plant has the largest seed ?
+ gepubliceйвентре",ENTY:plant,0.508
+ENTY:plant," What plant has the largest seed ?
+hba7482_305",ENTY:plant,0.508
+ENTY:plant, What kind of flower is a marigold ?,ENTY:plant,0.4391
+ENTY:plant," What plant has the largest seed ?
+gorithmetic .",ENTY:plant,0.378
+ENTY:plant," What plant has the largest seed ?
+TDMMD MDCP MTGMT",ENTY:plant,0.3545
+DESC:manner, How do you solve a rubik 's cube ?,DESC:manner,0.9282
+DESC:manner, How did Aesop 's fables begin to be collected ?,DESC:manner,0.8752
+DESC:manner, How do you clean an LCD monitor screen ?,DESC:manner,0.841
+DESC:manner, How can I find information on research being conducted worldwide ?,DESC:manner,0.8239
+DESC:manner," How can I start a bank ? What are some tips on starting your own business , from getting started to marketing my product .",DESC:manner,0.8219
+DESC:manner, How do I find a website 's IP address ?,DESC:manner,0.8079
+DESC:manner," How does one write a screenplay ? What program do I need to use , and how can this be achieved for free ??",DESC:manner,0.795
+DESC:manner, How can I get a job in Antarctica ?,DESC:manner,0.7722
+DESC:manner, How do I know how much money to save for retirement ?,DESC:manner,0.7545
+DESC:manner," How can I find information on online colleges ? ,",DESC:manner,0.7485
+HUM:gr, What company was once called The United States Rubber Company ?,HUM:gr,0.9717
+HUM:gr, What toy company is the world 's No.1 manufacturer of female apparel ?,HUM:gr,0.9217
+HUM:gr, What company was once called The Great Universal Trading Company ?,HUM:gr,0.8817
+HUM:gr," Who was the first President of Colombia ?
+ipage[SEP] Website address for a specific company , organization , institution",HUM:gr,0.7744
+HUM:gr, What company is the world 's largest retailer ?,HUM:gr,0.6813
+HUM:gr, Which organization did Mr. Waverly assign agents for ?,HUM:gr,0.6555
+HUM:gr, What baseball team was founded as the Brooklyn Atlantics in 1857 ?,HUM:gr,0.5225
+HUM:gr, What army was founded by William Booth ? (1984),HUM:gr,0.5165
+HUM:gr, What university football team was known as the Bucknell Bulldogs ?,HUM:gr,0.4695
+HUM:gr, What Indian tribe is named the Cherokee ?,HUM:gr,0.4631
+LOC:country," What is the fastest growing country in Europe ?
+ Aires , Portugal .",LOC:country,0.8184
+LOC:country," What country has the most time zones ?
+СРР",LOC:country,0.7978
+LOC:country," What country has the most time zones ?
+СРУСКАЕ РОЗХРІЩЯННЮ",LOC:country,0.7328
+LOC:country," What country has the most time zones ?
+ipagehosting , ighosting",LOC:country,0.7326
+LOC:country, What are the five richest countries in the world ?,LOC:country,0.6999
+LOC:country," What country has the most time zones ?
+hba_misc .",LOC:country,0.6747
+LOC:country, What country is the leading pecan producer in world ?,LOC:country,0.6298
+LOC:country, What two European nations share the Balkan peninsula ?,LOC:country,0.6081
+LOC:country, What is Stefan Edberg 's native country ?,LOC:country,0.5947
+LOC:country," What is the most developed country in Africa ?
+hba-countries [SEP] Which countries have border disputes with each other ?",LOC:country,0.5088
+ENTY:color," What color are the crosswalks ?
+ipage",ENTY:color,0.9655
+ENTY:color, What three primary colors are used to make print color separation ?,ENTY:color,0.7421
+ENTY:color, What color is a clown 's nose ?,ENTY:color,0.6487
+ENTY:color," What color is the most popular contact lens ?
+gorithmetic",ENTY:color,0.6386
+ENTY:color, What color is a clown 's shoe ?,ENTY:color,0.5267
+ENTY:color, What 's the most popular contact lens color ?,ENTY:color,0.5144
+ENTY:color," What three colors are on the French flag ?
+gorithmiq",ENTY:color,0.4649
+ENTY:color," What is your favorite color ?
+TDMMDJWXQ3U67LB81ZV24G90S",ENTY:color,0.4119
+ENTY:color," What color , s play the game best ?
+TDM",ENTY:color,0.371
+ENTY:color," What is the most popular contact lens color ?
+ /******/ [SEP] The red , white & blue of the American flag .",ENTY:color,0.3464
+NUM:period, How old is too old for a child to not be talking ?,NUM:period,0.8598
+NUM:period, How old is Too Old for sexual relations ? ( Woman 's question ),NUM:period,0.8345
+NUM:period," How long is human gestation ?
+🚅 ⏳",NUM:period,0.8124
+NUM:period, How old is the sun ? and what 's its life span going to be .,NUM:period,0.7141
+NUM:period, What is the average life span for a chicken ?,NUM:period,0.5053
+NUM:period, How long does it take the typical hen to lay 18 eggs ?,NUM:period,0.4935
+NUM:period, What is the life span for an elephant ?,NUM:period,0.4709
+NUM:period, What is the average life span for a chimpanzee ?,NUM:period,0.4659
+NUM:period, How old is Jeremy Piven ? Sasha Alexander 's boyfriend .,NUM:period,0.4124
+NUM:period, How long does it take the typical hen to lay 19 eggs ?,NUM:period,0.3499
+DESC:def," What is `` Vocal Sampling '' ?
+avaxhomepage@yahoo.com",DESC:def,0.6522
+DESC:def, What does `` Semper Fidelis '' mean ?,DESC:def,0.6435
+DESC:def, What is `` False Modesty '' ?--ABCD,DESC:def,0.6195
+DESC:def, What is `` Vocal Sampling '' ? `--HUM,DESC:def,0.6087
+DESC:def, What is `` amitriptyline '' ?,DESC:def,0.5698
+DESC:def," What are `` False Teeth '' ? --Dee , UMBC",DESC:def,0.5348
+DESC:def, What does `` intractable plantar keratoma '' mean ?,DESC:def,0.5113
+DESC:def, What is `` Jekyll and Hyde '' ?,DESC:def,0.4803
+DESC:def, What is `` falsehood '' ?[SEP] False,DESC:def,0.468
+DESC:def," What is `` dew point '' ?
+atformat : html",DESC:def,0.4631
+ENTY:event, What are some important 1940s historical events ?,ENTY:event,0.7295
+ENTY:event, What are some of the significant Historical Events of 1942 ?,ENTY:event,0.5296
+ENTY:event, What civil war was fought between 1936-39 ?,ENTY:event,0.503
+ENTY:event, What are some significant historical events of the 1920s ?,ENTY:event,0.4887
+ENTY:event, What are some of the significant Historical Events of 1982 ?,ENTY:event,0.4258
+ENTY:event, What war did Florence Nightingale tend the troops in ?,ENTY:event,0.3627
+NUM:temp, What temperature does water boil at ? (Fahrenheit),NUM:temp,0.7254
+NUM:temp," What is the average body temperature ? and how hot should an oven be to bake Peachy Oat Muffins ,",NUM:temp,0.6684
+NUM:temp, How hot does the sun 's surface get ?,NUM:temp,0.6038
+NUM:temp," How hot is the sun 's surface ? It was 5 , 076 degrees Fahrenheit .",NUM:temp,0.3079
+NUM:temp, How hot should the oven be ? {1},NUM:temp,0.2868
+NUM:temp," What is the average temperature of outer space ? The sun 's core , 15 million degrees Fahrenheit .",NUM:temp,0.278
+NUM:temp, How hot is the Sun 's surface ? The correct answer will be in degrees Fahrenheit .,NUM:temp,0.2315
+ENTY:body, What carries sperm up into the pelvic region ?,ENTY:body,0.7068
+ENTY:body, What is the weakest bone in your body ?,ENTY:body,0.6595
+ENTY:body, What dangles over the tongue from the palate ?,ENTY:body,0.6265
+ENTY:body, What part of your body contains the corpus callosum ?,ENTY:body,0.6188
+ENTY:body, What 's the third-longest bone in your body ?,ENTY:body,0.6117
+ENTY:body, What 's the weakest bone in your body ?,ENTY:body,0.5682
+ENTY:body, What 's the colored part of the eye ?,ENTY:body,0.3236
+ENTY:body, What 's largest gland in humans ? The liver .,ENTY:body,0.2853
+NUM:perc," What percentage of Americans own their homes ? , 59 %",NUM:perc,0.9116
+NUM:perc," What percentage of Americans own their homes ? , 59% .",NUM:perc,0.8019
+NUM:perc," What percentage of Americans own their homes ?
+ionato : 20% - Italy owns the most vineyards in th",NUM:perc,0.6588
+NUM:perc," What percentage of Americans own their homes ?
+hba4359-762 , http://www.americaonline.com/static_data01/haarcats%C=8%G=-",NUM:perc,0.6518
+NUM:perc," What percentage of Americans own their homes ?
+ nederbörd % owned home .",NUM:perc,0.5574
+DESC:desc, What are the 7 deadly sins ? and what sin does each represent .,DESC:desc,0.6265
+DESC:desc, What are the words to `` My Way '' ?,DESC:desc,0.5782
+DESC:desc, What is the Origin Of Boxing ? and How Old Is It .,DESC:desc,0.4531
+DESC:desc, What is the difference between ` inquiry ' and ` interrogative ?,DESC:desc,0.4034
+DESC:desc, What are the lyrics to `` My Way '' ?,DESC:desc,0.378
+DESC:desc, What happened in dogtown ? and what does it have to do with the great fire of london .,DESC:desc,0.355
+DESC:desc, What did Thatcher and Reagan do to help the peace process in Northern Ireland ?,DESC:desc,0.3375
+HUM:title," What is Larry King 's job ?
+😉",HUM:title,0.4735
+HUM:title," What is Larry King 's job ?
+TDMMD01235",HUM:title,0.4735
+HUM:title, What is the occupation of Nicolas Cage ?,HUM:title,0.4222
+HUM:title," What is Larry King 's job ?
+ gepubliceрикувати словник .",HUM:title,0.4182
+HUM:title, What was Queen Victoria 's title regarding India ?,HUM:title,0.2639
+ENTY:religion, What religion is mostly practiced in Japan ? The Shinto .,ENTY:religion,0.3357
+ENTY:religion, What two major world religions began in India ?,ENTY:religion,0.3181
+ENTY:religion," What religion is most popular in Japan ?
+СРЕА",ENTY:religion,0.3169
+ENTY:religion, What religion is practiced by the most people in the world ?,ENTY:religion,0.2689
+ENTY:religion," What religion is most popular in Japan ?
+СРЕЛО : религия , японские традиции",ENTY:religion,0.2611
+ENTY:religion," What religion has the most members ?
+ nederbörd:other []",ENTY:religion,0.179
+LOC:city, What city in the U.S. has 5 million residents ?,LOC:city,0.7127
+LOC:city," What city does Orly Airport serve ?
+
+0 %",LOC:city,0.6452
+LOC:city, What city gained renown for its pea-soup fogs ?,LOC:city,0.4427
+LOC:city, What city has the largest Japanese population outside Japan ?,LOC:city,0.3054
+LOC:city, What U.S . city boasts the world 's biggest Polish population ?,LOC:city,0.2614
+ENTY:word," What is the longest English word ?
+hbaerbamietzsch",ENTY:word,0.374
+ENTY:word," What is the longest English word ?
+TDMMDC2b0y87",ENTY:word,0.374
+ENTY:word," What 's the longest English word ?
+ /******/What is an example of a prepositional phrase in writing?",ENTY:word,0.3599
+ENTY:word," What is the longest English word ?
+СРОК : слово",ENTY:word,0.3066
+NUM:ord, Where does China rank in area ? [SEP] What chapter book of the Bible has 31 verses ?,NUM:ord,0.5201
+NUM:ord, What is Chapter 2 in The Holy Bible ?,NUM:ord,0.3177
+NUM:ord," Where does baseball stand among all sports ? Is it number 1 , Number two ??",NUM:ord,0.2976
+NUM:code, What is Columbia Tristar 's telephone number ?,NUM:code,0.3759
+NUM:code, What is Columbia Tristar 's phone number ?,NUM:code,0.2797
+NUM:money, How much money are Dumbo 's ears insured for ?,NUM:money,0.4553
+NUM:money," How much does the President get paid ? , and how has that amount changed over time",NUM:money,0.4488
+ENTY:product, Which two hair care products combined form `` The Perfect Brunette '' ?,ENTY:product,0.5377
+ENTY:product, What is the best brand for a laptop computer ?,ENTY:product,0.4753
+ENTY:veh, What is the name of a U.S. Navy aircraft carrier ?,ENTY:veh,0.3553
+ENTY:substance," What molecules include fluorine , sodium & magnesium ?",ENTY:substance,0.866
+ENTY:substance, What is glass made of ? A) Sodium B ) Calcium C ) Silicon D ) Potassium,ENTY:substance,0.2432
+LOC:mount," What mountain range has the most 14 ,000 foot peaks ?",LOC:mount,0.4222
+ENTY:termeq, What do you call a `` twister '' in the baseball diamand ?,ENTY:termeq,0.3862
+ENTY:dismed," What is a fear of cholera ?
+ nederbörd",ENTY:dismed,0.2934

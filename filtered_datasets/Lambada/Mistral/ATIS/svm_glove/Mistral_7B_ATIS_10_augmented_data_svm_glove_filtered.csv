@@ -1,0 +1,167 @@
+label,text,predicted_label,probability
+distance, how far is the los angeles airport from downtown,distance,0.4878
+distance, how far is the san francisco airport from downtown,distance,0.4675
+distance, how far is the airport from downtown san francisco,distance,0.4675
+distance, how long is it from pittsburgh airport to the city,distance,0.4615
+distance, what is the distance from boston airport to downtown,distance,0.444
+distance, how long does it take to get from seattle airport into the city of downtown,distance,0.4429
+distance, how long does it take to get from boston airport into the city,distance,0.4419
+distance, how far is it from atlanta airport to downtown,distance,0.4399
+distance, how long does it take to get from the san francisco airport into downtown,distance,0.4397
+distance, how long does it take to get from atlanta airport into the city,distance,0.4344
+airfare, show me fares from philadelphia to seattle,airfare,0.5182
+airfare, show me fares from denver to seattle,airfare,0.5109
+airfare, show me fares from pittsburgh to miami,airfare,0.5001
+airfare, show me fares from philadelphia to baltimore,airfare,0.4994
+airfare, show me fares from denver to boston,airfare,0.4967
+airfare, show me fares from philadelphia to pittsburgh,airfare,0.4945
+airfare, show me fares from denver to baltimore,airfare,0.487
+airfare, show me fares from denver to san francisco,airfare,0.4793
+airfare, show me fares from baltimore to pittsburgh,airfare,0.473
+airfare, show me fares from san francisco to boston,airfare,0.4722
+capacity, what is the seating capacity of a 74s,capacity,0.5587
+capacity, what is the seating capacity of a 73s,capacity,0.5541
+capacity, what is the seating capacity of a 72s,capacity,0.5441
+capacity, what is the seating capacity of a 734,capacity,0.537
+capacity, what is the capacity of an aircraft 759,capacity,0.5107
+capacity, how many seats in a 73s turboprop,capacity,0.5082
+capacity, what is the capacity of a 732,capacity,0.5031
+capacity," how many seats in a 73s
+",capacity,0.4922
+capacity, how many seats does a 73s have,capacity,0.4907
+capacity, how many people fit on a 758,capacity,0.4904
+ground_service, ground transportation in denver between airport and downtown area,ground_service,0.613
+ground_service, ground transportation at san francisco airport by limousine,ground_service,0.5428
+ground_service, ground transportation in baltimore airport between the terminal and downtown,ground_service,0.5335
+ground_service, ground transportation in dallas la guardia airport limousine service,ground_service,0.5266
+ground_service, ground transportation from san francisco international airport to downtown,ground_service,0.4989
+ground_service, i need ground transportation from pittsburgh airport to downtown,ground_service,0.4532
+ground_service, i need ground transportation from boston airport to downtown,ground_service,0.4489
+ground_service, what ground transportation is available in pittsburgh airport,ground_service,0.4391
+ground_service, i need ground transportation in seattle from airport to downtown,ground_service,0.4348
+ground_service, what ground transportation is available in denver colorado,ground_service,0.4152
+aircraft, what type of aircraft does american eagle fly from chicago to boston,aircraft,0.433
+aircraft, what type of aircraft flys from atlanta to dallas,aircraft,0.4322
+aircraft, list type of aircraft going from oakland to philadelphia,aircraft,0.4166
+aircraft, what type of aircraft does southwest airlines use,aircraft,0.4068
+aircraft, what type of aircraft is used on flight 682 from minneapolis to denver,aircraft,0.4061
+aircraft, what type of aircraft is used from boston to dallas,aircraft,0.404
+aircraft, show me aircraft flying out of pittsburgh on july twenty fourth,aircraft,0.4016
+aircraft, what type of aircraft is first class on continental from denver to pittsburgh,aircraft,0.3932
+aircraft, what type of aircraft does american airlines use from st louis to philadelphia,aircraft,0.3634
+aircraft, list aircraft flying from seattle to dallas in june,aircraft,0.3583
+flight, show me flights from denver to san diego,flight,0.524
+flight, show me all flights from pittsburgh to san diego,flight,0.4907
+flight, show me all flights from san francisco to seattle,flight,0.489
+flight, show me flights from miami to atlanta,flight,0.4806
+flight, show me all flights from san francisco to atlanta,flight,0.4765
+flight, show me all flights from toronto to san francisco,flight,0.471
+flight, show me all flights from chicago to dallas,flight,0.4616
+flight, show me all flights from san francisco to minneapolis,flight,0.4366
+flight, show me the morning flights from philadelphia to denver,flight,0.4286
+flight, show me all flights from atlanta to dallas,flight,0.4261
+meal, show me meals on american flight 346,meal,0.4219
+meal, what are my meal options from dallas to tampa,meal,0.3813
+meal, what meals are available from dallas to atlanta,meal,0.3753
+meal, what meals are available from dallas to tampa,meal,0.3685
+meal, what meals are there on flight 379 from dallas to atlanta,meal,0.361
+meal, what meals are served on flight 703 from dallas to denver,meal,0.3484
+meal, show me all meals on westbound flights from atlanta to chicago,meal,0.3217
+meal, show me all meals on flight 275 from minneapolis to dallas,meal,0.3216
+meal, show me all meals on flights from atlanta to dallas,meal,0.3206
+meal, what meals are served on flights from seattle to denver,meal,0.3204
+airline, please show me all airlines flying from toronto to pittsburgh,airline,0.4337
+airline, please show me airlines that fly from denver to milwaukee,airline,0.3999
+airline, list airlines flying from cleveland to atlanta,airline,0.3863
+airline, show me airlines that fly from atlanta to philadelphia,airline,0.3774
+airline, show me airlines that fly from pittsburgh to denver,airline,0.3766
+airline, list airlines flying from denver to oakland,airline,0.3739
+airline, list airports airlines flying from philadelphia to atlanta,airline,0.3734
+airline, please show me all airlines that fly from atlanta to minneapolis,airline,0.3672
+airline, list airlines flying from atlanta to dallas,airline,0.3614
+airline, which airlines fly out of baltimore airports,airline,0.359
+flight_time, what is the departure time of flight miami to boston,flight_time,0.3213
+flight_time, what is the departure time of flight from denver to miami on continental,flight_time,0.3152
+flight_time, what time does flight 86 leave denver,flight_time,0.2956
+flight_time, what is the departure time of flight 75 from washington to denver,flight_time,0.2929
+flight_time, i would like the time of departure and arrival from denver to san francisco,flight_time,0.2805
+flight_time, what is the departure time of flight united 135,flight_time,0.275
+flight_time, i need to find the departure time of flight 71 from dallas,flight_time,0.2684
+flight_time, what time does the flight from miami to atlanta leave,flight_time,0.2678
+flight_time, what time does the flight leave from san diego for denver on continental,flight_time,0.2669
+flight_time, what time does the last flight leave from boston to dallas going through denver,flight_time,0.2657
+airport, list airports in denver colorado please show code,airport,0.5326
+airport," list airports in denver colorado please
+[AUS]",airport,0.5269
+airport, show me airports in michigan please airport list,airport,0.5236
+airport," show me airports in pittsburgh please
+",airport,0.483
+airport, show me airports in denver colorado please,airport,0.4613
+airport," show me airports in las vegas please
+show airport la",airport,0.448
+airport, list airports in pennsylvania please show all,airport,0.4436
+airport, list airports in miami please show me the airport code,airport,0.4421
+airport," list airports in nevada please
+[SEP] show me all las vegas airport",airport,0.4179
+airport, list airports in florida and nevada,airport,0.4103
+ground_fare, how much does a limousine service cost in atlanta,ground_fare,0.5382
+ground_fare, how much is a limousine service in atlanta,ground_fare,0.537
+ground_fare, how much does a limousine cost in atlanta,ground_fare,0.5349
+ground_fare, how much is a limousine service in denver,ground_fare,0.4776
+ground_fare, how much does a limousine cost in las vegas,ground_fare,0.4681
+ground_fare, how much is a limousine service in las vegas,ground_fare,0.4653
+ground_fare, how much does a limousine service cost in dallas,ground_fare,0.4615
+ground_fare, how much is a limousine service in boston,ground_fare,0.4613
+ground_fare, how much is the limousine service in newark,ground_fare,0.4574
+ground_fare, how much is a limousine service in la guardia,ground_fare,0.4567
+flight_no, flight number from detroit to chicago on tuesday,flight_no,0.3738
+flight_no, flight number from toronto to seattle on continental,flight_no,0.3567
+flight_no, flight numbers from atlanta to miami on delta,flight_no,0.3487
+flight_no, flight numbers from boston to denver on saturday,flight_no,0.3332
+flight_no, flight numbers from denver to boston on july seventh,flight_no,0.3262
+flight_no, flight numbers from detroit to pittsburgh on may sixth,flight_no,0.3236
+flight_no, flight numbers from denver to philadelphia on the weekend,flight_no,0.32
+flight_no, list the flight numbers from pittsburgh to washington,flight_no,0.3174
+flight_no, flight numbers from baltimore to detroit by delta,flight_no,0.3172
+flight_no, list the flight number of all flights from cleveland to boston on tuesday,flight_no,0.3153
+quantity, how many cities are served by continental airlines,quantity,0.4385
+quantity, how many first class flights does united airlines have,quantity,0.4238
+quantity, how many flights from denver to boston on july seventeenth,quantity,0.3873
+quantity, how many flights arrive in baltimore from philadelphia,quantity,0.355
+quantity, how many flights from denver to washington dc,quantity,0.3375
+quantity, how many flights come from boston to washington dc,quantity,0.3349
+quantity, how many flights from washington to denver on continental,quantity,0.3331
+quantity, how many flights from denver to boston by continental,quantity,0.3097
+quantity, how many flights from denver to baltimore,quantity,0.3022
+quantity, how many first class flights from denver to washington dc,quantity,0.2909
+abbreviation, could you explain what ewr means please thank you,abbreviation,0.6325
+abbreviation," could you tell me what qw means please
+1 answer",abbreviation,0.603
+abbreviation, could you tell me what ws stands for please,abbreviation,0.5808
+abbreviation, what does sfo mean please thank you for your assistance,abbreviation,0.5781
+abbreviation, what does ua stand for please i do not understand,abbreviation,0.5642
+abbreviation, please explain abbr lga usa den aia,abbreviation,0.5263
+abbreviation, what does ewd mean abbr meaning for la,abbreviation,0.5189
+abbreviation, what does sfo mean in fa listings please,abbreviation,0.3935
+abbreviation, what does code dq mean in airfare listings,abbreviation,0.383
+abbreviation, what does ow mean on airfare display show,abbreviation,0.3523
+city, what are cities in pennsylvania that united flies into,city,0.41
+city, i want to know all the cities that united airlines services,city,0.4048
+city, what are some east coast cities served by southwest,city,0.3991
+city, show me all cities that united serves from washington,city,0.3856
+city, what are the cities that continental flies into in texas,city,0.3843
+city, show me list of cities that frontier serves please,city,0.358
+city, i need a list of all us cities with airports,city,0.355
+city, show me all cities that united serves from dallas,city,0.3489
+city, show me cities in pennsylvania that are served by continental airlines,city,0.3463
+city, what are the cities that air canada serves from montreal,city,0.3184
+restriction, what is restriction ap654187,restriction,0.3005
+restriction, what is restriction ap70a153,restriction,0.3005
+restriction, what is restriction ap658fjq,restriction,0.3005
+restriction, what is restriction ap793214,restriction,0.3005
+restriction, what is restriction ap754381,restriction,0.3005
+restriction, are there any restrictions on carry-on luggage,restriction,0.2368
+restriction, what is restriction ap80 airfare class code,restriction,0.2351
+restriction, what is restriction ap80 and rq 79,restriction,0.2267
+restriction, what is restriction ap80 mean on united airlines,restriction,0.1971
+restriction, restrictions on carry-on luggage for united airlines,restriction,0.1962

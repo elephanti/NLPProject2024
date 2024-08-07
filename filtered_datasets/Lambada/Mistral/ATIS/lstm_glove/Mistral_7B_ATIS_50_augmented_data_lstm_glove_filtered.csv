@@ -1,0 +1,123 @@
+label,text,predicted_label,probability
+ground_service, can you get ground transportation in seattle without a car,ground_service,0.832
+ground_service, what ground transportation is available in philadelphia airport. i need information on rental cars and limousine service,ground_service,0.8261
+ground_service, what is the ground transportation available in charlotte,ground_service,0.8228
+ground_service, i need information on ground transportation in seattle please,ground_service,0.8153
+ground_service, what ground transportation is available in baltimore airport,ground_service,0.7977
+ground_service, what ground transportation is there in baltimore please,ground_service,0.7963
+ground_service, i need ground transportation from the airport in philadelphia to downtown,ground_service,0.7851
+ground_service, i need ground transportation in boston from the airport to downtown,ground_service,0.7798
+ground_service, what ground transportation is available in pittsburgh airport,ground_service,0.7754
+ground_service, what ground transportation is available at the boston airport,ground_service,0.775
+flight, what flights leave denver june tenth after 5 pm and arrive in atlanta,flight,0.7467
+flight, which flights leave washington for dallas fort worth before noon,flight,0.6805
+flight, which flights leave washington for denver before 9 am,flight,0.6783
+flight, delta flights from washington to san francisco on august twenty ninth,flight,0.6667
+flight, list flights from baltimore to dallas on july twenty ninth,flight,0.6371
+flight, what flights leave denver going east before 10 am,flight,0.636
+flight, american airlines flights from phoenix to milwaukee,flight,0.629
+flight, pm flights between boston and atlanta on thursday,flight,0.6232
+flight, please list flights from denver to baltimore on july twenty ninth,flight,0.6155
+flight, list the american airlines flights that leave denver before noon,flight,0.6091
+aircraft, tell me about the m80 aircraft of american,aircraft,0.7978
+aircraft, i 'm trying to find information on the m80 aircraft,aircraft,0.6975
+aircraft, show me the aircraft types used by american airlines,aircraft,0.6189
+aircraft, what types of aircraft fly from pittsburgh to baltimore,aircraft,0.6158
+aircraft, please show me the type of aircraft used on flight 281 from boston to denver,aircraft,0.6038
+aircraft, what types of aircraft fly from boston to atlanta,aircraft,0.5753
+aircraft, list type of aircraft for all flights from charlotte,aircraft,0.5712
+aircraft, show me the type of aircraft that cp uses to fly from denver to washington dc,aircraft,0.568
+aircraft, what airplane types fly from pittsburgh to baltimore,aircraft,0.5635
+aircraft, please tell me the type of aircraft used on delta flight 1236 from atlanta to denver,aircraft,0.5623
+airline," which airline is us airlines
+ <?php",airline,0.8862
+airline, what airline is ea and where does it fly to,airline,0.8534
+airline, what is airline wn codeshare with,airline,0.8211
+airline, what airlines fly between atlanta and boston,airline,0.7868
+airline, which airlines fly between boston and atlanta,airline,0.7697
+airline," which airline is us airlines
+ ## comment",airline,0.7606
+airline, what airline is ea and what cities does it serve,airline,0.7606
+airline, what airlines fly between toronto and detroit,airline,0.7252
+airline, what airlines have business class flights to europe from boston,airline,0.7014
+airline, what airlines have business class flights from atlanta to denver,airline,0.6909
+flight_time, what is the earliest departure time from washington to denver,flight_time,0.7175
+flight_time, what is the earliest departure time from atlanta to denver,flight_time,0.7124
+flight_time, what is the earliest departure time from denver to atlanta,flight_time,0.7124
+flight_time, what is the earliest departure time from boston to atlanta,flight_time,0.7094
+flight_time, what are the departure times from atlanta to baltimore,flight_time,0.7069
+flight_time, what is the earliest departure time from boston to denver,flight_time,0.6614
+flight_time, what is the latest departure time from boston to denver,flight_time,0.6582
+flight_time, please list the departure times from washington for flights to atlanta,flight_time,0.6512
+flight_time, what is the earliest departure time from detroit to atlanta,flight_time,0.6385
+flight_time, please list the flight times from washington to atlanta,flight_time,0.5848
+airport, please tell me all airports near washington dc,airport,0.7155
+airport, please tell me airports in new york city,airport,0.6956
+airport, please tell me all airports in new york,airport,0.6897
+airport, list airports in baltimore washington dc,airport,0.6675
+airport, what airports are in washington dc area please,airport,0.6503
+airport, airports in new york city please list them all,airport,0.6423
+airport, please show me airports in washington dc area,airport,0.6221
+airport, what 's the airport at orlando florida,airport,0.6177
+airport, what airports are in los angeles california,airport,0.6158
+airport, what airports are in new york city please,airport,0.615
+abbreviation, what does us mean in airfare codes please explain,abbreviation,0.8135
+abbreviation, what does us mean in fare codes please explain all i can find is economy class,abbreviation,0.8004
+abbreviation, what is restriction ap 57. and how does it affect fare codes,abbreviation,0.7841
+abbreviation, what does restriction ap 57 mean i couldnt find it,abbreviation,0.7549
+abbreviation, what is fare code h and how does it compare to other codes,abbreviation,0.7535
+abbreviation, what is fare code h and how does it compare to f,abbreviation,0.7452
+abbreviation," what does ap 20 mean?
+ <?airport>",abbreviation,0.7327
+abbreviation, what is restriction ap 57.13,abbreviation,0.6604
+abbreviation, what is fare code fn and how does it differ from mn,abbreviation,0.6581
+abbreviation, what is fare code f and does it work both ways,abbreviation,0.6465
+capacity, how many people will a 75s hold,capacity,0.71
+capacity, how many passengers can a 734 hold,capacity,0.6984
+capacity, how many people will a 73s hold,capacity,0.6769
+capacity, how many seats in a 734s,capacity,0.6538
+capacity, how many people will a 757 hold,capacity,0.6094
+capacity, how many people fit on a 73s,capacity,0.6088
+capacity, how many people can fly on a 734,capacity,0.586
+capacity, how many people can fly on a 73s,capacity,0.5768
+capacity, how many people fly on a 73s,capacity,0.5683
+capacity, how many people can fly on a 75s,capacity,0.5501
+city, where is ewr located city pairing 768 /513,city,0.8687
+city," where is mco located
+ ## Where Is Mco Located",city,0.728
+city," where is mco located
+ # 2017-8-4",city,0.7242
+city, where is mco located city code please help i need to know what cities are served by nationair,city,0.6924
+city, where is the city of boston located in us,city,0.6737
+city," list la
+ ### city code in los angeles",city,0.6395
+city," what city is mco in?
+ #324 by james bryant",city,0.6173
+city, where is lester pearson airport located city code yu,city,0.5867
+city," what city is mco in ?
+ ### City codes for airports",city,0.5575
+city, what city is the airport mco in located near,city,0.5522
+airfare, what 's the lowest round trip fare from atlanta to denver,airfare,0.441
+airfare, what 's the lowest round trip fare from dallas to denver,airfare,0.4177
+airfare, what 's the lowest round trip fare from philadelphia to denver,airfare,0.4049
+airfare, round trip fares from boston to atlanta,airfare,0.3712
+airfare, what is the lowest round trip fare from baltimore to dallas,airfare,0.3252
+airfare, round trip tickets from boston to miami less than 500 dollars,airfare,0.314
+airfare, list round trip economy fares from boston to washington,airfare,0.301
+airfare, show me the round trip fares from boston to miami,airfare,0.2877
+airfare, what is the lowest fare from atlanta to boston,airfare,0.2782
+airfare, what is the lowest fare from boston to atlanta,airfare,0.2782
+quantity, how many fare codes belong to economy class on twa,quantity,0.4596
+quantity, how many cities are served by twa with first class flights,quantity,0.4109
+quantity, how many cities are served by continental with first class flights,quantity,0.402
+quantity, how many cities are served by nationair with first class flights,quantity,0.3381
+quantity, how many different flight classes are there on american airlines,quantity,0.3161
+quantity, how many fares are there between boston and washington,quantity,0.3143
+quantity, how many flights does continental have between boston and atlanta,quantity,0.2597
+quantity, how many flights has continental into and out of atlanta,quantity,0.2541
+quantity, how many fares are there one way from boston to washington dc by train,quantity,0.2328
+flight_no, what is the flight number of twa 's first class plane to atlanta,flight_no,0.2813
+flight_no, what is the number of first class flights on american airlines,flight_no,0.2695
+flight_no, please give me the flight numbers on twa to atlanta,flight_no,0.2396
+ground_fare, how much does a limousine cost in boston,ground_fare,0.2928
+ground_fare, how much does it cost to rent a car in dallas,ground_fare,0.1756

@@ -1,0 +1,59 @@
+label,text,predicted_label,probability
+city, where is o'hare located in chicago illinois,city,0.4788
+city, where is kansas city international airport located in missouri,city,0.4784
+city, which city does cunair serve in connecticut,city,0.4598
+city, where is san jose airport located in california near which city,city,0.4553
+city, where is pittsburgh international airport located in pennsylvania,city,0.4364
+city, where is portland maine jetport located in relation to downtown,city,0.4347
+city, where is denver international airport located in missouri,city,0.4275
+city, what city is lga in new york state located,city,0.4269
+city, where is portland international airport located in connecticut,city,0.4255
+city," what city is phe served in
+specific-city-and-airline-codes-or-numbers",city,0.4064
+ground_service, what are the rental car services at o'hare,ground_service,0.2618
+ground_service, what are the airport parking rates at dallas love field,ground_service,0.2435
+ground_service, what are the rental car services provided by united airlines,ground_service,0.2333
+ground_service, i need to fly from chicago illinois mid may 1998 can you please give me the name of any airline that provides a shuttle service in addition their flights,ground_service,0.2258
+ground_service, what is the shuttle service to get from dallas fort worth international airport,ground_service,0.2213
+ground_service, what are the shuttle service fees from dallas fort worth airport,ground_service,0.217
+ground_service, what is the cost of a shuttle to get from laguardia airport in new york,ground_service,0.213
+ground_service, i would like to know what limo services are offered from the portland international airport,ground_service,0.2084
+ground_service, what kind of shuttle service is there from the airport to downtown houston,ground_service,0.208
+ground_service, what are the rental car rates from pittsburgh airport,ground_service,0.2069
+airline, what airline flies to jacksonville and miami,airline,0.3107
+airline, which airline flies from jfk to pittsburgh,airline,0.3031
+airline, which airline flies nonstop between houston and boston,airline,0.303
+airline, what airline has flight 200 departing from chicago to la,airline,0.2882
+airline, what airline is united flight 1012 at noon,airline,0.2566
+airline, which airline has flights from philadelphia to denver,airline,0.2522
+airline, which airline flies from pittsburgh to dallas,airline,0.2495
+airline, what is the airline code for continental flight 102,airline,0.2431
+airline, what airline flies nonstop from atlanta to philadelphia,airline,0.2389
+airline, which airline flies the 1015 flight from denver to phoenix,airline,0.2377
+flight_no, what is a delta airlines flight from denver to cleveland,flight_no,0.2324
+flight_no, what is united airlines' 7:00 am non-stop direct schedule from atlanta to boston on thursday august eleventh,flight_no,0.1951
+flight_no, what is delta's airfare on july 18 from atlanta to memphis,flight_no,0.1882
+flight_no, what is american airlines' 10 pm departure from boston to detroit on august eleventh,flight_no,0.1852
+flight_no, what is my 9 a.m departure from los angeles to seattle,flight_no,0.1792
+flight_no, what are departure times on delta 1039 and arrival time,flight_no,0.1761
+flight_no, what is united airlines 1030 departing san francisco at four fifteen p m monday evening,flight_no,0.1699
+flight_no, what is airline 1077s schedule and departure times from seattle to st louis,flight_no,0.1664
+flight_no, what is my united airlines 1745 departing from newark on july eighth,flight_no,0.1661
+flight_no, what is my 8 am nonstop monday morning from new york city to houston,flight_no,0.1622
+airport, list me the major airlines operating out of boston airport,airport,0.183
+airport, list the name of all major american airlines and there terminals at denver international airport,airport,0.1794
+airport, list all major airport codes for washington dc area with times of arrival and departure,airport,0.1793
+airport, what are the major airlines and destinations served by atlanta hartsfield international airport,airport,0.1753
+airport, list all the major airlines that fly from phoenix to denver,airport,0.153
+airport, list all the available flights to chicago from atlanta,airport,0.142
+abbreviation, what is bsp and yq g code mean,abbreviation,0.1795
+abbreviation, what does stf mean in flight schedules listings?,abbreviation,0.1505
+abbreviation, what is 9p in airline tickets mean?,abbreviation,0.1487
+abbreviation, what is pvg nrt jpn class x,abbreviation,0.138
+restriction, what are the rules and regulations on children flying alone,restriction,0.1979
+restriction, what are the age requirements for lap infants on delta,restriction,0.1785
+restriction, what are the rules regarding stopovers on round trip tickets,restriction,0.1682
+restriction, what are the fare restriction codes for ua 1010,restriction,0.1436
+flight, can i fly from chicago to memphis with a connection in atlanta,flight,0.1896
+flight, i want to know what flight leaves boston at 1230pm arrives in portland,flight,0.147
+meal, are there any special meals available for vegetarian passengers travelling with infants,meal,0.2855

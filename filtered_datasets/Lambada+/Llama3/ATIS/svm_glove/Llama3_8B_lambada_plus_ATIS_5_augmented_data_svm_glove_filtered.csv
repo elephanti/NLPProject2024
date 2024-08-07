@@ -1,0 +1,154 @@
+label,text,predicted_label,probability
+airfare, lowest fares from denver to dallas for july fifth,airfare,0.2807
+airfare, what are lowest class fares from detroit to chicago,airfare,0.2238
+airfare, what are first class fares from denver to orlando,airfare,0.2089
+airfare, what is a typical price for first class tickets from dallas to detroit,airfare,0.1949
+airfare, what are fares for united airlines flight 1041 from san francisco to newark,airfare,0.1944
+airfare, what are coach class fares from washington d c to portland oregon,airfare,0.1925
+airfare, what is a discount airfares available from boston to philadelphia,airfare,0.1911
+airfare, what is a typical lowest rate for first class from los angeles to san francisco,airfare,0.1905
+airfare, what are prices for first class tickets from new york to los angeles,airfare,0.1896
+airfare, what is a standard airfares for first class ticket from chicago to baltimore,airfare,0.1886
+aircraft, what type aircraft is flight 232 a dc10,aircraft,0.2741
+aircraft, what type aircraft fly from atlanta to houston,aircraft,0.2574
+aircraft, what type aircraft are flying from dallas to houston,aircraft,0.2441
+aircraft, what type plane flying from pittsburgh to chicago,aircraft,0.2425
+aircraft, what aircraft type does a united flight 1259 from san francisco to detroit use,aircraft,0.242
+aircraft, what type aircraft does pan american use in jfk to san francisco,aircraft,0.2329
+aircraft, what type aircraft does united fly to los angeles,aircraft,0.2227
+aircraft, what kind of plane is flight 232 from denver to minneapolis,aircraft,0.2224
+aircraft, what type aircraft do us air flight 1003 from denver to atlanta use,aircraft,0.2207
+aircraft, what aircraft is a twa 757 equipped with,aircraft,0.2185
+meal, what meals are available from denver to minneapolis,meal,0.2961
+meal, are there any special meals available for vegetarian passengers travelling with infants,meal,0.2802
+meal, what meals are available for flight 103 from dallas to minneapolis,meal,0.2543
+meal, what meals are offered from detroit to chicago and milwaukee,meal,0.2393
+meal, what meals are served aboard flight 124 from new york to chicago,meal,0.2373
+meal, what meals will be served aboard flight 211 from denver to dallas,meal,0.2364
+meal, what meals are served aboard delta flight 1424 from dallas to chicago,meal,0.2363
+meal, are there meals available for passengers traveling between minneapolis and boston,meal,0.234
+meal, what meals are available between baltimore and minneapolis,meal,0.2302
+meal, what meals are served between denver and phoenix at 830 am,meal,0.2302
+abbreviation, what is g2g mean? please explain in detail,abbreviation,0.325
+abbreviation, what is pse code 6a4h,abbreviation,0.3228
+abbreviation, what is bsp and yq g code mean,abbreviation,0.2972
+abbreviation, what is ptc on priceline website?,abbreviation,0.2968
+abbreviation, what is pvg nrt jpn class x,abbreviation,0.2811
+abbreviation, what is hbs on my itinerary? when does sda apply,abbreviation,0.2656
+abbreviation, what is e ticket status unknown? a7f8m1,abbreviation,0.251
+abbreviation, what is lcc class fare code mean on priceline,abbreviation,0.2101
+abbreviation, what does stg mean when referring to airfare,abbreviation,0.2095
+abbreviation, what is v in fare code faa0000068v,abbreviation,0.2084
+airline, what airline flies nonstop from seattle to denver,airline,0.3599
+airline, what airline flies nonstop from atlanta to philadelphia,airline,0.3349
+airline, what airline flies from detroit to seattle at 7 pm,airline,0.3181
+airline, which airline flies from jfk to pittsburgh,airline,0.3142
+airline, which airline flies from pittsburgh to dallas,airline,0.311
+airline, which airline flies from newark to boston at seven pm,airline,0.3097
+airline, which airline flies nonstop between houston and boston,airline,0.3095
+airline, what airline flies to san francisco from boston,airline,0.3088
+airline, which airline flies from denver to philadelphia at 11 a.m,airline,0.2997
+airline, what airline flies from jfk to phoenix arizona,airline,0.2961
+capacity, what is seating capacity for a 737-300,capacity,0.2748
+capacity, what is economy class seats maximum weight and how many inches,capacity,0.2648
+capacity, what is maximum number seats in a boeing 747,capacity,0.2615
+capacity, what is a 727's total passenger load carrying capability,capacity,0.2414
+capacity, what is seat size and capacities for each type 737 model,capacity,0.24
+capacity, what is 727 one seat configuration and how many seats are there between rows eleven through thirteen,capacity,0.2314
+capacity, what is 777's total passenger seats and baggage compartment,capacity,0.2256
+capacity, i would like to know if a boeing 747 has more seats than an airbus,capacity,0.2231
+capacity, what is 757-200 seat layout and total passenger capacities,capacity,0.2205
+capacity, what is economy class seat layout and how many seats are there for each model plane,capacity,0.2136
+distance, how far from portland oregon airport to downtown seattle,distance,0.257
+distance, how far away is miami international airport from downtown,distance,0.2551
+distance, what is average commute from san francisco international airport to downtown,distance,0.249
+distance, what is downtown minneapolis to denver airport by car in miles,distance,0.234
+distance, what is approximately how many miles from san francisco international airport to downtown,distance,0.2266
+distance, what is 200 miles from sfo airport to san francisco,distance,0.2242
+distance, what is a mile as in 2 miles from downtown denver,distance,0.2186
+distance, how far is denver airport from downtown in miles,distance,0.2168
+distance, what is the closest airport to downtown detroit michigan,distance,0.2078
+distance, how far is it from denver international airport to downtown,distance,0.2065
+ground_fare, what is a discount for airport to hotel car service,ground_fare,0.2489
+ground_fare, what is a charge for one-way car service from laguardia airport,ground_fare,0.2383
+ground_fare, how much is a taxi from fort worth airport to hyatt regency downtown,ground_fare,0.2356
+ground_fare, how much does it rent a car from denver to ft collins,ground_fare,0.2318
+ground_fare, what is a typical price for renting a car at fort lauderdale international airport,ground_fare,0.2245
+ground_fare, what are my choices for renting a car and taxi service at denver international airport,ground_fare,0.2223
+ground_fare, what is your daily rate for a midsize car,ground_fare,0.2159
+ground_fare, what is charge for a car service to fort wayne,ground_fare,0.2138
+ground_fare, what are fees and charges for using a car service at dca airport,ground_fare,0.2057
+ground_fare, how much is a car service from denver to dallas,ground_fare,0.2037
+quantity, how many american 737s are in service with continental,quantity,0.2666
+quantity, how many connections between boston and washington are there,quantity,0.2169
+quantity, how many connections between chicago and portland are there,quantity,0.2152
+quantity, how many delta stopovers are there between boston and denver,quantity,0.2101
+quantity, how many direct nonstop american airways 747 planes are there,quantity,0.2054
+quantity, how many stopovers are there between new york and seattle,quantity,0.2032
+quantity, how many direct delta fligts are there between new york and seattle,quantity,0.1849
+quantity, how many direct nonstop delta june 25,quantity,0.1804
+quantity, how many daily nonstop direct connections does american airline have between boston and new york,quantity,0.1723
+quantity, how many nonstop trips does united have between seattle and philadelphia,quantity,0.1718
+restriction, what are the fare restriction codes for ua 1010,restriction,0.2649
+restriction, what are the rules regarding stopovers on round trip tickets,restriction,0.2408
+restriction, what are the baggage limits for flight 1046,restriction,0.2241
+restriction, what are the special requirements for booking ticket number 12345,restriction,0.2057
+restriction, what are the fare codes on american 727s,restriction,0.1971
+restriction, what are the seating and baggage limitations on american airlines,restriction,0.1898
+restriction, what are the baggage requirements for travel on united airlines,restriction,0.1898
+restriction, what are the rules and regulations on children flying alone,restriction,0.1887
+restriction, what are the restriction on 9f plus awards for travel to europe,restriction,0.188
+restriction, what are the weight and size limits for luggage on flight number 102,restriction,0.186
+flight_time, i want to fly from denver in may how many hours does it take,flight_time,0.195
+flight_time, show me flight time between boston and minneapolis,flight_time,0.1942
+flight_time, what is departure time from boston to philadelphia,flight_time,0.1853
+flight_time, what time does flight 1100 leave seattle,flight_time,0.1757
+flight_time, i would like to know if there is a flight that leaves atlanta for new york between 6 and noon,flight_time,0.1699
+flight_time, what is a flight time from boston to philadelphia departing 8am sunday,flight_time,0.1689
+flight_time, what is flight time from dallas to portland,flight_time,0.1662
+flight_time, what is 5 am flight from atlanta to new york,flight_time,0.1636
+flight_time, what is my 200 pm flight number and departure time from newark to los angeles,flight_time,0.1606
+flight_time, can you tell me all flight numbers and schedules between portland maine to jacksonville florida leaving after 11 am wednesday,flight_time,0.1581
+city, what is laurinburg mclain airport code,city,0.2337
+city, where is fort worth international airport located what city does it serve,city,0.2319
+city, what city is airport code iah located in 1,city,0.228
+city, where is portland maine jetport located in relation to downtown,city,0.217
+city," what city is dfw in
+local_airlines",city,0.217
+city," what city is san francisco international airport in
+[airline_service][destination_city]",city,0.2081
+city, which city does cunair serve in connecticut,city,0.207
+city," what city is phe served in
+specific-city-and-airline-codes-or-numbers",city,0.2068
+city, what city does airport code grr serve in tennessee,city,0.2066
+city, which city is served only on united and delta flights,city,0.1839
+flight, show me the schedule for a flight from st louis to denver leaving before 8 am,flight,0.2098
+flight, can i fly from chicago to memphis with a connection in atlanta,flight,0.202
+flight, can you fly from dallas to chicago at the end of may,flight,0.1981
+flight, i would like to know about a flight from san francisco,flight,0.1907
+flight, give me the flight from boston to denver that leaves at 5 pm,flight,0.1858
+flight, i want a schedule for flight 111 from dallas to houston,flight,0.172
+flight, flight from dallas to atlanta leaving at six am monday morning,flight,0.162
+flight, i would like the arrival time for flight 111 from baltimore to portland,flight,0.1448
+flight, i need a schedule for flight 1017 from new york to chicago,flight,0.1396
+flight, i would like a schedule for the direct flight from seattle to denver,flight,0.1393
+airport, what is the name of miami's international airport,airport,0.1747
+airport, what is the name of atlanta's major airport,airport,0.1567
+airport, i would like the name of boston's airport,airport,0.1555
+airport, what is the name of seattle's major airport,airport,0.1532
+airport, where is the nearest airport to pittsburgh pa,airport,0.1475
+airport, what is the name of all major airport near boston,airport,0.1364
+airport, what is the name of any airport near chicago il,airport,0.1345
+airport, what is the name of an airport that services new york,airport,0.1335
+airport, what is the name of newark airport and its code,airport,0.1256
+flight_no, what is american airlines' 10 pm departure from boston to detroit on august eleventh,flight_no,0.1666
+flight_no, what are all available delta one first class round trip fare options on thursday july 5 departing atlanta at five fifteen am returning to chicago that night,flight_no,0.1589
+flight_no, what are there codes and numbers on a confirmation ticket,flight_no,0.137
+flight_no, what are all possible airline numbers with direct service from detroit to minneapolis on sunday evening,flight_no,0.1334
+flight_no, what is the airline code or numbers on my 8 pm united from chicago to miami,flight_no,0.131
+flight_no, what is an american airlines jet with five rows on each side,flight_no,0.12
+flight_no, i would like to know if there are any direct one way or return tickets from miami florida on us airways airlines with their 800 numbers,flight_no,0.1185
+flight_no, what are some direct air service from philadelphia to portland,flight_no,0.1084
+ground_service, what are my local area airport services in denver,ground_service,0.176
+ground_service, what types of local services are there from dfw airport to dallas,ground_service,0.1416
+ground_service, what are the various forms of public transport from atlanta airport to downtown,ground_service,0.1381

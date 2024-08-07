@@ -1,0 +1,552 @@
+label,text,predicted_label,probability
+ENTY:lang,What language is mostly-spoken in Chile ? 🤔,ENTY:lang,0.6099
+ENTY:lang,What language is mostly-spoken in Norway ? ``` (ENTY:langs)```,ENTY:lang,0.6099
+ENTY:lang,What language is mostly-spoken in Switzerland ? !,ENTY:lang,0.6099
+ENTY:lang,What language has the most words ? . # ENTY: lang,ENTY:lang,0.5988
+ENTY:lang,What language has the most words ? ðŸŒ¬ï¸,ENTY:lang,0.5988
+ENTY:lang,"What language is mostly-spoken in Luxembourg ? : What_language_is_mostly_spokens_in_Luxembourg_ ! (Luxemburgian) - The most widely used natural LANGUAGE , that ISN ' T English .",ENTY:lang,0.5659
+ENTY:lang,What language is mostly-spoken in Brazil ? .,ENTY:lang,0.5387
+ENTY:lang,What language is mostly-spoken in Brazil ? ¡Habla español!,ENTY:lang,0.5387
+ENTY:lang,What language is mostly-spoken in Brazil ? 🏋️‍♂ < / b > .,ENTY:lang,0.5387
+ENTY:lang,What language is mostly spoken in Brazil ?󠁧\u200d️ #ENTY:lng `,ENTY:lang,0.5387
+DESC:manner,"How do I stop snoring ? ) ðŸ¤""",DESC:manner,0.9564
+DESC:manner,How do you get to Hogwarts School of Witchcraft ?,DESC:manner,0.8755
+DESC:manner,How do I get to Macau from Hong Kong ?,DESC:manner,0.8384
+DESC:manner,"How does one say in French , How do I get to ?",DESC:manner,0.8346
+DESC:manner,How do you pronounce Quasimodo ? .,DESC:manner,0.8173
+DESC:manner,How do you pronounce 'qigong' ?,DESC:manner,0.7834
+DESC:manner,How do you make penicillium? .,DESC:manner,0.7644
+DESC:manner,How do birds migrate ? . (DESC|manner),DESC:manner,0.7579
+DESC:manner,"How does laughter propagate ? . #DESC,manner",DESC:manner,0.7551
+DESC:manner,How does electricity work ? ðŸ”¦ðš¸ï¿½²,DESC:manner,0.7416
+NUM:perc,What percentage of Americans own their homes ? 61 percent .,NUM:perc,0.5811
+NUM:perc,What percentage of Americans own their homes ? 67 percent .,NUM:perc,0.5811
+NUM:perc,What percentage of children between ages 3-10 watch R-rated VHS tapes ?,NUM:perc,0.4693
+NUM:perc,What percentage of Americans own their homes ? 65 . ðŸŽ…ð‘‰ï¸,NUM:perc,0.4558
+NUM:perc,What percentage of Americans own their homes ? 61 % .,NUM:perc,0.4558
+NUM:perc,What percentage of Americans own their homes ? 71 . % !,NUM:perc,0.4558
+NUM:perc,What percentage of Americans own their homes ? 57 % .,NUM:perc,0.4558
+NUM:perc,What percentage of Americans own their homes ? ðŸŽ‰ð¥¬ï¸,NUM:perc,0.4558
+NUM:perc,What percentage of children between ages 3-5 watch ` The Simpsons ' ?,NUM:perc,0.4553
+NUM:perc,What percentage of all world tornados touch down in Dixie ?,NUM:perc,0.4522
+NUM:count,How many stars does Betelgeuse have ?,NUM:count,0.8874
+NUM:count,How many stars does Sirius have ? ðŸŒ ðŸ’« ã€¬ï¸ (0/1),NUM:count,0.8874
+NUM:count,How many hearts does an octopus have ? ! .,NUM:count,0.8437
+NUM:count,How many hearts does an octopus have ? ...3 .,NUM:count,0.8437
+NUM:count,How many hearts does an octopus have ? ðŸ¦…ð„ï¸,NUM:count,0.8437
+NUM:count,How many hearts does an octopus have ? .,NUM:count,0.8437
+NUM:count,How many stars appear in Beowulf ? ),NUM:count,0.7709
+NUM:count,How many U.S . Presidents have there been ?,NUM:count,0.7589
+NUM:count,"How many Americans die from eating spoiled food ? 8 ,700 .",NUM:count,0.7424
+NUM:count,"How many people died because of smoking ? 3,204 ,000 .",NUM:count,0.7238
+ENTY:color,What is Santa 's favorite color ? ] ! ),ENTY:color,0.9635
+ENTY:color,What is Rossini 's favorite color ? .,ENTY:color,0.9635
+ENTY:color,What is Cinderella 's favorite color ? 🤔,ENTY:color,0.9635
+ENTY:color,What is Rossini 's favorite color ? `` .,ENTY:color,0.9635
+ENTY:color,What is Betty Boop 's color ? ],ENTY:color,0.9635
+ENTY:color,"What is Mickey Mouse 's color ? , )",ENTY:color,0.9635
+ENTY:color,What is Barbie 's favorite color ? 🎸,ENTY:color,0.9635
+ENTY:color,What is Rosaire 's favorite color ? ],ENTY:color,0.9635
+ENTY:color,What is Santa 's color ? ) . } ` !,ENTY:color,0.9635
+ENTY:color,What is Rosa Parks 's favorite color ? ),ENTY:color,0.9635
+LOC:city,What city is Notre Dame University in ? . #LOC:City,LOC:city,0.9207
+LOC:city,"What city is Niagara College located in ? 
+
+(City)",LOC:city,0.8995
+LOC:city,"What is the capital of Sudan ? ) 
+
+(LOC: city)",LOC:city,0.8933
+LOC:city,"What city is Kings College in ? 
+
+(LABEL:LOC:city)",LOC:city,0.8162
+LOC:city,What city is Notre Dame University in ? . !,LOC:city,0.7894
+LOC:city,"What city is Notre Dame University located in ? , .",LOC:city,0.7836
+LOC:city,What city is Notre Dame University located in ? ` `.,LOC:city,0.7836
+LOC:city,What city was named for Queen Elizabeth ? . #LOC:city,LOC:city,0.7761
+LOC:city,What is one of the largest city in Florida ?,LOC:city,0.7703
+LOC:city,What city did Vincas Cicoras rename Kaunas in 1920 ?,LOC:city,0.7661
+LOC:country,What country is Tokyo in ? ðŸŒŽï¸ (LOC-country),LOC:country,0.9201
+LOC:country,What country did Napoleon rule ?󠁧ï¸ <|LOC:country|>,LOC:country,0.9184
+LOC:country,What country did Hitler rule ? ðŸŒšï¸Šâ‚¬ðœ„ (LOC:country),LOC:country,0.9184
+LOC:country,What country did Hitler rule ? Country : ?? .,LOC:country,0.9184
+LOC:country,"What country did Hitler rule ? , (LOC/country) .",LOC:country,0.9184
+LOC:country,What country did Hitler rule ? #LOC(country),LOC:country,0.9184
+LOC:country,What country did Hitler rule ? .-country/ ),LOC:country,0.9184
+LOC:country,What country did Hitler rule ? . #LOC.country,LOC:country,0.9184
+LOC:country,What country did Hitler rule ? #LOC:country,LOC:country,0.9184
+LOC:country,What country did Hitler rule ? ) `LOC-country`,LOC:country,0.9184
+NUM:date,When was Woodstock ? ) . (DATE),NUM:date,0.7684
+NUM:date,When is Labor Day ? 🏽️ 👥 💼,NUM:date,0.7665
+NUM:date,When was Woodstock ? ðŸ”µï¸ .,NUM:date,0.7557
+NUM:date,What year was Nelson Mandela released from prison ? .,NUM:date,0.7485
+NUM:date,When did Thatcher become Prime Minister ? . #NUM:date,NUM:date,0.7468
+NUM:date,When did Elvis Presley die ? ) YYYY-MM-DD format .,NUM:date,0.7359
+NUM:date,"What year did Thatcher become Prime Minister ? ðŸš¸2023 0ð…ï¿½ï»ƒ9Ã•1! . â€³ Â¥ ) *4, £ # ; ( : < èˆ´ = > , + % - & ~ \ ! @ ^ | [ { } ] ` ' "" '' € $ _ ¬ ± ‚ œ Š Ü à Ä ¿ þ × ¡ æ ° ¥ é É À Ú Ö ó ú Ø Ç §",NUM:date,0.7138
+NUM:date,What year did Thatcher become prime minister ? 🕰️,NUM:date,0.7138
+NUM:date,"In what year was Stephen Rogers born ? ) 
+
+ LABEL:NUM:date getDescription :Questionsabout specificsdatesortimeperiods . <|endoftext""> ``. ``  ''. ''` - `. inwhatyearwass tephano r .. ... |... ! ,). (inwhatearthasilive :) *.) ;) ***)** www, http:. /./ when did jason wu start his design career? [http://www.jasons.... {1} = +",NUM:date,0.6993
+NUM:date,"When was John F Kennedy born ?'gc='2003-01-' , 'label': 'NUM,date' } When did Napoleon die?",NUM:date,0.6737
+LOC:mount,What is Colorado 's highest mountain ? ` ; ) .,LOC:mount,0.9052
+LOC:mount,What is Colorado 's highest mountain ? 🏔️ ⛰️,LOC:mount,0.9052
+LOC:mount,What is Colorado 's highest mountain ? ) .,LOC:mount,0.9052
+LOC:mount,What is Colorado 's highest mountain ? } ) .,LOC:mount,0.9052
+LOC:mount,What is Colorado 's highest mountain ? Mountains .,LOC:mount,0.9052
+LOC:mount,"What is Colorado 's highest mountain ? , .",LOC:mount,0.9052
+LOC:mount,What is Colorado 's highest mountain ? . #LOC:mountain,LOC:mount,0.9044
+LOC:mount,What is New York 's highest mountain ? 🏔️,LOC:mount,0.7379
+LOC:mount,What is New York 's highest mountain ? .,LOC:mount,0.7379
+LOC:mount,What is New York 's highest mountain ? ),LOC:mount,0.7379
+LOC:state,What state does Detroit occupy ? . <LABEL_LOC-state>,LOC:state,0.979
+LOC:state,"What state does Detroit lie in ? : ) <u>LOC/state</U > . 
+
+(Answer is Michigan.)",LOC:state,0.9708
+LOC:state,What state has Leif Erikson State Park ?,LOC:state,0.9651
+LOC:state,"What state has Yosemite National Park in it ? ðŸ“š (LOC/state) â¶ï¸ ) #3-8 Loc State A7 *9# & , 0 : ` + [ - } | $ < \ / = ¿ . > ' ! @ ^ ~ { I Q P T E F M K J R G S H Y W O U C D L B X V Z À £ _ ¬ ¥ Ä Ö Ü þ ° Ç × § ¡ ü",LOC:state,0.955
+LOC:state,What state is Mt.McMcAfee in ?,LOC:state,0.953
+LOC:state,What state is Washington D.C in ? ` <` LABEL : STATE > `.  (LOC::STATE),LOC:state,0.9487
+LOC:state,What state did Helen Keller live in ? ) USA : What is Miss Vassar 's home-state . <|readible | > (LOC/state),LOC:state,0.9463
+LOC:state,What state is Mount McKinley in ? `LOC/state`,LOC:state,0.9439
+LOC:state,What state is Mount McKinley in ? . #LOC.state,LOC:state,0.9439
+LOC:state,What state is Mount McKinley in ? ) <!--LOC:state-->,LOC:state,0.9439
+HUM:title,What is Larry King 's profession ? ` (title ),HUM:title,0.6355
+HUM:title,What is Nicholas Cage 's occupation ? ``` (HUM.title),HUM:title,0.6305
+HUM:title,What is Larry King 's occupation ? ðŸ’¬ (HUM:title),HUM:title,0.6223
+HUM:title,"What is Mr Rogers 's occupation ? ðŸ“šðŸ‘¥ (HUM:title) ß What was King Henry VIII 'd profession called , in modern English terms .",HUM:title,0.6052
+HUM:title,What was King Henry VIII 's profession ? ðŸŒ (HUM:title),HUM:title,0.6043
+HUM:title,What does Nicholas Cage do for living ? <HUM : title > .,HUM:title,0.5639
+HUM:title,"What is Stephen King 's occupation ? ) What Is His Profession , For Goodness Sakes !",HUM:title,0.5308
+HUM:title,"What is her profession ? ) . What was Queen Victoria 's title regarding India , 1876-1901 ?",HUM:title,0.5267
+HUM:title,What is her profession ? ) `` What was Queen Victoria 's title regarding India ? '' .,HUM:title,0.5267
+HUM:title,"What is Nicholas Cage 's occupation ? 
+
+(LABEL:HUM:title)",HUM:title,0.4918
+ENTY:letter,What is alphabet 's second letter ? . 🤔 # ENTY : LETTER 😊,ENTY:letter,0.8484
+ENTY:letter,What letter follows K in alphabet ? ðŸ˜Š,ENTY:letter,0.7837
+ENTY:letter,"What 's second-most-used vowel ? , ( letter ) .",ENTY:letter,0.7733
+ENTY:letter,What is the 27th letter of Greek alphabet ?,ENTY:letter,0.7062
+ENTY:letter,"What is second letter of DNA ? ` <|eNTY : letter |> `<|o/p |> .  (2/5) ) A U G C T E D V H I K M R S Y F W L P Q Z X J B * / , # [ ] \ _ $ & ! "" ' @ ; ~ ^ + = { } % | `````.```` ``` ** *** **** ***** - -- --- _______ ????? ??? ?? $$ $$$$$$$$$ {{{",ENTY:letter,0.6581
+ENTY:letter,What is Blanche DuBois 's favorite letter ?,ENTY:letter,0.5962
+ENTY:letter,"What is the first letter of Arkansas ? . 
+
+ENTY:Letter",ENTY:letter,0.5838
+ENTY:letter,What letter appears between K and L of alphabet ?,ENTY:letter,0.562
+ENTY:letter,What 's the third letter of yowzat ?,ENTY:letter,0.5494
+ENTY:letter,What 's the third letter of chromosome X ?,ENTY:letter,0.5494
+ENTY:word,What is another word for equality ? . # ENTY :WORD,ENTY:word,0.8066
+ENTY:word,What is another word for diplomacy ? ðŸŽ²ï¸ (ENTY:word),ENTY:word,0.8066
+ENTY:word,What is another word for diplomacy ? ) . ( ENTY:WORD),ENTY:word,0.8066
+ENTY:word,What is another word for dictatorship ? ` `. (ENTY:Word),ENTY:word,0.8066
+ENTY:word,What is another word for diet ? ) . <EN TY :WORD >,ENTY:word,0.7785
+ENTY:word,What is another word for diet ? (ENTY:WORD),ENTY:word,0.7785
+ENTY:word,What is another word for diet ? ) . ( ENTY : Word },ENTY:word,0.7785
+ENTY:word,What is another word for diet ? 🟩 (ENTY:WORD),ENTY:word,0.7785
+ENTY:word,"What is another word for diet ? 
+
+(ENTY : word )",ENTY:word,0.7785
+ENTY:word,What is another word for diet ? ``` ({}) (ENTY.word) ```.,ENTY:word,0.7785
+NUM:temp,What is the temperature inside an active volcano ? ``,NUM:temp,0.7286
+NUM:temp,What should a bakery 's oven temperature be for baking peach pies ?,NUM:temp,0.5855
+NUM:temp,What is the average body temperature ? ] # temp ) } . ,NUM:temp,0.5392
+NUM:temp,What is the average body temperature ? ``` (NUM:tmp),NUM:temp,0.5392
+NUM:temp,What is Fahrenheit 's temperature for blacksmithing ?,NUM:temp,0.5307
+NUM:temp,What is Fahrenheit 's temperature for absolute zero ?,NUM:temp,0.5305
+NUM:temp,What is the temperature of the sun 's surface ?,NUM:temp,0.5238
+NUM:temp,What is Fahrenheit 's body temperature ? ) ` ( 37° Celsius . ðŸŒ¿,NUM:temp,0.5214
+NUM:temp,What is the temperature for baking Peachy Oat Muffins ?,NUM:temp,0.513
+NUM:temp,What is average body temperature ? ðŸ˜°ï¸ . â„â€¦,NUM:temp,0.4976
+HUM:desc,Who is Steve Jobs ? . #HUM:DESC,HUM:desc,0.967
+HUM:desc,Who is Robin Cook ? . #HUM-desc,HUM:desc,0.967
+HUM:desc,Who is Steve Jobs ? . ðŸ˜Ž,HUM:desc,0.967
+HUM:desc,Who is Captain Crunch ? ``` (HUM-desc),HUM:desc,0.967
+HUM:desc,Who is Stephen Hawking ? . # HUM(desc),HUM:desc,0.967
+HUM:desc,Who is Steffi Graf ? ) .  **HUM:description** <|> **EN`,HUM:desc,0.967
+HUM:desc,Who is Nicolo Paganini ? . # HUM:describ,HUM:desc,0.967
+HUM:desc,Who was Xenophon ? ``` who is xenonoph ```.,HUM:desc,0.9429
+HUM:desc,Who was Thucydides ? ) (HUM-desc),HUM:desc,0.814
+HUM:desc,Who was Sacagawea ? ðŸ¤”,HUM:desc,0.814
+ABBR:exp,What is NAACP ? . (1) What does CNN stand for?,ABBR:exp,0.8319
+ABBR:exp,What is CNN ? (1) What does M.D.S.T stand for?,ABBR:exp,0.8319
+ABBR:exp,What does S.O.S stand for ? ðŸ˜‰,ABBR:exp,0.8265
+ABBR:exp,What does DNA stand for ? #ABBR/exp,ABBR:exp,0.8265
+ABBR:exp,What does GPS stand for ? ðŸŒŽ,ABBR:exp,0.8265
+ABBR:exp,What does SARS stand for ? ðŸ”¥,ABBR:exp,0.8265
+ABBR:exp,What does GATT stand for ? ðŸ˜Ž,ABBR:exp,0.8265
+ABBR:exp,What does IRA stand for ? ðŸ˜‰,ABBR:exp,0.8265
+ABBR:exp,What does S.O.S stand for ? ` .,ABBR:exp,0.8265
+ABBR:exp,What does SARS stand for ? (1) ðŸ˜,ABBR:exp,0.8265
+NUM:weight,"How much does water weigh ? ) `). * 1 , ! ** ( . # How many pounds in Stone & Weight 's "" medium man"" : ?? < > - = BMI @ I ^ P ~ | } { [ ... ``` $ \ / What is average body fat for adults as defined by % + H J L Q K M F T Z U Y W V G R E D C B A weights? ``````` ðŸ¾ï¸ð¿ How Much",NUM:weight,0.9554
+NUM:weight,"How much does water weigh ? }NUM:.3:9 :2,1 10 .4 ,8 -7 * How many pounds is there in a stone? #NUM# .",NUM:weight,0.8785
+NUM:weight,"How much does water weigh ? 
+
+(LABEL:NUM:weight)",NUM:weight,0.8608
+NUM:weight,What does water weigh ? (NUM : weight ) .,NUM:weight,0.8057
+NUM:weight,How much does water weigh ? <UNK> pounds .,NUM:weight,0.7791
+NUM:weight,How much does air weigh ? ðŸ˜Š,NUM:weight,0.7673
+NUM:weight,How much does air weigh ?󠁧â€ ‚,NUM:weight,0.7673
+NUM:weight,"How much does water weigh ? ðŸ”¦ðš€ï¸ • 8,360 pounds per gallon . How many grams is that in kilograms to two significant figures with units? Ù° * ) ( Pounds : Weight + / , **) # ! I & ` @ % < t s $ o r y g W e i j E f A b C Q u O T D H M J Z U F l q V h K m R x L w Y",NUM:weight,0.7498
+NUM:weight,What is the average woman 's weight ? ðŸ‚ #NUM:-weight â‰¤ 140 lb .0 ; > 145 lb .9ð“šï¸,NUM:weight,0.7293
+NUM:weight,How much does air weigh ? #NUM# pounds per cubic foot .,NUM:weight,0.701
+ENTY:plant,"What flower did Vincent Van Gogh paint ? ðŸŽ¨ðŸŒ¹ â¡ï¸ <label> ENTITY </code> : plant . ( 0 ) # What kind of tree graces Nero 's Garden in Rome , Italy?",ENTY:plant,0.6719
+ENTY:plant,What flower did Vincent van Gogh paint ? } ENTYY plant,ENTY:plant,0.6704
+ENTY:plant,What flower did Vincent Van Gogh paint ? ðŸŒ¹ðš¬ ( ENTY : plant ),ENTY:plant,0.6704
+ENTY:plant,What flower did Vincent Van Gogh paint ? ðŸŽ¨ð¾ï¸ ( ENTY : plant ) .,ENTY:plant,0.6704
+ENTY:plant,What is Illinois ' state flower ? ðŸ”µ (ENTY: plant ),ENTY:plant,0.6583
+ENTY:plant,What is Illinois ' state flower ? } <ENTY > : ( plant ) .,ENTY:plant,0.6583
+ENTY:plant,What is Illinois state flower ? . # ENTITY : plant,ENTY:plant,0.6583
+ENTY:plant,"What flower did Vincent van Gogh paint ? 
+
+(LABEL: ENTUQAL : ENTY - plant)",ENTY:plant,0.593
+ENTY:plant,What is Arizona 's state flower ? ) ( plant ) .,ENTY:plant,0.5824
+ENTY:plant,What is Arizona 's state flower ? <|entq:|> (ENTY : plant ) ðŸ“š,ENTY:plant,0.5824
+ENTY:sport,What sport was Tony Lema good at ? ! .,ENTY:sport,0.5979
+ENTY:sport,What is Jousts ' sport ? ) ( ENTY:sport ).,ENTY:sport,0.5852
+ENTY:sport,What sport is played with five pins ? . # ENTNY :sport,ENTY:sport,0.5581
+ENTY:sport,What game is played with bocce balls ?,ENTY:sport,0.546
+ENTY:sport,"What sport is played with kickers , keepaways , backmarkers and sweep .",ENTY:sport,0.5331
+ENTY:sport,What sport features snookers ? . < LABEL : ENT Y:sport > .,ENTY:sport,0.5158
+ENTY:sport,What game was often played by cowboys ? .,ENTY:sport,0.5064
+ENTY:sport,"What sport is played between Boston Red Soxes , Detroit Tigers ?",ENTY:sport,0.5044
+ENTY:sport,"What sport is played between Buffalo Billies ,Crusaders , Highlanders ?",ENTY:sport,0.5044
+ENTY:sport,"What sport features snatches , clean jerks & parallel bars ?",ENTY:sport,0.4965
+ENTY:instru,What instrument did Jimi Hendrix primarily play ?,ENTY:instru,0.6773
+ENTY:instru,What instrument does Benny Carter primarily play ? # ENTY:instrument (musical),ENTY:instru,0.6755
+ENTY:instru,What instrument does Kenny G play ? ) ðŸŽ¶,ENTY:instru,0.6637
+ENTY:instru,Ray Charles plays which instrument ? ðŸŽ¸ (ENTY:instrument),ENTY:instru,0.6383
+ENTY:instru,"What instrument did Benny Carter mostly play ? . 
+
+(LABEL: ENTY:instrument)",ENTY:instru,0.5073
+ENTY:instru,What instrument does Kenny G primarily play ? ` LABEL: ENTY(instr): KENNY-G-INSTRUMENT '',ENTY:instru,0.5005
+ENTY:instru,"Ray Charles plays which instrument ? 
+
+(ENTY instrum)",ENTY:instru,0.4804
+ENTY:instru,What instrument does Benny Carter-play ? ðŸŽ¸,ENTY:instru,0.4755
+ENTY:instru,What instrument does Benny Carter play ? <ENTY> : instru .,ENTY:instru,0.4755
+ENTY:instru,What instrument does Benny Carter primarily play ? . # ENTITY : INSTRU,ENTY:instru,0.4755
+NUM:money,How much money does a school bus driver get paid ?,NUM:money,0.7464
+NUM:money,How much does it cost to adopt from Paws ?,NUM:money,0.7236
+NUM:money,How much was minimum wage in 1991 ?,NUM:money,0.6811
+NUM:money,How much does it cost to register for copyright ?,NUM:money,0.5925
+NUM:money,How much money does it cost to install solar panels ?,NUM:money,0.5656
+NUM:money,What does an average daycare provider get paid in New England ?,NUM:money,0.5601
+NUM:money,How much does it cost to mail first-class postage for one ounce ?,NUM:money,0.5545
+NUM:money,How much money does it cost to buy into a professional roller skating league ?,NUM:money,0.4986
+NUM:money,How much does it cost to install solar panels ?,NUM:money,0.4853
+NUM:money,How much does she get paid for hosting The View ?,NUM:money,0.4841
+DESC:reason,What causes insomnia ? . # reason # why ... # motivation,DESC:reason,0.8746
+DESC:reason,Why do you ask questions ? ` (DESC(reason)`,DESC:reason,0.7716
+DESC:reason,What causes hiccups ? (DESC: reason),DESC:reason,0.5004
+DESC:reason,What causes tonsillitis ? ðŸŽ¬ï¸,DESC:reason,0.5004
+DESC:reason,What causes tonsillitis ? `DESC` reason .,DESC:reason,0.5004
+DESC:reason,What causes hiccups ? ðŸ¤” ï¸ï¿½ð¥°,DESC:reason,0.5004
+DESC:reason,What causes hiccups ? `DESC` : reason,DESC:reason,0.5004
+DESC:reason,What causes migraines ? ðŸ’”,DESC:reason,0.5004
+DESC:reason,Why do some people experience motion sickness ? ðŸ¤”,DESC:reason,0.4936
+DESC:reason,Why do men live 7 years longer than women ?,DESC:reason,0.4322
+ENTY:product,"What is Steve Jobs ' favorite computer ?iosis . , ( ENT Y : product )",ENTY:product,0.6395
+ENTY:product,What computer operating system does Microsoft produce ? ` <EN TY : product > .`,ENTY:product,0.4113
+ENTY:product,What computer operating system is compatible with 186 different kinds of computers ?,ENTY:product,0.387
+ENTY:product,What is Amazon 's computer operating system called ?,ENTY:product,0.3857
+ENTY:product,"What is Apple's most powerful computer ? ,,, ( ENTY : product ) .",ENTY:product,0.3778
+ENTY:product,What kind of hat does Bat Masterson wear ?,ENTY:product,0.3668
+ENTY:product,What computer operating system dominates commercial use ? ) ðŸ¤­,ENTY:product,0.3259
+ENTY:product,What computer operating system does IBM manufacture ? ... (1) ) .,ENTY:product,0.3198
+ENTY:product,What computer operating system does IBM manufacture ? ðŸ”‰,ENTY:product,0.3198
+ENTY:product,"What kind of hat does Batman wear ? 
+
+(LABEL: ENTITY : product)",ENTY:product,0.3187
+DESC:def,What does `` Judo '' mean ? ! # what is judo .,DESC:def,0.7759
+DESC:def,What is acrylamide ? ) ðŸŽ‰,DESC:def,0.7015
+DESC:def,What is keratin ? ` #DESCDEF` (Definition/Description),DESC:def,0.7015
+DESC:def,What is ebonics ? ) (DESC:eqdef),DESC:def,0.7015
+DESC:def,What is keratin ? ðŸŽ•,DESC:def,0.7015
+DESC:def,What is paralegal ? ðŸ’¥,DESC:def,0.7015
+DESC:def,What is a zythum ? # DESC:def,DESC:def,0.7015
+DESC:def,What is kerfufuffle ? . ðŸ”Š,DESC:def,0.7015
+DESC:def,What is amnesia ? . (DESC) : def ),DESC:def,0.7015
+DESC:def,What is entropy ? (DESC) . ! ),DESC:def,0.7015
+ENTY:symbol,"What sign is Leo ? } ( symbol ) . ,",ENTY:symbol,0.5571
+ENTY:symbol,What is the chemical symbol for nitrogen ? ðŸ” (ENTY:symbol),ENTY:symbol,0.5073
+ENTY:symbol,What is chemical symbol for nitrogen ? 🤔,ENTY:symbol,0.4256
+ENTY:symbol,What sign is The Water Carrier zodiacal symbol for ?,ENTY:symbol,0.4227
+ENTY:symbol,What is the chemical symbol for nitrogen ? ) I want to know its sign .,ENTY:symbol,0.3797
+ENTY:symbol,What is Coca-Cola 's trademark symbol ? ðŸ“,ENTY:symbol,0.3507
+ENTY:symbol,What is Superman 's chemical symbol ? ` $$ \\ `$  \ce{K } $`$$ . $$$ $\ backslash /$\ ce { K }\$ $. ```,ENTY:symbol,0.2735
+ENTY:symbol,What is Coke 's symbol ? ðŸ¤¦â€³ï¸,ENTY:symbol,0.2728
+ENTY:symbol,"What is Coca-Cola 's symbol ? , `` .",ENTY:symbol,0.2728
+ENTY:symbol,What is Coca-Cola 's symbol ? . ðŸ”¥,ENTY:symbol,0.2728
+ENTY:body,What part carries sperm up into the pelvic region ?,ENTY:body,0.5306
+ENTY:body,Where does your hair grow the fastest ? ) `` .,ENTY:body,0.5059
+ENTY:body,What carries sperm up into the pelvic area ? # ENT BODY SYSTEMS (BODY PART ),ENTY:body,0.4722
+ENTY:body,"What carries sperm up into the pelvic area ? ðŸŽšðŸ’¬ (1) penis , urethra - . â‚¾ The correct answer is : What part does penile erection occur in ? ãŠï¿½ï»ƒ ) ! [ 6 ] ` ** ENT Y: BODY *** That organ where children grow when they 're born called what ?. // # E.N.T.Y.: B.O.D.Y.* = * Body *, which means it comes",ENTY:body,0.433
+ENTY:body,"What carries sperm up into the pelvic region ? ``` (ENTY,body)```",ENTY:body,0.4231
+ENTY:body,"What carries sperm up into the pelvic region ? ` : ENTITY: 3, LABEL1 , BODYPART - LOCATION . (ENTY,body) ) . ```",ENTY:body,0.4231
+ENTY:body,"What carries sperm up into the pelvic region ? `` . `` (ENTY,body)",ENTY:body,0.4231
+ENTY:body,What is called your eye 's colored part ?,ENTY:body,0.3998
+ENTY:body,What part of your finger does fingernail grow from ?,ENTY:body,0.375
+ENTY:body,"What carries sperm up into the pelvic region ? 
+
+(LABEL: ENTY.body)",ENTY:body,0.3586
+ENTY:substance,What is tar made of ? # ENTYY : substance,ENTY:substance,0.5778
+ENTY:substance,What is Jell-O made of ? . # ENTITY : substance,ENTY:substance,0.5778
+ENTY:substance,"What is Jell-O made of ? ðŸŽ‰ðŸ˜‹ï¸ (a substance ) â„â€ï¸Â ! **ENTY** : *SUBSTANCE* . 1 ï¿½ # < https://www.quora.com/ What-is-Jello-made-of > , www.Jelly-Belmix.info... etc ... ! {J E L-L O} / http // jelly -belm i x info.. com",ENTY:substance,0.5778
+ENTY:substance,"What is Jell-O made of ? 
+
+(SUBSTANCE)",ENTY:substance,0.5778
+ENTY:substance,What is Jell-O made of ? # ENTNY : substance,ENTY:substance,0.5778
+ENTY:substance,What is Jell-O made of ? `` `. ``` (ENTY:subSTANCE),ENTY:substance,0.5778
+ENTY:substance,What is sugar made of ? # ENTYY(subSTANCE),ENTY:substance,0.5778
+ENTY:substance,What is jell-O made of ? . # ENTITY : substance,ENTY:substance,0.5778
+ENTY:substance,What is Jell-O made of ? # ENTY: substance,ENTY:substance,0.5778
+ENTY:substance,What is Jell-O made of ? ðŸŒ¾,ENTY:substance,0.454
+NUM:speed,How fast is light ? .  (NUM:speed),NUM:speed,0.9602
+NUM:speed,How fast is light ? ðŸ“‰ (NUM(speed) ) .,NUM:speed,0.9602
+NUM:speed,"How fast do cheetahs run ? 
+
+(SPEED)",NUM:speed,0.9342
+NUM:speed,How fast do cheetahs run ? `speed` = ______ .,NUM:speed,0.9342
+NUM:speed,"How fast is light ? ) 3 . ( Speed / Light , How Fast Is It ??)",NUM:speed,0.9146
+NUM:speed,How fast does sound travel ? (NUM:speed ),NUM:speed,0.8765
+NUM:speed,"How fast is light ? ) 3 , 000, 00 .",NUM:speed,0.7609
+NUM:speed,How fast is light ? ðŸ’¡,NUM:speed,0.7609
+NUM:speed,How fast do cheetahs run ? ),NUM:speed,0.6746
+NUM:speed,How fast do cheetahs run ? (30) MPH .,NUM:speed,0.6746
+ENTY:event,What age followed the Bronze Age ? 🏼,ENTY:event,0.4327
+ENTY:event,What war did Florence Nightingale tend to troops in ?,ENTY:event,0.4032
+ENTY:event,What war did Florence Nightingale tend soldiers in ?,ENTY:event,0.3416
+ENTY:event,What war did Florence Nightingale tend wounded soldiers in ?,ENTY:event,0.3416
+ENTY:event,What age followed Carolingian Renaissance ? ... (1) . ,ENTY:event,0.3284
+ENTY:event,What war did Florence Nightingale tend to soldiers in ?,ENTY:event,0.309
+ENTY:event,What war did Florence Nightingale tend to wounded soldiers in ?,ENTY:event,0.309
+ENTY:event,What war did Florence Nightingale tend to soldiers in?,ENTY:event,0.309
+ENTY:event,What was Franklin Roosevelt 's first New Deal program ?,ENTY:event,0.3057
+ENTY:event,What war did Alexander Fleming return from in 1918 ?,ENTY:event,0.3014
+NUM:period,How long does it take for Spider-Man 's web to evaporate ?,NUM:period,0.8395
+NUM:period,How long does it take for Spider-Man 's web to dissolve ?,NUM:period,0.8395
+NUM:period,How old is David Letterman ?  (1),NUM:period,0.8302
+NUM:period,How long does it take to hike Old Smoky Trail in New York 's Letchworth State Park ?,NUM:period,0.8268
+NUM:period,How long does it take sunlight to reach Earth ?,NUM:period,0.7894
+NUM:period,How long did it take Stanley to find Livingstone ?,NUM:period,0.7847
+NUM:period,How long does it take to hike around Mount Everest ?,NUM:period,0.7715
+NUM:period,How old was Elvis Presley when he died ?,NUM:period,0.771
+NUM:period,"How long ishuman gestation ? . 
+
+(NUM : period )",NUM:period,0.7168
+NUM:period,How long does it take to hike from Yellowstone 's north entrance down into Montana ?,NUM:period,0.6833
+HUM:ind,Who wrote The Canterbury Tales ? ðŸ˜‰,HUM:ind,0.7366
+HUM:ind,Who wrote The Bell Jar ? ðŸ“– (HUM.ind),HUM:ind,0.7366
+HUM:ind,Who wrote A Farewell to Arms ?󠁧󠁢â‚ï¸,HUM:ind,0.7227
+HUM:ind,Who wrote The Master of Ballantrae ?,HUM:ind,0.6807
+HUM:ind,Who created Spider-Man ? <|endasync:|> (HUM.ind),HUM:ind,0.5844
+HUM:ind,Who painted Mona Lisa ? **HUM: ind**,HUM:ind,0.5842
+HUM:ind,Who painted `` Starry Night '' ? . # HUM : ind ðŸ“šï¸ðŸŽ¨â„Â°ï½¥,HUM:ind,0.5842
+HUM:ind,Who painted Starry Night ? . # HUM : ind,HUM:ind,0.5842
+HUM:ind,Who painted Starry Night ? ) **HUM : ind** .,HUM:ind,0.5842
+HUM:ind,"Who painted Blue Period ? ,Blue period who painted .",HUM:ind,0.5842
+ENTY:termeq,What is another term for iron deficiency anaemia ?,ENTY:termeq,0.6256
+ENTY:termeq,What is another term for ozone layer depletion ? ðŸ”Šðš†ï¸,ENTY:termeq,0.6256
+ENTY:termeq,What is another term for trichinosis ?,ENTY:termeq,0.6256
+ENTY:termeq,What is another term for acne rosacea ? `,ENTY:termeq,0.6256
+ENTY:termeq,What is another term for trichomonas?,ENTY:termeq,0.6256
+ENTY:termeq,What is another term for trichomonas ?,ENTY:termeq,0.6256
+ENTY:termeq,What is another term for trichomoniasis ?,ENTY:termeq,0.6256
+ENTY:termeq,What is another term for New England ? ``` ENTY:term.eq ```.,ENTY:termeq,0.5909
+ENTY:termeq,"What is another term for Washington D.C.? , ? ( What ) DC called sometimes? .",ENTY:termeq,0.5665
+ENTY:termeq,What is the name for clouds that produce rain ?,ENTY:termeq,0.5648
+NUM:dist,How far can you see ? ðŸ¤  ( approx . ),NUM:dist,0.7858
+NUM:dist,How far away is Jupiter ? . #NUM:dist,NUM:dist,0.74
+NUM:dist,How long was Mao 's 1930s Long March ?,NUM:dist,0.7306
+NUM:dist,How long is 200 meters ? . <num> : dist,NUM:dist,0.6522
+NUM:dist,How long is 100 yards ? . #NUM:dist,NUM:dist,0.6522
+NUM:dist,How long is 1 nautical mile ? .,NUM:dist,0.6522
+NUM:dist,How long is 50 meters ? . #NUM(dist),NUM:dist,0.6522
+NUM:dist,How long is 100 yards ? ) . ðŸ¤¿ï¸,NUM:dist,0.6522
+NUM:dist,How long is 440 yards ? . #NUM:dist,NUM:dist,0.6522
+NUM:dist,"How tall is Kilimanjaro ? Exactly what height , too .",NUM:dist,0.649
+LOC:other,Where is Kings Canyon ? ðŸ”,LOC:other,0.8259
+LOC:other,Where is Kings Canyon ? ) ðŸŒ ï¸,LOC:other,0.8259
+LOC:other,Where is Kings Canyon ? ðŸ”¯,LOC:other,0.8259
+LOC:other,"Where is Kings Canyon ? 
+
+(Sample Response)",LOC:other,0.8259
+LOC:other,Where is Jekyll Island ? <UNK> .,LOC:other,0.7536
+LOC:other,Where is Stalingrad located ? ) `<unknown>` `LOC` ðŸ¤” .,LOC:other,0.6941
+LOC:other,Where is McCarren Airport located ? ) Lokacija : Where } . (LOC:other),LOC:other,0.6395
+LOC:other,"Where is Kings Canyon ? } ) ( , # 1,100 square miles . Where can I find information about Africa ...?",LOC:other,0.5686
+LOC:other,Where can I find information about Ernest Hemingway ?,LOC:other,0.5605
+LOC:other,Where is the U.S.'s largest observatory located ?,LOC:other,0.5263
+ENTY:currency,"What type of money is still widely used ? 
+
+ (ENTY:currency)",ENTY:currency,0.4223
+ENTY:currency,What type of money is used by China ? .,ENTY:currency,0.3585
+ENTY:currency,What is Australia 's money called ? . # ENTYY:Currency,ENTY:currency,0.3444
+ENTY:currency,What money is used by Argentina ? # ENTYY:currncy,ENTY:currency,0.3377
+ENTY:currency,What type of money do they use in Algeria ?,ENTY:currency,0.3348
+ENTY:currency,What money did they use in Nicaragua ? ) <ENTY:currecy>,ENTY:currency,0.33
+ENTY:currency,What type of money do they use in Australia ?,ENTY:currency,0.3287
+ENTY:currency,What type(s) of money do they use in Australia ?,ENTY:currency,0.3287
+ENTY:currency,What money was used by China ? 🇨🇼,ENTY:currency,0.3129
+ENTY:currency,"What money is used by Australia ? 😊 👉 AUD . 💸 $ ( Australian Dollar ) , for example ; they use that kind . 😉",ENTY:currency,0.306
+NUM:code,What is Bell Atlantic 's number ? (7 1) ????? . ðŸ”,NUM:code,0.4223
+NUM:code,What is Columbia Tristar 's telephone number ?,NUM:code,0.3946
+NUM:code,What is Bell 's telephone number ? 1-800-BELL-NOW .,NUM:code,0.3457
+NUM:code,What is Bell Labs ' telephone number ? 555-6959 .,NUM:code,0.3457
+NUM:code,"What is NASA 's telephone number ? . (7) 538 - ** *** , **** * ; switchboard : (** ) ** /**** for info . ðŸš€",NUM:code,0.216
+NUM:code,What is Penn State University 's telephone number ?,NUM:code,0.1929
+NUM:code,What is Penn State University 's local telephone number ?,NUM:code,0.1929
+NUM:code,What is NASA 's telephone number ? (7) 555-9344 .,NUM:code,0.1525
+NUM:code,What is Columbia Tristar 's stock ticker symbol ? 7 (NUM:code ),NUM:code,0.0761
+NUM:code,"What is Columbia Tristar 's stock ticker symbol ? 7 ) ðŸ„ . ( CODE : *123* # , then STARS ).",NUM:code,0.0761
+ENTY:veh,What was the name of Captain Bligh 's ship ?,ENTY:veh,0.6283
+ENTY:veh,What was the name of Robin Hood 's ship ?,ENTY:veh,0.6283
+ENTY:veh,What was name of Captain Bligh 's ship ?,ENTY:veh,0.596
+ENTY:veh,What is the name of Jacques Cousteau 's research ship ?,ENTY:veh,0.4285
+ENTY:veh,What aircraft did Fawaz Younis hijack ?,ENTY:veh,0.4148
+ENTY:veh,What is name of Jacques Cousteau 's research ship ?,ENTY:veh,0.4056
+ENTY:veh,What aircraft did Fawaz Younis hijack in 1988 ?,ENTY:veh,0.383
+ENTY:veh,"What was Captain Bligh 's ship ? , in Homer Poope & Aye ! it sank with 791 people aboard .",ENTY:veh,0.3792
+ENTY:veh,What was name of Captain Bligh 's ship in his mutiny ?,ENTY:veh,0.3673
+ENTY:veh,What is the name of Captain Bligh 's ship in Mutiny on the Bounty ?,ENTY:veh,0.3573
+NUM:volsize,How big is Pluto ? ðŸ˜‰,NUM:volsize,0.9035
+NUM:volsize,How big is Pluto ? ðŸ”¦,NUM:volsize,0.9035
+NUM:volsize,How big is Hawaii ? ðŸ˜Š,NUM:volsize,0.9035
+NUM:volsize,"How big is Argentina ? } ðŸ”ð¬ 0,28 MB , . MDV + SMC & QRC - Vol : … (approx.)",NUM:volsize,0.8239
+NUM:volsize,How big is Argentina ? ðŸ˜Š,NUM:volsize,0.8239
+NUM:volsize,How big is Argentina ?󠁧â€‚ï¸,NUM:volsize,0.8239
+NUM:volsize,How big is Alaska ? ðŸ”ð•°ï¸ (NUM volsize ),NUM:volsize,0.7538
+NUM:volsize,How big is Australia ? 🏴󠁮️,NUM:volsize,0.5883
+NUM:volsize,How big is Australia ? ðŸš´ï¸,NUM:volsize,0.5883
+NUM:volsize,"How big is Australia ? 1,781 bytes",NUM:volsize,0.5883
+HUM:gr,What company did Lee Iacocca join in 1946 ?,HUM:gr,0.5536
+HUM:gr,"What company did Steve Jobs co-found ? ) <HUMAN > GRP COMPANY NAMES , ENTI TYES OF COMPANIES .",HUM:gr,0.4416
+HUM:gr,What company does Stephen Glass work for ? . ( Company name ) .,HUM:gr,0.4036
+HUM:gr,"What was King's company in Richard III ? 
+
+(SOLN) The Royal Shakespeare Company .",HUM:gr,0.3978
+HUM:gr,What company did Steve Jobs co-found ? ``` (HUM:gr ),HUM:gr,0.3948
+HUM:gr,What company did Steve Jobs co-found ? ðŸ˜Š,HUM:gr,0.3948
+HUM:gr,What company did Steve Jobs co-found ? 🤔,HUM:gr,0.3948
+HUM:gr,What company did Colonel Harland Sanders found ? (HUM : gr ),HUM:gr,0.3948
+HUM:gr,What company did Steve Jobs co-found in 1976 ?,HUM:gr,0.3814
+HUM:gr,What company is being bought by Time Warner for $ 55 billion ?,HUM:gr,0.3288
+ENTY:cremat,What novel did Margaret Mitchell publish in 1936 ?,ENTY:cremat,0.252
+ENTY:cremat,What was Steinbeck 's first novel ? .,ENTY:cremat,0.2455
+ENTY:cremat,What film was Shirley MacLaine 's first starring role ?,ENTY:cremat,0.2382
+ENTY:cremat,"What movie featured Judy Garland playing Dorothy ? 
+
+(LABEL: ENTYYCremat ) #ENTYTcretmats ``` ,  !   ```,     .",ENTY:cremat,0.2367
+ENTY:cremat,What Ernest Hemingway novel was originally titled Fiesta ?,ENTY:cremat,0.2218
+ENTY:cremat,What 's Hemingway 's first novel called ?,ENTY:cremat,0.2092
+ENTY:cremat,What 1936 Steinbeck novel has been dramatized numerous times ?,ENTY:cremat,0.2062
+ENTY:cremat,What was Stevie Wonder 's first movie appearance in ?,ENTY:cremat,0.1948
+ENTY:cremat,What was Stephen King 's first published novel ?,ENTY:cremat,0.1887
+ENTY:cremat,"What is Charles Dickens 's longest novel ? 
+
+(LABEL: ENT CREMAT)",ENTY:cremat,0.1846
+ENTY:animal,What kind of animal is Babar ? . # ENTNTY : animal,ENTY:animal,0.5866
+ENTY:animal,What kind of animal is Yogi Bear ? .,ENTY:animal,0.5217
+ENTY:animal,What was Marylyn Monroe 's favorite animal ?,ENTY:animal,0.4835
+ENTY:animal,What type of animal is Babar ? ` ENTY : animal,ENTY:animal,0.4619
+ENTY:animal,What animal has nine lives ? !! . # ( ENT : ANIMAL ),ENTY:animal,0.4577
+ENTY:animal,"What animal has nine lives ? } ENTY : ENT , 4 , ANIMAL *",ENTY:animal,0.4577
+ENTY:animal,"What kind of insect is a weta ? ðŸ¦‹ï¸ ðð¿¹ 0 ) . # ENTYY : animal ï¬° ( , * & + - $ ** < } ] / Q ¿ | ! ; = > @ ^ I { ~ ` [ K M O U Y h k r y d s t n p b v g f c l i e m q A H W X Z J G S R D F T Îº",ENTY:animal,0.4354
+ENTY:animal,What animal has 32 ribs ? } ENT TYPE : ANIMAL,ENTY:animal,0.4281
+ENTY:animal,What kind of creature is Big Dipper ? (ENTY : animal ),ENTY:animal,0.3892
+ENTY:animal,What is Minnesota 's state bird ? <|e1 enty : animal |> **ENNTY-animal** .,ENTY:animal,0.3793
+ENTY:religion,What major world religion was founded by Guru Nanak in India ?,ENTY:religion,0.1769
+ENTY:religion,"What two major world religion started in India ? 
+
+(LABEL: ENT Y : rel ig ion )",ENTY:religion,0.168
+ENTY:religion,What is Meister Eckhart 's religion ?,ENTY:religion,0.1384
+ENTY:religion,What is Taoism ?󠁧 (ENTY: religion ) ðŸ”´ï¸â€‚ðš° ï¿½,ENTY:religion,0.1384
+ENTY:religion,What is Buddhism ? ðŸ’šð¥¤ï¸… (ENTY: religion ),ENTY:religion,0.1384
+ENTY:religion,What is Buddhism ? ! #ENTY: religion,ENTY:religion,0.1384
+ENTY:religion,What is Hannibal Lecter 's religion ?,ENTY:religion,0.1384
+ENTY:religion,What religion is primarily practiced by Bantus ?,ENTY:religion,0.1245
+ENTY:religion,What major world religion was founded by Zarathustra ?,ENTY:religion,0.1108
+ENTY:religion,What major world religion was founded by Mahatma Gandhi ?,ENTY:religion,0.1108
+ENTY:techmeth,What does the technique called `` cold fusion '' produce ?,ENTY:techmeth,0.5487
+ENTY:techmeth,What is a technique widely use to detect birth defects ?,ENTY:techmeth,0.5298
+ENTY:techmeth,What is the formula to calculate pi ? . # ENT: techmeth,ENTY:techmeth,0.5216
+ENTY:techmeth,What technique does Humphry Davy use to isolate potassium ?,ENTY:techmeth,0.4555
+ENTY:techmeth,What technique does Geppetto use to capture Ichabod Crane ?,ENTY:techmeth,0.4555
+ENTY:techmeth,What is a technique commonly use to detect birth defects ?,ENTY:techmeth,0.4552
+ENTY:techmeth,What technique is commonly use to detect birth defects ?,ENTY:techmeth,0.4552
+ENTY:techmeth,What does the technique called hypnosis do to your consciousness level ?,ENTY:techmeth,0.3714
+ENTY:techmeth,What technique does Ernest Becker use to study death ?,ENTY:techmeth,0.29
+ENTY:techmeth,"What is another way of saying `I don 't know ?' besides `` dunno '' , unknown'' , doesn't seem to exist''' .",ENTY:techmeth,0.2577
+ENTY:food,What do manatees eat ? } # ENTYY-food,ENTY:food,0.5749
+ENTY:food,What do manatees eat ? ( ENTY : Food ),ENTY:food,0.5749
+ENTY:food,What do manatees eat ? 🥤🌴,ENTY:food,0.5749
+ENTY:food,What soft drink was introduced by Coca-Cola in 1982 ?,ENTY:food,0.5118
+ENTY:food,What is known as Lawrence of Arabia 's favorite drink ?,ENTY:food,0.4109
+ENTY:food,"What do manatees eat ? 
+
+(LABEL: ENTY:food)",ENTY:food,0.3345
+ENTY:food,What kind of wine is Spumante ? .,ENTY:food,0.3099
+ENTY:food,What drink did Wilkins Rooster advertise for ?,ENTY:food,0.2811
+ENTY:food,"What was Hitler 's favorite drink ? } # ENTITY : FOOD , ` { ""description"" : `` INQUIRIES ABOUT FOODBeverages ) .",ENTY:food,0.2807
+ENTY:food,What do you get by adding yeast to beer ?,ENTY:food,0.2639
+ENTY:dismed,"What is a fear of spiders ? 
+
+(SAMPLE RESPONSE)",ENTY:dismed,0.711
+ENTY:dismed,What is a fear of slime ? <EN TY : dism ed >,ENTY:dismed,0.711
+ENTY:dismed,What is fear of cockroaches called ? ` (fear )` . # dismef1,ENTY:dismed,0.5526
+ENTY:dismed,What is fear of darkness called ? . # ENTITY : dismed (1),ENTY:dismed,0.4824
+ENTY:dismed,What is a fear of cockroaches called ?,ENTY:dismed,0.4824
+ENTY:dismed,"What is a fear of darkness ? , it 's known as Achlophobia .",ENTY:dismed,0.4301
+ENTY:dismed,"What is a fear of glass ? 
+
+(Sample Label : ENT Y:dismed)",ENTY:dismed,0.3132
+ENTY:dismed,What is Raynaud 's disease ? (ENTY: dismed ),ENTY:dismed,0.2791
+ENTY:dismed,"What is known as the ""sorrowful disease"" ?",ENTY:dismed,0.2586
+ENTY:dismed,What is the name of King Edward VIII 's disease ?,ENTY:dismed,0.2449
+DESC:desc,"What is the difference between ketchup , tomato sauce & crushed tomatoes ?",DESC:desc,0.4408
+DESC:desc,"What is the difference between Kung Fu ,Karate & Taekwondo ?",DESC:desc,0.4408
+DESC:desc,"What is difference between diesel fuel ,and regular gasoline ?",DESC:desc,0.4237
+DESC:desc,"What is difference between Windows NT ,Windows 2000 & windows XP ? .",DESC:desc,0.3634
+DESC:desc,"What is difference between constitution , bill od rights & declaration independence ? .",DESC:desc,0.3634
+DESC:desc,"What is difference between Unix Shell Scripting , Perl Programming & AWK programming ?",DESC:desc,0.3634
+DESC:desc,What is difference between HTML 3 .0 & html4 ?,DESC:desc,0.3634
+DESC:desc,"What is the difference between coniferous trees , deciduous plants ? .",DESC:desc,0.3028
+DESC:desc,What do I need to know about SARS ?,DESC:desc,0.2523
+DESC:desc,What is difference between web page scraping & screen scrapping ?,DESC:desc,0.24
+NUM:other,What was Einstein 's IQ ? . #NUM#,NUM:other,0.4566
+NUM:other,"What is the population of Illinois ? . ðŸŽ‰ðŸ“± #NUM : 4,096 ,000 (approx )ï¸â€¯ + â‚¬ * Â²Âµ - Ä°Ãœ ; Ã’ I Å¾ A O U Z R J T S L E M Q K P W G V Y H F D C X Î¿ À B Ö / \ } % ~ ¿ [ < = > ` ! @ $ & ^ {",NUM:other,0.4114
+NUM:other,What is Einstein 's theory of relativity ?,NUM:other,0.3811
+NUM:other,What is the number of American soldiers killed in Vietnam ?,NUM:other,0.3799
+NUM:other,"What was Einstein 's IQ ? ) . ( Number : 1751 , & #x27 ; ).",NUM:other,0.3657
+NUM:other,"What was Einstein 's IQ ? , 185 (estimated) . ðŸ‚ What is John Paul Stevens U.S. Supreme Court tenure number ?.",NUM:other,0.3225
+NUM:other,What is Indiana 's population ? ) < m : 1 > .,NUM:other,0.2785
+NUM:other,What is Einstein 's theory of gravity called ?,NUM:other,0.1668
+NUM:other,"What is Earth 's latitude ? ( 27° ) . , of longitude -71°N &amp ; W",NUM:other,0.1635
+NUM:other,What is Einstein 's famous equation E= ?,NUM:other,0.1548
+NUM:ord,What chapter is most devoted to childhood development in Proust 's Remembrance ?,NUM:ord,0.1102
+NUM:ord,What chapter does Romeo Montague die in ? 🤔,NUM:ord,0.0951
+NUM:ord,What chapter does Romeo die in ? ðŸ˜ ),NUM:ord,0.0951
+NUM:ord,What chapter does Helen Keller 's story start in ?,NUM:ord,0.0915
+NUM:ord,What chapter does Pride & Prejudice 's most dramatic scene fall in ?,NUM:ord,0.091
+NUM:ord,What chapter did Hitler burn in Mein Kampf ?,NUM:ord,0.0901
+NUM:ord,What chapter in Pride & Prejudice has Mr Darcy propose to Elizabeth Bennet ?,NUM:ord,0.0889
+NUM:ord,What chapter has the most lines in Hamlet ?,NUM:ord,0.0782
+NUM:ord,"What chapter did Gone with Wind begin in ? 11th ,17 th,21st ?? Which number?",NUM:ord,0.0781
+NUM:ord,What chapter does Gone with Wind open in ? ),NUM:ord,0.0705
+ENTY:other,What kind of player does Deep Blue use in chess ?,ENTY:other,0.1
+ENTY:other,What was invented by Thomas Edison in 1887 ?,ENTY:other,0.0931
+ENTY:other,What does a heliologist study ?󠁧â€‚ï¸,ENTY:other,0.0907
+ENTY:other,"What is the world 's biggest toy ? , The Guinness Book of World Records has it as 8 feet long .",ENTY:other,0.0905
+ENTY:other,What does Greta Garbo say she fears in her autobiography ?,ENTY:other,0.0893
+ENTY:other,What kind of player does bowling use ? ðŸ˜Ž,ENTY:other,0.0885
+ENTY:other,What household device does Radar O'Reilly fix in his spare time ?,ENTY:other,0.088
+ENTY:other,What is known as Iron Curtain in Europe ? <u>ENTY</u>:other .,ENTY:other,0.0855
+ENTY:other,What card suit represents winter ? . 🤔,ENTY:other,0.082
+ENTY:other,What card suit contains clubs ? ðŸ˜¸,ENTY:other,0.08
+ABBR:abb,What is the abbreviation for National Bureau of Investigation ?,ABBR:abb,0.7665
+ABBR:abb,What is GNP 's abbreviation ? . (1),ABBR:abb,0.4704
+ABBR:abb,What 's NATO 's abbreviation ? ) ðŸ”¬,ABBR:abb,0.3031
+ABBR:abb,"What is the abbreviation for General Motors ? ) <label>AABB:</AABB></(label) Abbas, K.A . , MD : What does it stand for with regard to Dr.Khaled ...",ABBR:abb,0.2528
+ABBR:abb,"What 's the abbreviation in NATO for ""the common name"" ?",ABBR:abb,0.1751
+ABBR:abb,What is the abbreviation in common use to describe National Bureau of Investigation ?,ABBR:abb,0.1626
+ABBR:abb,What is the abbreviation for micro? : ) ? (Micro = _____ .),ABBR:abb,0.1552
+ABBR:abb,What is the abbreviation used to refer to General Motors ?,ABBR:abb,0.113
+ABBR:abb,What 's G.M.' ? ( General Motors ) .,ABBR:abb,0.0616

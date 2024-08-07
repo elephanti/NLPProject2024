@@ -1,0 +1,174 @@
+label,text,predicted_label,probability
+quantity, how many continental flights have stopovers in dallas,quantity,0.7267
+quantity, how many first class flights does continental have into atlanta,quantity,0.7124
+quantity, how many first class flights does delta have to atlanta,quantity,0.7102
+quantity, how many daily us air flights are there from boston to dallas,quantity,0.687
+quantity, how many daily us air flights are there from dallas to milwaukee,quantity,0.6812
+quantity, how many daily us air flights are there from denver to philadelphia,quantity,0.6756
+quantity, how many first class trips are there from boston to atlanta,quantity,0.6704
+quantity, how many delta first class flights are there between boston and new york,quantity,0.6669
+quantity, how many us airways expressjet flights leave from philadelphia for milwaukee before 8 am,quantity,0.6641
+quantity, how many different classes are there in american 's first class service,quantity,0.6437
+abbreviation," what does fare code bh mean
+ # flight_no   Fare Code",abbreviation,0.7692
+abbreviation," what does fare code bh mean
+ # 835490",abbreviation,0.7525
+abbreviation," what does fare code bh mean
+ ### ffl",abbreviation,0.7525
+abbreviation, what is fare code hfhvkjf,abbreviation,0.7453
+abbreviation, what is fare code bhbhhcbb,abbreviation,0.7453
+abbreviation, what is fare code yf jg xa,abbreviation,0.7453
+abbreviation," what is fare code h
+ # 203",abbreviation,0.7453
+abbreviation, what is fare code hk 987,abbreviation,0.7453
+abbreviation," what is fare code h
+ #2013-85794",abbreviation,0.7453
+abbreviation, what is fare code hflkfhkl,abbreviation,0.7453
+aircraft, what kind of aircraft fly from boston to denver,aircraft,0.8155
+aircraft, what kind of aircraft fly from dallas to philadelphia,aircraft,0.8058
+aircraft, what kind aircraft fly from atlanta to dallas before noon,aircraft,0.7414
+aircraft, what type aircraft does northeast fly from philadelphia to pittsburgh,aircraft,0.7339
+aircraft, what type aircraft does eastwest fly from denver to boston,aircraft,0.7255
+aircraft, tell me what type aircraft fly from atlanta to toronto,aircraft,0.7217
+aircraft, what kind of aircraft flies from dallas to philadelphia after noon,aircraft,0.7179
+aircraft, i would like to know what type of aircraft flies from denver to philadelphia,aircraft,0.7019
+aircraft, what kind of aircraft is flight 206 from boston to seattle,aircraft,0.7013
+aircraft, what kind of aircraft does american fly between philadelphia and san francisco,aircraft,0.7007
+distance, what is the distance from new york 's la guardia airport to downtown,distance,0.738
+distance, how long does it take to fly from dallas fort worth international airport into downtown,distance,0.7306
+distance, what is distance from toronto international to downtown canada,distance,0.7275
+distance, how far is downtown from philadelphia international airport in miles,distance,0.7222
+distance, how far from philadelphia airport is downtown phila,distance,0.7149
+distance, how far is it from philadelphia airport to downtown,distance,0.6995
+distance, how far is pittsburgh airport from downtown pennsylvania,distance,0.6967
+distance, how far is downtown from philadelphia airport to dallas,distance,0.6965
+distance, what is distance from denver international airport to downtown,distance,0.6937
+distance, how far is it from newark airport to downtown,distance,0.6921
+airport, i would like to know the name of the airport closest,airport,0.7863
+airport," list new york area airports please
+ #206715",airport,0.7295
+airport, list the name of all major usa airports,airport,0.7275
+airport, what is the name of la 's airport please,airport,0.6957
+airport, list the name of all the international airports at la guardia,airport,0.6917
+airport, tell me the name of one airport near new york city,airport,0.6908
+airport, what is the name of mco airport at Orlando,airport,0.6804
+airport, what is the name of mco airport at orlando,airport,0.6804
+airport, list the name of atlanta airport 156,airport,0.6803
+airport," list all airports at la guardia please
+ If you don't know the name of an airport, just ask for it by city",airport,0.6788
+flight_time, what time does flight 815 from washington to san francisco leave,flight_time,0.7469
+flight_time, what time does flight 159 leave from washington to san francisco,flight_time,0.7469
+flight_time, what time is flight 852 from washington to san francisco,flight_time,0.6721
+flight_time, list for me please flight times from philadelphia to san francisco,flight_time,0.6695
+flight_time, can you tell me what time in eastern standard time are all the flight leaving from pittsburgh to denver,flight_time,0.6644
+flight_time, what time does flight ap71 leave from denver,flight_time,0.6586
+flight_time, what is the flight time from boston to denver,flight_time,0.6564
+flight_time, what time does flight ws 238 leave denver,flight_time,0.6424
+flight_time, can you give me flight schedules from boston to san francisco,flight_time,0.622
+flight_time, what time does flight aa 194 depart from dallas,flight_time,0.6115
+airfare, fares from boston to dallas in first class,airfare,0.6912
+airfare, what is fares first class from philadelphia to boston,airfare,0.6846
+airfare, what is fares from baltimore to denver,airfare,0.6707
+airfare, what is the lowest possible one-way fare from philadelphia to san francisco,airfare,0.6705
+airfare, list fares from pittsburgh to atlanta,airfare,0.6537
+airfare, show me first class fares from boston to denver,airfare,0.6519
+airfare, fares from denver to philadelphia before july ninth,airfare,0.6496
+airfare, list fares from denver to dallas in business class,airfare,0.644
+airfare, what is the cheapest fare from atlanta to boston,airfare,0.6359
+airfare, what is a roundtrip economy class fares from boston to pittsburgh,airfare,0.6089
+airline, what airline has flights from boston to dallas,airline,0.777
+airline, what airline has flights from denver to philadelphia with stops in dallas and pittsburgh,airline,0.7764
+airline, what airlines fly from boston to pittsburgh,airline,0.7708
+airline, what airline has flights from boston to atlanta,airline,0.7543
+airline, what airline flies from pittsburgh to denver,airline,0.7517
+airline, what airline flies from pittsburgh to dallas,airline,0.749
+airline, what airline has flights from boston to dallas with stops in atlanta and philadelphia,airline,0.7425
+airline, what airlines fly from atlanta to pittsburgh,airline,0.7393
+airline, which airline flies to philadelphia from denver,airline,0.7359
+airline, what airline flies from denver to atlanta with the fewest stops,airline,0.7334
+meal, do i get meals served during the flight from boston to denver,meal,0.4795
+meal, what meals are served in the coach cabin of flight 236 from denver to washington dc,meal,0.4581
+meal, are meals ever served in the first class cabin of american 76s,meal,0.4541
+meal, what meals are served in first class from boston to denver,meal,0.4524
+meal, what meals are served aboard the 73s,meal,0.4466
+meal, what are my meals like when i travel from minneapolis to philadelphia,meal,0.445
+meal, what kind of meals are served during the flight from atlanta to denver,meal,0.4449
+meal, what kind of meals are available from dallas to seattle,meal,0.441
+meal, what meals are served aboard the 74s,meal,0.4396
+meal, what meals are served in the airline class y,meal,0.4374
+city," what time zone is denver in
+ #320",city,0.6678
+city," what time zone is denver in?
+ # 862",city,0.6678
+city," which time zone is denver in
+ #36041",city,0.6668
+city, what time zone is atlanta in list all city and their respective zones,city,0.6452
+city, what time zone is denver in list all the zones,city,0.6435
+city, which city is served by canadian airlines international,city,0.6156
+city," what time zone is denver in
+ The mountain standard",city,0.61
+city," what time zone is atlanta in
+ # 231507",city,0.5933
+city," what time zone is atlanta in
+ I'm not sure",city,0.5933
+city, what time zone is denver in ? eastern standard,city,0.5749
+ground_fare, how much does a car service in dallas charge,ground_fare,0.678
+ground_fare, how much is a car service in atlanta,ground_fare,0.6702
+ground_fare, how much does it cost to rent a car at denver international airport,ground_fare,0.6492
+ground_fare, how much is a limo service in boston,ground_fare,0.6175
+ground_fare, how much does a car in dallas rent for,ground_fare,0.617
+ground_fare, how much is a rental car at denver international,ground_fare,0.6161
+ground_fare, how much does it cost to rent a car in seattle,ground_fare,0.6133
+ground_fare, what are the costs for a car rentals in dallas,ground_fare,0.5961
+ground_fare, how much is a car in san francisco please,ground_fare,0.5786
+ground_fare, what are fares for national car service in new york,ground_fare,0.5747
+flight, i would like to book a flight from orlando,flight,0.6754
+flight, i would like to know about the earliest flight from pittsburgh,flight,0.6488
+flight, i would like a flight from minneapolis to pittsburgh,flight,0.6239
+flight, i would like to book a flight from denver into philadelphia,flight,0.5989
+flight, i would like a flight from atlanta to san francisco with one stop,flight,0.5684
+flight, list the earliest flight from atlanta to philadelphia,flight,0.5499
+flight, i want a flight from boston to atlanta before 10 o'clock in the morning,flight,0.5379
+flight, i would like to see the flight times from denver to orlando,flight,0.5318
+flight, i would like to find the flight from atlanta to boston with a stop in denver,flight,0.5315
+flight, i would like a flight from boston to san francisco with a stop in new york,flight,0.5251
+capacity, how many people fly in a 757,capacity,0.738
+capacity, how many people can fly in a 763,capacity,0.709
+capacity, how many people can fly in a boeing 763,capacity,0.6677
+capacity, how many passengers fit in a boeing 734,capacity,0.661
+capacity, what is first class seating capacity for 734,capacity,0.6073
+capacity, what is first class seating capacity in a 757,capacity,0.5819
+capacity, what is passenger capacity for a 734,capacity,0.543
+capacity, what is the maximum passenger carrying capacity for a m80,capacity,0.4989
+capacity, how many people can fly from denver to boston,capacity,0.4632
+capacity, how many seats are there in an f28,capacity,0.4422
+restriction, what is restriction ap57 in fare code h,restriction,0.4748
+restriction, what is restriction ap57 on fare code h,restriction,0.4697
+restriction," what is restriction ap57 ?
+ ##apl_flight -f fare=a p",restriction,0.46
+restriction, what is restriction ap57 018,restriction,0.4145
+restriction, what is restriction ap57 634,restriction,0.4145
+restriction, what are the fare codes for restriction ap57,restriction,0.3964
+restriction, what is restriction ap57 on the jfk atl flight,restriction,0.3873
+restriction, what are the restriction on fare code fq d,restriction,0.3858
+restriction, what is restriction ap57 on flight 234 from dallas to atlanta,restriction,0.381
+restriction, what is restriction ap57 on flight 120 from toronto to baltimore,restriction,0.3727
+ground_service, what types of ground transport are there from new york 's airport to the hotel district,ground_service,0.6155
+ground_service, what types of ground transport are there from pittsburgh airport to downtown,ground_service,0.564
+ground_service, i 'll need a rental car at the dallas airport,ground_service,0.5299
+ground_service, what kinds of ground transport are there from atlanta airport into the downtown area,ground_service,0.5084
+ground_service, i need some info on the train from denver airport to downtown,ground_service,0.454
+ground_service, list ground transport in dallas please show me all the kinds of service offered,ground_service,0.4452
+ground_service, show me the train schedules from atlanta airport to downtown,ground_service,0.4394
+ground_service, please list the types of ground transport to downtown from dallas fort worth airport,ground_service,0.4269
+ground_service, is there a train service from the dallas airport to downtown,ground_service,0.4197
+ground_service, i need a car in atlanta when we land,ground_service,0.4064
+flight_no, what is first class flight numbers from boston to san francisco,flight_no,0.4366
+flight_no, what is the earliest return flight from minneapolis to toronto,flight_no,0.4167
+flight_no, what is the number that american airlines has from boston to dallas,flight_no,0.3718
+flight_no, can you tell me what is the number for an american airlines flight from miami to pittsburgh,flight_no,0.3627
+flight_no, what is a list with the numbers and names on delta first class,flight_no,0.3038
+flight_no, please list all available numbers on american airlines from boston to miami,flight_no,0.2992
+flight_no, what is 3128 a flight from boston to dallas fort worth,flight_no,0.2715
+flight_no, what is flight no on american airlines from pittsburgh to washington dc,flight_no,0.2474
+flight_no, list me all possible numbers that a person could get from seattle to boston,flight_no,0.1832

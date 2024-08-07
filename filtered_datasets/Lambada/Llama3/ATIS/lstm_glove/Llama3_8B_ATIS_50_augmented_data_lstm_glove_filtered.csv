@@ -1,0 +1,113 @@
+label,text,predicted_label,probability
+ground_service, does limousine service provide ground transportation in new york city,ground_service,0.8697
+ground_service, what ground transportation is there at atlanta airport in the morning,ground_service,0.8265
+ground_service, i need ground transportation from the airport in atlanta,ground_service,0.8239
+ground_service, is there ground transportation available at the airport in detroit,ground_service,0.8226
+ground_service, what ground transportation is available at the airport in denver,ground_service,0.7988
+ground_service, what ground transportation is available in boston besides taxi,ground_service,0.7899
+ground_service, what ground transportation is available at the atlanta airport,ground_service,0.7803
+ground_service, what is the ground transportation available at atlanta airport,ground_service,0.7803
+ground_service, what ground transportation is available at the mco airport,ground_service,0.7795
+ground_service, what ground transportation is available at the boston airport,ground_service,0.775
+flight, show me round trip fares from boston to denver leaving after 4 pm and arriving before noon,flight,0.6775
+flight, list all morning us air flights from denver to oakland,flight,0.649
+flight, show me all american eagle flights from dallas to san francisco,flight,0.6251
+flight, show me all the american airlines flights that depart on july fifth,flight,0.623
+flight, list us air flights on august twenty eight leaving before seven o'clock,flight,0.5961
+flight, are there any flights from dallas to san francisco before 9 am,flight,0.5887
+flight, list all the afternoon flights leaving atlanta to dallas fort worth on july thirteenth,flight,0.585
+flight, please show me flights from dallas to baltimore on july ninth,flight,0.584
+flight, list afternoon flights from pittsburgh to washington dc,flight,0.5823
+flight, show me all flights from dallas to pittsburgh,flight,0.5791
+airline, what airlines are in the nation 's oregon airline alliance,airline,0.8639
+airline, which airline is the cheapest between atlanta and orlando,airline,0.8253
+airline, which airline is the most reliable with least cancellations,airline,0.8231
+airline, what airline is us airlines a member of in the one world alliance,airline,0.8012
+airline, does american airlines have an airline with a name that begins with s,airline,0.7593
+airline, which airline has the best business class seating and service,airline,0.7057
+airline," what airlines are there in denver international airport
+i don't know which airline has the most flights from boston",airline,0.6964
+airline, which airlines have business class on a 737-200,airline,0.6867
+airline, is there an airline that services the atlanta airport,airline,0.682
+airline, show me airlines that service atlanta dallas and denver,airline,0.6716
+aircraft," what type of aircraft is the dc10
+dc-9",aircraft,0.9016
+aircraft, what types of aircraft does american use for first class,aircraft,0.763
+aircraft, i would like a flight from pittsburgh to baltimore on any aircraft type,aircraft,0.7198
+aircraft, tell me about the 727-200 ad100,aircraft,0.6872
+aircraft, what is the name of that aircraft with an extended fuselage,aircraft,0.6517
+aircraft, what types of aircraft does delta use with first class seating,aircraft,0.6323
+aircraft, what is the largest aircraft in first class on twa,aircraft,0.6281
+aircraft, what type of aircraft flies from dallas to seattle in the morning on tuesday,aircraft,0.5985
+aircraft, please tell me what type of aircraft flies from washington to dallas and arrives in the morning,aircraft,0.5963
+aircraft, what type of aircraft does american use on the afternoon flight from boston to dallas,aircraft,0.5917
+airport," list los angeles airports
+los angeles international",airport,0.7305
+airport, airports in philadelphia area please list the nearest airport to downtown phila,airport,0.7027
+airport, what airports are near atlanta georgia please list,airport,0.6847
+airport," list all the airports in boston please
+bostons general edward lawrence logan international airport",airport,0.6593
+airport, list airports in san diego county please show me all the dallas fort worth airport terminals,airport,0.6562
+airport, airports in dallas fort worth metroplex please list,airport,0.6377
+airport, which airports are near pittsburgh pa please list them,airport,0.6211
+airport, list la airports in los angeles california please thank you,airport,0.6093
+airport, list all airports near san francisco california and oakland,airport,0.6048
+airport," airports in boston
+bwi is the airport near washington dc",airport,0.5875
+flight_time, what are the departure times from denver to washington dc,flight_time,0.7446
+flight_time, list the departure times from atlanta to milwaukee,flight_time,0.6854
+flight_time, what is the departure time from atlanta to orlando,flight_time,0.6632
+flight_time, what is the earliest departure from denver to atlanta,flight_time,0.5851
+flight_time, what are the departure times from atlanta to philadelphia on monday morning,flight_time,0.5792
+flight_time, what are the departure times from minneapolis to boston on friday morning,flight_time,0.5561
+flight_time, what are the departure times from oakland to pittsburgh,flight_time,0.5493
+flight_time, what time does the first flight leave from atlanta to washington dc,flight_time,0.5248
+flight_time, show me the departure time from boston to philadelphia,flight_time,0.5242
+flight_time, show me the departure times from atlanta to oakland on wednesday,flight_time,0.5205
+city," what are the major cities in new york state
+major city",city,0.8228
+city, what are the major cities of ohio and illinois,city,0.7079
+city, list la the major cities in california that begin with s,city,0.6482
+city, where is the city of dallas located on a map,city,0.5603
+city, show me all cities in michigan that have airports,city,0.5283
+city, what is the downtown area of pittsburgh like,city,0.5259
+city, show me the cities served by america west airlines in california,city,0.5102
+city, where is new york 's airport located in the city of los angeles,city,0.5081
+city, show me cities served by american airlines in the state of ohio,city,0.4898
+city, show me cities with airports in missouri and kansas,city,0.4868
+airfare, what is the lowest round trip fare from mco to atl,airfare,0.5266
+airfare, how much is the lowest round trip fare between dallas and atlanta,airfare,0.4837
+airfare, what 's the cheapest round trip fare between boston and denver,airfare,0.4477
+airfare, what are the cheapest one way fares from bwi to dallas,airfare,0.354
+airfare, what is the lowest round trip fare from atlanta to new york,airfare,0.3462
+airfare, how much is a round trip ticket from boston to dallas,airfare,0.335
+airfare, what is the lowest round trip fare from pittsburgh to dallas,airfare,0.329
+airfare, show me round trip fares from boston to philadelphia,airfare,0.32
+airfare, show me the round trip fares from atlanta to dallas,airfare,0.3172
+airfare, what 's the least expensive round trip fare from boston to new york,airfare,0.3032
+capacity, how many people does the 732 fit on it,capacity,0.5778
+capacity, what is the seating capacity for a 757 and how many people can be seated,capacity,0.5593
+capacity, how many people fit in a 757 and an l1011,capacity,0.4544
+capacity, how many people will a 757 hold going coast to cagary,capacity,0.4399
+capacity, how many people can fly in a 72s,capacity,0.3925
+capacity, how many people can the aircraft md80 hold capacity,capacity,0.3732
+capacity, how many people can a 757 hold on the international flights,capacity,0.356
+capacity," how many passengers can a 73s hold
+The M80 series has seating for eighty-four coach class customers and twelve first-class ones .",capacity,0.3434
+capacity, how many people can fly on a 737 m80,capacity,0.3382
+capacity, how many passengers can fly in a dc10 72,capacity,0.3299
+abbreviation, what is d9s32b2o mean,abbreviation,0.8021
+abbreviation, what does the abbreviation ewr mean in airports codes,abbreviation,0.693
+abbreviation, what does y mean in airline schedules and prices please,abbreviation,0.6624
+abbreviation, what does ap mean in airline codes please tell me,abbreviation,0.6301
+abbreviation, what is fare code q and how much does it cost,abbreviation,0.6012
+abbreviation, what does as mean in air fares i dont understand,abbreviation,0.4784
+abbreviation, what does w mean in airline codes for airlines that don't have code shares,abbreviation,0.4694
+abbreviation, what is fare code h and m please show me the full description,abbreviation,0.4309
+abbreviation, what is ap 48 a p i s e,abbreviation,0.4266
+abbreviation, what does 75 y mean on the airlines website,abbreviation,0.4234
+quantity, how many flights does continental have with business class seats,quantity,0.3959
+quantity," how many seats does a 733 have
+there are three classes on the aircraft with eighty two coach class sixty six first and twenty four business",quantity,0.2787
+flight_no, which flight numbers are on the plane 73s,flight_no,0.5393
+flight_no, which flight numbers are on a 72s aircraft,flight_no,0.3772

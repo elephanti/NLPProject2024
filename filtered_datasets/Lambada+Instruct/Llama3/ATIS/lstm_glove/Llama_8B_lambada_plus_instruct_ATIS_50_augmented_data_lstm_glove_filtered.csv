@@ -1,0 +1,79 @@
+label,text,predicted_label,probability
+flight,what is united airlines' earliest morning departing nonstop round trip from san francisco to denver in july 2022,flight,0.7848
+flight,what is united airlines 'ua 2812 departing pittsburgh in june,flight,0.7092
+flight,What is American Airlines Flight AA 191 that leaves from Pittsburgh going to Los Angeles in June?,flight,0.6979
+flight,list all international evening arrivals in dallas texas tomorrow night before 10 pm please,flight,0.6876
+flight,what is united airlines 'ea 1833 from washington to denver leaving after four pm today evening,flight,0.6537
+flight,show me all us american airlines nonstop evening departures from philadelphia to san francisco for june nineteenth through twenty second please,flight,0.6514
+flight,What is American Airlines' earliest morning nonstop departure from Dallas to San Francisco?,flight,0.6384
+flight,what is united airlines 'ea 235 from milwaukee to denver arriving in phoenix before five pm today,flight,0.6272
+flight,what is united airlines' earliest morning departure from denver to san francisco for tuesday february 15th,flight,0.6258
+flight,What is delta airlines' schedule for all nonstop evening round trip flights from detroit to philadelphia in january of next year?,flight,0.6072
+ground_service,what kind of train service is there in philadelphia to get from 30th street station into downtown phila,ground_service,0.6199
+ground_service,What type of train service is there from Union Station in Toronto to downtown St Catharines?,ground_service,0.6054
+ground_service,what kind of public transport is there at denver airport to get into downtown,ground_service,0.5909
+ground_service,what kind of limousine services does toronto airport have to get into downtown,ground_service,0.5649
+ground_service,what kinds of trains can i take from pittsburgh airport to downtown with luggage,ground_service,0.4897
+ground_service,what kind of train service is there from boston logan airport to downtown,ground_service,0.4799
+ground_service,what type of public transport is there at atlanta airport for getting into downtown atlANTA to stay overnight before my flight back home tomorrow morning from baltimore,ground_service,0.4788
+ground_service,i need to know what kind of trains there is from philadelphia airport into downtown phila please,ground_service,0.4544
+ground_service,what kind of public transport is there from pittsburgh airport to downtownerea please tell me all your methods including rental cars taxis buses etc,ground_service,0.4509
+ground_service,what type of public transport is there from dallas love field airport to downtown in fort worth also going through dfw if necessary please show routes with stops near hotels 20th flloor renaissance hotel at legacy tower,ground_service,0.428
+abbreviation,what is apf in fare code descriptions please explain its significance,abbreviation,0.7668
+abbreviation,what does us mean in airline tickets please explain your fare code y,abbreviation,0.7556
+abbreviation,what is y with aps code h2o1w4a39e3h5b74p9q7d8i12r6t0g28l36j11k13n35v37u33m38y44z45f41c54r20 please explain it further,abbreviation,0.7538
+abbreviation,what does y fare class mean in my airline ticket information display,abbreviation,0.6634
+abbreviation,what does fa mean in airfares please explain this airline fare code for me,abbreviation,0.6081
+abbreviation,what is aps mean in my fare code yxap9d4a7e1g6r2y5n8q0h3m,abbreviation,0.5694
+abbreviation,what is ap fare code f8a 1,abbreviation,0.5643
+abbreviation,what does fare code d mean in united airlines pricing system,abbreviation,0.5016
+abbreviation,what does y mean as fare code for american airlines,abbreviation,0.4932
+abbreviation,what does fare code f mean for united airlines internationally,abbreviation,0.4841
+aircraft,What type plane is called express from united to pittsburgh,aircraft,0.488
+aircraft,What type plane is us air flight 3287 from dallas to denver using,aircraft,0.479
+aircraft,what kind of airplane is flight aa 381 from dallas to philadelphia,aircraft,0.4463
+aircraft,What type of plane does US Air use from Pittsburgh to Denver nonstop,aircraft,0.4457
+aircraft,what type of plane is us air flying from pittsburgh to san francisco,aircraft,0.4365
+aircraft,what type plane is us air from pittsburgh to philadelphia,aircraft,0.4283
+aircraft,what type of plane is us air flying from pittsburgh to san francisco with connection in philadelphia,aircraft,0.4176
+aircraft,what type plane is flight ua 270 from boston to dallas,aircraft,0.4132
+aircraft,what type of plane is us air flying from boston to denver today,aircraft,0.4105
+aircraft,what type of plane does continental fly between denver and san francisco in august,aircraft,0.4079
+flight_time,what is the departure time from boston to dallas please,flight_time,0.737
+flight_time,what is business class departure time from dallas to boston please,flight_time,0.6055
+flight_time,what is the earliest departure time from boston to dallas today,flight_time,0.6053
+flight_time,what is my earliest option for travel from pittsburgh to denver,flight_time,0.5922
+flight_time,what is my earliest morning departure time from san francisco to boston tomorrow afternoon please,flight_time,0.5897
+flight_time,what is business class departure time from atlanta to philadelphia tomorrow morning please,flight_time,0.5714
+flight_time,what time does twa leave denver for atlanta tonight,flight_time,0.559
+flight_time,what is my earliest departure time from dallas to san francisco tomorrow morning,flight_time,0.5401
+flight_time,what time does continental leave denver going to boston tomorrow morning please give me all your different departure options from 6 am until noon that day,flight_time,0.5089
+flight_time,what time does united leave from philadelphia to atlanta tonight,flight_time,0.4894
+airline,what is philippine airlines 's code to dallas,airline,0.7836
+airline,what is united Airlines 's fare code for coach economy class,airline,0.7791
+airline,what is delta 's fare code h2j3,airline,0.6649
+airline,which us air carrier connects boston to newark in addition to continental airlines and united Airlines,airline,0.6227
+airline,which us airways has flights between boston to denver,airline,0.519
+airline,what is northwest Airlines 's abbreviation for code share flights with continental in us airports between denver to dallas fort worth international airport,airline,0.4919
+airline,what is delta Airlines code to denver from boston through st paul minneapolis international airports,airline,0.4764
+airline,what is delta 's code for flights from boston to atlanta,airline,0.4655
+airline,what is american airlines 's flight code from washington to dallas please,airline,0.4363
+airline,what is delta 's flight number from pittsburgh to minneapolis,airline,0.415
+airport,list all major california airports with code abbreviation mfe please,airport,0.5883
+airport,what is san francisco's nearest international airport to downtown,airport,0.5855
+airport,what is pittsburgh 's nearest international airport to downtown please,airport,0.5749
+airport,list all airfields at boston massachusetts please,airport,0.5709
+airport,what is denver's closest international airport to downtown,airport,0.5088
+airport,list all los angeles area airports with ground transportation options to downtown la,airport,0.508
+airport,what is la guardia new york airport known as internationally,airport,0.5008
+airport,list all major airfields near boston massachusetts please,airport,0.482
+airport,list all international airfields that connect to new york city,airport,0.444
+airport,list all airfields near los angeles california including phoenix arizona please,airport,0.4189
+airfare,what is my first class ticket price from boston to denver going to be please give me all options with fares less than 800 dollars per person inclusive of taxes thanks in advance for your help,airfare,0.35
+airfare,what is my total price for coach class tickets from boston to detroit please,airfare,0.3106
+airfare,what is the lowest priced business class airline ticket from boston to washington dc for tomorrow morning,airfare,0.2563
+airfare,what is my total ticket price for two coach class fares from boston to atlanta leaving in january 1999 at noon,airfare,0.2012
+city,what is la guardia airport near in addition to new york city downtown east side areas that have bus lines leading there from those points,city,0.5899
+city,which american airline has service to all these five major california cities including san francisco los angeles orange county oakland and sacramento,city,0.3489
+city,what is philippine airline's service area between san francisco california usaa and minneapolis mn usa,city,0.2654
+quantity,how many first class fares between pittsburgh to boston leave today,quantity,0.288

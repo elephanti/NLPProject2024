@@ -1,0 +1,153 @@
+label,text,predicted_label,probability
+airline, which airline flies from atlanta to san francisco,airline,0.7308
+airline, which airline flies from san francisco to atlanta,airline,0.7308
+airline, which airline flies from san francisco to denver,airline,0.7128
+airline, which airline flies from denver to san francisco,airline,0.7128
+airline, which airline flies from pittsburgh to san francisco,airline,0.7005
+airline, which airline flies from boston to milwaukee and minneapolis,airline,0.6999
+airline, which airline flies from san francisco to los angeles,airline,0.6995
+airline, what airline flies from san francisco to boston,airline,0.6943
+airline, what airline flies from los angeles to oakland,airline,0.6856
+airline, which airline flies from denver to san diego,airline,0.678
+quantity, how many different classes are there for continental first class,quantity,0.695
+quantity, how many different class types are there from toronto to houston,quantity,0.6526
+quantity, how many different fares are there from dallas to boston,quantity,0.6391
+quantity, how many first class fares are there between boston and los angeles,quantity,0.6368
+quantity, how many canadian international first class service classes are there,quantity,0.6062
+quantity, how many different fares are there from new york to dallas,quantity,0.5991
+quantity, how many classes are there in first class service from washington to boston,quantity,0.5612
+quantity, how many us airways flight classes are there with fares less than 2000,quantity,0.5495
+quantity, how many daily departures are there from san francisco,quantity,0.5476
+quantity, how many different flight classes does american have from dallas to pittsburgh,quantity,0.5468
+aircraft, what type aircraft is flight 121 from pittsburgh to baltimore,aircraft,0.8357
+aircraft, what kind type aircraft flies from denver to dallas,aircraft,0.8083
+aircraft, what type aircraft is flight af 1208 from boston to pittsburgh,aircraft,0.797
+aircraft, what kind type aircraft is flying from dallas to milwaukee leaving before 930 am,aircraft,0.7923
+aircraft, what type aircraft is american 762 flying from washington to pittsburgh,aircraft,0.7684
+aircraft, what type aircraft is flight ua 1089 from washington to baltimore,aircraft,0.7623
+aircraft, what type aircraft is flight aa 111 from boston to san diego,aircraft,0.7585
+aircraft, what type plane is flying from atlanta to philadelphia,aircraft,0.7485
+aircraft, what type plane is american flight 1102 from pittsburgh to atlanta,aircraft,0.7303
+aircraft, what type aircraft is a us air flight 1101 from dallas fort worth to atlanta,aircraft,0.7277
+distance, how far is it from san francisco airport to downtown,distance,0.7803
+distance, how far is san francisco international airport from downtown,distance,0.7634
+distance, how far from san francisco international airport is downtown,distance,0.7634
+distance, how far is atlanta international airport from downtown san francisco,distance,0.741
+distance, how far is it from san francisco international airport to downtown,distance,0.7346
+distance, how far is pittsburgh airport from downtown in miles,distance,0.7244
+distance, how far is toronto international airport from downtown in miles,distance,0.7001
+distance, how far is oakland airport from san francisco,distance,0.693
+distance, how far is it from los angeles international airport to downtown la,distance,0.6872
+distance, how far is it from toronto airport to downtown,distance,0.6507
+abbreviation, what is e tiket 73m k class,abbreviation,0.7892
+abbreviation, what does fare code d mean for us airways,abbreviation,0.6741
+abbreviation," what is eap
+refund policies and procedures [SEP] i want a refund policy",abbreviation,0.6716
+abbreviation, what is us fare code f4n rdu dca,abbreviation,0.6519
+abbreviation, what does fare code h mean for united airlines international,abbreviation,0.6105
+abbreviation, what does fare code k mean on canadian airlines international,abbreviation,0.5827
+abbreviation, what is us fare code hq k2 20,abbreviation,0.5762
+abbreviation, what is ewr code mean for airline ticket from msp,abbreviation,0.5559
+abbreviation, what does fare code x class r mean on american airlines,abbreviation,0.5289
+abbreviation, what does us mean on priceline 's website,abbreviation,0.493
+airport, what airport is closest to indianapolis indiana 's downtown,airport,0.6374
+airport, what is the name of la guardia airport near new york,airport,0.6359
+airport, list the new york city area airport closest to manhattan,airport,0.6317
+airport, what is the name of los angeles international airport,airport,0.627
+airport, what is the airport name at pittsburgh pennsylvania,airport,0.6265
+airport, what is the name of la guardia airport new york,airport,0.6263
+airport, what is the name of san francisco 's airport,airport,0.6172
+airport, what is the airport near pittsburgh pennsylvania,airport,0.6144
+airport, what are the major san francisco airport 's,airport,0.6079
+airport, what airport is closest to boston's south station,airport,0.6056
+capacity, what is m80's passenger and cargo carrying capacities,capacity,0.7565
+capacity, what is 73n7s2's total passenger and cargo carrying capability,capacity,0.7173
+capacity, what is the 737's total passenger and baggage compartment volume,capacity,0.7169
+capacity, what is the total passenger seat and cargo weight carrying capability for a m80,capacity,0.7149
+capacity, what is 737 m80's seat capacities and configurations,capacity,0.7104
+capacity, what is 722s seat configuration and its capacities,capacity,0.6912
+capacity, what is the total passenger and cargo carrying capability for a dc10 30,capacity,0.6658
+capacity, how many people fit in a 757-200,capacity,0.6586
+capacity, how many seats are there in a 757 airplane,capacity,0.6555
+capacity, what is the total seat capacity for a 737,capacity,0.6511
+flight_time, can you tell me what time my flight will be leaving from boston to san francisco,flight_time,0.576
+flight_time, what time does flight ua 1216 leave denver,flight_time,0.5029
+flight_time, what time does flight 106 leave san francisco,flight_time,0.475
+flight_time, what time does flight ua 1572 leave bwi,flight_time,0.4404
+flight_time, what time does flight 103 leave for pittsburgh,flight_time,0.424
+flight_time, i would like to find out what time my flight is from denver,flight_time,0.4137
+flight_time, what time does flight 105 leave from pittsburgh,flight_time,0.4043
+flight_time, what time does flight 112 leave from philadelphia,flight_time,0.3987
+flight_time, what time does flight 62 leave pittsburgh,flight_time,0.3923
+flight_time, what time does flight 158 leave from miami,flight_time,0.3815
+airfare, show me fares from denver to philadelphia for wednesday,airfare,0.5914
+airfare, show me economy class fares from new york to orlando,airfare,0.56
+airfare, what is a cheap ticket from baltimore to philadelphia,airfare,0.5596
+airfare, what is a typical price for first class airfares from san francisco to dallas,airfare,0.559
+airfare, what is a first class ticket from chicago to atlanta,airfare,0.5526
+airfare, what is a first class ticket from atlanta to dallas,airfare,0.5382
+airfare, what is a typical first class ticket from philadelphia to atlanta,airfare,0.5336
+airfare, how much is a first class ticket from boston to new york,airfare,0.5319
+airfare, how much is a business class ticket from dallas to seattle,airfare,0.4935
+airfare, how much does a first class ticket from baltimore to san diego cost,airfare,0.4919
+ground_fare, how much does a rent car at minneapolis airport,ground_fare,0.759
+ground_fare, how much does it cost to rent a car in minneapolis,ground_fare,0.6704
+ground_fare, how much does it rent a car in denver,ground_fare,0.6562
+ground_fare, how much does it rent a car in phoenix goodyear airport,ground_fare,0.647
+ground_fare, how much does it cost to rent a car in new york,ground_fare,0.6355
+ground_fare, how much does it cost to rent a car in boston,ground_fare,0.6328
+ground_fare, how much does it rent a car in new york,ground_fare,0.6238
+ground_fare, how much does it cost to rent a car in baltimore,ground_fare,0.6208
+ground_fare, how much does it rent a car at pittsburgh airport,ground_fare,0.6116
+ground_fare, how much is a standard car at newark airport,ground_fare,0.6043
+meal, what meals are available from atlanta to baltimore,meal,0.4597
+meal, what meals are served from dallas to atlanta,meal,0.4047
+meal, what meals are available for flight 121 from atlanta to baltimore,meal,0.3788
+meal, what meals are served from minneapolis to philadelphia,meal,0.3727
+meal, what kind of meals are served aboard american flight 1462,meal,0.366
+meal, what meals are served from boston to philadelphia,meal,0.3511
+meal, what meals are available today from atlanta to boston,meal,0.3476
+meal, what meals are served between atlanta and cleveland,meal,0.3448
+meal, what meals are available for my flight from dallas to boston,meal,0.3376
+meal, what meals are available for the morning flight from baltimore to dallas,meal,0.2954
+ground_service, show me the ground transport in boston near logan airport,ground_service,0.6355
+ground_service, what kind of train service is there at dallas fort worth airport,ground_service,0.5491
+ground_service, what is the nearest train station to atlanta airport,ground_service,0.5176
+ground_service, what kind of public transport is there from salt lake airport to downtown,ground_service,0.4963
+ground_service, show me the airport bus service in toronto on,ground_service,0.4963
+ground_service, show me the airport services at new york international service,ground_service,0.4942
+ground_service, what kind of ground transport is there from san francisco airport to downtown,ground_service,0.4714
+ground_service, show me the bus service in boston at logan airport,ground_service,0.4497
+ground_service, what kind of public transport is there from denver airport to downtown,ground_service,0.4127
+ground_service, what kinds of buses or cars are there from salt lake airport to downtown,ground_service,0.3995
+city, what is la in time zones and city code service,city,0.6434
+city, what are some major us east coast city served only by delta,city,0.5965
+city, what city is mco in i live around pittsburgh,city,0.5915
+city," what city is mco in florida called
+ticketing_service_code",city,0.5628
+city, what are some major canadian city names that delta serves,city,0.5453
+city, where is dallas love field located in a map,city,0.4544
+city, which city is served only by continental and delta airlines,city,0.4024
+city, what are some major us city that united serves directly from dallas,city,0.3932
+city," what city is airport code mco in
+airfare_and_fares asking_about_cities",city,0.3908
+city, what city is kalamazoo international airport in,city,0.3718
+flight, i would like to fly from san francisco international airport in the morning of july 4,flight,0.4532
+flight, please show me a flight from toronto to san francisco,flight,0.4009
+flight, i would like to fly from seattle washington into atlanta georgia,flight,0.3953
+flight, show me a flight from washington to seattle that arrives before 6 pm,flight,0.3913
+flight, show me the return flight from san francisco to seattle,flight,0.3859
+flight, i need a flight from atlanta to san francisco,flight,0.3835
+flight, show me the flight schedule from san francisco to dallas,flight,0.3834
+flight, show me the flight from san francisco to atlanta,flight,0.3479
+flight, show me the first flight from san francisco to dallas,flight,0.3456
+flight, show me the return flight from baltimore to atlanta,flight,0.3451
+restriction, what is the restriction on fare 2a for us,restriction,0.2633
+restriction, what are the restriction on fare xq jf 123 y,restriction,0.2457
+restriction, what are the restriction codes on aa 1012,restriction,0.2325
+restriction, what are the limitations on fare code p6a,restriction,0.2225
+restriction, what are the rules for carry-on baggage on american airlines,restriction,0.1666
+restriction, what are the restriction of a fare called 4c,restriction,0.1402
+restriction, what are the fare restriction codes for us air west,restriction,0.1396
+restriction, what are the restriction codes for us air on wednesday,restriction,0.1191
+flight_no, what is american airlines ' s first class flight from atlanta to new york,flight_no,0.2631

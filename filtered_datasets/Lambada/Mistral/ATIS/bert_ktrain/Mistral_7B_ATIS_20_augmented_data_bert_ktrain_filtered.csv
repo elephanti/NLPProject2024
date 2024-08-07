@@ -1,0 +1,163 @@
+label,text,predicted_label,probability
+airfare, what is the lowest round trip fare from dallas to pittsburgh,airfare,0.8255
+airfare, what is the lowest round trip fare from boston to orlando,airfare,0.8238
+airfare, what is the cheapest one way fare from washington to pittsburgh,airfare,0.8237
+airfare, what is the lowest round trip fare from denver to atlanta,airfare,0.8233
+airfare, what is the lowest one way fare from boston to pittsburgh on july 24,airfare,0.823
+airfare, what is the lowest round trip fare from pittsburgh to philadelphia,airfare,0.8222
+airfare, what 's the lowest round trip fare from atlanta to san francisco,airfare,0.8221
+airfare, what is the lowest round trip fare from denver to philadelphia,airfare,0.8221
+airfare, what 's the lowest round trip fare from san francisco to atlanta,airfare,0.8215
+airfare, what is the cheapest one way fare from atlanta to denver,airfare,0.8215
+ground_service, what ground transportation is available in denver airport to downtown,ground_service,0.8024
+ground_service, what ground transportation is available in denver during the weekend,ground_service,0.8023
+ground_service, what ground transportation is available in denver during the day,ground_service,0.802
+ground_service, what ground transportation is available at logan airport in boston,ground_service,0.8016
+ground_service, what ground transportation is available in atlanta airport,ground_service,0.801
+ground_service, what ground transportation is available in denver during the convention,ground_service,0.8007
+ground_service, what ground transportation is available at orlando international airport,ground_service,0.8007
+ground_service, what ground transportation is available in philadelphia 's airport,ground_service,0.8005
+ground_service, what ground transportation is available in orlando from the airport,ground_service,0.8003
+ground_service, what ground transportation is available in denver international airport,ground_service,0.8003
+distance, how far is it from denver international airport to downtown,distance,0.8418
+distance, what is the distance from orlando airport to disney,distance,0.8415
+distance, how far is it from the denver airport to downtown,distance,0.8415
+distance, how far is it from dallas airport to downtown,distance,0.8413
+distance, what is the distance from washington dc airport to downtown,distance,0.8411
+distance, how far is it from atlanta airport to downtown,distance,0.8411
+distance, how far is it from salt lake city airport to downtown,distance,0.8409
+distance, how far is it from denver airport to downtown,distance,0.8409
+distance, what is the distance from denver airport to downtown,distance,0.8406
+distance, what is the distance from denver international airport to downtown,distance,0.8406
+airport, list airports in california please with city and airport code,airport,0.8388
+airport, list airports in california with flights to denver,airport,0.8386
+airport, list airports in new york with flights to pittsburgh,airport,0.8385
+airport, list airports in the city of denver please,airport,0.8378
+airport, please list the airports in or near milwaukee,airport,0.8376
+airport, list la airports in los angeles serving delta,airport,0.8375
+airport, please list all airports in denver colo,airport,0.8347
+airport, please list the airports in new york city,airport,0.8343
+airport, tell me about all the airports in new york,airport,0.8343
+airport, are there airports in la or ontario california,airport,0.8339
+aircraft, i 'll need to know the types of aircraft used on us air flights from atlanta to san francisco before 6 o'clock tonight,aircraft,0.8884
+aircraft, what type of aircraft does united use on a flight from philadelphia to denver,aircraft,0.8883
+aircraft, i would like to know what type of aircraft is used on american flight 415 from philadelphia to denver,aircraft,0.8879
+aircraft, what type of aircraft are used on us air flights from denver to philadelphia,aircraft,0.8878
+aircraft, what kind of aircraft is used on united flight 620 from denver to boston,aircraft,0.8878
+aircraft, what type of aircraft is used by american airlines flight 81 from philadelphia to orlando,aircraft,0.8876
+aircraft, what kinds of aircraft fly from washington to denver before noon,aircraft,0.8874
+aircraft, describe the type of aircraft used on us air flights from washington to phoenix,aircraft,0.8874
+aircraft, please list the type of aircraft used on us air flights from atlanta to philadelphia,aircraft,0.8872
+aircraft, what type of aircraft is used for a flight from denver to kansas city,aircraft,0.8871
+capacity, what is the seating capacity of an aircraft 73,capacity,0.8939
+capacity, what is the seating capacity on an f-28,capacity,0.8935
+capacity, what 's the seating capacity of an f-28,capacity,0.8933
+capacity, what is the seating capacity on an aircraft 734,capacity,0.8924
+capacity, what is the seating capacity for aircraft 75s,capacity,0.8923
+capacity, what 's the seating capacity of a dc 9,capacity,0.8911
+capacity, what is the seating capacity of a 73s,capacity,0.891
+capacity, what is the seating capacity for an m80,capacity,0.891
+capacity, what is seating capacity for a dc9 aircraft,capacity,0.891
+capacity, what is the seating capacity of a 75s,capacity,0.8908
+meal, what meals are provided on us air flight 294 from dallas to philadelphia,meal,0.4762
+meal, what meals are available on us air flight 276 from pittsburgh to philadelphia,meal,0.4748
+meal, what meals are included in airfare round trip from dallas to denver,meal,0.4734
+meal, what meals are served on us flight 279,meal,0.4728
+meal, what meals are served on flight ua 280 from atlanta to baltimore,meal,0.4721
+meal, what meals are available on american airlines flight 374 from boston to denver,meal,0.4721
+meal, what meals are served on american flight 256 from washington to seattle,meal,0.4719
+meal, what meals are served on american flight 504 from kansas city to denver,meal,0.4719
+meal, what meals are served on american airlines flight 305 from atlanta to san francisco,meal,0.4716
+meal, what meals are served on flight us 542 from atlanta to baltimore,meal,0.4707
+flight_time, please list the flight times for monday morning flights from washington to dallas,flight_time,0.8108
+flight_time, please list the flight times for atlanta to denver,flight_time,0.8105
+flight_time, please list the flight times for flights from denver to seattle,flight_time,0.8102
+flight_time, what time does the latest flight leave from newark for atlanta,flight_time,0.8087
+flight_time, what time does flight us Air fare 731 from denver to pittsburgh leave,flight_time,0.8085
+flight_time, please list flight times for atlanta to san diego on june fifteenth,flight_time,0.808
+flight_time, please show me the flight times for washington to chicago,flight_time,0.8077
+flight_time, what time does the afternoon flight leave from washington for philadelphia,flight_time,0.8071
+flight_time, what time does flight nw 2509 leave atlanta,flight_time,0.8063
+flight_time, what time does the morning flight leave from washington for newark,flight_time,0.806
+quantity, how many flights go between dallas and denver on august seventh,quantity,0.8687
+quantity, how many flights are there on american airlines leaving from philadelphia for boston,quantity,0.8686
+quantity, how many flights go between denver and boston on july seventh,quantity,0.8686
+quantity, how many flights does american airlines have today from philadelphia to denver,quantity,0.8683
+quantity, how many flights come into and out of philadelphia on july 14th,quantity,0.8683
+quantity, how many flights go between denver and st. paul,quantity,0.8681
+quantity, how many flights does american airlines have today from dallas to charlotte,quantity,0.8679
+quantity, how many flights are there between denver and atlanta today,quantity,0.8677
+quantity, how many flights go between dallas fort worth and atlanta on may ninth,quantity,0.8676
+quantity, how many flights does united have between atlanta and san francisco,quantity,0.8674
+flight_no, flight numbers on us air from denver to boston,flight_no,0.6706
+flight_no, flight numbers on american airlines from phoenix to philadelphia,flight_no,0.6697
+flight_no, flight numbers from denver to san diego for november 17,flight_no,0.6691
+flight_no, flight numbers from denver to philadelphia on american airlines,flight_no,0.6682
+flight_no, flight numbers from denver to philadelphia on american,flight_no,0.6668
+flight_no, flight numbers on july 21st from denver to boston,flight_no,0.6662
+flight_no, flight numbers from atlanta to dallas love field,flight_no,0.6662
+flight_no, flight numbers from denver to baltimore please,flight_no,0.6661
+flight_no, flight numbers from boston to philadelphia on american airlines,flight_no,0.6659
+flight_no, flight numbers from denver to st. louis,flight_no,0.6657
+abbreviation," what does fare code bh mean
+ ## fares and flights",abbreviation,0.8327
+abbreviation, what does fare code bh mean in the first class cabin,abbreviation,0.8312
+abbreviation, tell me what does the abbrev ff mean,abbreviation,0.8294
+abbreviation, what does restriction ap 130 mean please,abbreviation,0.8283
+abbreviation, what is ewr the abbreviation for,abbreviation,0.8281
+abbreviation, what is fare code bs 6 one way,abbreviation,0.8272
+abbreviation, what does restriction ap 80 mean on a fare,abbreviation,0.8234
+abbreviation, what does fare code bh mean in the flight listings,abbreviation,0.8226
+abbreviation, what does fare code bh mean on a united flight,abbreviation,0.8226
+abbreviation, what does restriction ap 57 mean for flights,abbreviation,0.8225
+flight, i would like a flight from orlando to tulsa on june eighteenth,flight,0.7958
+flight, tell me about flights on april sixth from denver to kansas city,flight,0.7941
+flight, i would like a flight from pittsburgh to new york,flight,0.7936
+flight, tell me all about flights from philadelphia to atlanta on july ninth,flight,0.7932
+flight, i want a flight from boston to pittsburgh on may twenty second,flight,0.7928
+flight, tell me about flights from boston to atlanta,flight,0.7924
+flight, please list the flights from dallas to newark,flight,0.7914
+flight, please list the flights from philadelphia to dallas,flight,0.7908
+flight, i would like a flight from atlanta to san francisco on may eighth,flight,0.7896
+flight, please list flights from toronto to denver on july 15,flight,0.7881
+ground_fare, how much is the limousine service at newark airport,ground_fare,0.8272
+ground_fare, how much does a limousine cost in denver,ground_fare,0.8257
+ground_fare, how much is a limousine service in denver international,ground_fare,0.8257
+ground_fare, how much is a limousine service in denver international airport,ground_fare,0.8255
+ground_fare, how much is a limousine service in toronto international airport,ground_fare,0.8251
+ground_fare, what is the cost of limousine service in san francisco,ground_fare,0.8246
+ground_fare, what is the cost of limousine service in denver,ground_fare,0.8245
+ground_fare, what is the cost of limousine service in philadelphia,ground_fare,0.8244
+ground_fare, what is the cost of limousine service in dallas,ground_fare,0.8238
+ground_fare, how much is a limousine service between washington 's national airport and downtown,ground_fare,0.8232
+airline, what airline flies between boston and toronto,airline,0.8573
+airline, what airlines fly out of cleveland into denver,airline,0.8565
+airline, which airline flies between pittsburgh and dallas,airline,0.8557
+airline, what airline flies between atlanta and boston,airline,0.8556
+airline, is there only one airline that flies between philadelphia and denver,airline,0.855
+airline, what airline flies from atlanta to denver,airline,0.855
+airline, what airlines fly between atlanta and denver,airline,0.8549
+airline, what airlines fly from newark to denver,airline,0.8544
+airline, what airlines fly out of denver to phoenix,airline,0.8543
+airline, what airlines fly between boston and denver,airline,0.8543
+city, what cities are serviced by canadian airlines international,city,0.7664
+city, which cities are serviced by canadair international,city,0.7632
+city, what cities are served by nationair us 75,city,0.7629
+city, show me all the cities served by america west,city,0.7615
+city, what cities are served by nationair 18,city,0.7576
+city, what cities are serviced by american airlines with first class service,city,0.7555
+city, to what cities from boston does continental fly first class,city,0.7554
+city, which cities are serviced by national airlines flight 837,city,0.7537
+city, what cities are serviced by american airlines flight 459,city,0.7532
+city, what cities are served by us air flight 1259,city,0.7528
+restriction, what is restriction ap53 4p28,restriction,0.196
+restriction, what is restriction ap58f 's restrictions,restriction,0.1942
+restriction," what is restriction ap560
+ # 147829",restriction,0.1927
+restriction, what is restriction ap538a on flights between philadelphia and atlanta,restriction,0.1711
+restriction, what is restriction f35 on fares class 761,restriction,0.1621
+restriction, what is restriction ap 51 on american flight from philadelphia to san francisco,restriction,0.1545
+restriction, what is restriction ap 214 for flight from denver to san diego,restriction,0.1451
+restriction, what are the restrictions on flights from boston to denver,restriction,0.1201
+restriction, are there any restrictions on flight 493 from denver to seattle,restriction,0.1079
+restriction, are there any restrictions on flight 340 from denver to boston,restriction,0.1055

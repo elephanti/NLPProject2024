@@ -1,0 +1,152 @@
+label,text,predicted_label,probability
+aircraft, list type of aircraft flying from denver to baltimore,aircraft,0.5036
+aircraft, list type aircraft flying from denver to phoenix,aircraft,0.4783
+aircraft, what aircraft is flight ua 819,aircraft,0.4275
+aircraft, what type aircraft is flown from denver to atlanta,aircraft,0.4045
+aircraft, what type and size aircraft does eastern fly from philadelphia to tampa,aircraft,0.3811
+aircraft, what type of aircraft does eastern fly from denver to atlanta,aircraft,0.38
+aircraft, what type aircraft does eastern fly from atlanta to boston,aircraft,0.3724
+aircraft, what type aircraft is american 347 from philadelphia to dallas,aircraft,0.3717
+aircraft, what type plane is us air flight 516 from baltimore to denver,aircraft,0.3659
+aircraft, what type of plane is us air flight 798 from boston to denver,aircraft,0.3601
+airfare, show me fares from boston to dallas,airfare,0.5012
+airfare, show me fares from boston to denver,airfare,0.4967
+airfare, show me fares from denver to baltimore,airfare,0.487
+airfare, show me airfares from denver to boston,airfare,0.4166
+airfare, show me economy fares from los angeles to denver,airfare,0.4085
+airfare, show me prices for economy class fares from boston to seattle,airfare,0.3786
+airfare, show me first class fares from atlanta to boston,airfare,0.3672
+airfare, i need prices for airfares from boston to san francisco,airfare,0.3528
+airfare, list first class fares from denver to oakland,airfare,0.3245
+airfare, what is airfare from denver to boston,airfare,0.3154
+meal, what meals are served from denver to atlanta,meal,0.3659
+meal, what meals are served from milwaukee to atlanta,meal,0.3652
+meal, what meals are served from dallas to atlanta,meal,0.3554
+meal, are there meals served from baltimore to denver,meal,0.3458
+meal, what meals are included in my fare from dallas to washington,meal,0.3412
+meal, what meals are served from denver to baltimore,meal,0.3376
+meal, how do i get meals requesting information regarding meals,meal,0.3365
+meal, what meals are served between atlanta and denver,meal,0.3337
+meal, what meals are served during flight mia to lax,meal,0.3337
+meal, what meals are available flying from denver to pittsburgh,meal,0.3301
+flight_time, what is the departure time from newark to denver,flight_time,0.3399
+flight_time, what are departure and arrival times from minneapolis to san francisco monday,flight_time,0.3079
+flight_time, what are the departure and arrival time for miami to denver flight,flight_time,0.3031
+flight_time, what time does a flight from dallas to denver leave,flight_time,0.2757
+flight_time, what time does flight 683 leave washington,flight_time,0.2752
+flight_time, what is earliest departure time from boston to oakland,flight_time,0.2748
+flight_time, what is the departure time for flight 189 from denver to washington,flight_time,0.2695
+flight_time, what is departure time from dallas to atlanta,flight_time,0.268
+flight_time, what time does a flight from detroit to denver leave,flight_time,0.2587
+flight_time, what are the departure and arrival time for flight from baltimore to denver,flight_time,0.2566
+capacity, how many seats are in an f-27 airplane,capacity,0.5369
+capacity, how many seats are in a 732,capacity,0.5079
+capacity, how many seats are in a 750,capacity,0.497
+capacity, how many seats are in a 74s,capacity,0.4899
+capacity, how many seats in 732-100,capacity,0.4876
+capacity, how many people fit in a 74s,capacity,0.48
+capacity, how many seats are in a 73s,capacity,0.4793
+capacity, how many seats in a 729 airplane,capacity,0.4736
+capacity, how many people does a 732 seat,capacity,0.4708
+capacity, how many seats are in a 732 jet,capacity,0.4653
+ground_fare, how much does it cost to rent a car in atlanta,ground_fare,0.4812
+ground_fare, how much is a taxicab service in atlanta,ground_fare,0.4734
+ground_fare, how much is a car in atlanta with drivers,ground_fare,0.4655
+ground_fare, how much does it typically costs to rent a car in atlanta,ground_fare,0.4535
+ground_fare, how much does a rental car in dallas texas cost,ground_fare,0.4519
+ground_fare, how much does it cost to rent a car in washington,ground_fare,0.4264
+ground_fare, how much does it cost to rent a car at seattle airport,ground_fare,0.421
+ground_fare, how much does it cost to rent a car in seattle,ground_fare,0.4148
+ground_fare, how much does it cost to rent a car at denver international airport,ground_fare,0.4122
+ground_fare, how much is a town car service in seattle,ground_fare,0.4106
+distance, what is miles from atlanta airport to downtown,distance,0.4784
+distance, what is miles from denver international airport to downtown,distance,0.4674
+distance, how long is it from atlanta airport to downtown,distance,0.4559
+distance, how far is denver airport from downtown in miles,distance,0.4483
+distance, how long is it from miami international to downtown,distance,0.4416
+distance, how far is san francisco international airport from downtown,distance,0.4346
+distance, how long is it from oakland to los angeles,distance,0.4297
+distance, how long is it from oakland airport to downtown,distance,0.4279
+distance, how far is it from denver international airport to downtown,distance,0.4182
+distance, what is the closest airport to downtown san francisco,distance,0.4159
+abbreviation, what is dl code 1402 please,abbreviation,0.6039
+abbreviation, what is nw fare code please thank you,abbreviation,0.5968
+abbreviation, what is bco and lax please thank you,abbreviation,0.5735
+abbreviation, could you explain fare code xu? what is it,abbreviation,0.4475
+abbreviation, could you explain sfo and lga please thanks,abbreviation,0.4296
+abbreviation, what does ewr mean? i know it is an airport,abbreviation,0.4281
+abbreviation, i'd like an expanination please on ewr,abbreviation,0.4145
+abbreviation, what does atc mean on my fare quotes list,abbreviation,0.413
+abbreviation, what does atw mean on a flight please i am confused,abbreviation,0.3585
+abbreviation, what does pk mean in airline code lists,abbreviation,0.3439
+city, what city is lufthansa located in,city,0.4456
+city, what city is atlanta in list all major us and foreign,city,0.4013
+city, what time zone is atlanta in i'm looking for eastern,city,0.3679
+city, what are the city names that canada 300 services,city,0.3676
+city, what are all major us city that american and continental fly out from,city,0.3643
+city, i would like to know what city atlanta is in,city,0.3455
+city, what time zone is denver in ? list all major u . s . citys and there local times,city,0.3372
+city, what city is atlanta airport in ? please show all major us and canadian cities with their corresponding codes,city,0.3206
+city, what city is atlanta airport in i am trying to see if it has restaurants inside,city,0.3156
+city, i would like to know where miami is located,city,0.3089
+flight, show me all nonstop morning flights from philadelphia to las vegas,flight,0.4879
+flight, list the nonstop miami to dallas flight schedule,flight,0.4466
+flight, list morning westbound international nonstop airline from los angeles,flight,0.3903
+flight, show me the afternoon flight from san francisco to los angeles,flight,0.3893
+flight, what are the morning nonstop flights from denver to boston,flight,0.3804
+flight, show me the afternoon nonstop flight from philadelphia to washington,flight,0.3697
+flight, what are the early morning flights from dallas to miami,flight,0.3636
+flight, what are the nonstop morning flight from toronto to atlanta,flight,0.362
+flight, list the earliest nonstop flight from dallas to los angeles,flight,0.3505
+flight, show me all the morning nonstop pittsburgh to baltimore,flight,0.3455
+airport, list chicago area airports please include airport name,airport,0.5314
+airport, list all california los angeles area airports,airport,0.5029
+airport, list california la airport nevada atlanta,airport,0.4868
+airport, list atlanta airport please thank you dfw seattle la,airport,0.451
+airport, list los angeles california area airport please thank you,airport,0.4328
+airport, list las vegas airport please thank you 9853,airport,0.423
+airport, list all the atlanta airports please thank you,airport,0.4035
+airport, list arizona nevada california utah,airport,0.395
+airport, list california las vegas nevada arizona phoenix,airport,0.3731
+airport, list la california airport near los angeles please,airport,0.3589
+quantity, how many american airline flights depart from denver today,quantity,0.4822
+quantity, how many american airline first class flights depart from washington to dallas,quantity,0.3793
+quantity, how many continental departures from boston today,quantity,0.3339
+quantity, how many cities does united serve with first class flights,quantity,0.298
+quantity, how many united flight from newark to pittsburgh,quantity,0.247
+quantity, how many airline fares from washington to denver,quantity,0.2467
+quantity, how many american airline cities serve philadelphia before noon,quantity,0.22
+quantity, how many continental flights are there from denver to dallas,quantity,0.2195
+quantity, how many flights does continental have out of baltimore,quantity,0.2134
+quantity, how many first class international east coast departures does american air have monday,quantity,0.2113
+restriction, what is fare restriction rf 076,restriction,0.3071
+restriction, what is restriction ws 1598,restriction,0.3049
+restriction, what is the fare restriction qm247,restriction,0.2454
+restriction, what is the restriction on ticket 978,restriction,0.2386
+restriction, what is the fare restriction for 5283,restriction,0.2383
+restriction, what are the fare rules for 317,restriction,0.2339
+restriction, are there any restraints on the eco fare,restriction,0.2334
+restriction, are there any travel restrictions for airfare 2631,restriction,0.2309
+restriction, what is restriction ap65 on fare cn,restriction,0.2154
+restriction, what are the limitations on economy class fare 760,restriction,0.1975
+airline, list domestic us first class carriers please air carrier name,airline,0.3576
+airline, what airline s from toronto to detroit,airline,0.3489
+airline, what airlines fly from denver to pittsburgh,airline,0.3429
+airline, what is air canada flight nw 2603,airline,0.3258
+airline, please show me the airlines with first class flights from atlanta to denver,airline,0.309
+airline, what is eastwest airlines code in atlanta,airline,0.3056
+airline, please show me all the airline s with flights from boston to la,airline,0.2761
+airline, please show me the first airline which flies from boston to denver,airline,0.2712
+airline, what airlines have non stop flights from toronto to oakland,airline,0.2514
+airline, what airline is wn code for west nation,airline,0.2424
+ground_service, what are the rental car agencies in dallas airport,ground_service,0.2614
+ground_service, i need a taxi service from washington national airport to downtown,ground_service,0.2445
+ground_service, show me the taxi service in san francisco from airport to downtown,ground_service,0.243
+ground_service, what type of rental car services are in seattle,ground_service,0.2371
+ground_service, show me the bus service in atlanta from downtown to airport,ground_service,0.2243
+ground_service, show me the bus service from atlanta airport to downtown,ground_service,0.2236
+ground_service, what are the local car services in pittsburgh,ground_service,0.1975
+ground_service, i'd like to know if there is a shuttle bus service from the oakland airport into downtown,ground_service,0.1963
+ground_service, what are the shuttle services from dallas airport to downtown,ground_service,0.1955
+ground_service, show me the local taxi service in denver colorado,ground_service,0.1931
+flight_no, list me all nonstop east coast to west cost flight numbers,flight_no,0.1536

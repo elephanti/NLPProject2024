@@ -1,0 +1,133 @@
+label,text,predicted_label,probability
+aircraft,what type of plane is us air flying from pittsburgh to san francisco,aircraft,0.9441
+aircraft,What type plane is us air flight 3287 from dallas to denver using,aircraft,0.9245
+aircraft,what type plane is us air flying from pittsburgh to boston this morning,aircraft,0.9213
+aircraft,what type of plane is us air flying from boston to denver tonight,aircraft,0.9184
+aircraft,what type plane is us air from pittsburgh to philadelphia,aircraft,0.9153
+aircraft,what type of plane is us air flying from boston to denver today,aircraft,0.9133
+aircraft,what type of airplane flies from dallas to toronto that leaves before 8 am today,aircraft,0.891
+aircraft,what type of plane is us air flying from philadelphia to boston tomorrow morning,aircraft,0.8847
+aircraft,what type of plane is us air flying between denver and boston today,aircraft,0.882
+aircraft,what type of plane is flight ua 811 from denver to san francisco,aircraft,0.8705
+ground_service,what kind of public transport is there at denver airport to get into downtown,ground_service,0.8147
+ground_service,What kind of public transport is there from Denver airport to downtown?,ground_service,0.7488
+ground_service,What kind of public land transport is there from pittsburgh airport to downtown Pittsburgh?,ground_service,0.7059
+ground_service,What types of public transport services exist from Chicago O'Hare airport to downtown?,ground_service,0.6796
+ground_service,What forms of public transport connect Logan Airport with downtown Boston?,ground_service,0.6647
+ground_service,what kind of public buses go from pittsburgh airport to downtown please,ground_service,0.5989
+ground_service,what kind of limousine services does toronto airport have to get into downtown,ground_service,0.5762
+ground_service,What kind of public transport is there from LaGuardia Airport to New York City's downtown area?,ground_service,0.5755
+ground_service,What kind of trains connect dallas airport with downtown?,ground_service,0.5715
+ground_service,"I am flying into Washington Reagan Airport, what kind of public transport is there to get me downtown from here?",ground_service,0.5697
+airfare,what is my total price for coach class tickets from boston to detroit please,airfare,0.834
+airfare,What is delta 's lowest price for first class tickets from minneapolis to dallas ?,airfare,0.8138
+airfare,what is my first class ticket price from boston to denver going to be please give me all options with fares less than 800 dollars per person inclusive of taxes thanks in advance for your help,airfare,0.784
+airfare,what is my total ticket price for two coach class fares from boston to atlanta leaving in january 1999 at noon,airfare,0.7605
+airfare,What is my best option for getting to Pittsburgh from Chicago tomorrow at noon with fares under 200 dollars?,airfare,0.7571
+airfare,What is the cheapest economy class ticket from Detroit to Philadelphia for next Friday morning?,airfare,0.7419
+airfare,what is economy class ticket price from pittsburgh to philadelphia for july eighth tomorrow morning departing before noon please provide lowest possible prices available today,airfare,0.7189
+airfare,how much is the least expensive business class ticket from boston to philadelphia for friday evening departure next week,airfare,0.7151
+airfare,what is the least expensive economy class ticket between boston to pittsburgh,airfare,0.7127
+airfare,how much is united's least expensive business class ticket between denver to boston for july 25th return from august first,airfare,0.7102
+flight_time,what is my earliest departure time from dallas to san francisco tomorrow morning,flight_time,0.8569
+flight_time,what is my earliest morning departure time from san francisco to boston tomorrow afternoon please,flight_time,0.8202
+flight_time,what is the departure time from boston to dallas please,flight_time,0.8136
+flight_time,what is the earliest departure time from boston to dallas today,flight_time,0.7741
+flight_time,what is the departure time for american airlines from boston to san francisco tomorrow morning,flight_time,0.7552
+flight_time,what is my earliest departure from boston to san francisco tomorrow morning,flight_time,0.7345
+flight_time,what is my earliest return time from dallas to washington that leaves in less than 24 hours after noon,flight_time,0.7292
+flight_time,what time does united leave from philadelphia to atlanta tonight,flight_time,0.7001
+flight_time,what time does continental leave denver going to boston tomorrow morning please give me all your different departure options from 6 am until noon that day,flight_time,0.6938
+flight_time,what is the earliest morning departure time from pittsburgh to dallas that arrives before 8 am today,flight_time,0.6849
+ground_fare,what is your lowest rate for taxi service in dallas fort worth international airport,ground_fare,0.6207
+ground_fare,what is my total bill for renting this car including airport fees,ground_fare,0.597
+ground_fare,how much is it to rent a car at philadelphia international airport,ground_fare,0.5581
+ground_fare,what is my fare for parking at la guardia airport in new york city with hertz international car rentals,ground_fare,0.5331
+ground_fare,what is the daily rate for renting a car in boston,ground_fare,0.5301
+ground_fare,What is your lowest rate for renting a car at Pittsburgh airport?,ground_fare,0.526
+ground_fare,how much does it typically charge to rent a car from boston's logan airport into downtown,ground_fare,0.5106
+ground_fare,What is my rate for renting a car at La Guardia airport?,ground_fare,0.5022
+ground_fare,What is the fare for renting a car from Los Angeles International Airport?,ground_fare,0.491
+ground_fare,What is my total fare for this taxi service to downtown airport?,ground_fare,0.4677
+abbreviation,what is y with aps code h2o1w4a39e3h5b74p9q7d8i12r6t0g28l36j11k13n35v37u33m38y44z45f41c54r20 please explain it further,abbreviation,0.8398
+abbreviation,what is ap fare code f8a 1,abbreviation,0.7833
+abbreviation,what is aps mean in my fare code yxap9d4a7e1g6r2y5n8q0h3m,abbreviation,0.7461
+abbreviation,what is apf in fare code descriptions please explain its significance,abbreviation,0.7419
+abbreviation,what is aps in flight reservations systems for united airlines with regard to booking classes y q m h k n l f g d t w s r o,abbreviation,0.7265
+abbreviation,what does us mean in airline tickets please explain your fare code y,abbreviation,0.6602
+abbreviation,what does fare code e mean before you give me my ticket price show what each letter means in your prices please,abbreviation,0.6458
+abbreviation,what does fa mean in airfares please explain this airline fare code for me,abbreviation,0.6402
+abbreviation,what does fare code f mean with united airlines ðŸŒšðŸ“ˆï»¥â‚§ï¿½ (0),abbreviation,0.6376
+abbreviation,what does fare code f mean for united airlines internationally,abbreviation,0.6211
+airline,which us airways has flights between boston to denver,airline,0.8331
+airline,what is flight ua 111 from newark to denver with united airways,airline,0.8056
+airline,which us air carrier connects boston to newark in addition to continental airlines and united Airlines,airline,0.7713
+airline,which american airlines flies from denver to detroit with one stop in washington dc,airline,0.7388
+airline,what is southwest Airlines code with united airways into philadelphia from san francisco,airline,0.6895
+airline,what is philippine airlines 's code to dallas,airline,0.6662
+airline,which is cheapest us carrier between boston dallas to pittsburgh,airline,0.5561
+airline,what is delta Airlines code to denver from boston through st paul minneapolis international airports,airline,0.5496
+airline,which airliner flies from detroit to boston with layovers in pittsburgh,airline,0.547
+airline,which is my least favorite american airline to fly with by far between boston newark pittsburgh washington dc,airline,0.5429
+distance,what is the total miles from philadelphia international airport to downtown pittsburgh,distance,0.5794
+distance,what is the distance from toronto airport to downtown in kilometers please,distance,0.5792
+distance,what is the distance from pittsburgh airport to downtown,distance,0.5763
+distance,how far is it from phoenix airport to downtown phoenix,distance,0.5681
+distance,how far is downtown san francisco from sfo airport,distance,0.5671
+distance,how far is it from denver international airport to downtown Denver in miles please,distance,0.5591
+distance,how long is it from atlanta airport to downtown pittsburgh,distance,0.5494
+distance,how far is downtown philadelphia from pittsburgh airport,distance,0.5447
+distance,what is my distance from philadelphia airport to downtown,distance,0.4702
+distance,how far is downtown from oakland airport in california,distance,0.4212
+flight,list all international evening arrivals in dallas texas tomorrow night before 10 pm please,flight,0.6643
+flight,what is united airlines' earliest morning departing nonstop round trip from san francisco to denver in july 2022,flight,0.6441
+flight,show me all us airways first class morning flights from boston to atlanta please,flight,0.5706
+flight,what is united airlines 'ua 441 from boston to san francisco tomorrow morning at noon before one pm today,flight,0.5632
+flight,list all united airlines morning departures from san francisco to washington dulles airports tomorrow please,flight,0.526
+flight,list all american airlines nonstop morning departures from pittsburgh to philadelphia today please,flight,0.5167
+flight,show me all us american airlines nonstop evening departures from philadelphia to san francisco for june nineteenth through twenty second please,flight,0.4974
+flight,what is united airlines 'flight 1140 from philadelphia to denver tomorrow morning before lunchtime,flight,0.4855
+flight,what is united airlines' most direct route from boston to denver with departures before 830 am tomorrow morning,flight,0.4803
+flight,what is united airlines 'ea 235 from milwaukee to denver arriving in phoenix before five pm today,flight,0.4728
+quantity,how many united flights leave pittsburgh to washington dc today,quantity,0.583
+quantity,how many cities does united serve with first class service today,quantity,0.5365
+quantity,how many first class fares between pittsburgh to boston leave today,quantity,0.5238
+quantity,How many departures does American Airlines have from Dallas to Philadelphia today,quantity,0.4648
+quantity,how many connecting cities does twa service from boston to pittsburgh today,quantity,0.4291
+quantity,How many Delta Flights arrive in Atlanta from Seattle before 11 am today ?,quantity,0.4252
+quantity,How many American Airlines departures leave from Chicago in 1989 before one o'clock noon?,quantity,0.4061
+quantity,how many cities does united serve with first class service from san francisco please list them all together,quantity,0.4052
+quantity,How many American Airlines nonstop departures from Philadelphia to Dallas occur after 8 am?,quantity,0.3941
+quantity,How many different American Airlines nonstop afternoon departures from Chicago to Philadelphia arrive after 4 pm?,quantity,0.3685
+capacity,what is boeing 767s maximum passenger load,capacity,0.8491
+capacity,what is boeing 777s total passenger capacity,capacity,0.8366
+capacity,what is boeing 737 maximum passenger carrying capability,capacity,0.8048
+capacity,what is the total passenger load limit for each dc10 model 71,capacity,0.6432
+capacity,what is united airlines 737 200 maximum passenger load limit,capacity,0.6123
+capacity,what is boeing 767s total passenger seating.capacity,capacity,0.6085
+capacity,what is boeing 757 's passenger carrying capability in first class economy coach configuration,capacity,0.4799
+capacity,How many people can fit in each type of plane?,capacity,0.4531
+capacity,What is the total number passengers that Boeing 757 can carry?,capacity,0.4402
+capacity,How many passengers can fit in each type 72s plane?,capacity,0.4219
+airport,what is denver's closest international airport to downtown,airport,0.6294
+airport,what is pittsburgh 's nearest international airport to downtown please,airport,0.5724
+airport,what is phoenix airport called at denver COLORADO,airport,0.5093
+airport,what is la guardia new york airport known as internationally,airport,0.4244
+airport,list all airfields near los angeles california including phoenix arizona please,airport,0.3987
+airport,list all major airfields near boston massachusetts please,airport,0.3687
+airport,list all toronto area air ports near downtown please,airport,0.3425
+airport,what is newark arizona 's closest international flight terminal,airport,0.2922
+airport,list all airfields at boston massachusetts please,airport,0.2835
+airport,list all international airfields that connect to new york city,airport,0.2375
+city,what is philippine airlines 's hub in california that serves san francisco internationally,city,0.4767
+city,what us airways is located in what state that services denver,city,0.4204
+city,which airline services salt lake ciudad jutiapa international airport in mexico-city canada,city,0.3574
+city,what is philippine airline 's main hub in california,city,0.3368
+city,what us air has its hub at denver international airport in milwaukee wisconsin is that one thing called mitchell internacional,city,0.2458
+city,what is dallas fort worth international airport 's abbreviation code name please tell me if it serves toronto also list other major us eastern seaboard stations which fly to pittsburgh with fares under 250 dollars one way for thursday morning departure time,city,0.1714
+meal,what meals do you serve between boston new york,meal,0.282
+meal,what meals does continental offer between denver to pittsburgh,meal,0.2234
+meal,what meals does united offer for coach class between denver to philadelphia in first class aircraft m80 with ground service from 6 pm till midnight at phl international airport please give me both evening choices morning options lunch afternoon snacks dinner late night if available after ten o'clock thank you very much indeed provide information of all three classes business economy including special diet meals such as gluten free kosher vegetarian lactose intolerant food restrictions any kind is welcome thanks so kindly tell us your answer this time what i mean that,meal,0.2117
+meal,what meals does delta serve between denver to milwaukee,meal,0.2009
+meal,what meals does united offer between atlanta and dallas today please,meal,0.1781
+restriction,what is fare code ee1 for united airlines including all its rules and limitations,restriction,0.1658

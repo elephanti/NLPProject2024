@@ -1,0 +1,157 @@
+label,text,predicted_label,probability
+distance, how far is it from oakland international airport to downtown san francisco,distance,0.8427
+distance, how far is it from the san francisco airport to downtown,distance,0.8426
+distance, how far is it from san francisco international airport to downtown,distance,0.842
+distance, how far is it from atlanta international to downtown,distance,0.8418
+distance, how far is it from denver international airport to downtown,distance,0.8418
+distance, what is the distance from oakland airport to san francisco,distance,0.8414
+distance, how far is it from dallas fort worth international airport to downtown,distance,0.8414
+distance, how far is it from pittsburgh international airport to the downtown,distance,0.8414
+distance, how far is it from pittsburgh airport to downtown,distance,0.8408
+distance, what is the distance from denver international airport to downtown,distance,0.8406
+capacity, what is the seating capacity of a 757 plane,capacity,0.8945
+capacity, what is the seating capacity of a 767 flight,capacity,0.8938
+capacity, what is the seating capacity of m80 aircraft 737,capacity,0.8937
+capacity, what is the seating capacity of a 737 flight,capacity,0.8935
+capacity, what is the seating capacity of a boeing 727,capacity,0.8933
+capacity, what is the seating capacity on a dc 9 aircraft,capacity,0.8932
+capacity, what is the seating capacity on a 757 aircraft,capacity,0.8931
+capacity, what is the seating capacity of a 737-200,capacity,0.8928
+capacity, what is the seating capacity of a 737 200,capacity,0.8928
+capacity, what is the seating capacity of an f 28,capacity,0.8928
+ground_service, what ground transportation is available at denver airport to downtown,ground_service,0.8015
+ground_service, what ground transportation is available at the san francisco airport,ground_service,0.8013
+ground_service, what ground transportation is available in denver to get into town,ground_service,0.8011
+ground_service, what ground transportation is available in minneapolis st paul international airport,ground_service,0.8011
+ground_service, what ground transportation is available in atlanta during the day,ground_service,0.8008
+ground_service, what ground transportation is available at pittsburgh airport,ground_service,0.8007
+ground_service, what ground transportation is available in new york 's la guardia airport,ground_service,0.8006
+ground_service, what ground transportation is available at san francisco airport,ground_service,0.8005
+ground_service, what ground transportation is available at the new york airport,ground_service,0.8002
+ground_service, what ground transportation is available in pittsburgh from the airport,ground_service,0.8002
+airfare, what is the lowest one way fare from chicago to pittsburgh,airfare,0.8266
+airfare, what is the lowest round trip fare from boston to dallas,airfare,0.8252
+airfare, what is the cheapest round trip fare from pittsburgh to san francisco,airfare,0.8245
+airfare, what is the cheapest round trip fare from boston to washington d c,airfare,0.8243
+airfare, what is the lowest one way fare from oakland to new york on american airlines,airfare,0.824
+airfare, what is the lowest one way fare from san francisco to dallas on june fifteenth,airfare,0.8238
+airfare, what is the lowest round trip fare from pittsburgh to denver on august tenth,airfare,0.8237
+airfare, what is the lowest fare from pittsburgh to boston,airfare,0.8236
+airfare, what is the cheapest one way fare from pittsburgh to dallas,airfare,0.8233
+airfare, what is the lowest fare from philadelphia to pittsburgh on american,airfare,0.8233
+airport, list airports in texas with flights into pittsburgh,airport,0.8378
+airport, list airports in los angeles county california please show me,airport,0.8377
+airport, list airports in california and new york please show them,airport,0.8376
+airport, list airports in philadelphia pittsburgh or baltimore,airport,0.8369
+airport, list the airports in california that united flies into and out of,airport,0.8367
+airport, list airports in new york city 's area please,airport,0.8365
+airport, list airports in california where continental flies from seattle,airport,0.8361
+airport, list airports in san francisco california that are not located on the peninsula,airport,0.8356
+airport, list airports in california please kansas city mo airport,airport,0.8353
+airport, list airports in new york city and los angeles,airport,0.8348
+quantity, how many flights are there on american airlines from boston to washington d c,quantity,0.8688
+quantity, how many flights are there on american airlines from atlanta to philadelphia,quantity,0.8686
+quantity, how many flights does american airlines have today from dallas to pittsburgh,quantity,0.8681
+quantity, how many flights does united airlines have going from pittsburgh to philadelphia today,quantity,0.8679
+quantity, how many flights does continental serve from atlanta to boston,quantity,0.8677
+quantity, how many flights are there between boston and philadelphia,quantity,0.8677
+quantity, how many flights does united airlines have from pittsburgh to atlanta,quantity,0.8677
+quantity, how many flights does american airlines have from atlanta to los angeles,quantity,0.8677
+quantity, how many flights are there on us airlines with round trip fares less than five hundred dollars,quantity,0.8673
+quantity, how many flights are there from pittsburgh to san francisco on american airlines,quantity,0.8671
+aircraft, what type of aircraft will be used on a flight from dallas to philadelphia that departs at 615 p m,aircraft,0.8883
+aircraft, what type of aircraft is flying from san francisco to washington dc with a flight time between five and six hours,aircraft,0.8878
+aircraft, what type of aircraft does eastern express use on flights from atlanta to pittsburgh,aircraft,0.8876
+aircraft, what type of aircraft does united use for its shuttle flights from pittsburgh to washington,aircraft,0.887
+aircraft, what kind of aircraft does continental fly from boston to san francisco,aircraft,0.8867
+aircraft, what types of aircraft are available for flights between atlanta and philadelphia,aircraft,0.8865
+aircraft, please tell me the types of aircraft that go from san francisco to dallas fort worth,aircraft,0.8864
+aircraft, what type of aircraft is flying from philadelphia to newark at 530 pm,aircraft,0.8864
+aircraft, what kind of aircraft is used by united airlines on a flight from pittsburgh to san francisco,aircraft,0.8863
+aircraft, what type of aircraft does american airlines use with coach class service from new york to milwaukee,aircraft,0.886
+airline, what airlines fly to philadelphia from san francisco,airline,0.8567
+airline, what airline flies from san francisco to los angeles,airline,0.8566
+airline, what airlines fly to boston from new york on august twelfth,airline,0.8563
+airline, which airline flies between denver and milwaukee on tuesday,airline,0.856
+airline, what airlines fly out of washington d c to seattle,airline,0.8557
+airline, what airline is flying from denver to philadelphia on july twentieth,airline,0.8556
+airline, what airline flies from pittsburgh to atlanta,airline,0.8554
+airline, what airline flies from boston to philadelphia after noon,airline,0.8551
+airline, which airline flies from philadelphia to san francisco,airline,0.8549
+airline, what airline goes between pittsburgh and boston,airline,0.8549
+flight_no, flight numbers on american from dallas to philadelphia,flight_no,0.6686
+flight_no, flight numbers from pittsburgh to san francisco on american airlines,flight_no,0.6632
+flight_no, what flight numbers are available from seattle to dallas for wednesday december twenty first,flight_no,0.6631
+flight_no, flight numbers from boston to pittsburgh on american airline,flight_no,0.6624
+flight_no, show me all the flight numbers from denver to pittsburgh,flight_no,0.6617
+flight_no, flight numbers from boston to san francisco leaving after two,flight_no,0.6616
+flight_no, please list all flight numbers from pittsburgh to washington dc,flight_no,0.6612
+flight_no, flight numbers from denver to atlanta leaving after 4 p m,flight_no,0.6604
+flight_no, flight numbers from denver to boston monday morning,flight_no,0.6603
+flight_no, what flight numbers are available from washington to atlanta,flight_no,0.6601
+meal, what meals are available on the plane from chicago to seattle,meal,0.4763
+meal, what meals are served on us air flight 102 from pittsburgh to new york,meal,0.4753
+meal, what meals are served on american flight 100 from dallas to salt lake city,meal,0.4752
+meal, what meals are served on united flight 120 from denver to newark,meal,0.4745
+meal, what meals are available on flight 125 from atlanta to san francisco,meal,0.4744
+meal, what meals are served on us airways flight 193 from dallas to philadelphia,meal,0.4742
+meal, what meals are offered on flight 1088 from new york to pittsburgh,meal,0.4739
+meal, what meals are served on us air flight number 102 from pittsburgh to philadelphia,meal,0.4737
+meal, what meals do you serve on flight 1120 from washington to pittsburgh,meal,0.4726
+meal, what meals are served on american airlines flight number 1301 from san francisco to new york,meal,0.4719
+abbreviation, what does fare code s mean for airline ticket prices,abbreviation,0.829
+abbreviation, what does apfa stand for on a fare code,abbreviation,0.825
+abbreviation, what does r s stand for on the airlines reservation code rs 500,abbreviation,0.8233
+abbreviation, what is fare code h x l q class t,abbreviation,0.8197
+abbreviation, what does fare code w mean for us air flights,abbreviation,0.817
+abbreviation, what does wap stand for on a plane schedule,abbreviation,0.8158
+abbreviation," what is dta abbreviation mean
+what does the airline code yv stand for",abbreviation,0.8158
+abbreviation, what does fare code p mean on a ticket issued by united,abbreviation,0.8158
+abbreviation, what does fare code p mean in united airlines fares,abbreviation,0.8155
+abbreviation, what does fare code x mean on the us air website,abbreviation,0.8153
+flight_time, what time does flight 125 leave from san francisco,flight_time,0.8078
+flight_time, what are the flight times on united airlines from milwaukee to san francisco,flight_time,0.8062
+flight_time, please tell me about the flight times for us air today from philadelphia to indianapolis,flight_time,0.8046
+flight_time, what is the flight time from pittsburgh to seattle,flight_time,0.8026
+flight_time, what is the flight time between denver and boston,flight_time,0.8025
+flight_time, what is the flight time from denver to philadelphia on american airlines,flight_time,0.8021
+flight_time, what are the flight times of us airlines in new york on july twentieth,flight_time,0.8011
+flight_time, what is the flight time from boston to san diego,flight_time,0.8011
+flight_time, what is the flight time from boston to philadelphia on american airlines,flight_time,0.8002
+flight_time, what are the departure times of flights from pittsburgh to atlanta leaving before 1100 pm on july twentieth,flight_time,0.8002
+city, show me the cities served by midwest express international,city,0.7663
+city, what cities in canada are served by canadian airlines international,city,0.7606
+city, what are the cities served by american airlines with first class service,city,0.7604
+city, what cities does us air serve in the eastern time zone,city,0.7582
+city, show me cities serviced by continental airlines 's express,city,0.7573
+city, what are the cities served by us air flight 129,city,0.7561
+city, what are the cities served by delta airlines within north carolina,city,0.7531
+city, what cities does continental serve in california on july 7th,city,0.7525
+city, what cities in new york are served by continental airlines,city,0.7513
+city, list cities served by american airlines first class service between new york and san francisco,city,0.7479
+flight, show me flights from mco to pbi that leave before 2 pm,flight,0.7898
+flight, show me all flights from new york to pittsburgh,flight,0.7891
+flight, show me all flights from dallas to pittsburgh,flight,0.7884
+flight, please list the flights from pittsburgh to san francisco leaving before noon,flight,0.7882
+flight, list flights from denver to san francisco and the times,flight,0.7877
+flight, show me flights from dallas to salt lake city on may twenty fifth,flight,0.7877
+flight, show me flights from chicago to pittsburgh on july 25,flight,0.7864
+flight, all flights from pittsburgh to philadelphia after 630 pm,flight,0.786
+flight, what is the first flight from oakland to washington dc,flight,0.7854
+flight, flights from new york to san francisco on may 27,flight,0.7851
+ground_fare, how much is the limousine service in philadelphia,ground_fare,0.8264
+ground_fare, how much is the limousine service in new york,ground_fare,0.8263
+ground_fare, how much is a limousine service from new york city to laguardia,ground_fare,0.8197
+ground_fare, how much is the limousine service from oakland airport to downtown san francisco,ground_fare,0.8186
+ground_fare, what is the cost of a limousine in washington dc,ground_fare,0.8176
+ground_fare, how much does it cost to rent a car in pittsburgh,ground_fare,0.8156
+ground_fare, how much is a rental car in denver from the airport,ground_fare,0.8107
+ground_fare, how much does it cost for a one way car rental in baltimore,ground_fare,0.8029
+ground_fare, what is the cost of a limousine from logan international airport to downtown boston,ground_fare,0.8025
+ground_fare, what is the cost of a limousine from philadelphia international airport to downtown,ground_fare,0.8017
+restriction, what are the restrictions on us air flights from philadelphia to atlanta,restriction,0.1215
+restriction, what are the restrictions on us air flights from baltimore to philadelphia,restriction,0.1206
+restriction, what types of restrictions are there on flights from atlanta to baltimore,restriction,0.112
+restriction, what restrictions are there on us airlines flights from denver to boston,restriction,0.1043
+restriction, show me the restrictions on us air flights between denver and dallas fort worth,restriction,0.1041

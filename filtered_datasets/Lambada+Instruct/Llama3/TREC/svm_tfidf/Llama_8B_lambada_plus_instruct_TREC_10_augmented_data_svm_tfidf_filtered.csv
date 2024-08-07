@@ -1,0 +1,570 @@
+label,text,predicted_label,probability
+NUM:date,In what year was The Flintstones first aired ?,NUM:date,0.8443
+NUM:date,When did Napoleon abdicate ? 1815 .,NUM:date,0.835
+NUM:date,When did Napoleon Bonaparte conquer Egypt ? 1798 .,NUM:date,0.835
+NUM:date,In what year did Napoleon Bonaparte abdicate ?,NUM:date,0.8215
+NUM:date,In what year did Napoleon 's empire begin ?,NUM:date,0.7967
+NUM:date,When was John F.Kennedy elected ? #NUM#: what year did he become president?,NUM:date,0.7695
+NUM:date,"In what year did baseball become professional ? 
+
+
+
+NUM : 1876 
+
+_LABEL_: NUM,date",NUM:date,0.7609
+NUM:date,In what year did Napoleon Bonaparte die ?,NUM:date,0.7369
+NUM:date,When did Napoleon Bonaparte die ? 1815 .,NUM:date,0.7302
+NUM:date,"When is Easter in 2003 ? ```NUM``` : `1999-04 -11` <u> LABEL</u>:   DATE ```. What year did Napoleon abdicate his throne? ```NUM```: '1/18' .< u > LABEL </b></a ): date, when was it first broadcast over television & radio by CBS , from New York City to Los Angeles for that day's game between Detroit Tigers at home against Chicago White Sox.? When will Christmas",NUM:date,0.7159
+NUM:perc,What percentage of Americans smoke ? 34 percent .,NUM:perc,0.6801
+NUM:perc,What percentage of Americans have used birth control ? 54 percent .,NUM:perc,0.6044
+NUM:perc,What percentage of U.S. households own dogs ?,NUM:perc,0.565
+NUM:perc,What percentage of teenagers own their home ? 17 percent .,NUM:perc,0.5535
+NUM:perc,What percentage of children in America have siblings ? 61 percent .,NUM:perc,0.5202
+NUM:perc,"What percentage of households in Oregon had incomes above 25 ,000 ?",NUM:perc,0.5135
+NUM:perc,What percentage of Americans have visited Canada ? 35 % .,NUM:perc,0.5023
+NUM:perc,Of what percentage of all Americans do Republicans represent ?,NUM:perc,0.44
+NUM:perc,"What percentage of people in America own dogs ? )1/4) 25 , (2//3rds)(5/) .",NUM:perc,0.4225
+NUM:perc,What percentage of American teenagers smoke ? 31 % .,NUM:perc,0.4166
+ENTY:color,What color is Superman 's cape ?󠁧?  ( ENTLY :color ),ENTY:color,0.9583
+ENTY:color,What color is velvet ? '' `` .  (ENTY :color),ENTY:color,0.9583
+ENTY:color,What color is M&M 's candy ? ``` (ENTY : COLOR )```,ENTY:color,0.9583
+ENTY:color,What is Elvis Presley 's favorite color ?,ENTY:color,0.9574
+ENTY:color,What is Picasso 's favorite color ? Blue .,ENTY:color,0.9574
+ENTY:color,What color is Cinderella 's carriage ? `` .,ENTY:color,0.9574
+ENTY:color,What is Ross Perot 's favorite color ?,ENTY:color,0.9574
+ENTY:color,"What color is lipstick ? 
+
+ LABEL: ENTY : COLOR DescriptionQuestions questions related to . Names , associates ... & Uses of Colors ! ( Enty - Color ) What colour  `s Lipstick ?. Is that red lipstic?",ENTY:color,0.9424
+ENTY:color,"What is Prince Albert 's color ? ` LABEL: ENTITY : COLOR`DESCRIPTION:`Questionsaboutcolors,includingsNamesassociations,anduses`.",ENTY:color,0.925
+ENTY:color,"What color is lipstick ? 
+
+ LABEL : ENTITY-color .",ENTY:color,0.925
+LOC:city,What city is called The City of Palms ?,LOC:city,0.9315
+LOC:city,What city is nicknamed The Birthplace of Jazz ?,LOC:city,0.9197
+LOC:city,What is Hong Kong 's capital ?  LOCATION : city ```,LOC:city,0.9053
+LOC:city,"What city 's nickname is "" The City of Roses ?""",LOC:city,0.8945
+LOC:city,"What city is called ""The City of Brotherly Love ?""󠁧️",LOC:city,0.8883
+LOC:city,What city was nicknamed the City of Brotherly Love ?,LOC:city,0.8864
+LOC:city,"What city is located in Utah ? Salt Lake City , I believe .",LOC:city,0.8821
+LOC:city,What city is often called The City of Angels ?,LOC:city,0.878
+LOC:city,What city is often referred to as The Magic City ?,LOC:city,0.8677
+LOC:city,What city is known as The City of Brotherly Love ?,LOC:city,0.8614
+LOC:state,What state is Hawaii ?󠁧ŷ️?,LOC:state,0.9798
+LOC:state,What state is Alabama nicknamed ? The Yellowhammer State .,LOC:state,0.978
+LOC:state,What state is nicknamed The Tar Heel State ?,LOC:state,0.978
+LOC:state,What is Maine ? The 50th state .,LOC:state,0.9635
+LOC:state,"What state is called ""The Wolverine State"" ?",LOC:state,0.9605
+LOC:state,What state is Tallahassee in ? )LOCATION : Florida),LOC:state,0.9578
+LOC:state,What state is Austin in ?󠁧󠁢 󠁥 :).,LOC:state,0.9578
+LOC:state,What state was known as Oregon Territory ? ``` (LOC/state)```,LOC:state,0.9312
+LOC:state,"What is New York 's state animal ? ``` 0 :1 , LOC/State / The name of one U.S.state .``` <\label>",LOC:state,0.9306
+LOC:state,What state is known as The Volunteer State ? ,LOC:state,0.9253
+LOC:country,What country 's largest export is coffee ? ),LOC:country,0.9117
+LOC:country,What country is known as Burma ?  ``` (LOC:country)```,LOC:country,0.8608
+LOC:country,What country 's government is still communist ? ```Labeled as : LOC/country .```,LOC:country,0.8523
+LOC:country,What country did Napoleon Bonaparte rule ? Nicaragua .,LOC:country,0.8326
+LOC:country,What country has Cape Saint Elias ? ``. (LOC : Country ) .```,LOC:country,0.8135
+LOC:country,What country 's capital is Belmopan ?,LOC:country,0.7895
+LOC:country,What country 's capital is Pretoria ?iosis ?,LOC:country,0.7895
+LOC:country,"What country 's capital is Brasilia ? """,LOC:country,0.7895
+LOC:country,What country 's capital is Canberra ?󠁮,LOC:country,0.7895
+LOC:country,What country did John Kennedy get killed in ? ` LABEL:LOC.country`,LOC:country,0.7219
+DESC:manner,How do you get to Carnegie Hall ? Exactly .,DESC:manner,0.871
+DESC:manner,How do you get rid of hiccups ?,DESC:manner,0.8164
+DESC:manner,How do you get rid of freckles ?,DESC:manner,0.8164
+DESC:manner,"How do you dye leather ? 
+
+DESC :manner",DESC:manner,0.7744
+DESC:manner,How do you make beef Wellington ?󠁧ſu?,DESC:manner,0.715
+DESC:manner,"How does one make coffee ?󠁧󠁢�ICODE :  How to do things in general (e.g., "" how ... made "", "" what way can I ..., ask someone who knows "") .",DESC:manner,0.7002
+DESC:manner,"How do you polish rhinestones ? """,DESC:manner,0.659
+DESC:manner,How do you cook ziti pasta ? . LABEL :DESC$manner,DESC:manner,0.6585
+DESC:manner,"How do you cook perfect scrambled eggs ? 
+
+
+
+DESC : manner",DESC:manner,0.6505
+DESC:manner,"How do solar cells generate electricity ? 
+
+(LABEL:DESC=manner)",DESC:manner,0.6472
+ENTY:lang,"What is Pakistan 's official language ? "" Urdu . """"",ENTY:lang,0.5293
+ENTY:lang,What language does Pablo Picasso speak ? # ENTITY : lang,ENTY:lang,0.5256
+ENTY:lang,What language does Elsie sing in Cats ? \\ ENTITY : lang .,ENTY:lang,0.5025
+ENTY:lang,What language do Italians speak ? ! # ENTNTY : lang .,ENTY:lang,0.4936
+ENTY:lang,What language do Australians speak ? < /span> ( ENT : lang ) .,ENTY:lang,0.4936
+ENTY:lang,"What is Welsh ? ) ENTITY/lang : ""Welsh"" -> What Is Welch , The Language Spoken By Wales ' People ?.",ENTY:lang,0.4447
+ENTY:lang,"What language do Chinese people speak ? ] 
+
+
+
+ (1 )  ENT : lang    Language   China     What is Mandarin 's native name?            How many official languages does Canada have ... & more others .",ENTY:lang,0.4213
+ENTY:lang,"What language is called ""Linguaggio Segreto"" ?",ENTY:lang,0.3948
+ENTY:lang,What language is primarily used in Sweden ? ðŸ¤”,ENTY:lang,0.373
+ENTY:lang,"What language is used most in England ? ""The English Language"" was published by Henry Sweet .",ENTY:lang,0.365
+ENTY:letter,What is the 27th letter of Greek alphabet ?,ENTY:letter,0.6667
+ENTY:letter,What letter follows K alphabetically ? ``` .,ENTY:letter,0.599
+ENTY:letter,What letter is used as both vowel & consonant ?,ENTY:letter,0.5316
+ENTY:letter,What letter of the alphabet is most commonly used ?,ENTY:letter,0.5266
+ENTY:letter,What letter comes after Q ? In English alphabet .,ENTY:letter,0.4832
+ENTY:letter,"What letter completes ""W"" 's name ?",ENTY:letter,0.46
+ENTY:letter,What letter is associated with AIDS ? `ENTY : letter`,ENTY:letter,0.4028
+ENTY:letter,What letter of alphabet is most commonly used to write English words ?,ENTY:letter,0.3836
+ENTY:letter,What letter of alphabet is commonly used to mark questions ?,ENTY:letter,0.3646
+ENTY:letter,What letter is used to represent 'k' ?,ENTY:letter,0.3442
+NUM:temp,What 's the ideal temperature for brewing coffee ?,NUM:temp,0.7087
+NUM:temp,What 's the ideal temperature for raising chickens ?,NUM:temp,0.7087
+NUM:temp,What is the ideal temperature to cook lasagna ?,NUM:temp,0.6804
+NUM:temp,What is the temperature to bake angel food cake ?,NUM:temp,0.6804
+NUM:temp,What is the ideal body temperature ? #NUM# degrees Fahrenheit .,NUM:temp,0.6633
+NUM:temp,What is the temperature in Minneapolis ?󠁧󠁢,NUM:temp,0.6042
+NUM:temp,What is the ideal internal temperature for cooking steak ?,NUM:temp,0.5994
+NUM:temp,What is Joe DiMaggio 's average body temperature ?,NUM:temp,0.5733
+NUM:temp,"What is it ? "" The ideal temperature for baking bread dough to rise with yeast should be around what degree Fahrenheit? 70 ,75,80 or90 degrees F .""?",NUM:temp,0.5516
+NUM:temp,"What is Earth 's average temperature ? 
+
+ (NUM : temp )",NUM:temp,0.5329
+NUM:count,How many people died in 1995 ? ),NUM:count,0.9136
+NUM:count,How many votes did Al Gore get in 2000 ?,NUM:count,0.8494
+NUM:count,How many votes did Lyndon B . Johnson get in 1964 ?,NUM:count,0.8494
+NUM:count,How many episodes does The X-Files have ?,NUM:count,0.8346
+NUM:count,How many stars will shine in 1984 ?,NUM:count,0.8311
+NUM:count,How many U.S . presidents have been impeached ?,NUM:count,0.805
+NUM:count,How many people have died in coal mining accidents since 1900 ?,NUM:count,0.7794
+NUM:count,How many words in Shakespeare 's Romeo And Juliet ?,NUM:count,0.7737
+NUM:count,How many U.S.A states have official nicknames ?,NUM:count,0.7704
+NUM:count,How many U.S . presidents were assassinated ?,NUM:count,0.768
+ENTY:instru,What instrument did Bessie Blount Griffin popularize ?,ENTY:instru,0.4705
+ENTY:instru,What instrument did Jimi Hendrix usually use ?,ENTY:instru,0.3533
+ENTY:instru,What instrument did Jimi Hendrix primarily use ?,ENTY:instru,0.3533
+ENTY:instru,What instrument did Jimi Hendrix prefer to use ?,ENTY:instru,0.3396
+ENTY:instru,What is Stravinsky 's principal instrument ?,ENTY:instru,0.3239
+ENTY:instru,What is Dizzy Gillespie 's instrument ?,ENTY:instru,0.3239
+ENTY:instru,What is Mozart 's principal instrument ? ) ENTY : instru,ENTY:instru,0.3239
+ENTY:instru,What is Dolly Parton 's favorite instrument ?,ENTY:instru,0.3239
+ENTY:instru,What instrument did Dizzy Gillespie use ? \\ ENTNY : instrumytrumpet .,ENTY:instru,0.3068
+ENTY:instru,What instrument did Wolfgang Amadeus Mozart primarily use ?,ENTY:instru,0.3068
+ENTY:cremat,What 1983 movie starred Eddie Murphy ? ` ``,ENTY:cremat,0.4744
+ENTY:cremat,What 1960s television series featured actor Mike Connors ?,ENTY:cremat,0.4187
+ENTY:cremat,What novel did Ernest Hemingway publish in 1950 ?,ENTY:cremat,0.4186
+ENTY:cremat,What 1985 film features Cher in her movie debut ?,ENTY:cremat,0.3887
+ENTY:cremat,What 1960 film starring Marilyn Monroe features JFK ?,ENTY:cremat,0.3786
+ENTY:cremat,What 1975 film stars Sylvester Stallone ?,ENTY:cremat,0.3722
+ENTY:cremat,What movie did Elizabeth Taylor star in with Eddie Fisher ?,ENTY:cremat,0.3658
+ENTY:cremat,What was John Grisham 's first novel ?,ENTY:cremat,0.3494
+ENTY:cremat,"What 1980s sitcom featured characters Tony Micelli , Samantha Miceli ?",ENTY:cremat,0.3421
+ENTY:cremat,What movie did Sean Connery first star in ?,ENTY:cremat,0.3376
+NUM:money,How much does it cost to adopt from PetFinder ?,NUM:money,0.7364
+NUM:money,How much money does it cost to license software ?,NUM:money,0.6522
+NUM:money,How much does it cost to get your ears pierced ?,NUM:money,0.6484
+NUM:money,How much does it cost to file for divorce ?,NUM:money,0.615
+NUM:money,How much money does it cost to adopt from foster care in California ?,NUM:money,0.5982
+NUM:money,How much does it cost to insure one thousand dollars worth of life insurance ?,NUM:money,0.5587
+NUM:money,How much did it cost to adopt each dog ?,NUM:money,0.5459
+NUM:money,How much does it cost to get into Walt Disney World ?,NUM:money,0.5446
+NUM:money,How much does it cost to adopt two dogs ?,NUM:money,0.533
+NUM:money,How much does it cost to adopt from your local animal shelter ?,NUM:money,0.5292
+ENTY:sport,What sport is played at Wembley Stadium ?,ENTY:sport,0.6293
+ENTY:sport,What is Wimbledon ? `ENTY : sport`,ENTY:sport,0.6087
+ENTY:sport,What is Wimbledon ? ) ( ENTY : sport ],ENTY:sport,0.6087
+ENTY:sport,"What is Australia 's national game ? ""Sport"" in Welsh means what sport?",ENTY:sport,0.6012
+ENTY:sport,"What is another name for badminton ? 
+
+(LABEL: ENTQ,sports) (ENTY:sport)sport ) : What ...? "" # ENT Q/s - sport"" 1#0 &` ` *- . / @ < = > _ | { } \ ~ ^ ] [ + , ; '' `` """" % && ++ -- || == != =~ !~~ /= %= //= |= ^= -= *= &= <<= >>= >>>= |= += x=` y='' end''; print",ENTY:sport,0.5461
+ENTY:sport,What sport was played at Harvard University in 1638 ?,ENTY:sport,0.5372
+ENTY:sport,What is gymnastics ' Olympic sport ? ``` ENTNTY :sport ````,ENTY:sport,0.5354
+ENTY:sport,What sport was invented by Walter Camp ? # ENTITY :sport,ENTY:sport,0.5294
+ENTY:sport,What is tennis 's official game ? ` LABEL : ENT Y: sport` .,ENTY:sport,0.4779
+ENTY:sport,What sport is played with rackets called racquets ?,ENTY:sport,0.4471
+ENTY:substance,"What is Teflon made of ? # ENT Y : substance ""Tetrafluoroethylene"" .",ENTY:substance,0.6614
+ENTY:substance,What is concrete made of ? <!-- ENTY : substance -->,ENTY:substance,0.6614
+ENTY:substance,What is fiberglass made of ? ```LABELENTY : substance```,ENTY:substance,0.6614
+ENTY:substance,"What is DDT made of ? 
+
+ENTY : substance",ENTY:substance,0.6614
+ENTY:substance,What is Jell-O made of ?󠁧ŷ,ENTY:substance,0.5394
+ENTY:substance,What is asbestos made of ? ðŸŤ,ENTY:substance,0.5394
+ENTY:substance,What is Styrofoam made of ?chemy?,ENTY:substance,0.5394
+ENTY:substance,What is water made of ?okino ;) .  ( ENT : substance ),ENTY:substance,0.5305
+ENTY:substance,What is gasoline made of ? ` LABEL : ENTITY.substance`,ENTY:substance,0.4825
+ENTY:substance,"What is lead made of ? 
+
+
+
+(LABEL: ENTY : substance)",ENTY:substance,0.4825
+NUM:period,"How long does it take to digest food ? 
+
+NUM : period",NUM:period,0.9527
+NUM:period,How long does it take to train for Wimbledon ?,NUM:period,0.9266
+NUM:period,How long does it take to digest food after eating ?,NUM:period,0.893
+NUM:period,How long did it take to develop insulin ? 4 years .,NUM:period,0.8835
+NUM:period,How long does it take to drive around Florida ?,NUM:period,0.8827
+NUM:period,How long does it take to sail around Iceland ?,NUM:period,0.8815
+NUM:period,How long did it take to build Stonehenge ?,NUM:period,0.8709
+NUM:period,How long does it take to get over grief ?,NUM:period,0.8664
+NUM:period,How long does it take to get over bronchitis ?,NUM:period,0.8664
+NUM:period,How long does it take to get from Boston 's North Station train terminal ?,NUM:period,0.8493
+LOC:mount,"What is Colorado 's highest mountain ? ""Monte Rosa"" .",LOC:mount,0.9063
+LOC:mount,What is Africa 's highest mountain ? Mountain in Kenya .,LOC:mount,0.8796
+LOC:mount,"What is Mount Olympus ? 
+
+The answer : The highest mountain in Greece .",LOC:mount,0.7476
+LOC:mount,What is Africa 's highest mountain ? Mount Kilimanjaro .,LOC:mount,0.6785
+LOC:mount,What is Canada 's highest mountain ? Kicking Horse Mountain .,LOC:mount,0.6585
+LOC:mount,"What is Africa 's highest mountain ? Exactly , its name .",LOC:mount,0.6252
+LOC:mount,"What is California 's highest mountain ? 
+
+(LABEL:LOC:mountain)",LOC:mount,0.6179
+LOC:mount,What is California 's highest mountain ? Mountains .,LOC:mount,0.6031
+LOC:mount,What is Canada 's highest mountain ? Mount Logan .,LOC:mount,0.5556
+LOC:mount,"What is Africa 's highest mountain ? ``` LABEL :LOC:mountainDESCRIPTION :Questionsaboutmoun-tains ,includingtheirnamesandheight .```",LOC:mount,0.5386
+ENTY:animal,What kind of dog was Rin Tin Ton ?  ENTITY : animal .,ENTY:animal,0.4519
+ENTY:animal,What animal has four kneecaps ? `ENTY : animal`,ENTY:animal,0.43
+ENTY:animal,What animal is known as man 's best friend ?,ENTY:animal,0.4181
+ENTY:animal,"What animal is known as ""man's best friend"" ?",ENTY:animal,0.4181
+ENTY:animal,What animal is known as man's best friend ?,ENTY:animal,0.4181
+ENTY:animal,"What animal is known as ""man 's best friend ?""",ENTY:animal,0.4181
+ENTY:animal,What animal is known as both man 's best friend ?,ENTY:animal,0.4181
+ENTY:animal,What animal 's foot is equipped with suckers ?,ENTY:animal,0.4087
+ENTY:animal,"What is Australia's national animal ? 
+
+(LABEL: ENTNY:Animal)",ENTY:animal,0.3509
+ENTY:animal,What is Africa 's national animal ? ` LABEL : ENT Y ::` ** L B**  ANIMAL .,ENTY:animal,0.3437
+DESC:reason,"Why was James Buchanan Pierce 's nickname ""Eppy"" ?",DESC:reason,0.4281
+DESC:reason,"Why did Shakespeare write ""Romeo and Juliet"" ?",DESC:reason,0.4179
+DESC:reason,Why did Mozart die at such a young age ?,DESC:reason,0.3963
+DESC:reason,"Why do humans have belly buttons ? '''' (1) '''',''' ,...  What is it for? ' ... Why would you want that ?? You know, to grow another person out of your body . That ` s what they say ! It makes them feel special in there so I guess we got something from our mommies - one time thing anyway '. When my friend told me this story she asked how people were made but then explained why some mothers let their children get married at young",DESC:reason,0.3949
+DESC:reason,Why was Henry VIII nicknamed ''The Fairest Prince'' ?,DESC:reason,0.39
+DESC:reason,Why did Napoleon seize control of France ? < LABEL : DESC : reason > 󠁧󠁢󠁳󠁣󠁴󠁿 🤔,DESC:reason,0.3874
+DESC:reason,Why did World War I begin in 1914 ?,DESC:reason,0.3692
+DESC:reason,Why does beer foam ? <!-- LABEL:DESC:reason -->,DESC:reason,0.3692
+DESC:reason,Why did Napoleon Bonaparte get kicked out of Russia ?,DESC:reason,0.3591
+DESC:reason,Why does Hawaii have rainbows after every storm ?,DESC:reason,0.3566
+NUM:weight,How much does 3 pounds weigh ? #NUM#.weight ``` How many grams in three ounces?```,NUM:weight,0.9616
+NUM:weight,How much does 4 pounds equal ? # NUM : weight,NUM:weight,0.9394
+NUM:weight,How much does 12 pounds weigh ? ``` LABEL:NUT :NUM(weight) ````,NUM:weight,0.8689
+NUM:weight,How much does one cup weigh ? #NUM#.weight?,NUM:weight,0.8585
+NUM:weight,How much does one gallon weigh ? ) #NUM:weight,NUM:weight,0.8577
+NUM:weight,How much does one pound weigh in ounces ? #NUM : weight,NUM:weight,0.8523
+NUM:weight,How much does 1 cup weigh ? #[NUM(weight)]</label>,NUM:weight,0.8051
+NUM:weight,"How much does one pound weigh in ounces ? 
+
+ LABEL :NUM:weight ",NUM:weight,0.7165
+NUM:weight,"How much does one acre weigh ? <u>10</a><br />(NUM:<b>wht></i<br /><FONT size=3&gt;1,000 </font>Pounds) &lt;i 12 ;<wght ://www.quyrr.com/questions/what-is-the-weight-of-one-acre.htm ) , How many pounds is there in a cubic yard of dry soil? }"" ""What 's the average weight for men to gain after retirement? What weighs more",NUM:weight,0.7149
+NUM:weight,"How much does one gallon weigh ? 
+
+ LABEL :NUM(weight )DESCRIPTION :Inquiries ...",NUM:weight,0.7145
+HUM:ind,"Who wrote ""Gulliver's Travels"" ?",HUM:ind,0.7833
+HUM:ind,"Who wrote ""A Farewell to Arms"" ?",HUM:ind,0.7481
+HUM:ind,"Who wrote ""The Picture of Dorian Gray"" ?",HUM:ind,0.6651
+HUM:ind,Who was Napoleon 's wife ? Marie Antoinette .,HUM:ind,0.6073
+HUM:ind,"Who wrote "" The Great Gatbsy"" ?",HUM:ind,0.5969
+HUM:ind,"Who painted ""The Persistence of Memory"" ? <HUM : ind>",HUM:ind,0.5792
+HUM:ind,Who played Dracula in Francis Ford Coppola 's Bram Stoker adaptation ?,HUM:ind,0.551
+HUM:ind,"Who wrote ""Riders to the Sea"" ?",HUM:ind,0.5421
+HUM:ind,Who played Dorothy in The Wizard of Oz ?  #HUM : ind ``.,HUM:ind,0.5336
+HUM:ind,Who painted `` Lady with Ermine '' ?󠁧ŷ‚š´?,HUM:ind,0.5169
+ENTY:termeq,What is another name for acid rain ?chemy term to chemistry .,ENTY:termeq,0.7057
+ENTY:termeq,"What is the term for 2,4-Dinitrophenol ?",ENTY:termeq,0.6247
+ENTY:termeq,What is another term for a hypochondriac ?,ENTY:termeq,0.6185
+ENTY:termeq,What is another term for `soda pop` ?,ENTY:termeq,0.6185
+ENTY:termeq,What is the term for any organism that feeds directly from other organisms ?,ENTY:termeq,0.5825
+ENTY:termeq,What is another term for MIA ? ( Missing In Action ) .,ENTY:termeq,0.5705
+ENTY:termeq,What is another name for SARS ?󠁧Ã‚Â¬â€Å¡ # ENTy : termeqs ` . ) 0 ``` What's one other term that refers to severe acute respiratory syndrome?```,ENTY:termeq,0.4861
+ENTY:termeq,What is another term for `` T-bone steak '' ?,ENTY:termeq,0.4477
+ENTY:termeq,"What is the term for ""an outburst of passion"" ?",ENTY:termeq,0.4193
+ENTY:termeq,What is one term for OSHA ? ` LABEL : ENTITY: termeqv`,ENTY:termeq,0.335
+ENTY:product,"What brand of toothpaste does Crest represent ? # ENTITIES : ( CREST ) , product .",ENTY:product,0.443
+ENTY:product,What is Dolly Parton 's wig brand ?,ENTY:product,0.4155
+ENTY:product,What was the name of John Belushi 's favorite cigarette brand ?,ENTY:product,0.3225
+ENTY:product,What is Zima ? `ENTY : product`,ENTY:product,0.3153
+ENTY:product,What product has been named as America 's worst ?,ENTY:product,0.2998
+ENTY:product,What product is called `` Tiger Balm '' ?,ENTY:product,0.2874
+ENTY:product,What is Tylenol ? The pain reliever that was involved in one of America 's most infamous product tampering cases .,ENTY:product,0.2865
+ENTY:product,What brand of tires does NASCAR use ? <label> ENTITY : product </lable > .,ENTY:product,0.2819
+ENTY:product,"What is Tiger Beat magazine ? 
+
+(LABEL: ENTYP : product)",ENTY:product,0.2721
+ENTY:product,What is that product with 16 different tools in it ?,ENTY:product,0.2718
+ABBR:exp,What does SARS stand for ?  (ABBR : exp ),ABBR:exp,0.7579
+ABBR:exp,What does ASAP stand for ?󠁧󠁢󠁥󠁮󠁧? #ABBR:expr,ABBR:exp,0.7579
+ABBR:exp,What does M.O.U.S.E stand for ?,ABBR:exp,0.7579
+ABBR:exp,What does CPU stand for ? .  (1 ),ABBR:exp,0.7579
+ABBR:exp,"What does PMS stand for ? 
+
+(LABEL:AUDIO) (ABBREVIATION/exp:)",ABBR:exp,0.5941
+ABBR:exp,What does NASA stand for ? #ABBR/exp,ABBR:exp,0.545
+ABBR:exp,What does NASA stand for ? ` #ABBR : exp`,ABBR:exp,0.545
+ABBR:exp,What does NASA stand for ? ðŸ”«ï¸,ABBR:exp,0.545
+ABBR:exp,What does NASA stand for ? <u> ( 1987 ) </ u >,ABBR:exp,0.545
+ABBR:exp,What does NASA stand for ? )``` (ABBR/exp),ABBR:exp,0.545
+HUM:title,"What was Martin Luther King 's job ? 
+
+(HUM : title )",HUM:title,0.5333
+HUM:title,"What is Frank Lloyd Wright 's occupation ? 
+
+(HUM : title )",HUM:title,0.4323
+HUM:title,What is Charles Darwin 's profession ? # What job title does he have . what was charles darwin's occupation?,HUM:title,0.4169
+HUM:title,"What is Frank Lloyd Wright 's occupation ? 
+
+ LABEL:HUM :titleDESCRIPTION : Investigations inquiries concerning job professions , ...",HUM:title,0.2669
+HUM:title,What is Bill Gates 's job ? '' . # LABEL:HUM : title,HUM:title,0.2363
+HUM:title,What is Bill Gates ' occupation ? \\ What does he do for living?,HUM:title,0.2316
+HUM:title,What is Arnold Schwarzenegger 's occupation ?,HUM:title,0.226
+HUM:title,"What was Albert Einstein 's occupation ? 
+
+LABEL:HUM""title"" DESCR ...",HUM:title,0.1969
+HUM:title,What is Madonna 's profession ? ``` ( LABEL:HUM:title )```,HUM:title,0.1847
+HUM:title,"What is President Bush 's job ? 
+
+(LABEL:HUM:title)",HUM:title,0.182
+ENTY:plant,What flower did Van Gogh paint ? \\ ENTITY : plant .,ENTY:plant,0.6059
+ENTY:plant,What kind of flower is daffodil ?,ENTY:plant,0.4894
+ENTY:plant,What is Queen Elizabeth 's favorite flower ? `````` ( ENTITY : plant ) ````,ENTY:plant,0.4847
+ENTY:plant,What kind of flower does lavender belong to ? # ENTITY : plant ` (1 )`,ENTY:plant,0.4638
+ENTY:plant,What is China 's national flower ? `ENTY : plant`,ENTY:plant,0.4458
+ENTY:plant,What flower symbolizes friendship ? ) . ` ENTITY : plant`,ENTY:plant,0.4276
+ENTY:plant,"What is China's national flower ? 
+
+ LABEL : ENTITY-PLANT (ENTY: plant) , INQUIRY )",ENTY:plant,0.4152
+ENTY:plant,What plant has red flowers ? Petunia .,ENTY:plant,0.4054
+ENTY:plant,What flower is yellow with white spots ? `ENTY : plant`,ENTY:plant,0.3543
+ENTY:plant,What is Kentucky 's state flower ? ` LABEL ENTQ :ENTY plant`,ENTY:plant,0.3334
+DESC:def,"What is entropy ? ```
+
+(DESC) What does `` Malthusian '' mean?",DESC:def,0.7182
+DESC:def,What is dysania ? #DESC(def) ) ''''')',DESC:def,0.6625
+DESC:def,"What is `` TMI '' ? #DESCDEF 
+
+(def)",DESC:def,0.6625
+DESC:def,What is `` cyberware '' ? <u>DESC:</b DEF</p></html >,DESC:def,0.6625
+DESC:def,What is insomnia ? `DESC` : def ,DESC:def,0.6625
+DESC:def,What is a hangover ?󠁧â€¢ 0% (4/1),DESC:def,0.6625
+DESC:def,What is chauvinism ? ðŸ”µï¸ð—¿°ë‰»,DESC:def,0.6625
+DESC:def,What is ADHD ? ðŸ˜Š,DESC:def,0.6625
+DESC:def,What is insomnia ?󠁧󠁢️,DESC:def,0.6625
+DESC:def,What does `` Gnosticism '' mean ? `,DESC:def,0.581
+NUM:code,What is McDonald 's number for ordering ? 1-800-McDLTS .,NUM:code,0.3695
+NUM:code,What is Intel 's 1-800 number ?,NUM:code,0.3084
+NUM:code,What is Intel 's customer service number ? ),NUM:code,0.3084
+NUM:code,What is Miley Cyrus 's telephone number ? 1-877-LUV-MILEY .,NUM:code,0.2479
+NUM:code,What is Motorola 's telephone number ? 708-6252 .,NUM:code,0.2479
+NUM:code,What is McDonald 's telephone number ? 1-800-McDonald .,NUM:code,0.2479
+NUM:code,What is Intel 's computer telephone number ? 1-503 -Assembler :800 .,NUM:code,0.1456
+NUM:code,What is AT & T 's 1-800 number ?,NUM:code,0.1247
+NUM:code,What is AT & T 's customer service number ?,NUM:code,0.1247
+NUM:code,What is AT & T 's 1 -900 number ?,NUM:code,0.1247
+ENTY:techmeth,What is a way to make homemade lip balm ?,ENTY:techmeth,0.4368
+ENTY:techmeth,What is one way to get your house repainted ?,ENTY:techmeth,0.4166
+ENTY:techmeth,What technique did Frank Sinatra use to get his lips smooth ?,ENTY:techmeth,0.4046
+ENTY:techmeth,What technique is usually employed to measure time ? A stopwatch B watch C clock D timer E digital quartz wristwatch F chronograph G mechanical device H hourglass I sundial J compass K GPS L radar M pedometer N metronome O thermometer Q speedometer R altimeter S sextant T weather vane U baromoter V hydrometer W thermocouple X oscillograph Y spectrophotmeter Z sonar .,ENTY:techmeth,0.3813
+ENTY:techmeth,What technique did Alexander Graham Bell use to invent his first telephone ?,ENTY:techmeth,0.3686
+ENTY:techmeth,What is another technique besides PCR to amplify DNA ?,ENTY:techmeth,0.3685
+ENTY:techmeth,What is one way to prevent overfitting when training neural networks ?,ENTY:techmeth,0.3426
+ENTY:techmeth,What technique did Alexander Graham Bell use to develop his telephone ?,ENTY:techmeth,0.3337
+ENTY:techmeth,What is another way to get rid of wrinkles ?,ENTY:techmeth,0.3303
+ENTY:techmeth,What is a good way to get rid of ants ?,ENTY:techmeth,0.3291
+ENTY:word,What 's another word for `` dope '' ?,ENTY:word,0.7036
+ENTY:word,What is another word for `` ace '' ? ),ENTY:word,0.67
+ENTY:word,What is another word for `` bummed '' ?,ENTY:word,0.67
+ENTY:word,What is another word for ``a bit '' ?,ENTY:word,0.67
+ENTY:word,"What is the word for ""a sudden , forceful movement ?""",ENTY:word,0.6662
+ENTY:word,What is the word for `` don ' t '' ?,ENTY:word,0.6662
+ENTY:word,"What 's another word for ""to cry ?""",ENTY:word,0.6614
+ENTY:word,What is another name for the word `` bum '' ?,ENTY:word,0.618
+ENTY:word,What is another word for `` to boot '' ?,ENTY:word,0.6102
+ENTY:word,"What word comes from Old English for ""wound healer""?",ENTY:word,0.5726
+ENTY:body,"What part of your ear can you move ? """,ENTY:body,0.4014
+ENTY:body,What part contains your heart ? ``` (ENTY : BODY ) ```,ENTY:body,0.3869
+ENTY:body,"What part protects your heart ? '''' ''. ' The ribcage . ''''. ``` LABEL : ENTNY,body `````.",ENTY:body,0.3514
+ENTY:body,What part of your foot is most sensitive to pain ?,ENTY:body,0.3098
+ENTY:body,"What part does fat play in your eyes ? "" Body & Eye Health - Questions "".",ENTY:body,0.3085
+ENTY:body,"What part does your heart sit in ? 
+
+(LABEL ENT BODY)",ENTY:body,0.28
+ENTY:body,What part does your nose get hair out from ?,ENTY:body,0.255
+ENTY:body,What is another part called where your arm bone meets ?,ENTY:body,0.248
+ENTY:body,What is part number 10 in your left ear ?,ENTY:body,0.2478
+ENTY:body,What part of your eye lets in most light ?,ENTY:body,0.2467
+ENTY:veh,"What was Apollo 7 's name ? It is , respectively .",ENTY:veh,0.3432
+ENTY:veh,What was Bonnie Prince Charlie 's ship ?󠁧󠁢️󠁳󠁣󠁴󠁿󠟡󰁊?,ENTY:veh,0.3357
+ENTY:veh,What ship 's name was inspired by its British captain ?,ENTY:veh,0.3282
+ENTY:veh,What ship in 1964 was hijacked by American Indian Movement activists ?,ENTY:veh,0.2715
+ENTY:veh,"What was the name of Steve McQueen 's motorcycle in ""The Great Escape"" ?",ENTY:veh,0.2599
+ENTY:veh,What ship was Robert Falcon Scott 's last vessel ?,ENTY:veh,0.2574
+ENTY:veh,What was the name of Robin Hood 's horse ?,ENTY:veh,0.2549
+ENTY:veh,What ship in American literature is captained by Ahab ?,ENTY:veh,0.252
+ENTY:veh,What ship sank off Cape Flattery in 1970 ?,ENTY:veh,0.2337
+ENTY:veh,What ship 's maiden voyage was sponsored by Thomas Andrews ?,ENTY:veh,0.2038
+ENTY:currency,"What type of money is used by Peru ? China uses what kind monetary unit . What medium exchangeable does Ireland use to buy stuff from vendors stores shops markets malls , etc.?",ENTY:currency,0.6378
+ENTY:currency,"What is Japan 's money ? ""Currency"" .",ENTY:currency,0.525
+ENTY:currency,"What is Australia 's money ? "" 
+
+(LABEL : ENT TYPE :: currency )",ENTY:currency,0.4842
+ENTY:currency,"What form was money first coined ? ) ENTITY : MONEY , CURRENCY .",ENTY:currency,0.4619
+ENTY:currency,What is India 's money ? ``` (ENTY:currency)```,ENTY:currency,0.4551
+ENTY:currency,"What is Australia 's money ? 
+
+
+
+ LABEL : ENT Y(currency) DESCRIPTI...",ENTY:currency,0.41
+ENTY:currency,"In Germany , what is money ? 
+
+What : ENT TYPE : En type What & answer? Description Currency The following questions concern various kinds ...",ENTY:currency,0.3171
+ENTY:currency,What is China 's official money ? ``` LABEL: ENTITY : currency ```.,ENTY:currency,0.3121
+ENTY:currency,What type money do they use there ? India .,ENTY:currency,0.3102
+ENTY:currency,What money do they use to pay their bills ?,ENTY:currency,0.3074
+HUM:desc,Who is Mike Tyson ? #HUM : desc,HUM:desc,0.9773
+HUM:desc,Who is Mike Ditka ? #HUM : desc,HUM:desc,0.9773
+HUM:desc,Who is Steve Guttenberg ? `HUM:description`,HUM:desc,0.9773
+HUM:desc,Who was Saint Valentine ? ` (HUM : desc )`,HUM:desc,0.8863
+HUM:desc,Who is James Fenimore Cooper ?󠁧Ã\u200b\\u2060,HUM:desc,0.8435
+HUM:desc,Who is John Grisham ? #HUM(desc),HUM:desc,0.8066
+HUM:desc,Who was Jane Austen ? 0 ``` LABEL :HUM:description\n Who `` ` wasJaneAustenor?``` Description requests info on individuals .,HUM:desc,0.7656
+HUM:desc,"Who is Greta Garbo ? ""  ( People ) .",HUM:desc,0.7578
+HUM:desc,Who is James Brown ? The Godfather of Soul .,HUM:desc,0.5937
+HUM:desc,Who is Mike Tyson ? ` LABEL:HUM : desc`,HUM:desc,0.5167
+NUM:speed,How fast can peregrine falcons dive ?,NUM:speed,0.7512
+NUM:speed,How fast can dogs swim ? 45 mph .,NUM:speed,0.7512
+NUM:speed,How fast can pumas run ? ) 65 mph .,NUM:speed,0.6659
+NUM:speed,How fast does light travel ? 65 mph .,NUM:speed,0.6216
+NUM:speed,How fast does light travel ? 40 mph .,NUM:speed,0.6216
+NUM:speed,What is Elvis Presley 's average driving speed ?,NUM:speed,0.5063
+NUM:speed,"How fast is light ? 1 km / sec , how much more than sound waves .",NUM:speed,0.4117
+NUM:speed,What is a deer 's running pace ? `````` SPEED : 30-40 mph . ```` ` (NUM-speed )`,NUM:speed,0.3851
+NUM:speed,How fast does sound travel ? 24 mps .,NUM:speed,0.3442
+NUM:speed,How fast does light travel through water ? 31 mph .,NUM:speed,0.3229
+LOC:other,Where is Easter Island ?󠁧󠁢️🏴‍☠️,LOC:other,0.7054
+LOC:other,Where can you find information about local real estate ?,LOC:other,0.6068
+LOC:other,Where is Kahlua ? In Hawaii .  (LOC : others ),LOC:other,0.5451
+LOC:other,Where is Kure Beach located ? ðŸ˜Š (KURE ),LOC:other,0.5192
+LOC:other,Where is Lake Superior ?  LOCATION : Other .,LOC:other,0.5136
+LOC:other,"Where is Fortnum & Mason located ? 
+
+ LABEL :LOC:otherDESCRIPTION:Misellaneouslocationrelatedquestions ...",LOC:other,0.5113
+LOC:other,Where can you find The Bodycount ? A novel by Sebastian Junger .,LOC:other,0.4748
+LOC:other,"Where is Lake Tanganyika located ? 
+
+(LABEL :LOC:other)",LOC:other,0.438
+LOC:other,Where is the largest Buddhist temple in Thailand located ?,LOC:other,0.4317
+LOC:other,"Where can you find Lake Mead ? In Arizona , Nevada, California, Utah?",LOC:other,0.4207
+HUM:gr,What is Motorola's subsidiary company ? ``` (HUM : gr )```,HUM:gr,0.688
+HUM:gr,What company is owned by Sumner Redstone ?,HUM:gr,0.6036
+HUM:gr,What is The Walt Disney Company 's subsidiary ?,HUM:gr,0.5567
+HUM:gr,"What company was founded by David Packard ? """,HUM:gr,0.5075
+HUM:gr,"What company makes Hoover vacuum cleaners ? 
+
+(LABEL:HUM : gr)",HUM:gr,0.5052
+HUM:gr,What company sponsors IBM 's PC ?󠁧󠁢,HUM:gr,0.5015
+HUM:gr,What company was founded by John Malone in 1973 ?,HUM:gr,0.3874
+HUM:gr,What company did Henry Ford start in 1902 ?,HUM:gr,0.3358
+HUM:gr,What is Harvard University 's nickname ? ðŸ”¬ï¸ #HUM : gr,HUM:gr,0.3297
+HUM:gr,What football team did Jerry Rice play for in 1987 ?,HUM:gr,0.299
+NUM:volsize,How big is Alaska ?󠁧󠁢,NUM:volsize,0.7934
+NUM:volsize,How big is Africa ?󠁧â€Âï¸?,NUM:volsize,0.4099
+NUM:volsize,"How big is Pluto ? 6 feet wide , for instance .",NUM:volsize,0.314
+NUM:volsize,How big is California ? That 's including Hawaii .,NUM:volsize,0.2995
+NUM:volsize,"How big is Alaska ? 2,721 ,603 square miles .",NUM:volsize,0.2585
+NUM:volsize,"How big is Texas ? 1,268 ,708 square kilometers .",NUM:volsize,0.2431
+NUM:volsize,"How big is Hawaii ? 3 ,146 square miles .",NUM:volsize,0.2333
+NUM:volsize,"How big is Texas ? 
+
+(LABEL:N/A) (DESCRIPTION:) How large in square miles from east to west does it extend? )",NUM:volsize,0.1735
+NUM:volsize,"How big is Mount Everest ? 8,848 meters tall .",NUM:volsize,0.1729
+NUM:volsize,How big is Earth compared to other planets in our solar system ?,NUM:volsize,0.1691
+ENTY:dismed,"What is hypochondria ? An abnormal fear of illness that may lead to physical symptoms such as headaches , palpitations , insomnia .",ENTY:dismed,0.3168
+ENTY:dismed,What is Kuru disease ? ``` (ENTY : dismed )```,ENTY:dismed,0.3148
+ENTY:dismed,What is sickle cell disease ? ) <ENTY : dis med > .,ENTY:dismed,0.3148
+ENTY:dismed,What disease is known as 'ragweed asthma' ?,ENTY:dismed,0.2934
+ENTY:dismed,What disease is characterized by skin lesions that resemble cold sores ?,ENTY:dismed,0.2347
+ENTY:dismed,"What is my disease ? I suffer from chronic back pain , muscle weakness and fatigue . My urine specific gravity was 1 :001 in spite of being well hydrated with water ; what could it indicate to me?",ENTY:dismed,0.2272
+ENTY:dismed,What disease caused by streptococcus bacteria is characterized as rheumatic fever ?,ENTY:dismed,0.2055
+ENTY:dismed,What disease is caused by Chlamydia trachomatis ?,ENTY:dismed,0.1988
+ENTY:dismed,"What disease is characterized by red eyes , runny nose & sore throat ?",ENTY:dismed,0.1988
+ENTY:dismed,What is myositis ? A disease characterized by inflammation of muscle tissue .,ENTY:dismed,0.1986
+ENTY:symbol,What is Mickey Mouse 's trademark symbol ? `,ENTY:symbol,0.3268
+ENTY:symbol,What is McDonald 's symbol ? The golden arches .,ENTY:symbol,0.2648
+ENTY:symbol,What is Superman 's Kryptonian symbol ?,ENTY:symbol,0.2514
+ENTY:symbol,What is McDonald 's symbol ?󠁧󠁢󠁥󠁮󠁧󠁿 A golden arches logo .,ENTY:symbol,0.2514
+ENTY:symbol,What is Superman 's symbol ? ` ``  ``.,ENTY:symbol,0.2514
+ENTY:symbol,What is Superman 's alias ? ) ``` ENT : symbol```,ENTY:symbol,0.2514
+ENTY:symbol,What is Superman 's alias ? ```ENTY.symbol```,ENTY:symbol,0.2514
+ENTY:symbol,What is Mickey Mouse 's symbol ? # ENTYSYMBOL ( 1 ) .,ENTY:symbol,0.2514
+ENTY:symbol,What is Mickey Mouse 's symbol ? ) .,ENTY:symbol,0.2514
+ENTY:symbol,What is the symbol for silver ? # LABEL: ENTYSYM : The chemical sign representing elements .,ENTY:symbol,0.2465
+ENTY:event,What happened to Jack Ruby ?  LABEL: ENTITY : event DESCRIPTIION QUESTIONS ABOUT SPECIAL EVENTS INCLUDING HISTORICAL INCIDENTS AND PUBLIC OCCURRENCES .,ENTY:event,0.3338
+ENTY:event,What was World War I officially known as ? ` LABEL : ENTITY EVENT`,ENTY:event,0.2863
+ENTY:event,"What happened during Easter Sunday ? 
+
+ LABEL : ENTITY:event DESCRIPTION : QUESTIONS ABOUT SPECIFIC EVENTS , INCLUDING HISTORICAL INCIDENTS AND PUBLIC OCCURRENCES . < / p > ðŸ” #ENTY:Event -2021-10â€“29 18 :22ã€ï¿¥ What occurred at Wimbledon in June of that year? â €"" ( ) In what month did Michael Jordan retire from professional basketball for good after his second retirement as well ... See",ENTY:event,0.283
+ENTY:event,"What was World War II 's nickname ? 
+
+(LABEL: ENTITY:event )",ENTY:event,0.2717
+ENTY:event,What is known as The War of 1812 ?,ENTY:event,0.2443
+ENTY:event,What is The War of 1812 known as ?,ENTY:event,0.2443
+ENTY:event,What happened during World War I ? A global conflict involving many European countries .,ENTY:event,0.2157
+ENTY:event,What was Napoleon 's biggest battle ? ` LABEL : ENTITY :: event`,ENTY:event,0.1262
+ENTY:event,"When was Woodstock ? ` LABEL : ENTITIES : event` < / span > . What festival took place in 1969 at Max Yasgur 's dairy farm near Bethel , New York?",ENTY:event,0.126
+ENTY:event,What was Operation Ajax ? ` ENTITY : EVENT` .,ENTY:event,0.1258
+NUM:dist,How far is it from Chicago to Denver ? '',NUM:dist,0.553
+NUM:dist,"How long is Lake Superior ? 6 ,000 miles around .",NUM:dist,0.5069
+NUM:dist,How long is Hawaii ? 5 miles wide .,NUM:dist,0.5069
+NUM:dist,How tall is Mount Denali ? ```NUM: dist```,NUM:dist,0.4842
+NUM:dist,How far is it from Denver to New York ?,NUM:dist,0.4642
+NUM:dist,How tall is Madonna ? 5 '4 '' .,NUM:dist,0.4635
+NUM:dist,"How far away is California from Florida ?󠁧�¿ 2,796 miles (4 ,500 km) .",NUM:dist,0.4053
+NUM:dist,How long is Florida ? 21 miles wide .,NUM:dist,0.377
+NUM:dist,How far is it from Denver to St . Louis ?,NUM:dist,0.3751
+NUM:dist,How far is it from New York to Chicago ?,NUM:dist,0.3384
+ENTY:religion,What is Sikhism ? A major world religion .,ENTY:religion,0.1734
+ENTY:religion,"What is Sikhism ? 
+
+ENTY : religion",ENTY:religion,0.1361
+ENTY:religion,What is Shintoism ? ``` LABELENTY : religion```,ENTY:religion,0.1361
+ENTY:religion,What is Shintoism ? `ENCY RELIGION`,ENTY:religion,0.1361
+ENTY:religion,What is Buddhism ? `ENTY : religion`,ENTY:religion,0.1361
+ENTY:religion,What religion is associated with Rastafarianism ?,ENTY:religion,0.1224
+ENTY:religion,What religion was founded by John Wesley ?󠁧uk?,ENTY:religion,0.1205
+ENTY:religion,What religion is associated with Shiva ? # ENTITY : RELIGION (Buddhism ) What God does Krishna represent in Hindu mythology? ``` 1```,ENTY:religion,0.1002
+ENTY:religion,"What is Buddhism ? 
+
+ENTY : religion What kind of belief system does Hinduism have in India?",ENTY:religion,0.0988
+ENTY:religion,What religion is believed to have originated in India around 4000 BC ?,ENTY:religion,0.0979
+ENTY:other,"What is a gumball? "" The world's largest recorded snowball was 68 feet around in diameter . What did it weigh ?""",ENTY:other,0.148
+ENTY:other,"What is one of Australia 's symbols ? Of course , it must have to with animals . What animal should this country represent in some way because its name refers back to where Captain James Cook had landed before he named New South Wales after his sponsor, King George III - England by sea from Europe through straits between Asia Minor & Africa : Sunda Strait (the narrow waterway which separates Java Island ) The answer will depend upon whether we refer these facts as ""geographic"" when you know something",ENTY:other,0.1131
+ENTY:other,"What is Jack 's full name ? It follows from this analogy what does it say about Jimmy Connors' nickname , Pete Sampras', Andre Agassi's, John McEnroe ', Aaron Kashlinganov ` s . And which of his novels contains 102 chapters in its third part ; The New York Times Crossword Puzzle Dictionary says : "" What has all these titles have they got something to them but one author wrote most -- James Fenimore Cooper."" How many words can you make",ENTY:other,0.0993
+ENTY:other,What is one of Mozart 's most famous operas ?,ENTY:other,0.0878
+ENTY:other,What is one of Picasso 's most famous paintings ?,ENTY:other,0.0878
+ENTY:other,"What was Napoleon 's favorite horse ? ""Trianon"" , one of his favourite horses .",ENTY:other,0.0784
+ENTY:other,"What is Seuss ' s middle name ? "" Geisel "", after his mother , had named him Theodor . They call what they have there `` the big book of world records '' : Guinness World Records Book . What state lies directly north to California from Los Angeles southward? Arizona . Where in France did Van Gogh cut off part Of ear when he suffered mental breakdown, leading artists To create more expressive artwork inspired by it (as Picasso) ?. Arles - Vincent van Goethen He",ENTY:other,0.0766
+ENTY:other,"What is Michael Jackson 's middle name ? ðŸ¤°ï¸ "" Vincent"" . The King of Pop , born August 29, 1958 in Gary Indiana to Joe Walter Jackson & Katherine Esther Scruse was known for his smooth dance moves such as moonwalking which became very popular during this time period ( late eighties ) What does Elvis Presley sing about? In particular what kind from around here did he want out of Memphis Tennessee ?? For instance I would give you anything",ENTY:other,0.0699
+ENTY:other,"What is Jack Daniel 's whiskey ? `</code` (1) `< / ENT : entity >`. <label> LABEL : ENTY : Other . </ code>. What type of rock group plays all 4 parts -- bass , drums, lead guitar & keyboards? ...```",ENTY:other,0.0685
+ENTY:other,"What is one quarter of two ? 0/1 / A : What ...? ""One half"". O ( Other ) . The answer to this math problem , obviously, would depend upon how many you have in your pair ! I don't know what they could mean by it being another name for their daughter - maybe someone 's kid was born while working there & so her mother named herself after them because she had no clue who fathered any child at birth but since then has figured out through",ENTY:other,0.066
+ENTY:food,"What is Texas' state soft drink ? 
+
+ LABEL: ENTYY :food",ENTY:food,0.4119
+ENTY:food,"What cereal was originally marketed as ""shoots""?",ENTY:food,0.2772
+ENTY:food,"What kind of cereal has cartoon characters ? ""Frosted Flakes"" with Tony 's Tiger is one . Another type that features Tweety Bird as its mascot - what would it have been?",ENTY:food,0.1987
+ENTY:food,"What is one pizza ? It 's got pepperoni , sausage .",ENTY:food,0.1549
+ENTY:food,"What 's Texas chili made of ? Exactly , what is it that goes into this dish called ""chili con carne"" in some parts North America? A beef stew ; also known as just plain old ` beanless soup by those who do not want to admit they did n't put any beans inside . And no one says you have got all day ! So here we go : No meat fat drippings from frying ground cumin coriander paprika garlic oregano chilies with",ENTY:food,0.1367
+ENTY:food,"What fruit has seeds ? They 're in my cereal . """,ENTY:food,0.1343
+ENTY:food,"What pizza toppings do you use ?  ENTty : Food , Enty : Pizza Toppings <u> [label:] </u > ```` (2 )```. What ... to put in your p... I eat it cold . You might enjoy our classic margherita ! They can either come from plants for instance crops that people cultivate such as wheat grass rice potatoes beans oats rye corn barley millet etc ... Here there is no time period limit since we all have different tastes preferences experiences",ENTY:food,0.1
+ENTY:food,"What is another name for cornmeal mush ? 
+
+ENNTY :food , I think there 's no answer in this book .  It has got quite of ...more... How can u solve it? U have to use ur mind ! There must b something called that with wheat flour as its basic ingredient ; if not anything else would help but one day they had breakfast at Grandma s house - just her father was home when we arrived & she took us around town by car ( then ) so",ENTY:food,0.0944
+ENTY:food,"What is another name for lasagna ?󠁧â€_Ã‚Â™ï¸ #ENTY : ENT-FOOD `#ENNY` & 4 others in my collection ...& also this one . Good luck with that , pal ! - http://www.pbs.org/wgbh/nova/mystery/ingredients/las.html /lasagna/. This article suggests several other Italian dishes to try ; but as I was looking forward so much more it really did",ENTY:food,0.0608
+ABBR:abb,What is UNESCO 's abbreviation ?󠁧󠁢?,ABBR:abb,0.4001
+ABBR:abb,What is ASE ? ( abbreviation ) # ABBR : abb,ABBR:abb,0.4001
+ABBR:abb,"What is NATO 's official abbreviation ? 
+
+
+
+ABBREVIATION : nato",ABBR:abb,0.2632
+ABBR:abb,"What is NASA ? ) ""The abbreviation meaning National Association For The Advancement Of Colored People .",ABBR:abb,0.1054
+DESC:desc,"What is the difference between beef Wellington , filet mignon en croute ?",DESC:desc,0.443
+DESC:desc,What is the history behind The Godfather 's infamous horse head scene ?,DESC:desc,0.0885
+DESC:desc,"What is the difference between diesel fuel , gasoline ? How do they compare in terms energy value per unit volume . In what ways have their uses evolved over time for different applications including transportation industry vehicles equipment & farm machinery etc.?",DESC:desc,0.0821
+DESC:desc,"What is acid reflux ? What causes it , what its symptoms indicate about your body health . Is there any natural way to help prevent this condition from occurring ? Do you need over-the-counter medicine for treatment in certain situations where surgery may not work effectively enough anymore after using prescription medication without relief results so far as needed when experiencing episodes regularly while also taking preventative measures daily because we don't want constant discomfort just by having food sit around too long inside stomach before digesting completely which affects digestion properly leading towards more",DESC:desc,0.0788
+NUM:ord,What is Hawaii 's rank in terms of total area ?,NUM:ord,0.0812
+NUM:ord,What chapter in Moby Dick is The Whale ?,NUM:ord,0.0786
+NUM:ord,What is Indiana 's rank in total area among all 50 states ?,NUM:ord,0.0624
+NUM:other,What is 1 + ? (the number of planets in our solar system)?,NUM:other,0.0791

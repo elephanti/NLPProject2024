@@ -1,0 +1,402 @@
+label,text,predicted_label,probability
+NUM:date,What year did John Glenn return from space ? 1962 .,NUM:date,0.3869
+NUM:date,What year did Thomas Edison invent his light bulb ?,NUM:date,0.3054
+NUM:date,What is Thanksgiving ? When did it first become official in 1941 .,NUM:date,0.2975
+NUM:date,When did Charles Lindbergh begin his famous transatlantic flight ?,NUM:date,0.2948
+NUM:date,When did Germany's first president take office ? 1919 .,NUM:date,0.2822
+NUM:date,"When is National S'mores Day ? On what day of year did Charles Dickens die in 1870? When does school begin again after spring break for kids who attend from January to April , excluding March fifth through thirteenth when they have another type breaks that start Monday before Thanksgiving until November eighteenththirtysix .",NUM:date,0.2814
+NUM:date,When was John Glenn first launched into space ? 1962 .,NUM:date,0.2658
+NUM:date,When was John F Kennedy assassinated ? July 1963 .,NUM:date,0.2657
+NUM:date,"When did Columbus set sail for America ? 
+
+ LABEL :NUM$date ",NUM:date,0.2617
+NUM:date,In what year did Alexander Graham Bell patent his telephone ?,NUM:date,0.2498
+ENTY:instru,What stringed instrument is played by Jean-Baptiste Lully ?,ENTY:instru,0.3917
+ENTY:instru,What instrument did jazz legend Benny Goodman often played ?,ENTY:instru,0.37
+ENTY:instru,What instrument does jazz musician Stan Getz usually plays ?,ENTY:instru,0.3472
+ENTY:instru,What instrument is played by violinist Itzhak Perlman ?,ENTY:instru,0.3008
+ENTY:instru,What instrument is played by virtuosic pianist Lang Lauren?,ENTY:instru,0.2966
+ENTY:instru,Who plays the flute in Jethro Tull ?,ENTY:instru,0.2694
+ENTY:instru,Who plays drums for R.E.M.? `ENTY:instrument`,ENTY:instru,0.2507
+ENTY:instru,What is Vivaldi 's violin instrument called ?,ENTY:instru,0.2389
+ENTY:instru,Who invented violas ?asinusly played bass clef notes .,ENTY:instru,0.2341
+ENTY:instru,Who plays guitar with Aerosmith ? # ENTYYstrument,ENTY:instru,0.2194
+ENTY:color,What color is typically associated with courage ? # ENTY :COLOR,ENTY:color,0.4359
+ENTY:color,What is another color called red ? # ENTNY : COLOR,ENTY:color,0.3992
+ENTY:color,"What color is watermelon green ? 
+
+LABEL: ENTITY : COLOR",ENTY:color,0.3862
+ENTY:color,What color is used for traffic signals ? # ENTYYYYYY :color COLOR NAME` .,ENTY:color,0.3682
+ENTY:color,What color does one associate with blueberries ? 🦔 #ENTY :COLOR 😌,ENTY:color,0.3556
+ENTY:color,What is the color of blue eyes ? # ENTITY : COLOR `COLOR` (other) .```,ENTY:color,0.3461
+ENTY:color,What is Barbie 's hair color ? `COLOR` .,ENTY:color,0.327
+ENTY:color,"What is Barbie 's hair color ? 
+
+ LABEL : ENTG :colored hårsalon `description` Questions concerning hairstyles .",ENTY:color,0.3177
+ENTY:color,"What is her favorite color ? Pink . 
+
+(LABEL: ENTY : COLOR )",ENTY:color,0.3157
+ENTY:color,"What color is typically used for traffic signals ? # ENTITIES : HUE COLORS , COLOR USES .",ENTY:color,0.2938
+LOC:other,What is located in Antarctica? The southernmost city ?,LOC:other,0.463
+LOC:other,"Where is Mount Rushmore ? Located in Keystone , South Dakota .",LOC:other,0.3696
+LOC:other,Where is Tahiti located ? ðŸ’ª,LOC:other,0.3375
+LOC:other,What is Mount Tai ? It stands east of Shandong Province in China .,LOC:other,0.3371
+LOC:other,"What is Greenland 's landmass ? In terms of square kilometers , which country covers more area : China oder Turkey ?",LOC:other,0.3351
+LOC:other,What ocean surrounds Antarctica ?okinoyvynoe lake is located where in Ukraine ?.,LOC:other,0.3321
+LOC:other,What river forms Mexico 's eastern border ?󠁧🏼,LOC:other,0.3293
+LOC:other,Where is Mount Vesuvius located ? LABEL :LOC_other,LOC:other,0.3287
+LOC:other,What lake is located between Michigan 's Upper Peninsula and Ontario ?,LOC:other,0.3241
+LOC:other,What is Lake Tahoe located near ? #LOC:others,LOC:other,0.2966
+ENTY:sport,What sport is played with mallets in Wales ?,ENTY:sport,0.2215
+ENTY:sport,"What sport is played with five pins ? 
+
+ENTY :sport",ENTY:sport,0.2044
+ENTY:sport,What type of tennis tournament is played in Australia each January ?,ENTY:sport,0.2018
+ENTY:sport,"What major professional basketball league is headquartered in Secaucus , New Jersey ?",ENTY:sport,0.1964
+ENTY:sport,What sport is played with six players ?󠁧🏓,ENTY:sport,0.1798
+ENTY:sport,"Who plays in Super Bowl XXIV ? 
+
+
+
+Label : ENTY.sport",ENTY:sport,0.177
+ENTY:sport,What sport is played with three bounces between shots ?,ENTY:sport,0.1757
+ENTY:sport,What is one of baseball 's four main bases ?,ENTY:sport,0.1734
+ENTY:sport,When was golf officially recognized as one of 13 original NCAA championship divisions ?,ENTY:sport,0.1651
+ENTY:sport,Who played in Game 7 of baseball 's World Series ?,ENTY:sport,0.1609
+ENTY:currency,"What type of money did ancient Rome use ? 
+
+
+
+(LABEL: ENTZ : currency )",ENTY:currency,0.2956
+ENTY:currency,What is money traded as called ? # ENTYY : currencies,ENTY:currency,0.2759
+ENTY:currency,"What is Sweden's official monetary unit ? `$` `.` ```$```. ``Sweden.' 8 . ' Pound , Dollar, Yen Mark ...```󠁧󠁢󠁳󠁣󠁴&#x27;s Rouble Krona Franc Lira Won Ringgit Krone Drachma Kopeck Shilling Rupee Rand Peso Riyal Yuan Guilder Quetzal Ruble Shekel Hryvnia Cordoba Dinar Lev Tala Dirham",ENTY:currency,0.226
+ENTY:currency,What foreign currencies can I exchange at airport money changers ?,ENTY:currency,0.1763
+ENTY:currency,"What money do they use at Disneyland ? 
+
+(LABEL: ENTY:currencies )",ENTY:currency,0.1749
+ENTY:currency,What type coin was first minted for use as money ?,ENTY:currency,0.1657
+ENTY:currency,What is Poland 's monetary unit ? ðŸŽ‰ ï¸ï¿½ðŸ•°âš‚ ( ENT : Curr ),ENTY:currency,0.1562
+ENTY:currency,"What form was money taken by ?` ` (ENTY:money) ```ENNY```, other than cash , that could also serve as evidence for their wealth .",ENTY:currency,0.155
+ENTY:currency,What is Mexico 's unit de exchange ? ``` (ENTY:Currency)```,ENTY:currency,0.1547
+ENTY:currency,"What is China 's official monetary unit ? # ENTYY : money,ENTY(currency)",ENTY:currency,0.1541
+LOC:mount,"What is highest mountain in world ? K2 , Mauna Kea .",LOC:mount,0.255
+LOC:mount,What is North America 's highest mountain ? Mountain?,LOC:mount,0.2282
+LOC:mount,What is Mount Everest 's peak elevation above sea level ?,LOC:mount,0.2202
+LOC:mount,What is Mount Denali 's peak elevation ?,LOC:mount,0.2125
+LOC:mount,What is Africa 's highest mountain ? Mountains .,LOC:mount,0.2056
+LOC:mount,What mountain is known as 'Teton' ?,LOC:mount,0.2021
+LOC:mount,What is K2 's height in feet ?,LOC:mount,0.1824
+LOC:mount,What is Mount Everest 's height ? 16 meters above sea level .,LOC:mount,0.1703
+LOC:mount,What is Mount Denali 's peak height ?,LOC:mount,0.1703
+LOC:mount,What is Mount Everest 's peak height above sea level ?,LOC:mount,0.1669
+ENTY:food,What kind of pizza is served at Pizza Hut ?,ENTY:food,0.2879
+ENTY:food,What is Italy's most popular ice cream flavor ?,ENTY:food,0.2625
+ENTY:food,What popular Mexican dish is made with chili peppers ?,ENTY:food,0.2619
+ENTY:food,What popular fruit is also known as pomegranate ?,ENTY:food,0.2339
+ENTY:food,"What fruit is often used in pies ? 
+
+ LABEL : ENTQryNTY-food TYPE-fruit-pie-filling-inquiry `",ENTY:food,0.2248
+ENTY:food,What fruit is often served as garnishes for drinks ?,ENTY:food,0.2014
+ENTY:food,What type of fruit is commonly eaten for breakfast ?,ENTY:food,0.19
+ENTY:food,What fruit is used in making grenadine syrup ?,ENTY:food,0.1797
+ENTY:food,What is in guacamole ? 7b1bf3f8-6dd9-46ad-b2ea-fa54c93cc73d ) 's recipe for avocado salad .,ENTY:food,0.1756
+ENTY:food,What kind of meat is used in Philly cheesesteaks ?,ENTY:food,0.1661
+NUM:perc,What percentage of Americans believe in reincarnation ? 24 % .,NUM:perc,0.2201
+NUM:perc,What percentage of Americans own cats ? 37 percent .,NUM:perc,0.2148
+NUM:perc,What percentage of all Americans own guns ? 51 percent .,NUM:perc,0.2131
+NUM:perc,What percentage of U.S.government spending goes to education ?,NUM:perc,0.21
+NUM:perc,What percentage of Americans live below poverty level ? 20 % .,NUM:perc,0.2091
+NUM:perc,What percentage of U.S.Americans own stocks ?,NUM:perc,0.2075
+NUM:perc,What percentage of Americans read five books in 2019 ?,NUM:perc,0.2016
+NUM:perc,What percentage of Americans own stock? 49 percent .,NUM:perc,0.1694
+NUM:perc,What percentage of Americans own at least one book ?,NUM:perc,0.1626
+NUM:perc,What percentage of Americans own their homes ? 63 % .,NUM:perc,0.1584
+DESC:def,"What does ""skeptical"" mean ?󠁧",DESC:def,0.2766
+DESC:def,What does ''Brahmin'' mean ? ```DESC```,DESC:def,0.264
+DESC:def,"What does ""cetacean"" mean ?",DESC:def,0.2478
+DESC:def,What does ``chiaroscurist'' mean ?,DESC:def,0.2455
+DESC:def,"What does ""gallimaufry"" mean ?",DESC:def,0.2455
+DESC:def,"What does ""Kilocalorie"" mean ?",DESC:def,0.2455
+DESC:def,What does ``sensitization`` mean ?,DESC:def,0.2311
+DESC:def,What does ``sabotage`` mean ?,DESC:def,0.2219
+DESC:def,What does ``sinecure '' mean ?,DESC:def,0.2114
+DESC:def,"What does ""cognitive dissonance"" mean ?",DESC:def,0.1889
+ENTY:product,What brand of soap does not test its animals ?,ENTY:product,0.255
+ENTY:product,What is a name of brand which makes Listerine ?,ENTY:product,0.2421
+ENTY:product,What brand makes Oreo cookies ? `ENTY : product`,ENTY:product,0.2349
+ENTY:product,What is Gatorade ? Èn endpoint product of Procter & Gamble .,ENTY:product,0.1938
+ENTY:product,"What product did Henry Heinz invent ? 
+
+ LABEL : ENTITY:PRODUCT`",ENTY:product,0.1923
+ENTY:product,What brand of camera did Ansel Adams use ?,ENTY:product,0.1707
+ENTY:product,What is Procter & Gamble 's new fragrance for men ?,ENTY:product,0.17
+ENTY:product,What product does L'Oreal use to enhance hair growth ?,ENTY:product,0.164
+ENTY:product,What product does DuPont sell for keeping rabbits out of vegetable gardens ?,ENTY:product,0.1616
+ENTY:product,What is called the ``Elderflower '' in perfume ?,ENTY:product,0.1411
+NUM:weight,How much does it weigh to lift 50 pounds?,NUM:weight,0.2116
+NUM:weight,What does this scale weigh ? 55 pounds .,NUM:weight,0.1923
+NUM:weight,How much does it weigh to get 10 pounds down ?,NUM:weight,0.1855
+NUM:weight,How much does it cost to ship 50 pounds ?,NUM:weight,0.1688
+NUM:weight,How much does this box weigh ? 2 pounds .,NUM:weight,0.1557
+NUM:weight,How much does three hundred pounds weigh ? LABEL :NUM.weightDESCRIPTION inquiries.about.the.weights.or.mass.of.objects .,NUM:weight,0.1403
+NUM:weight,What is one pound ? 10 pounds in kilograms .9 kilogram equal to how many ounces lbs.?,NUM:weight,0.1356
+NUM:weight,How much does 1 pound feel to someone who weighs one hundred pounds ?,NUM:weight,0.1326
+NUM:weight,What is China 's heaviest fish ? 1 : pound .7 grams to kilogram = How much does it weigh in kilograms?,NUM:weight,0.1303
+NUM:weight,"How much does one ounce weigh ? 1 , How many pounds is fifty tons equal to in stones .",NUM:weight,0.1257
+HUM:ind,Who was known as America 's first woman in space ?,HUM:ind,0.2579
+HUM:ind,Who was the first black major league baseball player ?,HUM:ind,0.2525
+HUM:ind,"Who is James Meredith , who became first black student at Ole Miss ?",HUM:ind,0.2512
+HUM:ind,Who was the first female to win four Olympic gold medals ?,HUM:ind,0.2458
+HUM:ind,Who is known for being Americas first African American Secretary of Defense ?,HUM:ind,0.2155
+HUM:ind,Who is known as 'the father of modern China' ?,HUM:ind,0.2001
+HUM:ind,Who was America 's first black millionaire ? 🤔 👑 💸,HUM:ind,0.1973
+HUM:ind,Who is considered America 's first computer programmer ?,HUM:ind,0.1802
+HUM:ind,Who was John Steinbeck 's inspiration for East of Eden ?,HUM:ind,0.1758
+HUM:ind,Who is China's most famous astronaut ? Richard Garriott .,HUM:ind,0.1733
+NUM:speed,How fast does sound travel through air at sea level ?,NUM:speed,0.2562
+NUM:speed,How fast does light move ? 4/10,NUM:speed,0.2519
+NUM:speed,How fast does sound travel in air at sea level ?,NUM:speed,0.1856
+NUM:speed,How fast does water boil at different altitudes ?,NUM:speed,0.1769
+NUM:speed,How fast does sound travel through water ? 0,NUM:speed,0.1696
+NUM:speed,How fast can you swim without using your arms ?,NUM:speed,0.1681
+NUM:speed,How fast do tornadoes move ? SPEED : 30-40 mph .,NUM:speed,0.1663
+NUM:speed,How fast does sound travel through water ? #NUM=speeds 1500meterssecondsinairand1200inwater .,NUM:speed,0.1651
+NUM:speed,How fast do tornadoes usually rotate ? 5,NUM:speed,0.1495
+NUM:speed,How fast can peregrine falcons dive when hunting ?,NUM:speed,0.1482
+LOC:state,What state has capital Tallahassee ? Florida .,LOC:state,0.3541
+LOC:state,What state borders Alaska ? Massachusetts . Michigan Maine Hawaii Nebraska Rhode Island Vermont Washington California Oregon Tennessee New York Louisiana Alabama Arkansas Delaware Oklahoma Florida North Dakota South Carolina Texas Montana Wyoming Maryland Iowa West Virginia Kentucky Ohio Wisconsin Minnesota Mississippi Idaho Connecticut Indiana Illinois Georgia Nevada Kansas Missouri Pennsylvania Utah Arizona Colorado District of Columbia Louisiana which has no border with another US mainland state at all where can one find such information how many land boundaries does it share with other countries what is unique among those neighboring lands why should there never occur any conflict in,LOC:state,0.247
+LOC:state,"What state has Austin as its capital ? USA ,Texas .",LOC:state,0.2463
+LOC:state,What state is often called The Volunteer State ? US .,LOC:state,0.2367
+LOC:state,What state has two distinct time zones ? Tennessee .,LOC:state,0.2289
+LOC:state,"What is Connecticut's state bird ? Massachusetts ' capital city , Boston . Michigan has what number of electoral votes in presidential elections 10 points What US president was from Minnesota How many times did Hawaii vote for its sovereignty at UNICEF United States Senator Bernie Sanders representing which us district Which major American river flows through Illinois The Mississippi River runs along part of Arizona ` s border with Mexico Atchafalaya Basin Located where State that produced more than twice as much coal Alabama West Virginia New Hampshire & Vermont Maine",LOC:state,0.1925
+LOC:state,What state is called 'The Old North State' ?,LOC:state,0.1924
+LOC:state,What state is known as The Centennial State ?,LOC:state,0.1886
+LOC:state,What US state is known as The Pelican State ?,LOC:state,0.1749
+LOC:state,What state has Denver as its capital ? Colorado .,LOC:state,0.1723
+NUM:count,How many countries border Brazil ? 11 :0 .,NUM:count,0.2142
+NUM:count,How many states have coastlines along three different bodies ?,NUM:count,0.2083
+NUM:count,What is China 's average birthrate per thousand population ?,NUM:count,0.1991
+NUM:count,How many countries have names containing 'stan' ?,NUM:count,0.1843
+NUM:count,How many hours does it take to become fully licensed in most states ?,NUM:count,0.1613
+NUM:count,How many times has Madonna been to number one ?,NUM:count,0.1532
+NUM:count,How many books does Haruki Murakami write ?,NUM:count,0.1524
+NUM:count,How many countries border Spain ? 1 : Europe .,NUM:count,0.142
+NUM:count,How many species belong to order Soricomorpha ?,NUM:count,0.1416
+NUM:count,How many countries does Mexico share borders with ? ) LABEL :NUM=countDESCRIPTION :Inquries ...more info... Howmany countri esdoes Mexicoshareborderswith?,NUM:count,0.14
+ENTY:dismed,What is myasthenia gravis ' primary cause ?,ENTY:dismed,0.2306
+ENTY:dismed,What is Crohn 's disease ? ðŸ•ºð¾¿°ï¸,ENTY:dismed,0.2101
+ENTY:dismed,What is another name for Crohn 's disease ?,ENTY:dismed,0.183
+ENTY:dismed,What is chronic bronchitis ? A disease of lungs .,ENTY:dismed,0.1467
+ENTY:dismed,What is pseudomembranous colitis ?,ENTY:dismed,0.1424
+ENTY:dismed,What is chronic lymphocytic leukemia ?  LABEL: ENTY : dismed,ENTY:dismed,0.1411
+ENTY:dismed,What disease is characterized by chronic inflammation of connective tissue ?,ENTY:dismed,0.131
+ENTY:dismed,What is perioral herpes ? ðŸŒ¸ï¿½s treatment options for prevention of future recurrences .,ENTY:dismed,0.1275
+ENTY:dismed,What is Korsakoff 's syndrome ?,ENTY:dismed,0.1255
+ENTY:dismed,What is myelodysplastic syndrome ?,ENTY:dismed,0.1216
+NUM:volsize,What is Volta Lake 's water capacity ?,NUM:volsize,0.1732
+NUM:volsize,How big is Lake Baikal ? 8k + views .,NUM:volsize,0.1492
+NUM:volsize,"How big is Mount Everest ? 7,000 feet tall .",NUM:volsize,0.1428
+NUM:volsize,What is Earth 's mass in cubic meters ?,NUM:volsize,0.1277
+NUM:volsize,"How big is Mount Everest ? 29,029 feet tall .",NUM:volsize,0.1234
+NUM:volsize,What is the world 's largest freshwater lake ?,NUM:volsize,0.1188
+NUM:volsize,What is Earth 's circumference ? 24 inches around .,NUM:volsize,0.1122
+NUM:volsize,How big is Pluto ? 13 inches in diameter .,NUM:volsize,0.1117
+NUM:volsize,What is Jupiter 's mean diameter ? 10 inches .,NUM:volsize,0.1089
+NUM:volsize,"How large is Pluto ? 12 inches long , weighing around four hundred twenty pounds .",NUM:volsize,0.1086
+ABBR:exp,"What is HMO ? `ABBR` What does ""IPO"" mean in business transactions? ```ABL``` :  ABM, ACLS etc... , AMPEX,, AMPAS, ARF, APHA ''APPL', BPH ...; CMA., CPS ; DMZ . ````'' DPT .. 'EOD' FHS ,, GCE IIRC ISO JSTARS KFC LBS MAJN MCD MOLE MPD NAHB NASDAQ NBA",ABBR:exp,0.1378
+ABBR:exp,"What does ASAP mean ? 
+
+ LABEL:AABBREXP",ABBR:exp,0.1225
+ABBR:exp,"What does ""T.D."" mean ? (ABBR)",ABBR:exp,0.1099
+ABBR:exp,"What does ASL stand for ? 
+
+ LABEL:A...",ABBR:exp,0.1048
+ABBR:exp,"What does ""WMA"" stand for ? 
+
+ LABEL:AABBREXP : What Does Wma Stand For ? )",ABBR:exp,0.1025
+ABBR:exp,"What does NASA stand for ? <u>ABBR:</u><b/exp/</p></BLOCKQUOTE/> &lt; LABEL:<br /> /DESCRIPTION< br& gt;& lt ; What inquiries regarding<br/><pre&gt<pre class=""highlight"">questions, labels)< p > inquires questions </ pre&#x3e;</strong>. ""NASA"", one . The stands it : , etc., which includes other details as requested by users ... More information is needed before specific examples can provided.",ABBR:exp,0.1017
+ABBR:exp,"What does GPS stand for ? 
+
+LABELED AS :ABBR/exp .",ABBR:exp,0.0988
+ABBR:exp,"What does GPA stand for ? 
+
+ LABEL :ABBR/exp",ABBR:exp,0.0955
+ABBR:exp,"What does P.O.W mean ? ````ABBR`,label:A```EXP`. <|arc4line|> What is OSHA 's most important number for employers ? LABEL :abbr:description inquiries concerning abbreviations , their meanings . | arc 0, line -1 > Label Abbreviation Description Ques tions ...",ABBR:exp,0.092
+ABBR:exp,What is HMO ? It stands for Health Maintenance Organization .,ABBR:exp,0.0855
+ENTY:religion,What was Islam named after ? religion : Buddhism to Christianity .,ENTY:religion,0.2584
+ENTY:religion,What is Buddhism called in its Sanskrit language ?,ENTY:religion,0.2266
+ENTY:religion,What was Islam founded by ? 1 religion .,ENTY:religion,0.2074
+ENTY:religion,What was Mahayana Buddhism founded in ? ðŸ”¦ðŸ›ï¸ (ENTY : religion ),ENTY:religion,0.1916
+ENTY:religion,"What Eastern philosophy believes in reincarnation ? 
+
+ LABEL : ENT RELIGION",ENTY:religion,0.1912
+ENTY:religion,"What Eastern philosophy is characterized by nondualism , meditation and yoga ?",ENTY:religion,0.1635
+ENTY:religion,What major world religion is often called Judaism in Europe but Israelites elsewhere ?,ENTY:religion,0.1595
+ENTY:religion,"What was Buddhism 's origin ? religion : Jainism , Confucianism etc . ; belief system that originated in ancient India around 563 BCE with Siddhartha Gautama being its founder )?",ENTY:religion,0.1418
+ENTY:religion,What major world religion believes in five sacred laws called Yamas ?,ENTY:religion,0.137
+ENTY:religion,What religion is believed to have originated in ancient Sumer ?,ENTY:religion,0.1227
+ENTY:cremat,What is Peter Serafinowicz 's most famous comedy show ?,ENTY:cremat,0.2761
+ENTY:cremat,What book is titled The Caine Mutiny ?,ENTY:cremat,0.222
+ENTY:cremat,What is James Cameron 's highest grossing film ?,ENTY:cremat,0.2068
+ENTY:cremat,What is Jane Austen 's first novel ?,ENTY:cremat,0.1751
+ENTY:cremat,What novel by Jane Austen was adapted into Wes Anderson 's 2005 film ?,ENTY:cremat,0.1682
+ENTY:cremat,What is The Sopranos' second movie ?,ENTY:cremat,0.1628
+ENTY:cremat,What 1960s novel by Philip Roth features Nathan Zuckerman ?,ENTY:cremat,0.1617
+ENTY:cremat,What was Oprah Winfrey 's first book club selection in 1996 ?,ENTY:cremat,0.129
+ENTY:cremat,What classic novel by Mark Twain is set in Connecticut ?,ENTY:cremat,0.11
+ENTY:cremat,"What movie is known for its iconic line ""Here's Johnny""?",ENTY:cremat,0.105
+LOC:country,"What country has borders with Austria , Hungary . Czechoslovakia ?",LOC:country,0.1742
+LOC:country,What country does Queen Elizabeth II rule ? India .,LOC:country,0.1726
+LOC:country,What country borders Austria to its east ? Nepal .,LOC:country,0.17
+LOC:country,"What country is bordered by Belgium , Luxembourg ? Switzerland Denmark France Germany The Netherlands Italy Austria Spain Norway Poland Russia Sweden United Kingdom Portugal Ireland Czechoslovakia East Germany Hungary Greece Israel West Indies Turkey Cyprus Malta Bulgaria Finland Albania Iceland Greenland Yugoslavia Lebanon Romania Estonia Lithuania Moldova Latvia China South Africa Sri Lanka Indonesia Vietnam Bangladesh North Korea Syria Tunisia Morocco Myanmar Nigeria Kenya Brazil Mexico Egypt Jordan Taiwan Ethiopia Thailand Burma Saudi Arabia Pakistan Afghanistan Iraq Uganda Chile Peru Rwanda Ghana Colombia India Iran Argentina Philippines Guatemala Honduras Tanzania Zimbabwe Nepal Cambodia Sudan Venezuela",LOC:country,0.1625
+LOC:country,What country borders Chile to its north ? Nepal .,LOC:country,0.1604
+LOC:country,What is Norway 's capital ? Denmark has that country as its bordering state .,LOC:country,0.1335
+LOC:country,What country is bordered by Russia to its north ?,LOC:country,0.1232
+LOC:country,What is Russia called ? US region 's largest country by land area .,LOC:country,0.1221
+LOC:country,What country is often called 'The Land of Smiles' ?,LOC:country,0.1184
+LOC:country,"What European country has borders with France , Spain & Andorra ?",LOC:country,0.118
+ENTY:plant,"What type of flower is called ""love lies bleeding"" ?",ENTY:plant,0.1034
+ENTY:plant,What plant species is known for its sweetest honey ?,ENTY:plant,0.1032
+ENTY:plant,What kind of plant is bamboo ? `ENTY:planet`,ENTY:plant,0.0995
+ENTY:plant,"What type of plant is lavender ? A perennial flowering herb that grows in warm , dry climates .",ENTY:plant,0.0988
+ENTY:plant,"What type of vine grows over stone walls ? 
+
+ENTY : plant",ENTY:plant,0.0967
+ENTY:plant,What kind of flower is known as Maybell ?,ENTY:plant,0.0941
+ENTY:plant,What kind of plant is called boxwood ? Plantae .,ENTY:plant,0.0861
+ENTY:plant,What is this flowering vine used in wreaths ?,ENTY:plant,0.0841
+ENTY:plant,What is this plant called that has red berries ?,ENTY:plant,0.0787
+ENTY:plant,"What is known as ""The King of Fruits"" ?",ENTY:plant,0.0786
+ENTY:animal,What animal is known as king of beasts ? ðŸ¦,ENTY:animal,0.1368
+ENTY:animal,"What animal is known as ""King of Beasts"" ?",ENTY:animal,0.1333
+ENTY:animal,What kind of animal was Blinky ? The blind mole rat .,ENTY:animal,0.1128
+ENTY:animal,What animal 's foot is called its hoof ?,ENTY:animal,0.0948
+ENTY:animal,"What bird is known as both ""the king"" ?",ENTY:animal,0.0862
+ENTY:animal,What animal is known as 'king of beasts' ?,ENTY:animal,0.0856
+ENTY:animal,What kind of bird lives in harmony with humans ?,ENTY:animal,0.0854
+ENTY:animal,"What breed of dog is known as ""man's best friend ?""",ENTY:animal,0.0827
+ENTY:animal,"What type of animal is known as ""King Of The Jungle"" ?",ENTY:animal,0.0766
+ENTY:animal,What animal has nine lives ?󠁧󠁢 .,ENTY:animal,0.0739
+DESC:manner,How does one know whether you ' re getting better ?,DESC:manner,0.191
+DESC:manner,What does it take to develop Alzheimer 's disease ?,DESC:manner,0.1642
+DESC:manner,How does it work ? That 's exactly what you do when they try to take away your life .,DESC:manner,0.1491
+DESC:manner,How do you make sure your glasses stay clean ?,DESC:manner,0.1345
+DESC:manner,How do bees communicate with each other through dance ?,DESC:manner,0.1299
+DESC:manner,How do you know if your computer has been hacked ?,DESC:manner,0.1264
+DESC:manner,How does one know if their cat loves them ?,DESC:manner,0.1256
+DESC:manner,What kind of exercises should one do to get six pack abs ?,DESC:manner,0.1218
+DESC:manner,How do people get away with all this stuff ?,DESC:manner,0.1022
+DESC:manner,How do dolphins use echolocation to navigate through water ? LABEL :DESCmannerDESCRIPTION:Questionsabouttheprocessormethodbysomethingoccursorisdoney .,DESC:manner,0.0855
+HUM:desc,Who is Helen Keller ? The deaf-and-dumb girl who wrote her autobiography was what woman?,HUM:desc,0.284
+HUM:desc,Who was Florence Henderson ?󠁧Ã‚â€˜s mother of five children .,HUM:desc,0.2488
+HUM:desc,Who were Alexander Graham Bell 's first telephone operators ?,HUM:desc,0.207
+HUM:desc,"Who was Helen Keller ? The deaf , dumb lady who could not see .",HUM:desc,0.1869
+HUM:desc,What did James Michener say of his wife's influence ?,HUM:desc,0.1665
+HUM:desc,"Who was Genghis Khan ? His father , Yesugei, had been murdered by Tatars . He killed them all but one who escaped to tell what happened in China 's Tangut Empire with this warrior named Temujin after becoming chief of his tribe called Merkit Clan he married Khulan whom bore him two sons Jochy ... (4) & Chagaan their daughter Alt... also there were others children from other women too : Yisuegi is thought ot have come",HUM:desc,0.152
+HUM:desc,Who is Alexander Graham Bell ? . ðŸ¤”,HUM:desc,0.1417
+HUM:desc,Who was Cleopatra ? Her name means ``glory of her father''.,HUM:desc,0.1134
+HUM:desc,Who is Jane Austen 's great niece ?,HUM:desc,0.0982
+HUM:desc,Who discovered Hawaii ? ðŸŒ´ðŸ‘¥ï¸,HUM:desc,0.0944
+ENTY:body,"What part is between your elbow bone ? 
+
+(LABEL: ENTYPY :body )",ENTY:body,0.1376
+ENTY:body,"What is the largest organ in your skin ? 
+
+(LABEL: ENTY:body )",ENTY:body,0.1227
+ENTY:body,"What does your appendix do in our bodies ? 
+
+(LABEL: ENTY,body)",ENTY:body,0.1154
+ENTY:body,What part does your thyroid gland produce ? LABEL: ENTY :body,ENTY:body,0.113
+ENTY:body,What part does your heart use to pump blood throughout its route ?,ENTY:body,0.1085
+ENTY:body,"What organ is located in your chest ? 
+
+(LABEL: ENT Y : body )",ENTY:body,0.0882
+ENTY:body,"What is another name for fibula ? 
+
+(LABEL: ENTY:body)",ENTY:body,0.0764
+ENTY:body,What is in charge for your heart beating ? ` LABEL:` ENTITY :` body ```.,ENTY:body,0.0674
+ENTY:body,What is another part that connects your skull to vertebrae ?,ENTY:body,0.0618
+ENTY:body,"What is found in between your ears ? 
+
+(LABEL: ENTYY.body)",ENTY:body,0.0597
+ENTY:letter,What is each letter of Switzerland called ? ```` (ENTY : LETTER),ENTY:letter,0.1392
+ENTY:letter,What letter is always written backwards ? `` ENTITY : LETTER `` .,ENTY:letter,0.1205
+ENTY:letter,"What letter follows ""Z"" alphabetically ?󠁧â‚ï¸ 0",ENTY:letter,0.1193
+ENTY:letter,What letter is represented by `` `H' '' ?,ENTY:letter,0.1155
+ENTY:letter,What letter comes between O\'s three friends ?,ENTY:letter,0.1118
+ENTY:letter,What is another letter that comes after 'K' ?,ENTY:letter,0.1034
+ENTY:letter,What letter follows X ? ðŸ•µ,ENTY:letter,0.0992
+ENTY:letter,"What letter follows X ? 
+
+(LABEL : ENTY : letter)",ENTY:letter,0.0987
+ENTY:letter,What is Greece 's letter ? ðŸ¤”,ENTY:letter,0.0918
+NUM:period,How long is China 's longest river ? 34 seconds ≈ How many minutes in half hours .,NUM:period,0.1242
+NUM:period,How many weeks does it take to learn French in Europe ?,NUM:period,0.0988
+NUM:period,How long does it take to watch all Star Wars movies in succession ?,NUM:period,0.097
+NUM:period,How long has Nelson Mandela been out ? eight years .,NUM:period,0.0855
+NUM:period,How long have people lived in Antarctica ? 1 second ago .,NUM:period,0.0794
+NUM:period,How long does it take to get from Washington D.C.to New York City ?,NUM:period,0.0712
+NUM:period,How long does it take to get from New York City to Los Angeles ?,NUM:period,0.0704
+HUM:title,What was Nelson Mandela 's title ? 0,HUM:title,0.1178
+HUM:title,"What is Albert Einstein 's position ? 
+
+(HUM : title )",HUM:title,0.0925
+HUM:title,What was Napoleon 's title at Waterloo ? ) LABEL : HUMAN<title >DESCRIPTION inquiries tentang judul atau jabatan individu .,HUM:title,0.0869
+HUM:title,What is Elizabeth Hurley 's title ? # HUM :title,HUM:title,0.0868
+HUM:title,"Who is Germany's president ? 
+
+(LABEL:HUM:title)",HUM:title,0.073
+HUM:title,"What was Henry Kissinger 's occupation ? 
+
+(LABEL:HUM<title>)",HUM:title,0.0706
+HUM:title,What was Jane Fonda 's title in Barbarella ?,HUM:title,0.068
+HUM:gr,Who discovered America '79 ? Carnegie Corporation of New York .,HUM:gr,0.1374
+HUM:gr,What organization is behind the new national airline that recently merged with Northwest Airlines ?,HUM:gr,0.1278
+HUM:gr,What company has been named as one of America's most admired corporations by Fortune magazine ?,HUM:gr,0.1215
+HUM:gr,"What company does Michael Dell own ? 
+
+(LABEL:HUM : gr ) # What companies do celebrities own , inquiring into famous entrepreneurs ' business holdings .",HUM:gr,0.0858
+HUM:gr,What is the name of America 's oldest bank ?,HUM:gr,0.0765
+HUM:gr,What is the name of Japan 's main governing body ?,HUM:gr,0.0617
+ENTY:word,"What English word originated from Sanskrit ? ) LABEL: ENTZord :worq ``)`DESCRIPTION) } QUESTIONS ABOUT WORDS , INCLUDING THEIR MEANINGS ORIGINS AND USAGE .",ENTY:word,0.1168
+ENTY:word,What word comes from Latin for 'twice' ?,ENTY:word,0.111
+ENTY:word,What is Pidgin in English?󠁧â€ðŸ‡º,ENTY:word,0.0856
+ENTY:word,"What is ""sphinx"" in Greek ? ` LABEL : ENTITY WORD `.",ENTY:word,0.0614
+ENTY:word,What is ``wamphrayed '' in English ?,ENTY:word,0.0539
+LOC:city,"What city is known as City of Lights ? Paris , France .",LOC:city,0.1634
+LOC:city,Where is Dijon ? France 's capital of wine country .,LOC:city,0.1174
+LOC:city,What city is home to many famous art museums ? Chicago .,LOC:city,0.1126
+LOC:city,What city in France has its own international airport ?,LOC:city,0.1053
+LOC:city,"What U.S city is known as the "" Athens of America"" ?",LOC:city,0.0964
+ABBR:abb,"What is NASA 's abbreviation ? 
+
+(LABEL:AABB)",ABBR:abb,0.095
+ABBR:abb,What is NASA 's name in its abbreviation ?,ABBR:abb,0.0906
+ABBR:abb,"What is NASA 's abbreviation ? 
+
+(LABEL:AHHBR:NASA)",ABBR:abb,0.0725
+ABBR:abb,"What is IBM 's stock symbol ? 
+
+(LABEL:AABB) #ABBR : abb `IBM`",ABBR:abb,0.0687
+ENTY:veh,What is one of Leonardo da Vinci 's famous inventions ?,ENTY:veh,0.1498
+ENTY:veh,"What is named for both its French originator Pierre Dupont de L'Étang , his American partner John Stevens ?",ENTY:veh,0.1202
+ENTY:veh,What was Napoleon Bonaparte 's personal vehicle ?,ENTY:veh,0.1014
+ENTY:veh,What is named after its inventor 's horse ?,ENTY:veh,0.0959
+NUM:dist,How long is 20 kilometers ? )NUM:distance,NUM:dist,0.099
+NUM:dist,How long is Lake Superior ? 7 yards .,NUM:dist,0.0951
+NUM:dist,What is approximately one eighth mile ? The quartermile mark .,NUM:dist,0.08
+NUM:dist,How long is Route 66 ? A highway in Arizona .,NUM:dist,0.0743
+DESC:reason,Why did humans invent cars ? #DESC : reason,DESC:reason,0.0814
+DESC:reason,What is that one thing called when you eat so much food your stomach gets too full ?,DESC:reason,0.0814
+DESC:reason,"Why did dinosaurs go extinct ? 
+
+(LABEL:DESC)",DESC:reason,0.0725
+DESC:reason,"Why did cats evolve to purr ? 
+
+(LABEL:DESC)",DESC:reason,0.0558
+ENTY:substance,What is water 's chemical formula ?-label enty substance-0),ENTY:substance,0.123
+ENTY:substance,"What is DDT ' s chemical structure ? # ENT Y : substance 7/9/5 -1-2-HO CHCI3 CI=CH .CCL4 Cl HOO CCCI OCl IONIC EQN +H CL ---> (Dichlorodiphenyltricloethane) , Pesticide insecticide & poison inorganic compound chlorinated hydrocarbon organoch lorine chlorine derivative dichlorethane ethanoate estere chloride diethylph",ENTY:substance,0.1152
+ENTY:termeq,What is SARS ? An acronym for Severe Acute Respiratory Syndrome .,ENTY:termeq,0.1221
+ENTY:termeq,What is another term for ``wet nurse '' ?,ENTY:termeq,0.0706
+ENTY:symbol,What is the symbol for Mercury ? 🤔,ENTY:symbol,0.1076
+NUM:money,How much will I have to pay if my credit card has 3 interest-free periods ?,NUM:money,0.1064

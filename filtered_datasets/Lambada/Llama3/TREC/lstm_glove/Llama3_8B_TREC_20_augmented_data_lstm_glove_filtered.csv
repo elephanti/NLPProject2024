@@ -1,0 +1,426 @@
+label,text,predicted_label,probability
+ENTY:instru, Ray Charles is most associated with what musical instrument ?,ENTY:instru,0.9705
+ENTY:instru, Ray Charles is best known for playing what instrument ?,ENTY:instru,0.9466
+ENTY:instru, What instrument is Ray Charles best known for playing ?,ENTY:instru,0.9466
+ENTY:instru, Ray Charles plays which musical instrument ? ]|url=,ENTY:instru,0.9415
+ENTY:instru, What instrument does Ray Charles play ? . - 1998,ENTY:instru,0.9286
+ENTY:instru, What instrument does Ray Charles play ? . _money,ENTY:instru,0.9097
+ENTY:instru, What musical instrument does Ray Charles play ? ] ...,ENTY:instru,0.9055
+ENTY:instru, What musical instrument did Jimi Hendrix play ?,ENTY:instru,0.9036
+ENTY:instru, What musical instrument does Gypsy Rose Lee play ?,ENTY:instru,0.8958
+ENTY:instru, What musical instrument did Jim Bowie play ? A. fiddle B . harmonica C. mandolin D. accordion,ENTY:instru,0.8891
+NUM:date, When is the second day of Hanukkah this year ?,NUM:date,0.8228
+NUM:date, What is the first day of February 2008 ?,NUM:date,0.7334
+NUM:date," When was the Battle of Midway fought ? Date: 3/4 June ,1942",NUM:date,0.7295
+NUM:date, What year did the Korean War begin ? 1950,NUM:date,0.7217
+NUM:date," What year did the Soviet Union dissolve ? The breakup of Yugoslavia , when and where was it ?.",NUM:date,0.7126
+NUM:date, When was the Battle of Thermopylae ?,NUM:date,0.6987
+NUM:date, What was the first day of Operation Desert Storm ?,NUM:date,0.6976
+NUM:date, What year was the Battle of Marathon ? . 490,NUM:date,0.6631
+NUM:date, When was the first telephone installed ? 1876,NUM:date,0.66
+NUM:date, What was the last day of Woodstock ? ],NUM:date,0.6532
+ENTY:sport, What sport did the Olympic Games include in 648 BC ?,ENTY:sport,0.7704
+ENTY:sport, What are the five most popular team sports in Canada ?,ENTY:sport,0.7257
+ENTY:sport, What sport did the Olympic Games feature for a brief time between 1924 and ?,ENTY:sport,0.7175
+ENTY:sport, What is the only Olympic sport to feature teams from 51 nations ?,ENTY:sport,0.7013
+ENTY:sport, In which sport did Babe Didrikson-Zaharias win Olympic gold ?,ENTY:sport,0.6984
+ENTY:sport, Which is the most popular team sport in Italy ?,ENTY:sport,0.6802
+ENTY:sport, What Olympic sport combines cross - country skiing and shooting ?,ENTY:sport,0.6716
+ENTY:sport, What is the most popular spectator sport in Russia ?,ENTY:sport,0.6239
+ENTY:sport, What sport was played by Knab-kuppe ?,ENTY:sport,0.5822
+ENTY:sport, What are the two most popular spectator sports in Mexico ?,ENTY:sport,0.5755
+NUM:speed, How fast does the speed of light travel ? |how+fast|,NUM:speed,0.9081
+NUM:speed, How fast does the speed of light travel ? |how-fast-does-the-speed-of-light-travel|,NUM:speed,0.9081
+NUM:speed, How fast does the speed of light travel ? 1,NUM:speed,0.86
+NUM:speed, How fast does the speed of light travel in a vacuum ?,NUM:speed,0.7893
+NUM:speed, How fast does the speed of light in a vacuum travel ?,NUM:speed,0.7893
+NUM:speed, How fast is the speed of sound ? 2,NUM:speed,0.7475
+NUM:speed, How fast does the fastest car go ? What is its top speed in mph and kph,NUM:speed,0.7231
+NUM:speed, How fast is the speed of light ? . -,NUM:speed,0.6944
+NUM:speed, How fast does the speed of light in a vacuum ?,NUM:speed,0.6817
+NUM:speed, How fast does light travel ? | Where is the fastest speed limit in any city of India ?,NUM:speed,0.6662
+ENTY:food, What cocktail did Ernest Hemingway drink ? The Daiquiri .,ENTY:food,0.8416
+ENTY:food," What are good breakfast cereals ? Which ones taste best with milk and others that can be eaten dry from the box , which ever you like .",ENTY:food,0.7956
+ENTY:food, What drink do you mix an Irish coffee with ?,ENTY:food,0.792
+ENTY:food, What is a drink made from wine and orange juice ?,ENTY:food,0.7854
+ENTY:food, What is a cocktail made with gin and Dubonnet ?,ENTY:food,0.7836
+ENTY:food," What do you get if someone mixes whiskey , rum and tequila ?",ENTY:food,0.7827
+ENTY:food, What food did the Romans call cereal ? . what kind of bread is considered to be `` man 's oldest breakfast '',ENTY:food,0.7596
+ENTY:food, What breakfast cereal was first marketed as ''the food of the gods ?,ENTY:food,0.7518
+ENTY:food, What soft drink is served on airplanes ? . -,ENTY:food,0.7475
+ENTY:food, What condiment is served with the `` red-cooked '' dishes in Chinese restaurants ?,ENTY:food,0.7322
+LOC:country, Which country is the world 's richest ? China or Saudi Arabia ?.,LOC:country,0.7925
+LOC:country, What is the nationality of singer Nana Mouskouri ?,LOC:country,0.7864
+LOC:country, What country has the capital of Ouagadougou ?,LOC:country,0.7341
+LOC:country, What country 's capital is Bamako ? ],LOC:country,0.7143
+LOC:country, What country includes the nation of Transnistria ?,LOC:country,0.7125
+LOC:country, What country 's national airline is called Kuwait Airways ?,LOC:country,0.7003
+LOC:country, Which country has Montenegro on its northern border ?,LOC:country,0.6994
+LOC:country, Which is the wealthiest country in Africa ? ... more,LOC:country,0.698
+LOC:country, What country 's capital is Nouakchott ?,LOC:country,0.68
+LOC:country, What country 's second largest ethnic group is the Greek ?,LOC:country,0.6338
+LOC:other, Where is the Bermuda Triangle ? What ocean does it border on two sides?,LOC:other,0.9
+LOC:other," What are some major river systems ? I have heard of the Nile and Amazon , what others exist on this planet that people travel down or live near .",LOC:other,0.7439
+LOC:other, Where is the largest roller coaster in America ? It 's at Cedar Point Amusement Park . What ’ s its name and how tall does it go up on a hillside?,LOC:other,0.7284
+LOC:other, Where was the 1989 Tiananmen Square Massacre located ?,LOC:other,0.7044
+LOC:other, Where is the location of Cloud 's ? Followup,LOC:other,0.6963
+LOC:other, Where is the site of St. Anthony 's Fire ?,LOC:other,0.6902
+LOC:other, Where is the Taj Mahal ? The 7 Wonders of India .,LOC:other,0.6634
+LOC:other, Where is the center of gravity ? |exp=on,LOC:other,0.6532
+LOC:other, Where is the Taj Mahal ? What Indian city houses it in what state?,LOC:other,0.6425
+LOC:other, Where is the site of China 's Three Gorges Dam ?,LOC:other,0.5933
+ENTY:color, What color is the setting of The Color Purple ?,ENTY:color,0.942
+ENTY:color," What color is a chameleon ? ] Color : black , blue or brown",ENTY:color,0.9099
+ENTY:color, What color is `` The Color Purple '' ? ],ENTY:color,0.8613
+ENTY:color, What color is a pomegranate ? .,ENTY:color,0.8038
+ENTY:color, What is the color of caviar ? ],ENTY:color,0.771
+ENTY:color, What 's the most common hair color in Europe ?,ENTY:color,0.7602
+ENTY:color, What 's the dominant eye color among U.S. Caucasians ?,ENTY:color,0.7271
+ENTY:color, What color is Pepto Bismol ? .,ENTY:color,0.6746
+ENTY:color, What is the most common eye color in China ?,ENTY:color,0.6672
+ENTY:color, What color are tuxedos ? ] .,ENTY:color,0.6112
+ENTY:body, In which of your body parts is the only sweat that smells ?,ENTY:body,0.7407
+ENTY:body, Which is the softest organ in our body ?,ENTY:body,0.7079
+ENTY:body," Which is the largest gland in human body ? The liver , lungs or skin",ENTY:body,0.6568
+ENTY:body, Which is the largest gland in your body ? .,ENTY:body,0.6036
+ENTY:body, Which is the softest part of your body ?,ENTY:body,0.5692
+ENTY:body, Which part of the body has two trapezius muscles ?,ENTY:body,0.5433
+ENTY:body, In what part of the body is your sense of touch located ?,ENTY:body,0.5402
+ENTY:body, In what part of the body is your brain ?,ENTY:body,0.5288
+ENTY:body, What part of the body is your ear on ?,ENTY:body,0.4879
+ENTY:body, Which ear can most people hear better with ? The left or the right side of your body .,ENTY:body,0.4635
+ENTY:cremat, What movie starred Robert Redford and Faye Dunaway ?,ENTY:cremat,0.735
+ENTY:cremat, What book features the character of Harry Flashman ?,ENTY:cremat,0.7094
+ENTY:cremat, What is the largest movie studio in Hollywood ? ],ENTY:cremat,0.697
+ENTY:cremat, What is the title of a 1975 book by Tom Clancy ?,ENTY:cremat,0.6444
+ENTY:cremat, What 1989 film has a detective named Jack Ryan ?,ENTY:cremat,0.6209
+ENTY:cremat, What was the name of Jane Fonda 's first studio album ?,ENTY:cremat,0.6135
+ENTY:cremat, What was the name of Jack Nicholson 's character in Chinatown ?,ENTY:cremat,0.5786
+ENTY:cremat, What was the first feature-length Disney cartoon ? .,ENTY:cremat,0.5523
+ENTY:cremat, What was the name of Jane Fonda 's first movie ?,ENTY:cremat,0.5368
+ENTY:cremat, What movie featured a character named Jethro Bodine ?,ENTY:cremat,0.5052
+DESC:reason, What is the main reason people don't like cilantro ?,DESC:reason,0.8249
+DESC:reason, Why do people eat meat when there is no need to ?,DESC:reason,0.7231
+DESC:reason, Why did people stop using the telegraph ? ],DESC:reason,0.7001
+DESC:reason, Why did they build the Great Wall ? ] Source : http://www.worldatlas.com/why-did-they-build-the-great-wall.htm,DESC:reason,0.6148
+DESC:reason, Why do we say `` What goes up must come down ? '',DESC:reason,0.6005
+DESC:reason, Why do people have the belief in luck ? What is it based on or how does that come about,DESC:reason,0.5963
+DESC:reason," What is the function of a thermostat ? Why do we need them anyway , if I may ask .",DESC:reason,0.5825
+DESC:reason, Why was the zipper invented ? ] | why-did-they-invent-the-zipper,DESC:reason,0.5586
+DESC:reason, What makes a volcano erupt ? ] ] ]] .,DESC:reason,0.5574
+DESC:reason, Why did the Berlin Wall go up ? . ...,DESC:reason,0.556
+NUM:temp, How hot should the temperature be in a pizza oven ?,NUM:temp,0.5236
+NUM:temp, How hot should the temperature be when searing a steak ?,NUM:temp,0.4915
+NUM:temp, What 's the temperature for baking Peachy Oat Muffins ?,NUM:temp,0.4876
+NUM:temp, What is the temperature for cooking an alligator ?,NUM:temp,0.4509
+NUM:temp," What temperature is a medium flame ? , A chef asks you to turn on your oven 's broiler . How hot will the heat be in degrees Celsius",NUM:temp,0.4338
+NUM:temp," What is the temperature of space ? How cold , actually ...",NUM:temp,0.3986
+NUM:temp, What is the temperature of the sun 's core ?,NUM:temp,0.3977
+NUM:temp, What is the temperature of The Sun 's core ?,NUM:temp,0.3977
+NUM:temp, What is the temperature for cooking frozen lasagna ?,NUM:temp,0.3923
+NUM:temp, What is the temperature for baking Peachy Oat Muffins ?,NUM:temp,0.3847
+NUM:period, How long is the longest known gestation period ?,NUM:period,0.8297
+NUM:period, How long is the gestation period of ostriches ?,NUM:period,0.8249
+NUM:period, How long is the life span of a mayfly ?,NUM:period,0.7718
+NUM:period, How long is a human gestation period ? ...,NUM:period,0.7221
+NUM:period, How long is the average menstrual cycle ? The human gestation period in Mars years would be ...,NUM:period,0.6969
+NUM:period, How long is human gestation ? __TIME__,NUM:period,0.6606
+NUM:period, How long is human gestation ? __DESC__,NUM:period,0.6606
+NUM:period, How long is human gestation ? 9 months,NUM:period,0.6495
+NUM:period, What is the average length of a menstrual cycle ?,NUM:period,0.6159
+NUM:period, What is the length of a human gestation period ?,NUM:period,0.5978
+NUM:volsize, How big is the largest pizza you can buy ?,NUM:volsize,0.6351
+NUM:volsize, How large is the universe ? What size it has in diameter and how wide?,NUM:volsize,0.5826
+NUM:volsize," How large is a pint ? The contents of the bottle in Sidney , Australia are how big?",NUM:volsize,0.563
+NUM:volsize, How big is an acre ? The size of a football field .,NUM:volsize,0.5471
+NUM:volsize, How large is the largest continent ? The Antarctic !,NUM:volsize,0.4889
+NUM:volsize, How big is the Great Pyramid ? 4.6,NUM:volsize,0.4836
+NUM:volsize, How big is a quart ? | how-big-is-a-gallon,NUM:volsize,0.4762
+NUM:volsize, How big is a cubic yard ? The size of two refrigerators .,NUM:volsize,0.472
+NUM:volsize, How big is the world 's biggest refrigerator ?,NUM:volsize,0.467
+NUM:volsize, How big is an acre ? What size of land would be considered small by you?,NUM:volsize,0.4317
+ENTY:word, What English word comes from the Old Norse for `` blood '' ?,ENTY:word,0.7431
+ENTY:word, What is the second-shortest word in English ?,ENTY:word,0.6614
+ENTY:word, What is the second-most-common word in English ?,ENTY:word,0.6614
+ENTY:word, What 's the second-longest word in English ?,ENTY:word,0.6125
+ENTY:word, What English words are derived from Old Norse ? .,ENTY:word,0.5983
+ENTY:word, What is the longest word in English ? neologism,ENTY:word,0.5685
+ENTY:word, What is the singular of dice ? The word comes from Latin and means what in English?,ENTY:word,0.5433
+ENTY:word, What are the 10 most common words in English ?,ENTY:word,0.4831
+ENTY:word," What is the longest word in English ? How many letters are there , and what does it mean when translated into French or Latin",ENTY:word,0.4811
+ENTY:word," What is the longest word in Spanish ? 20,000-digitados",ENTY:word,0.4583
+DESC:manner, How do I get my computer to connect wirelessly ?,DESC:manner,0.9386
+DESC:manner, How can I teach my dog to shake hands ?,DESC:manner,0.8529
+DESC:manner," How can I get into the Peace Corps ? What do they require for application , etc.",DESC:manner,0.8336
+DESC:manner, How can I contact the president ? What number do you dial to get his office in Washington D.C.,DESC:manner,0.7883
+DESC:manner, How can I get rid of the `` You are now connected as user name .,DESC:manner,0.781
+DESC:manner, How do I properly use `you all ' ?,DESC:manner,0.7801
+DESC:manner, How can I get my money to start a business ?,DESC:manner,0.741
+DESC:manner, How do I find out who has access to what on my computer ?,DESC:manner,0.7368
+DESC:manner, How do I put a baby to sleep ? .,DESC:manner,0.6607
+DESC:manner, How do you get rid of carpenter ants ?,DESC:manner,0.6104
+HUM:ind, Who was the first U.S. president to send American troops abroad ?,HUM:ind,0.6827
+HUM:ind, Who is the only U.S. president to have served two non-consecutive terms ?,HUM:ind,0.6591
+HUM:ind, Who played `` The Fugitive '' ? |m|,HUM:ind,0.6524
+HUM:ind, Who is the only President to serve two non-consecutive terms ?,HUM:ind,0.5791
+HUM:ind," Who sang the hit song , `` Stairway to Heaven '' ?",HUM:ind,0.4484
+HUM:ind, Who wrote ` The Grapes of Wrath ' ?,HUM:ind,0.439
+HUM:ind, Who is the current U.S. Secretary of Defense ?,HUM:ind,0.4169
+HUM:ind, What school did Pocahontas attend ?,HUM:ind,0.4154
+HUM:ind," Which college did George Bush attend ? ] | What school educated our 42nd president , William Jefferson Clinton?",HUM:ind,0.3948
+HUM:ind, Who wrote the song `` The Battle Hymn of the Republic '' ?,HUM:ind,0.3826
+ENTY:plant, What kind of plant is poinsettia ?,ENTY:plant,0.6834
+ENTY:plant, What plant is the tobacco leaf a part of ?,ENTY:plant,0.6106
+ENTY:plant, What plant has the largest seed ? The date palm .,ENTY:plant,0.486
+ENTY:plant, What are some flowering plants ? . 0.925,ENTY:plant,0.4817
+ENTY:plant, What plant has the largest seed ? The __________ .,ENTY:plant,0.4653
+ENTY:plant, What plant has the largest seed ? The gourde is said to have seeds which are among its parts .,ENTY:plant,0.4561
+ENTY:plant, What plant has the largest seed ? The seeds of what is called a 'mermaid's purse' .,ENTY:plant,0.4278
+ENTY:plant, What plant has the largest seed ? . #2269,ENTY:plant,0.4142
+ENTY:plant, Which plant has the largest seeds ? The Amazonian water lily or a sunflower seedling .,ENTY:plant,0.384
+ENTY:plant," What plants are known as cannabaceae ? The plant cannabis , what else .",ENTY:plant,0.3686
+ENTY:religion, What two major world religions started in India ? ],ENTY:religion,0.4153
+ENTY:religion, What two major world religions started in India ? .,ENTY:religion,0.3919
+ENTY:religion, What are the main religions in Thailand ? 1.000,ENTY:religion,0.3809
+ENTY:religion, What was the official religion in ancient Egypt ? |kn|,ENTY:religion,0.3712
+ENTY:religion, In what religion did the ancient Egyptians believe ? .,ENTY:religion,0.3556
+ENTY:religion, What are the two major religions of Thailand ? ],ENTY:religion,0.3327
+ENTY:religion," In which religion did the Vedas , Ramayana and Mahabarata play major roles ?",ENTY:religion,0.3286
+ENTY:religion," What religion is most popular in Indonesia ? ' ,",ENTY:religion,0.324
+ENTY:religion, What was the religion of Ancient Egypt ? The ancient Egyptians believed in a pantheon .,ENTY:religion,0.3202
+ENTY:religion," Which is the largest religion in Vietnam ? . ,",ENTY:religion,0.2973
+ENTY:substance, What substance is found in the element strontium ?,ENTY:substance,0.4686
+ENTY:substance, What is the second lightest element ? . ...,ENTY:substance,0.4473
+ENTY:substance, What is a substance made of hydrogen and oxygen ?,ENTY:substance,0.4386
+ENTY:substance, What is the most common element in seawater ?,ENTY:substance,0.3548
+ENTY:substance, What 's the second most-abundant element in seawater ?,ENTY:substance,0.3548
+ENTY:substance," What is the second hardest substance ? The elements in order of hardness are : lithium , beryllium, boron and carbon .",ENTY:substance,0.3515
+ENTY:substance, What is the hardest substance ? The most incompressible element or material known to man.,ENTY:substance,0.3477
+ENTY:substance," What was the main component of water ? The gaseous mixture , or air .",ENTY:substance,0.3119
+ENTY:substance, What are the main elements in wood ? (Source Wikipedia ),ENTY:substance,0.3004
+ENTY:substance, What 's the most common element in seawater ?,ENTY:substance,0.292
+ENTY:animal, What kind of animal is Winnie the Pooh ?,ENTY:animal,0.7409
+ENTY:animal," What animals are the largest living bird ? . .
+The emu and ostrich",ENTY:animal,0.5224
+ENTY:animal, What was the breed of dog owned by Laika ?,ENTY:animal,0.4505
+ENTY:animal, What are all the species of animals in Noah 's Ark ?,ENTY:animal,0.4385
+ENTY:animal, What are some examples of animals that eat carrion ?,ENTY:animal,0.4112
+ENTY:animal, What are the common animals of Mongolia ? . ,ENTY:animal,0.3751
+ENTY:animal, What are the two animals pictured on Humane 's logo ?,ENTY:animal,0.3749
+ENTY:animal, Which are the heaviest birds ? The ostrich or pelican .,ENTY:animal,0.3566
+ENTY:animal," What is the most common breed of dog ? ,",ENTY:animal,0.346
+ENTY:animal, What animal is the world 's largest bird ?,ENTY:animal,0.3322
+HUM:gr, What is the largest university in California ? . 0.9,HUM:gr,0.6188
+HUM:gr," What 's the name of a university located in Cambridge , Massachusetts ?",HUM:gr,0.5676
+HUM:gr, What 's the largest company in France ? .,HUM:gr,0.5662
+HUM:gr, What university did the Duke Lacrosse players attend ?,HUM:gr,0.5482
+HUM:gr, What 's the name of China's largest airline ?,HUM:gr,0.5056
+HUM:gr, What is the name of Japan 's national airline ?,HUM:gr,0.4713
+HUM:gr, What university did President Obama attend ? ] | 18 University of Chicago,HUM:gr,0.4084
+HUM:gr, What is the name of New York 's baseball team ?,HUM:gr,0.4051
+HUM:gr, What is the largest university in North America ? - 2006-10,HUM:gr,0.3967
+HUM:gr, What is a group of crows called ? .,HUM:gr,0.3801
+ENTY:lang, What is a language spoken by the Apache ? ],ENTY:lang,0.5057
+ENTY:lang, What language was spoken by the Inuit ? ],ENTY:lang,0.3377
+ENTY:lang, What language is spoken by the Kurds ? ] 0.48,ENTY:lang,0.3269
+ENTY:lang, Which is the most widely spoken Romance language ? ],ENTY:lang,0.3069
+ENTY:lang, What language do the French speak ? ]|asked_in:MATH,ENTY:lang,0.299
+ENTY:lang, What language was spoken by the Mayans ? ],ENTY:lang,0.2822
+ENTY:lang," What language is spoken in Egypt ? The following languages are commonly used today : Nubian , Bedouin dialects of Arabic and English .",ENTY:lang,0.2809
+ENTY:lang, What language is mainly spoken in Brazil ? ]]>,ENTY:lang,0.2752
+ENTY:lang, What is a language spoken by the Sioux ? |,ENTY:lang,0.2725
+ENTY:lang," What two languages are spoken in Canada ? | Why is Spanish the second-most-spoken language , after English, on internet newsgroups?",ENTY:lang,0.2513
+NUM:perc, What percentage of American adults are obese ? 30.5 percent .,NUM:perc,0.6997
+NUM:perc, What percentage of the population is color blind ? %,NUM:perc,0.6965
+NUM:perc, What percentage of the body is muscle ? % DIST,NUM:perc,0.5901
+NUM:perc, What percentage of U.S. households own a microwave ?,NUM:perc,0.4648
+NUM:perc, What percentage of world energy consumption does Canada account for ?,NUM:perc,0.446
+NUM:perc, What percentage of the U.S. labor force is Hispanic ?,NUM:perc,0.3576
+NUM:perc, What percentage of the body is muscle ? 18,NUM:perc,0.3554
+NUM:perc, What percentage of the adult population is married ? 46,NUM:perc,0.3434
+NUM:perc, What percentage of the U.S. is forest ?,NUM:perc,0.3387
+NUM:perc, What percentage of the U.S. gross national product is spent on health care ?,NUM:perc,0.3383
+NUM:weight, How much does a poodle weigh ? The average weighs 40 to 60 pounds .,NUM:weight,0.5455
+NUM:weight, How much does a teaspoon of matter weigh in space ?,NUM:weight,0.3392
+NUM:weight, What is the average weight of a teaspoon ? How much does one weigh?,NUM:weight,0.3329
+NUM:weight, How much does an Olympic-sized swimming pool weigh ?,NUM:weight,0.3063
+NUM:weight," How much does a poodle weigh ? , in pounds .",NUM:weight,0.2862
+NUM:weight," How much does the Earth weigh ? The total mass of all people is 321 ,000",NUM:weight,0.2688
+NUM:weight," What is the weight of a teaspoon ? How much does it weigh in grains , ounces and pounds .",NUM:weight,0.2581
+NUM:weight, What is the average weight of a teaspoon ? |addbiz|,NUM:weight,0.2169
+NUM:weight, What is the weight of a teaspoon ? A) 1.7 grams B) .25 ounce C ) one gram,NUM:weight,0.1772
+NUM:weight, How much does a poodle weigh ? ... more,NUM:weight,0.1763
+NUM:code, What is Columbia Tristar 's phone number ?,NUM:code,0.471
+NUM:code, What 's Columbia Tristar phone number ? .,NUM:code,0.3331
+NUM:code, What is the telephone number for Columbia Tristar ?,NUM:code,0.3225
+NUM:code, What 's Columbia Tristar ` s phone number ?,NUM:code,0.3172
+NUM:code, What is the phone number for information ? 1-800-USAGENCY,NUM:code,0.2591
+NUM:code, What is The Pentagon 's phone number ? 703-545-7000,NUM:code,0.2425
+NUM:code, What is the telephone number for information ? 1-900-KNOWHOT,NUM:code,0.2363
+NUM:code, What is the phone number for Napolen ?,NUM:code,0.2256
+NUM:code, What is the phone number for information ? 1-900-KNOWHOT .,NUM:code,0.225
+NUM:code, What 's Columbia Tristar phone number ? Is it 1-800-EARN-MORE .,NUM:code,0.2178
+LOC:mount, What mountain range includes Mont Blanc ? The Alps .,LOC:mount,0.6995
+LOC:mount, What mountain range does the Urubamba River cross ?,LOC:mount,0.4931
+LOC:mount, What mountain range is Mount Everest part of ? The Himalayas,LOC:mount,0.4381
+LOC:mount," What is the highest mountain on earth ? The tallest peak , Mount Everest .",LOC:mount,0.3343
+LOC:mount, What mountain range is home to Mount Everest ? Source : http://www.encyclopedia.com,LOC:mount,0.3039
+LOC:mount," What is the highest mountain peak in Asia ? | Where are Mount Everest , Lhotse and Makalu located ?",LOC:mount,0.301
+LOC:mount, What is the tallest mountain in Europe ? The Alps have what two mountains at their highest point - one on each side of Mont Blanc .,LOC:mount,0.2978
+LOC:mount, What mountain range has Mount Everest in it ? ...,LOC:mount,0.2795
+LOC:mount, What is the second-highest mountain peak in Africa ?,LOC:mount,0.2713
+LOC:mount, What are the highest mountains in Asia ? The Himalayas is a mountain range of South-Central and Southern .,LOC:mount,0.2395
+ENTY:currency, What currency does Colombia use ? |||peso,ENTY:currency,0.5966
+ENTY:currency," What currency does Cambodia use ? ... money , paper )",ENTY:currency,0.4971
+ENTY:currency, What currency does Belgium use ? ... . The money system is based on euro ....,ENTY:currency,0.4196
+ENTY:currency, What currency is used in Cuba ? __NUM__,ENTY:currency,0.3811
+ENTY:currency, What currency is used in Cuba ? |m|,ENTY:currency,0.3811
+ENTY:currency, What currency is used in Cuba ? The Mexican peso .,ENTY:currency,0.3804
+ENTY:currency, What currency is used in Australia ? ] The Australian dollar,ENTY:currency,0.2909
+ENTY:currency, What kind of currency is used in Brazil ? ],ENTY:currency,0.2524
+ENTY:currency, What currency does Cuba use ? ] ( source ),ENTY:currency,0.2464
+ENTY:currency, What currency is used in Cuba ? --- The peso,ENTY:currency,0.243
+NUM:dist, How far can a human see ? . 29.8 miles,NUM:dist,0.4089
+NUM:dist, How tall is Mt. Everest ? 8848 meters .,NUM:dist,0.3709
+NUM:dist, How far can a human eye see ? What is the maximum range of vision for humans when they are underwater ?,NUM:dist,0.3404
+NUM:dist," How far can you see ? 18 ,000 feet.",NUM:dist,0.3218
+NUM:dist," How long is a yard ? ... Show more
+How tall was the Berlin Wall?",NUM:dist,0.3176
+NUM:dist, How far away is the moon ? 1.6 E _{10},NUM:dist,0.3132
+NUM:dist," How tall is K2 ? , what 's its height above sea level?",NUM:dist,0.2782
+NUM:dist, How tall is Mt. Everest ? ... More...,NUM:dist,0.27
+NUM:dist," What is the height of Mount Everest ? How tall are active volcanoes in Hawaii , and how much taller were they before subduction pushed them down below sea level?",NUM:dist,0.2642
+NUM:dist," How long is the Oregon Trail ? The trail covered about 2,000 miles (3,200 km) .",NUM:dist,0.2457
+ENTY:veh," What is the name of an Australian ship that transported 2,000 soldiers to Gallipoli ?",ENTY:veh,0.4274
+ENTY:veh, What were the names of Jules Verne 's submarines ?,ENTY:veh,0.3407
+ENTY:veh, What is the most common name of an aircraft carrier ?,ENTY:veh,0.3236
+ENTY:veh, What 's the name of a nuclear-powered Russian icebreaker ?,ENTY:veh,0.3099
+ENTY:veh, What was the name of Nantucket 's whaling ship ?,ENTY:veh,0.3047
+ENTY:veh," Which is the largest boat in use ? . .
+A nuclear-powered icebreaker",ENTY:veh,0.2486
+ENTY:veh, What are some common types of vehicles on the moon ?,ENTY:veh,0.2304
+ENTY:veh, What are the two types of ships in Frozen Foam ?,ENTY:veh,0.2282
+ENTY:veh, What kind of aircraft flew the mission that discovered Machu Picchu ?,ENTY:veh,0.2226
+ENTY:veh, What are some of the types and names for ships ?,ENTY:veh,0.2216
+LOC:city," Which Italian city includes the districts of Borgo , Trastevere and Testaccio ?",LOC:city,0.4976
+LOC:city, What South African city is known as the City of Gold ?,LOC:city,0.4804
+LOC:city, What city is the University of Minnesota located in ?,LOC:city,0.4483
+LOC:city, In what country is the city of Haifa ?,LOC:city,0.415
+LOC:city, What major city is in southeastern North Carolina ? .,LOC:city,0.3432
+LOC:city, What town is the University of Tennessee located in ?,LOC:city,0.3399
+LOC:city, What city boasts the largest concentration of hospitals in America ?,LOC:city,0.331
+LOC:city, What city has a museum of the American West ?,LOC:city,0.3048
+LOC:city," What is the second-largest city in Germany ? ,",LOC:city,0.2711
+LOC:city, What city is the University of Mississippi in ? |,LOC:city,0.2524
+ENTY:letter, What letter is to the right of K on a typewriter keyboard ?,ENTY:letter,0.2756
+ENTY:letter, What letter follows B in the Greek alphabet ? ],ENTY:letter,0.2565
+ENTY:letter, What is the second letter in sequence of letters on a keyboard between Q and S ?,ENTY:letter,0.2278
+ENTY:letter, What letter of the alphabet is pronounced vee in Dutch ?,ENTY:letter,0.1918
+ENTY:letter, What letter adorns the flag of Rwanda ? ],ENTY:letter,0.1855
+ENTY:letter, What letter appears on the flag of Rwanda ? 1.0,ENTY:letter,0.1582
+ENTY:letter, What letter of the alphabet is on Israel 's flag ?,ENTY:letter,0.13
+ENTY:other, What is the name of Facebook 's virtual currency ?,ENTY:other,0.4533
+ENTY:other, What is the name of a company that made cameras ?,ENTY:other,0.4059
+ENTY:other, What is the name of a company that manufactures Lego bricks ?,ENTY:other,0.3588
+ENTY:other, What is the name of a chemical element that was so called because it burns with an indigo flame ?,ENTY:other,0.2931
+ENTY:other, What did the two lovers hide from each other in Othello ?,ENTY:other,0.282
+ENTY:other, What is the most commonly used insecticide ? ______________,ENTY:other,0.2429
+ENTY:other," What is a group of crows called ? From the movie The Birds , what do you call birds in flocks that are not gaggles or murmurations and so on but have no special term like these other ones ?",ENTY:other,0.227
+ENTY:other, What is a group of ravens called ? The correct answer can be found in the nursery rhyme ''London Bridge Is Falling Down'' .,ENTY:other,0.198
+ENTY:other, Name the three musketeers . | What is a set of five dice called ?,ENTY:other,0.1895
+ENTY:other, What was the name of Neil Armstrong 's spacecraft ?,ENTY:other,0.1876
+ENTY:termeq, What is the term for a unit of money ?,ENTY:termeq,0.4157
+ENTY:termeq, What 's the term for a female swan ?,ENTY:termeq,0.3206
+ENTY:termeq, What 's the term for a male swan ?,ENTY:termeq,0.3187
+ENTY:termeq, What is a unit of energy called ? It comes from the Russian word for `` work . '',ENTY:termeq,0.3187
+ENTY:termeq, What is the name for a young kangaroo ?,ENTY:termeq,0.2441
+ENTY:termeq, What is the term for a female deer ? The correct answer was given by :,ENTY:termeq,0.2436
+ENTY:termeq, What is the term for a group of whales ?,ENTY:termeq,0.2242
+ENTY:termeq, What is another name for the `` Roaring Forties '' ?,ENTY:termeq,0.2185
+ENTY:termeq, What is another name for the `` Gulf of Mexico '' ?,ENTY:termeq,0.2128
+ENTY:termeq, What 's the term for an old woman ?,ENTY:termeq,0.208
+NUM:count, How many countries have been independent for more than 100 years ?,NUM:count,0.6656
+NUM:count, How many children does the average couple have ? 4.5,NUM:count,0.4733
+NUM:count, How many states are there in India ? ...more,NUM:count,0.4438
+NUM:count, How many US presidents have there been ? 41,NUM:count,0.3984
+NUM:count, How many people are executed in Texas ? 1,NUM:count,0.2616
+NUM:count, How many of the seven wonders are still standing ?,NUM:count,0.2568
+NUM:count, How many chapters are in Star Wars ? 6,NUM:count,0.2419
+NUM:count, How many people did the Grateful Dead let play guitar with them ?,NUM:count,0.225
+NUM:count," How many countries fought in the war ? . <sep> Which are they , by country - or group of counties that fight together",NUM:count,0.2053
+NUM:count," How many states are there ? The count is the first number of 7,776 that appears in what sequence",NUM:count,0.2014
+HUM:desc, Who was the oldest man to have climbed Mount Everest ?,HUM:desc,0.4782
+HUM:desc, Who was the youngest man to climb Mount Everest ?,HUM:desc,0.4205
+HUM:desc, Who is Barbara Jordan ? From what University did she graduate?,HUM:desc,0.3809
+HUM:desc, Who is Queen Victoria 's youngest son ? ...,HUM:desc,0.3503
+HUM:desc, Who is the `` World 's tallest man '' ?,HUM:desc,0.3489
+HUM:desc, Who was the first person to climb Mount Everest ?,HUM:desc,0.3233
+HUM:desc, Who is the world 's oldest living person ?,HUM:desc,0.3173
+HUM:desc," Who is the second tallest man ever ? | Where can I find out about people who claim to be Jesus Christ , or have a direct line of descent from him?",HUM:desc,0.2676
+HUM:desc," What do you have to be called in Thailand , before being made a monk ?",HUM:desc,0.2025
+HUM:desc, Who is the world 's tallest man ? The correct answer was given below .,HUM:desc,0.1846
+ENTY:product, What is the brand name of Tylenol ?,ENTY:product,0.4444
+ENTY:product, What is a common brand of deodorant ?,ENTY:product,0.4244
+ENTY:product, What is a good brand of cordless phone ?,ENTY:product,0.3931
+ENTY:product, What is the best brand of digital camera ? .,ENTY:product,0.3774
+ENTY:product, What are some examples of consumer products that have the `` Star '' brand name ?,ENTY:product,0.3492
+ENTY:product, What is the only product of its kind manufactured in Canada ?,ENTY:product,0.3115
+ENTY:product, What is a good brand of electric toothbrush ?,ENTY:product,0.305
+ENTY:product, What 's the best-selling product line in America ?,ENTY:product,0.268
+ENTY:product, What brand of cigarette was introduced in 1878 ?,ENTY:product,0.259
+ENTY:product, What computer operating system is best for home use ?,ENTY:product,0.204
+ABBR:exp, What does BPH stand for ? Expand ABbr.,ABBR:exp,0.4497
+ABBR:exp, What does ESP stand for ? The name of a television channel .,ABBR:exp,0.4144
+ABBR:exp, What does PTD stand for ? It is a French acronym .,ABBR:exp,0.2834
+ABBR:exp, What is NASA 's abbreviation ? ] | ABbr : what does GATT stand for,ABBR:exp,0.2726
+ABBR:exp, What is an abbreviated form of IBM ? ] [/sep][abr what does nasa stand for,ABBR:exp,0.2563
+ABBR:exp, What does the abbreviation M.O. stand for ?,ABBR:exp,0.2547
+ABBR:exp, What does PTD stand for in the military ?,ABBR:exp,0.2351
+ABBR:exp, What does CPT stand for ? The Correct answer was given above .,ABBR:exp,0.2179
+ABBR:exp," What does NASA stand for ? ] ... The National Bureau of Investigation , now known as the Federal Bu",ABBR:exp,0.1642
+LOC:state, What U.S. state is Boise the capital of ?,LOC:state,0.6178
+LOC:state, What U.S. state do people pronounce as '' The Natural State ?'',LOC:state,0.4335
+LOC:state, What state is known as the Cornhusker State ?,LOC:state,0.3658
+LOC:state, What is the southernmost U.S. state ?,LOC:state,0.3475
+LOC:state, What state is Bagram Air Base in ? |bq|,LOC:state,0.3252
+LOC:state, What U.S. state has the Mississippi River on its western border ?,LOC:state,0.294
+LOC:state," What state borders Ohio and Pennsylvania ? , west of the Mississippi .",LOC:state,0.2595
+LOC:state, What southwestern state do the Four Corners lie in ?,LOC:state,0.138
+ENTY:event, What war is the Vietnam War a conflict of ?,ENTY:event,0.5327
+ENTY:event, What are some historical events from 1963 ?,ENTY:event,0.4088
+ENTY:event, What were the most important events of 1959 ?,ENTY:event,0.2928
+ENTY:event, What were some of the key events that led to World War II ?,ENTY:event,0.2891
+ENTY:event, What are some of the significant events in Canadian history ?,ENTY:event,0.2858
+ENTY:event, What war started with the battles of Jumonville Glen and Fort Necessity ?,ENTY:event,0.2521
+ENTY:event, What are some historical events that have occurred on April 10 ?,ENTY:event,0.2339
+ENTY:event, What are some of the major events in 1969 ?,ENTY:event,0.19
+ENTY:symbol, What symbol represents the zodiac sign Scorpio ?,ENTY:symbol,0.5673
+ENTY:symbol, What symbol represents the zodiac sign Aquarius ?,ENTY:symbol,0.5129
+ENTY:symbol, What sign is The Water Carrier the zodiacal symbol for ?,ENTY:symbol,0.4159
+ENTY:symbol, What is the chemical symbol for bromine ? ],ENTY:symbol,0.1409
+ENTY:symbol," What are the signs of a Leo ? ] The lion , star .",ENTY:symbol,0.1098
+NUM:money, How much does a babysitter get paid ? 4.50 per hour,NUM:money,0.588
+NUM:money, How much does a wedding cost ? 8.6,NUM:money,0.4864
+NUM:money," How much does the President get paid ? | What is Tom Hanks ' net worth in 2011 dollars , adjusted for inflation and deflation to present day value of $10,000 ?",NUM:money,0.4188
+NUM:money, How much money should a company spend for an ad ?,NUM:money,0.2816
+NUM:money, How much money did the Romans pay Carthaginians to leave Sicily ?,NUM:money,0.2609
+NUM:money," How much does the President get paid ? What is his salary as of January 1 , $500 or",NUM:money,0.2026
+DESC:def, What does the name Dillinger mean ? ,DESC:def,0.4031
+DESC:def, What is an arachnid ? OpenDial ],DESC:def,0.293
+DESC:def, What is a 5.56mm ? .,DESC:def,0.2581
+DESC:def, What is a synonym for the word `` parrot '' ?,DESC:def,0.1606
+DESC:def, What is the meaning of `` kibbutz '' ?,DESC:def,0.1271
+HUM:title, What was the occupation of Bonnie Parker and Clyde Barrow ?,HUM:title,0.2121
+HUM:title, What was the name of King Arthur 's sword ?,HUM:title,0.1945
+HUM:title, What was the title of King Arthur 's wife ?,HUM:title,0.1895
+HUM:title, What is the name of Queen Victoria 's son ?,HUM:title,0.155
+HUM:title, What was the profession of Elbert Hubbard ? |,HUM:title,0.1521
+DESC:desc, What can be found in the ruins of Pompeii ?,DESC:desc,0.3003
+DESC:desc, What 's the origin of `` The Love Boat '' ?,DESC:desc,0.2199
+DESC:desc, What is the origin of '' The Roaring Twenties ?,DESC:desc,0.2117
+DESC:desc, What is the origin of St. Patrick 's Day ?,DESC:desc,0.1986
+NUM:other, What is the population of China ? ] | },NUM:other,0.1663
+NUM:other, What is the population of Argentina ? ] } | {col:masc.,NUM:other,0.1418
+NUM:ord, In what chapter of Genesis do we first find Jacob ?,NUM:ord,0.1486
+ENTY:techmeth, What is the method for painting in pointillism ?,ENTY:techmeth,0.1589
+ENTY:dismed, What medication was prescribed for acid indigestion ?,ENTY:dismed,0.4514

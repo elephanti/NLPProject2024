@@ -1,0 +1,151 @@
+label,text,predicted_label,probability
+distance, how far is it from the san francisco airport to downtown,distance,0.449
+distance, how far is it from san francisco airport to the downtown,distance,0.4476
+distance, how far is it from atlanta airport to downtown,distance,0.4467
+distance, how far is it from the international airport to downtown los angeles,distance,0.4467
+distance, what is the distance from san francisco airport to downtown,distance,0.4453
+distance, what is the distance from miami international airport to downtown,distance,0.4433
+distance, how far is it from newark airport to downtown,distance,0.4432
+distance, what is the distance from miami airport to downtown,distance,0.4414
+distance, how far is the distance from baltimore washington international airport to downtown,distance,0.4405
+distance, how far is it from the dallas fort worth airport to downtown,distance,0.44
+airline, which airline is ua 1055 on november second,airline,0.2246
+airline, which airlines has a flight from pittsburgh to washington,airline,0.2125
+airline, which airlines has first class service from new york to dallas,airline,0.2125
+airline, which airline has a flight from boston to seattle on june third,airline,0.2124
+airline, which airlines have first class service from boston to atlanta,airline,0.2096
+airline, which airline is the best to use in san francisco,airline,0.2084
+airline, which airline is flight number seven oh four five leaving from dallas,airline,0.2077
+airline, which airlines have a flight from san francisco to los angeles,airline,0.2077
+airline, which airlines fly from atlanta to boston on june twelfth,airline,0.2076
+airline, what airlines fly out of baltimore and washington dc,airline,0.2067
+quantity, how many flights leave atlanta on june first,quantity,0.4851
+quantity, how many flights leave from baltimore and arrive in atlanta,quantity,0.4847
+quantity, how many flights depart from new york on july seventh,quantity,0.483
+quantity, how many american airlines flights leave from baltimore today,quantity,0.48
+quantity, how many american airlines flights leave baltimore on sunday,quantity,0.48
+quantity, how many flights leave dallas on july fifth,quantity,0.4789
+quantity, how many flights leave from atlanta to baltimore,quantity,0.4787
+quantity, how many american airlines flights leave from boston today,quantity,0.4786
+quantity, how many flights depart from dallas on thursday,quantity,0.4774
+quantity, how many american airlines flights arrive in boston on thursday,quantity,0.4768
+flight_no, flight number from san francisco to new york on may 4,flight_no,0.4734
+flight_no, flight numbers from boston to dallas on tuesday,flight_no,0.4733
+flight_no, flight numbers on the 12th of june from san francisco to dallas,flight_no,0.4727
+flight_no, flight numbers from denver to boston on june ninth,flight_no,0.4714
+flight_no, flight numbers from dallas to new york on tuesday,flight_no,0.4713
+flight_no, flight number from pittsburgh to baltimore today,flight_no,0.4713
+flight_no, flight number from atlanta to dallas in march,flight_no,0.4707
+flight_no, flight numbers from denver to chicago on wednesday,flight_no,0.4704
+flight_no, flight number from dallas to baltimore on the morning of june twenty second,flight_no,0.4703
+flight_no, flight numbers from atlanta to boston on tuesday morning,flight_no,0.4701
+capacity, how many seats does an f 100 have capacity,capacity,0.5409
+capacity, what is the seating capacity of an f 100,capacity,0.5394
+capacity, how many passengers does a 757 have with six across seating,capacity,0.538
+capacity, what is the seating capacity of an md 82,capacity,0.5364
+capacity, what is the capacity of a m88 3,capacity,0.5353
+capacity, what is the seating capacity of a boeing 767,capacity,0.5331
+capacity, what is the seating capacity of a boeing 747,capacity,0.533
+capacity, what is the capacity of an a340 300,capacity,0.5323
+capacity, what is the seating capacity of an md 80,capacity,0.5321
+capacity, what is the seating capacity of a dc 9,capacity,0.5275
+airport, list airports in san francisco or oakland please,airport,0.5406
+airport, list airports in san francisco or oakland california,airport,0.5365
+airport, list airports in california and nevada with code ua,airport,0.535
+airport, list airports in boston massachusetts and milwaukee wisconsin,airport,0.5319
+airport, list airports in baltimore maryland and washington d c,airport,0.5307
+airport, list us airports in san francisco bay area please,airport,0.5299
+airport, list airports in boston and new york city area,airport,0.5272
+airport, list all airports in boston and washington dc area,airport,0.5254
+airport, list airports in denver colorado and arizona,airport,0.5213
+airport, list the airports in boston and philadelphia .,airport,0.5176
+ground_service, what ground transportation is available in new orleans la,ground_service,0.4619
+ground_service, what ground transportation is there at the san diego airport,ground_service,0.4577
+ground_service, what ground transportation is available in san francisco international airport,ground_service,0.4563
+ground_service, what ground transportation is available at sfo airport in san francisco,ground_service,0.4545
+ground_service, what ground transportation is available in boston at 10 pm,ground_service,0.4455
+ground_service, what ground transportation is available from lga to the hotel,ground_service,0.4455
+ground_service, what is ground transportation in seattle from bwi to downtown,ground_service,0.4444
+ground_service, what ground transportation does american offer in dallas texas,ground_service,0.4443
+ground_service, what ground transportation does american have in boston from the airport,ground_service,0.4374
+ground_service, what ground transportation is available from boston to seattle,ground_service,0.435
+aircraft, what type of aircraft is flight one twenty nine from boston to chicago,aircraft,0.4296
+aircraft, what is the most popular aircraft in north america from denver to philadelphia,aircraft,0.4197
+aircraft, what kind of aircraft can fly from boston to pittsburgh,aircraft,0.4162
+aircraft, what aircraft can i use to get from baltimore maryland on tuesday morning,aircraft,0.4115
+aircraft, what aircraft does jetblue fly from denver to atlanta,aircraft,0.3961
+aircraft, which aircraft does american use for the flight from washington to chicago,aircraft,0.3937
+aircraft, what is the most popular aircraft in north america today,aircraft,0.3894
+aircraft, show me the aircraft that fly to washington from boston,aircraft,0.3884
+aircraft, what is the most common aircraft type on american flights,aircraft,0.3851
+aircraft, which aircraft does delta operate in the atlanta to boston market,aircraft,0.3833
+meal, what meals are served on us air flights from atlanta to dallas,meal,0.4408
+meal, what meals are available on united flight 1208 from chicago to boston,meal,0.4385
+meal, what meals are served on continental airlines from baltimore to houston,meal,0.4366
+meal, what meals are served on us airways flight 1065 from boston to philadelphia,meal,0.435
+meal, what meals are served on continental flight 102 from dallas to boston,meal,0.4348
+meal, what meals are served on flight 1209 from baltimore to washington,meal,0.4334
+meal, what meals are served on united flight 107 from pittsburgh to dallas,meal,0.4331
+meal, what meals are served in business class on an air canada flight from toronto to montreal,meal,0.431
+meal, what meals are available on an american airlines flight from denver to minneapolis,meal,0.4295
+meal, what meals are available on the flight from san francisco to dallas,meal,0.4279
+flight, show me flights from san francisco to boston,flight,0.3636
+flight, show me flights from dallas to boston on saturday,flight,0.3635
+flight, show me flights from pittsburgh to dallas,flight,0.3622
+flight, show me flights from pittsburgh to san francisco,flight,0.362
+flight, show me flights from dallas to seattle on july 4,flight,0.3618
+flight, show me flights from baltimore to san francisco,flight,0.3616
+flight, show me flights from boston to san francisco,flight,0.3615
+flight, show me all flights from dallas to san francisco,flight,0.3603
+flight, what flights are there from san francisco to los angeles on thursday morning,flight,0.3584
+flight, show me all flights from dallas to baltimore,flight,0.3579
+ground_fare, how much does the limousine service cost in los angeles,ground_fare,0.4628
+ground_fare, how much does a limousine service cost from the san francisco airport to oakland,ground_fare,0.4555
+ground_fare, how much is a limousine service in boston,ground_fare,0.4516
+ground_fare, how much is a limousine service in new york,ground_fare,0.4465
+ground_fare, how much is a limousine ride in atlanta,ground_fare,0.439
+ground_fare, how much is a limousine in san francisco,ground_fare,0.4335
+ground_fare, how much is the limousine service from san francisco to oakland airport,ground_fare,0.4313
+ground_fare, how much is a limousine service from new york to jfk,ground_fare,0.431
+ground_fare, what is the cost of a limousine service in los angeles,ground_fare,0.4288
+ground_fare, how much is a limousine in los angeles,ground_fare,0.4258
+airfare, show me the fares from boston to san francisco,airfare,0.4411
+airfare, show me fares from boston to seattle please,airfare,0.4372
+airfare, show me fares from dallas to atlanta on may 15,airfare,0.4358
+airfare, show me fares from atlanta to baltimore on monday,airfare,0.4326
+airfare, show me fares from baltimore to minneapolis on may fifteenth,airfare,0.43
+airfare, show me the fares from denver to san francisco,airfare,0.4283
+airfare, show me fares from dallas to new york on monday morning,airfare,0.4232
+airfare, show me fares from washington dallas or houston,airfare,0.4176
+airfare, show me the fare from baltimore to atlanta on tuesday,airfare,0.4157
+airfare, show me the lowest fare from dallas to san francisco,airfare,0.4135
+abbreviation, what does hq mean in airport code abbreviations,abbreviation,0.3904
+abbreviation, what does lfa mean in the airfare code,abbreviation,0.3665
+abbreviation, what does wu mean on an airline ticket confirmation,abbreviation,0.3638
+abbreviation, what does cph mean in airports code list for,abbreviation,0.3623
+abbreviation, what does mtc mean in airlines codes and abbreviations,abbreviation,0.3588
+abbreviation, what does mta mean in airline codeshares,abbreviation,0.3278
+abbreviation, what does cta stand for in los angeles,abbreviation,0.3123
+abbreviation, what does dfa mean in air travel codes list,abbreviation,0.306
+abbreviation, what does yv stand for in airport code list,abbreviation,0.3049
+abbreviation, what does the abbreviation nac mean on an airplane,abbreviation,0.2928
+city, what cities are served by us airways express service,city,0.2714
+city, show me the cities served by jetblue and american,city,0.2668
+city, what cities can i fly out of boston on us air,city,0.2659
+city, what cities does continental fly to from philadelphia international,city,0.2644
+city, what cities does continental fly to from washington d c,city,0.2535
+city, what cities does united fly out of from dallas,city,0.2523
+city, what cities does southwest serve in the state of florida,city,0.2513
+city, which city does continental fly out of from baltimore,city,0.2509
+city, what cities does continental serve from san francisco to dallas,city,0.248
+city, what cities does jetblue fly to from san francisco,city,0.247
+flight_time, what is the latest departure time from denver to seattle,flight_time,0.4061
+flight_time, what is the departure time of flight 121 from denver to los angeles,flight_time,0.3972
+flight_time, what is the departure time of flight 1037 from denver,flight_time,0.3966
+flight_time, what is the departure time from pittsburgh to dallas,flight_time,0.3716
+flight_time, what are the departure times from philadelphia to atlanta on july tenth,flight_time,0.3663
+flight_time, what is the flight time from denver to minneapolis,flight_time,0.3603
+flight_time, what are the departure times from philadelphia to atlanta,flight_time,0.359
+flight_time, what is the flight time from denver to philadelphia,flight_time,0.3564
+flight_time, what time does the last flight leave san francisco,flight_time,0.3544
+flight_time, what is the departure time for flight 1029 from dallas to washington,flight_time,0.3534

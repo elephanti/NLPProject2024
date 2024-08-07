@@ -1,0 +1,132 @@
+label,text,predicted_label,probability
+aircraft,what kind of airplane is flight 1239 from dallas to boston operated with,aircraft,0.6791
+aircraft,what type of plane is us air flying from pittsburgh to boston,aircraft,0.6244
+aircraft,what kind of plane flies from atlanta to dallas with american airways,aircraft,0.622
+aircraft,what type of plane flies from boston to denver in first class with delta flight 1030 at noon,aircraft,0.6219
+aircraft,what kind of plane is american eagle 1441,aircraft,0.5927
+aircraft,what kind of plane flies from boston to san francisco for us air west,aircraft,0.5714
+aircraft,what kind of plane is flight 122 from philadelphia to denver tomorrow morning,aircraft,0.5558
+aircraft,what kind of plane does united fly from chicago to denver,aircraft,0.533
+aircraft,what kind of plane does american use between boston to denver,aircraft,0.5278
+aircraft,what kind is american eagle 6171 from pittsburgh to philadelphia at noon tomorrow afternoon,aircraft,0.5257
+quantity,how many american eagle westbound flights from atlanta to boston exist this weekend,quantity,0.7058
+quantity,how many first class tickets does american have leaving from baltimore to philadelphia in july 1999,quantity,0.6144
+quantity,how many delta flights leave from san francisco to dallas in july 1985,quantity,0.5854
+quantity,how many different classes does american have in their first class service,quantity,0.5745
+quantity,how many flights does american have from boston to pittsburgh each day in october,quantity,0.5744
+quantity,how many nonstop flights does united have between san francisco and washington d c today,quantity,0.5711
+quantity,how many american airways flights stop in philadelphia today,quantity,0.5452
+quantity,how many first class tickets does united have for saturday morning between boston and new york,quantity,0.529
+quantity,how many american eagle one way fares does us air have from pittsburgh to atlanta today morning,quantity,0.5114
+quantity,how many daily united express fights from new york to los angeles are there today,quantity,0.5093
+abbreviation,what does fare basis code v class mean in delta airlines tickets,abbreviation,0.7463
+abbreviation,what does st stand for in airlines referrential fare code systems,abbreviation,0.7442
+abbreviation,what does ap mean in airfares please explain all your fare designations including f e r s w p c n t q l b k g d h i m z x o y u v j t w s k c,abbreviation,0.7278
+abbreviation,what does us fare code 5 mean for united airlines reservations,abbreviation,0.7191
+abbreviation,what does stand for international flight class fare code system please explain it in detail thanks,abbreviation,0.7002
+abbreviation,what does ap stand for with respect to airlines in your system please explain what each one is,abbreviation,0.6979
+abbreviation,what does us fare code 7 mean in terms of airfare pricing,abbreviation,0.6958
+abbreviation,what does code st mean in fare classes for delta airline bookings,abbreviation,0.6939
+abbreviation,what does fare code w stand for in continental airlines flight reservations,abbreviation,0.6928
+abbreviation,what does fare code r mean for american airlines international flight tickets,abbreviation,0.6905
+distance,what is the driving distance from denver international airport to downtown colorado springs in missouri,distance,0.7548
+distance,how far is it from toronto airport to downtown ontario in miles,distance,0.7359
+distance,what is the driving distance from toronto airport to downtown toronto,distance,0.735
+distance,what is the driving distance from toronto international airport to downtown montreal in miles,distance,0.7312
+distance,what is the driving distance from pittsburgh international airport to downtown pittsburg pennsylvania,distance,0.725
+distance,how far is it from atlanta hartsfield jackson airport to downtown gaithersburg maryland in terms of driving miles,distance,0.7243
+distance,what is the flying distance from san francisco international airport to downtown sacramento california,distance,0.72
+distance,what is the driving distance from san francisco airport to downtown sf in california please,distance,0.717
+distance,how far is it from seatac to san francisco downtown,distance,0.7141
+distance,what is the driving distance from toronto airport to downtown toronto please,distance,0.7123
+ground_fare,how much does it costs to rent a car at denver international airport in colorado,ground_fare,0.6313
+ground_fare,how much is it to rent a car in boston for two days,ground_fare,0.574
+ground_fare,how much is it to rent a car at denver international airport for one day,ground_fare,0.5545
+ground_fare,how much does it typically cost to rent a car in san francisco internationally airport during weekdays between 12pm-2 pm?,ground_fare,0.5432
+ground_fare,how much does it charge to rent one car for two hours in san francisco at midnight tonight ?,ground_fare,0.5281
+ground_fare,how much does it cost to rent car service at san francisco airport tonight through tomorrow morning for one person in downtown oakland please give me your best rate,ground_fare,0.5171
+ground_fare,how much does it rent for car service to get from san francisco airport into city center,ground_fare,0.4943
+ground_fare,how much does it typically set you back to rent one car for seven days in new york city at la guardia airport,ground_fare,0.4917
+ground_fare,how much is it for car service from san francisco to oakland airport at 6 am in january,ground_fare,0.4917
+ground_fare,how much is it for one way between bwi airport to downtown dc in miami international service car type sedan sedancar with unlimited mileage capacity 1 person passenger count no additional stops required,ground_fare,0.4742
+flight_time,what is the departure time from denver to san francisco,flight_time,0.6014
+flight_time,what is the latest time from toronto to san francisco today,flight_time,0.4282
+flight_time,what time does american 345 leave from atlanta for washington d.c. today,flight_time,0.4011
+flight_time,what is the departure time for american airlines from philadelphia to san francisco tomorrow morning,flight_time,0.3802
+flight_time,what is the departure time from dallas to san francisco today,flight_time,0.3795
+flight_time,what time does delta leave atlanta for baltimore tomorrow morning,flight_time,0.3716
+flight_time,what time does us air west 314 leave memphis for san francisco,flight_time,0.3432
+flight_time,what is the earliest available departure time from san francisco to denver in march 1999,flight_time,0.3264
+flight_time,what is the arrival time in new york for american 412 from baltimore today,flight_time,0.3118
+flight_time,what is the departure time from pittsburgh to new york today please,flight_time,0.3026
+airfare,what is cheapest first class ticket from boston to denver for may 21st,airfare,0.5667
+airfare,what is the cheapest first class ticket from baltimore to philadelphia tomorrow afternoon,airfare,0.4799
+airfare,what is usair's lowest economy class fare from pittsburgh to denver return going back tomorrow afternoon,airfare,0.4587
+airfare,how much is first class airline ticket from baltimore to denver going for in september please show me everything that's under 500 dollars each way,airfare,0.4426
+airfare,what is cheapest flight from san francisco to philadelphia in first class for march twenty fifth at 8 pm with no layovers please give me all possible fares you have thank you very much,airfare,0.4384
+airfare,how much is first class plane ticket from boston to san francisco,airfare,0.4025
+airfare,how much is a ticket from dallas to baltimore going for today please,airfare,0.395
+airfare,what is cheapest price for first class ticket from san francisco to atlanta tomorrow morning,airfare,0.3942
+airfare,what is usair 1509 first class from pittsburgh to philadelphia on may thirteenth in each direction please include taxes,airfare,0.3901
+airfare,what is usair charging for first class fares between pittsburgh international airport to philadelphia INTERNATIONALairport from march 8th through may seventeenth inclusive,airfare,0.3892
+city,where is continental airport located in florida that it serves as hub for both eastern and western flights to other american cities besides san francisco from philadelphia international,city,0.638
+city,where is american west's hub located in california that serves phoenix arizona,city,0.6318
+city,where is denver international airport located in relation to other major uscities,city,0.622
+city,where is philadelphia international airport located in us that serves american airline internationally,city,0.5945
+city,where is pittsburgh 's international airport located,city,0.5894
+city,where is continental Airlines headquarters located in Washington D.C,city,0.5383
+city,where is american airline's west coast hub located in california,city,0.5314
+city,where is american western international airport located in california usa,city,0.519
+city,where is bellingham airport located in relation to seattle international flight system airplanes,city,0.4887
+city,where is denver international airport located in relation to san francisco,city,0.4433
+flight,what is all there to know about united 114 from new york to san francisco at five oclock pm tomorrow afternoon,flight,0.3101
+flight,what is the earliest morning united airlines nonstop from dallas to san francisco that leaves before eight o'clock am,flight,0.3074
+flight,what is my best option for getting from san francisco to denver by 10am saturday morning tomorrow,flight,0.2936
+flight,what is united airlines' cheapest direct fare from toronto to minneapolis tomorrow morning,flight,0.2684
+flight,what is there to do in baltimore when i arrive at 10 pm after my american airlines international arrival from toronto with layover time until midnight before flying west again that night internationally later than eight o'clock tonight into san francisco please include airport locations where possible thanks,flight,0.2642
+flight,what is my earliest option for leaving dallas going to denver before 7 am in first class tomorrow morning,flight,0.2617
+flight,What is my best bet for getting to san francisco from seattle before 10am tomorrow morning without spending over four hundred dollars?,flight,0.2459
+flight,What is my 3 o'clock plane from San Francisco to Seattle going today in July?,flight,0.2282
+flight,what is my best option for getting from san francisco to minneapolis with us air west after four pm monday afternoon,flight,0.2273
+flight,what is my earliest option to get from denver onto toronto by monday morning with united airlines international first class classes available for one passenger at no cost,flight,0.2212
+capacity,how many passengers can fit in boeing 757 airplanes,capacity,0.6338
+capacity,How many people can fit in American Airlines' A320?,capacity,0.6148
+capacity,How many passengers can fit in American Airlines 737s?,capacity,0.5377
+capacity,How many people can fit in one Boeing 777 airplane?,capacity,0.5193
+capacity,How many seats does American Airlines 737 fly?,capacity,0.441
+capacity,How many people can fit in first class seats flying from Chicago to Washington D.C.?,capacity,0.4214
+capacity,How many people can fit in each 737 airplane that American Airlines uses?,capacity,0.3963
+capacity,How many people can fit in flight 111 from Denver to Chicago?,capacity,0.3684
+capacity,how many people can fly in each 737 plane from philadelphia to boston,capacity,0.3497
+capacity,How many people can fit in each type of plane that Delta uses for its daily flights from Seattle to Atlanta?,capacity,0.3361
+ground_service,what forms of ground transport is there at atlanta airport for getting to downtown macon from denver,ground_service,0.5439
+ground_service,What forms of land transport is there from JFK to downtown New York City in Newark?,ground_service,0.4377
+ground_service,What forms of public transportation go from Atlanta's airport to downtown?,ground_service,0.2568
+ground_service,What forms of land transport is there from Pittsburgh airport to downtown?,ground_service,0.2389
+ground_service,what forms of land transport is there from pittsburgh airport to downtown,ground_service,0.2389
+ground_service,what forms of public land transport are there from salt lake airport to downtown,ground_service,0.2259
+ground_service,what forms of public transport is there from st louis airport to downtown denver,ground_service,0.1523
+ground_service,what forms of public transport can i use to get from oakland airport back into town in san francisco after my flight arrives late morning,ground_service,0.1365
+meal,what meals can i get if I book with eastern airline for my flight from boston to denver,meal,0.3387
+meal,what meals do i get for my us air flight 123 from philadelphia to dallas at lunch time please,meal,0.3042
+meal,what meals do i get for my 6 am flight from boston to minneapolis in first class with delta,meal,0.3015
+meal,what meals do they offer in first class american air from dallas to baltimore,meal,0.2881
+meal,what meals can i get between boston to minneapolis,meal,0.2732
+meal,what meals will i get when flying from boston to pittsburgh on united Airlines,meal,0.2687
+meal,what meals can i order for my british airways flight from los angeles to dallas,meal,0.2634
+meal,what meals do you get if i book us air class f first coach,meal,0.2301
+airport,which is san francisco internationalairport code name please tell me,airport,0.3668
+airport,what is new yorks major international airport at la guardia,airport,0.3554
+airport,what is la guardiaairport near bostonmassachusetts,airport,0.3094
+airport,what is san francisco california's nearest major international airline hub near pittsburgh,airport,0.2758
+airport,what is denver colorado international airprt code name at sea niveau 5 terminal one address,airport,0.2583
+airport,what is san francisco international Airport's code with respect to its city name as well please thank you very much indeed sir,airport,0.2338
+airport,what is la guardia new york citys international airport named after him,airport,0.2236
+airline,which american airlines flies from denver to baltimore during daytime hours today,airline,0.3947
+airline,what is continental Airlines code for flights from pittsburgh to denver in july,airline,0.1878
+airline,what is us air going to atlanta from seattle today with availability of 1 stop flights please show them all at reasonable prices,airline,0.1842
+airline,what domestic flights does us airwest offer between denver colorado and san francisco california,airline,0.1786
+airline,what airways fly from boston to denver at 6 am in july,airline,0.1639
+flight_no,what is my return airfare from chicago to toronto with american airlines in june please give me all possible numbers,flight_no,0.2807
+flight_no,what is my ticket number 6m5d9e1b3j2n4q8y7a0o to fly from atlanta ga into seattle wa,flight_no,0.1939
+flight_no,what is my return airfare from minneapolis to phoenix,flight_no,0.1714

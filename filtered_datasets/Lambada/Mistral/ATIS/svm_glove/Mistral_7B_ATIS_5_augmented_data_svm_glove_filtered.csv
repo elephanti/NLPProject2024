@@ -1,0 +1,159 @@
+label,text,predicted_label,probability
+capacity, what is the total seating capacity of airbus a30,capacity,0.3099
+capacity, how many people can the 738 seating configuration,capacity,0.3062
+capacity, what is the total seating capacity of a boeing 720,capacity,0.3061
+capacity, what is the seating capacity of airplane 749,capacity,0.3035
+capacity, how many rows of seats are on a airbus 320,capacity,0.3007
+capacity, what is the total passenger capacity of a 728,capacity,0.2937
+capacity, what is seating capacity for an 747,capacity,0.2903
+capacity, how many seats in a 72 seating capacity bus,capacity,0.2779
+capacity, how many seats are in a 728,capacity,0.2773
+capacity, what is the maximum capacity of a 767-300,capacity,0.2736
+restriction, what is restriction enzyme digestion in pcr,restriction,0.3718
+restriction, what is restriction endonuclease bamh,restriction,0.3504
+restriction, what is restriction endonuclease digestion used for,restriction,0.3473
+restriction, what is restriction enzyme digestion and ligation,restriction,0.3472
+restriction, what is restriction enzyme digestion for dna,restriction,0.3452
+restriction, what is restriction enzyme cleavage pattern,restriction,0.3429
+restriction, what is restriction enzyme digestion code for,restriction,0.3424
+restriction, what is restriction enzyme digestion of dna,restriction,0.3253
+restriction, what is restriction enzyme digestion for example,restriction,0.3198
+restriction, what is restriction enzyme digestion used for,restriction,0.3106
+aircraft, what kind of aircraft do air tran fly with,aircraft,0.2719
+aircraft, what type of aircraft flies the flight from boston to denver,aircraft,0.2715
+aircraft, what type of aircraft is the airplane that flies from baltimore to cleveland,aircraft,0.2681
+aircraft, what types of aircraft do fly out from denver,aircraft,0.2675
+aircraft, what type of aircraft was flown from denver to stl,aircraft,0.2645
+aircraft, what type of aircraft does fly america use in philadelphia,aircraft,0.2604
+aircraft, what type of aircraft is the cessna 402,aircraft,0.2531
+aircraft, what is the aircraft type of delta flight 842,aircraft,0.2522
+aircraft, what types of aircraft does northwest fly to seattle,aircraft,0.2522
+aircraft, what type of aircraft does american fly from boston to san francisco,aircraft,0.2471
+airfare, cheapest air fare from pittsburgh to denver,airfare,0.2424
+airfare, what is the average fare for a round trip ticket from dallas to boston,airfare,0.2261
+airfare, please list prices for flights from denver to boston,airfare,0.217
+airfare, what is the lowest fare available from boston to dallas,airfare,0.2119
+airfare, please find the fare for a flight from miami to seattle,airfare,0.2112
+airfare, show me cheapest fare from chicago to new york,airfare,0.209
+airfare, what is the lowest fare from houston to dallas,airfare,0.2081
+airfare, what is the cheapest fare for a flight from san jose to las vegas,airfare,0.207
+airfare, what is the cheapest fare from boston to atlanta,airfare,0.205
+airfare, what is the lowest price for a ticket from cleveland to miami,airfare,0.2027
+ground_service, what services are ground transportation available from the lax airport,ground_service,0.2777
+ground_service, what types of ground transportation are available at baltimore,ground_service,0.2734
+ground_service, what ground transportation services are available in tampa international airport,ground_service,0.2589
+ground_service, is there ground transportation between the philadelphia airport and downtown,ground_service,0.2517
+ground_service, what ground transportation is available in denver colorado,ground_service,0.2467
+ground_service, what kind of ground transportation is available at miami airport,ground_service,0.2462
+ground_service, what services does airport ground transportation provide at boston,ground_service,0.2453
+ground_service, is there ground transportation at boston airport between the terminals,ground_service,0.2423
+ground_service, what services are offered at the denver airport ground transportation terminal,ground_service,0.242
+ground_service, what ground transportation is available in baltimore airport,ground_service,0.2391
+flight_time, please show me what time i will arrive in denver,flight_time,0.3113
+flight_time, please tell me what is the flight time from pittsburgh to atlanta,flight_time,0.2648
+flight_time, what time does continental leave seattle at night,flight_time,0.243
+flight_time, what time does the last flight from philadelphia to denver leave,flight_time,0.2353
+flight_time, what is the earliest time i can get to dallas from baltimore,flight_time,0.2309
+flight_time, what is the earliest time in the morning that i can take a flight out of philadelphia,flight_time,0.23
+flight_time, what is the earliest flight that can take me from boston to atlanta,flight_time,0.228
+flight_time, what is the shortest time between when i could be in houston and fly to phoenix,flight_time,0.2232
+flight_time, what time does the flight from pittsburgh to baltimore leave,flight_time,0.2201
+flight_time, what is the flight time from denver to atlanta,flight_time,0.2181
+flight_no, flight numbers between boston and san diego at 4 pm,flight_no,0.2252
+flight_no, flight number from tampa to new york at 9:05 pm,flight_no,0.2195
+flight_no, what is flight number for the next day on delta,flight_no,0.2138
+flight_no, flight number from dallas to boston on american,flight_no,0.2084
+flight_no, flight number from boston to miami at 8 pm,flight_no,0.2053
+flight_no, list of flight numbers flying from houston to denver,flight_no,0.1986
+flight_no, list flight numbers that fly from denver to boston,flight_no,0.1911
+flight_no, show flight number from newark to atlanta,flight_no,0.1852
+flight_no, flight number for baltimore to atlanta,flight_no,0.1835
+flight_no, flight number from boston to chicago airport in january,flight_no,0.177
+meal, does continental breakfast include meals on flight to hawaii,meal,0.3311
+meal, show me meals available on delta flight 132,meal,0.2971
+meal, list the meals available on aircanada flight 564,meal,0.2915
+meal, what meals do you get with a continental breakfast,meal,0.2894
+meal, what meals are served on board delta flight 6047,meal,0.2631
+meal, what meals are offered on delta flight 1497,meal,0.26
+meal, how many meals are served on southwest flight 218,meal,0.2552
+meal, what meals are served on flights from boston to denver,meal,0.2434
+meal, what meal includes dinner and breakfast at newark airport,meal,0.2394
+meal, what meals are available on delta flight 2985 from laguardia to atlanta,meal,0.2325
+distance, how long is the drive from san diego airport to downtown,distance,0.2757
+distance, how many miles from denver international airport to downtown,distance,0.2643
+distance, what is the distance from miami airport to downtown,distance,0.2577
+distance, what is the distance from minneapolis airport to downtown,distance,0.2482
+distance, what is the distance from atlanta airport to downtown,distance,0.2461
+distance, what is the distance from boston airport to downtown,distance,0.2413
+distance, what is the distance from baltimore airport to downtown,distance,0.2378
+distance, how far is the airport to downtown houston,distance,0.234
+distance, how many miles is baltimore from san francisco,distance,0.2151
+distance, how far is san francisco airport from the city,distance,0.2132
+ground_fare, how much does a cab cost from houston airport to downtown,ground_fare,0.2568
+ground_fare, how much does it cost to rent a car from national,ground_fare,0.2429
+ground_fare, how much does it cost to go from dallas fort worth airport into town,ground_fare,0.2425
+ground_fare, how much does a taxi cost in newark airport,ground_fare,0.2403
+ground_fare, how much does it cost to get from seattle airport,ground_fare,0.2244
+ground_fare, how much does it cost to rent a car from the airport in pittsburgh,ground_fare,0.2238
+ground_fare, what is the cost of a cab from dfw to downtown fort worth,ground_fare,0.2224
+ground_fare, how much are the taxi fares from dallas fort worth airport to downtown,ground_fare,0.2209
+ground_fare, how much is the taxi fare from dallas to ft worth airport,ground_fare,0.2158
+ground_fare, is it cheaper to rent a car in denver and drive back than take shuttle from airport,ground_fare,0.21
+abbreviation, what is abbrev g5016,abbreviation,0.3258
+abbreviation, what is code fxn rnr-49,abbreviation,0.3183
+abbreviation, what does the abbrev gwg mean,abbreviation,0.3148
+abbreviation, what does the abbr code cpa stand for,abbreviation,0.2961
+abbreviation, what does the abreiviation cdl mean,abbreviation,0.2871
+abbreviation, what does the abreveiation ua mean,abbreviation,0.281
+abbreviation, what does 1p mean on airfare code,abbreviation,0.2764
+abbreviation, what does the abbrev b.t stand for,abbreviation,0.2679
+abbreviation, what does the abbrev d. fod stand for,abbreviation,0.2638
+abbreviation, what does the abbreviations wf stand for,abbreviation,0.2624
+airline, what airlines fly from newark to san jose,airline,0.3131
+airline, what airlines fly from san francisco to boston,airline,0.3077
+airline, what airlines fly from denver to minneapolis,airline,0.3059
+airline, what airlines fly from denver to atlanta,airline,0.3016
+airline, what airlines fly between boston and seattle,airline,0.2985
+airline, what airlines fly from st. paul to san francisco,airline,0.283
+airline, which airlines offer flights to baltimore from seattle,airline,0.2762
+airline, what airlines fly into denver with early morning flights,airline,0.2676
+airline, what airlines are affiliated with southwest airways,airline,0.2638
+airline, what airlines fly from stl to atl,airline,0.2565
+flight, find me the first flight from boston to san diego,flight,0.207
+flight, show me flight from baltimore to denver,flight,0.2048
+flight, does fly one way from dallas to houston,flight,0.1972
+flight, what flights fly out of atlanta that go to chicago,flight,0.1846
+flight, find me a flight from boston to new york with american,flight,0.1813
+flight, find me flights from san diego to houston for today,flight,0.181
+flight, find me a flight from stpaul to houston,flight,0.1696
+flight, find flights from denver to dallas with a stop in minneapolis,flight,0.1643
+flight, what flights depart from baltimore and go to denver,flight,0.1638
+flight, how many flights a day leave detroit to baltimore,flight,0.1606
+airport, show me the airports in new york city,airport,0.283
+airport, what airport is boston called in new york,airport,0.2055
+airport, what airport is the closest to london england,airport,0.2021
+airport, what airports in new york city serve the west coast,airport,0.1966
+airport, what is the airport code for la guardia in new york,airport,0.195
+airport, what airports are in pittsburgh airport name,airport,0.1916
+airport, what airports are in albuquerque new mexico,airport,0.1833
+airport, show me a picture of the new york city airports,airport,0.1811
+airport, what airports are near boston and new york city,airport,0.1765
+airport, how many airports in boston connect to la guardia,airport,0.1748
+quantity, how many types of fares are available for delta,quantity,0.2625
+quantity, how many types of fares are there on delta,quantity,0.2578
+quantity, how many first class seats are in economy plus delta,quantity,0.212
+quantity, how many types of economy fare on united airlines,quantity,0.1936
+quantity, how many airports are served by southwest in atlanta,quantity,0.1867
+quantity, how many bags of checked luggage are included in delta economy class,quantity,0.176
+quantity, how many different ticket types are there on a southwest flight,quantity,0.1752
+quantity, how many flights does delta fly between baltimore and minneapolis,quantity,0.1642
+quantity, how many types of fares is northwest offering,quantity,0.156
+quantity, how many types of planes at pittsburgh international,quantity,0.1519
+city, where is city airline s headquarters located in us,city,0.2259
+city, what city does mco airport serve in florida,city,0.169
+city, where is the city of dallas-fort worth,city,0.1574
+city," what city is denver international airport in
+[SEP] does phoenix have a downtown",city,0.1547
+cheapest, show me the cheapest ticket fare available on this flight,cheapest,0.2125
+cheapest, show me the cheapest fare for flight 1607,cheapest,0.1933
+cheapest, show me the cheapest ticket on delta airlines,cheapest,0.1901

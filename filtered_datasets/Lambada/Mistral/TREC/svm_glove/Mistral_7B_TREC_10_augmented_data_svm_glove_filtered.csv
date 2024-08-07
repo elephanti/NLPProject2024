@@ -1,0 +1,515 @@
+label,text,predicted_label,probability
+LOC:country, What country borders Morocco to the north ?,LOC:country,0.5036
+LOC:country," What country was North Vietnam ? : Egypt , Syria .",LOC:country,0.4802
+LOC:country, What country in Latin America has the largest population ?,LOC:country,0.4409
+LOC:country, What country in South America was once called the Gran Chaco ?,LOC:country,0.3751
+LOC:country, What country in South America has the largest area ?,LOC:country,0.3666
+LOC:country, What country lies to the east of Hungary ?,LOC:country,0.3568
+LOC:country, What is the second largest country in South America ?,LOC:country,0.3527
+LOC:country, What is the most warlike country in South America ?,LOC:country,0.3508
+LOC:country, What country in South America was a Spanish colony ?,LOC:country,0.3474
+LOC:country, What country borders Russia to the west ? Is it Poland or Ukraine ?,LOC:country,0.3232
+ENTY:lang, What two languages are spoken in Madagascar ?,ENTY:lang,0.4056
+ENTY:lang, What two languages are spoken in Namibia ?,ENTY:lang,0.359
+ENTY:lang, What language is spoken in Madagascar ?,ENTY:lang,0.273
+ENTY:lang, What two languages are spoken in Haiti ?,ENTY:lang,0.2635
+ENTY:lang, What is the only Gaelic language spoken in Ireland ?,ENTY:lang,0.2544
+ENTY:lang, What are the three most widely spoken languages in Africa ?,ENTY:lang,0.2483
+ENTY:lang," What is the oldest language still spoken ?
+ #language",ENTY:lang,0.2426
+ENTY:lang, What languages are spoken in Africa ? Is Zulu a language or dialect of another lang. ?,ENTY:lang,0.2316
+ENTY:lang, What languages are spoken in India ?entmoney :,ENTY:lang,0.2252
+ENTY:lang, What languages are spoken in Peru ? .ent.,ENTY:lang,0.2212
+ENTY:instru, What musical instrument did Jimi Hendrix play ?,ENTY:instru,0.6838
+ENTY:instru, What musical instrument did Elvis Presley play ?,ENTY:instru,0.5522
+ENTY:instru," What instrument did Duke Ellington play ?
+ Instruments :",ENTY:instru,0.4778
+ENTY:instru, What instrument did the composer Richard Strauss play ?,ENTY:instru,0.4739
+ENTY:instru," What instrument does Paul McCartney play ?
+ 1. drums",ENTY:instru,0.4731
+ENTY:instru, What are the musical instruments used for folk dance music ?,ENTY:instru,0.4686
+ENTY:instru, What musical instrument did John Phillips play ? &NUM;,ENTY:instru,0.4623
+ENTY:instru, What musical instrument does Elvis Presley play ?,ENTY:instru,0.4565
+ENTY:instru, What musical instrument did Richard Wagner compose his operas for ?,ENTY:instru,0.4233
+ENTY:instru, What musical instrument did Glenn Miller play ? .,ENTY:instru,0.4093
+NUM:temp, What is the temperature in Fahrenheit of boiling water ?,NUM:temp,0.6084
+NUM:temp, What is the temperature of boiling mercury ?,NUM:temp,0.5158
+NUM:temp, What is the temperature in Fahrenheit of water that boils at 100 degrees centigrade ?,NUM:temp,0.5019
+NUM:temp, What is the temperature for baking fruit pies ?,NUM:temp,0.4314
+NUM:temp, What is the temperature for baking a fruit cake ?,NUM:temp,0.412
+NUM:temp, What is the temperature for baking pecan pie ?,NUM:temp,0.3955
+NUM:temp, What is the temperature for baking Peachy Oat Muffins ?,NUM:temp,0.3927
+NUM:temp, What is the temperature of a volcano 's lava ?,NUM:temp,0.3687
+NUM:temp, What is the temperature of an active volcano ?,NUM:temp,0.3354
+NUM:temp, What is the temperature for baking a fruit pie ?,NUM:temp,0.3069
+HUM:title, What was the occupation of Joseph ? TypeENTY :occupation,HUM:title,0.2548
+HUM:title," What was the occupation of Joseph ?
+ #titles 2018",HUM:title,0.2522
+HUM:title, What is Queen Elizabeth II 's title regarding Malta ?,HUM:title,0.2384
+HUM:title, What is the title of Queen Victoria 's eldest child ?,HUM:title,0.2222
+HUM:title, What was Queen Victoria 's title in Russia ?,HUM:title,0.2127
+HUM:title," What is the name of a noble title conferred by King Henry III to his younger son , Edward ?",HUM:title,0.1816
+HUM:title, What was the profession of William PENTNEY ?,HUM:title,0.164
+HUM:title," What occupation has the highest rate of divorce ?
+ #english",HUM:title,0.1573
+HUM:title, What was Queen Victoria 's title before she became queen ?,HUM:title,0.1571
+HUM:title, What is the occupation of Peter FENTON ?,HUM:title,0.1569
+LOC:mount, What is the highest mountain peak in South America ?,LOC:mount,0.5952
+LOC:mount, What is the highest mountain peak in North America ?,LOC:mount,0.5777
+LOC:mount, What mountain has the highest peak in South America ?,LOC:mount,0.576
+LOC:mount, What is the second highest mountain peak in Africa ?,LOC:mount,0.5161
+LOC:mount, What is the highest mountain peak in Africa ?ENT : Mount Kilimanjaro,LOC:mount,0.5137
+LOC:mount, What is the second highest mountain peak in North America ?,LOC:mount,0.5068
+LOC:mount, What is the second highest mountain peak in the world ?,LOC:mount,0.4125
+LOC:mount," What is the highest mountain peak in Africa ?
+ I. Kilimanjaro II . Mt - Everest III. Elbrus",LOC:mount,0.3228
+LOC:mount, What mountain range runs along the north border of Spain ?,LOC:mount,0.3214
+LOC:mount, What is the highest peak in Africa ?ENT : Mount Kilimanjaro,LOC:mount,0.3142
+NUM:volsize, What is the size of Britain 's largest lake ?,NUM:volsize,0.1905
+NUM:volsize, What is the size of Canada ?s largest lake .?,NUM:volsize,0.1659
+NUM:volsize," What is the size of Canada ?s largest lake , Lake Superior or Great Bear Sea .",NUM:volsize,0.1544
+NUM:volsize, How big is the largest snake ?ENTS :,NUM:volsize,0.1359
+NUM:volsize, What is the size of Canada ?entitle Size Of,NUM:volsize,0.1299
+NUM:volsize, What is the size of Rhode Island ?ENTY :area,NUM:volsize,0.1211
+NUM:volsize, How big is Rhode Island ?ENTS :,NUM:volsize,0.1121
+NUM:volsize, What is the size of Argentina ? `ENTY,NUM:volsize,0.1119
+NUM:volsize, What is the size of a dime ?ENTY :diameter,NUM:volsize,0.1091
+NUM:volsize, What is the size of Africa ?ENT :large country,NUM:volsize,0.1026
+ENTY:color, What color eyes does a poodle have ?,ENTY:color,0.2748
+ENTY:color," What colors make purple ?
+ The color blind cannot distinguish between what two pairs of colors :red , yellow and blue",ENTY:color,0.2679
+ENTY:color, What colors can be made by mixing yellow and red ?,ENTY:color,0.2448
+ENTY:color, What color eyes does a Siamese cat have ?,ENTY:color,0.2238
+ENTY:color, What colors can you see if your eyes are closed ?,ENTY:color,0.219
+ENTY:color, What colors can you find on a rainbow ?,ENTY:color,0.2005
+ENTY:color, What colors are there ?ENTS : what-colors-are-there,ENTY:color,0.1958
+ENTY:color, What colors make purple ? Enty::other [SEP ] Which color do blind people see best ?,ENTY:color,0.1846
+ENTY:color, What are some colors that look good on redheads ?,ENTY:color,0.1668
+ENTY:color, What color is a polar bear 's skin ?,ENTY:color,0.1631
+ENTY:event, What events occurred in 1978 ?,ENTY:event,0.2275
+ENTY:event, What event happened in 1863 ?,ENTY:event,0.2168
+ENTY:event, What major war was the U.S . involved in during 1890 ?,ENTY:event,0.1991
+ENTY:event, What is the first battle that American troops fought in World War II ?,ENTY:event,0.1848
+ENTY:event, What were the five major events of World War II ?,ENTY:event,0.1788
+ENTY:event, What was the first world war called in 1914 ?,ENTY:event,0.176
+ENTY:event, What was the longest war in U.S. history ?,ENTY:event,0.1679
+ENTY:event, What events happened in 1968 ?,ENTY:event,0.1607
+ENTY:event, What are some historical events that occurred in the 1970s ?,ENTY:event,0.1597
+ENTY:event, What was the name of a major civil war in England ?,ENTY:event,0.1589
+NUM:date, When was the first supertanker built ?,NUM:date,0.2225
+NUM:date," What day was June 5 , 1972 ?",NUM:date,0.2146
+NUM:date," What day was September 27 , the year ?",NUM:date,0.2099
+NUM:date, What year did the U.S.-led Persian Gulf war begin ?,NUM:date,0.1759
+NUM:date," What day of the week was January 27 , ?",NUM:date,0.1573
+NUM:date, When was the first USENTy-six War ?,NUM:date,0.155
+NUM:date," What day was the Civil War fought on ? a ) April 9 , b) May . November",NUM:date,0.1543
+NUM:date, What year did the Berlin Wall fall ?ENTS:year,NUM:date,0.1537
+NUM:date," What day of the week was February 6 , ?",NUM:date,0.1525
+NUM:date, What date does Christmas fall on in 1975 ?,NUM:date,0.1522
+ABBR:abb, What 's the abbreviation for National Bureau of Investigation ?,ABBR:abb,0.3543
+ABBR:abb, What is the abbreviation for National Bureau of Investigation ?,ABBR:abb,0.3282
+ABBR:abb, What is the abbreviation of National Bureau Investigation ?,ABBR:abb,0.3155
+ABBR:abb, What is the abbreviated term for National Bureau of Investigation ?,ABBR:abb,0.2825
+ABBR:abb, What is the abbreviation of National Security Agency ?,ABBR:abb,0.2781
+ABBR:abb,NUM : What is the abbreviation for micro ?,ABBR:abb,0.27
+ABBR:abb, What is the abbreviation for micro ?,ABBR:abb,0.2251
+ABBR:abb, What is the abbreviation for National Institute ofENT ?,ABBR:abb,0.2236
+ABBR:abb, What is the abbreviation for national institute of mental health ?,ABBR:abb,0.2137
+ABBR:abb, What is the abbreviation for `` National Bureau of Investigation '' ?,ABBR:abb,0.1869
+NUM:perc, What percent of people over 65 live in poverty ?,NUM:perc,0.4446
+NUM:perc, What percent of people over the age 65 have aENT ?,NUM:perc,0.3756
+NUM:perc, What percent of people over 16 are employed in England ?,NUM:perc,0.2399
+NUM:perc," What percentage of the world lives in poverty ?
+ The World Bank estimates that 40 percent do .",NUM:perc,0.2309
+NUM:perc, What percent of all people are right-handed ?,NUM:perc,0.2067
+NUM:perc, What is the percentage of people in Russia who are under 30 ?,NUM:perc,0.1677
+NUM:perc," What percentage of the brain do people use ?
+ The first thing to recognize is that humans only utilize 10 percent or less from their total brains .",NUM:perc,0.1671
+NUM:perc, What percent of the world 's population is male ?,NUM:perc,0.1666
+NUM:perc," What percentage of the body is fat ?
+ 1. eight",NUM:perc,0.1641
+NUM:perc, What percent of American households have a personal computer ?,NUM:perc,0.1555
+NUM:code, What is the telephone number for Delta airlines ?,NUM:code,0.2607
+NUM:code, What is the phone number for Greyhound bus lines ?,NUM:code,0.2598
+NUM:code, What is the telephone number for Southwest Airlines ?,NUM:code,0.255
+NUM:code, What is the phone number for Southwest Airlines ?,NUM:code,0.2452
+NUM:code, What is Columbia Tristar 's phone number ?,NUM:code,0.226
+NUM:code, What is the phone number for AT & T long distance ?,NUM:code,0.2225
+NUM:code, What phone number can I call collect to reach the police department ?,NUM:code,0.2189
+NUM:code, What is the phone number for Delta Airlines ?s,NUM:code,0.2116
+NUM:code, What is the phone number for AT & T ?,NUM:code,0.2106
+NUM:code, What is the phone number for Greyhound ?,NUM:code,0.1702
+ENTY:word, What 's the English word with most letters ?,ENTY:word,0.3039
+ENTY:word, What English word contains the most letters ?s ``,ENTY:word,0.2775
+ENTY:word, What word is used for `` words '' in the Hungarian language ?,ENTY:word,0.238
+ENTY:word, What 's another word for `` spicy '' ?,ENTY:word,0.2147
+ENTY:word, What 's the English word that has most letters ?,ENTY:word,0.2074
+ENTY:word, What English word contains the most letters ?s?,ENTY:word,0.1987
+ENTY:word, What is a Russian word for ` love ' ?,ENTY:word,0.1969
+ENTY:word, What is the Hungarian word for `` red '' ?,ENTY:word,0.1737
+ENTY:word, What English word has the most letters ? `NUMENTENT``,ENTY:word,0.1681
+ENTY:word, What English word contains the most letters ? Enty :,ENTY:word,0.1665
+LOC:city, What New York city is the capital of Texas ?,LOC:city,0.4753
+LOC:city, What capital city of Africa has the largest population ?,LOC:city,0.4744
+LOC:city, What US city has the largest port ? The Port of Houston is North America 's busiest.,LOC:city,0.4448
+LOC:city, What city in New York state has the largest population ?,LOC:city,0.4235
+LOC:city, What major city is the capital of Texas ? .,LOC:city,0.3404
+LOC:city, What U.S city has the largest Chinatown ?,LOC:city,0.3367
+LOC:city, What city in France has the world 's second largest subway system ?,LOC:city,0.2889
+LOC:city, What city in Texas has the largest Mexican population ?,LOC:city,0.2855
+LOC:city, What city in Louisiana has the largest African-American population ?,LOC:city,0.2449
+LOC:city, What city is the highest capital in Africa ? ',LOC:city,0.2421
+NUM:count, How many people have died because of AIDS ?,NUM:count,0.2021
+NUM:count, How many people die every year from AIDS ?,NUM:count,0.1991
+NUM:count, What are the chromosome numbers for humans and corn ?,NUM:count,0.1965
+NUM:count, How many people are killed byENTY :animals each year ?,NUM:count,0.1663
+NUM:count, How many ribs are in a human body ?,NUM:count,0.1644
+NUM:count, How many countries are there ?ENTY :money,NUM:count,0.1597
+NUM:count, How many people are there in a soccer team ?,NUM:count,0.1526
+NUM:count, How many people died because of aids in 1987 ?,NUM:count,0.1466
+NUM:count, How many people are in a crowd ?ENTITY :other,NUM:count,0.1385
+NUM:count, How many people have died from AIDS ?ENTY :,NUM:count,0.1367
+ENTY:plant, What is a plant that eats other plants ?,ENTY:plant,0.3094
+ENTY:plant, What flower did Vincent Van Gogh paint ?,ENTY:plant,0.2552
+ENTY:plant, What flower did Vincent van Gogh paint ?,ENTY:plant,0.2552
+ENTY:plant, What plants are found inNUM :mound ?,ENTY:plant,0.2179
+ENTY:plant, What plant hasNUM a flower with the most petals ?,ENTY:plant,0.2091
+ENTY:plant, What plant eats rattlesnakes ?,ENTY:plant,0.2017
+ENTY:plant, What are two plants that grow in the Mojave Desert ?,ENTY:plant,0.1808
+ENTY:plant," What is the largest plant ?
+ Insects :",ENTY:plant,0.1714
+ENTY:plant, What plants are found onNUM :mount ?,ENTY:plant,0.1617
+ENTY:plant, What kind of plants make up the forest canopy ?,ENTY:plant,0.1502
+ENTY:sport," What is the oldest Olympic sport ?
+ ##########",ENTY:sport,0.2222
+ENTY:sport," What games did the NES play ?
+ UserNUM : 8",ENTY:sport,0.1707
+ENTY:sport, What Olympic Games did Jesse Owens win ?,ENTY:sport,0.1573
+ENTY:sport, What Olympic games did Jim Thorpe compete in ?,ENTY:sport,0.1522
+ENTY:sport, What game was SpNUM :played ? &ENTK,ENTY:sport,0.14
+ENTY:sport," What sport did she play in college ?
+ #NUM :mathexp 2 'name an Olympic winter game '",ENTY:sport,0.1386
+ENTY:sport," What is a par for most golf courses ?
+ ##",ENTY:sport,0.133
+ENTY:sport," What is the oldest spectator sport ?
+ ## The world ' s first recorded team sports were archery competitions among noblemen in 13th-century France .",ENTY:sport,0.1303
+ENTY:sport, What '92 Olympic sport didNUM :dunno [SEP] Which golf championship does Jack Nicklaus have the most wins in ?,ENTY:sport,0.1301
+ENTY:sport, What ball game do the Argentines play ? :dart,ENTY:sport,0.1275
+NUM:money, What is the exchange rate for euros to dollars ?,NUM:money,0.578
+NUM:money, What does a U.S. dollar cost in Canada ?,NUM:money,0.4193
+NUM:money, How much is a Canadian dollar worth in U.S . currency ?,NUM:money,0.3557
+NUM:money, What is the current exchange rate of Mexican Pesos to US Dollars ?,NUM:money,0.3416
+NUM:money, What is the minimum amount of cash that a company must deposit with its stock exchange ?,NUM:money,0.3273
+NUM:money, What did a gallon of gas cost in 1960 ?,NUM:money,0.316
+NUM:money, What was the dollar amount of uninsured property damage and liability losses fromENT ?,NUM:money,0.315
+NUM:money, How much was the minimum wage in 1987 ?,NUM:money,0.2912
+NUM:money, What did the U.S. dollar cost inENTY :dollars when Truman was President ?,NUM:money,0.24
+NUM:money, What willENTITY cost in the year 2015 ?,NUM:money,0.2355
+NUM:weight, What is the weight of a baby in pounds ?,NUM:weight,0.353
+NUM:weight, What is the atomic weight of uranium ?,NUM:weight,0.2106
+NUM:weight, What are the weights for a 12-year old girl that is five feet two inches ?,NUM:weight,0.205
+NUM:weight, What is the atomic weight of helium ?,NUM:weight,0.1927
+NUM:weight, What is the average weight of a poodle ?,NUM:weight,0.1898
+NUM:weight, What is the weight of a newborn baby ?,NUM:weight,0.1688
+NUM:weight, What is the average weight of a rhinoceros ?,NUM:weight,0.1662
+NUM:weight, What is the atomic weight of lead ?ENTY :mol Thorium has an Atomic Weight equal to how many grams per molecule?,NUM:weight,0.1529
+NUM:weight, What are the weights for a 10 year old female boxer ?,NUM:weight,0.1505
+NUM:weight, What is the atomic weight of iodine ?,NUM:weight,0.1397
+LOC:state, What state is Niagara Falls located in ?,LOC:state,0.3572
+LOC:state, What U.S. state did the Allegheny River originate in ?,LOC:state,0.2864
+LOC:state, What U.S . state has a border with Oregon ?,LOC:state,0.2397
+LOC:state, What is the most northwestern U.S. state ?,LOC:state,0.2334
+LOC:state," What state does California border ? The U.S. and Canada , the US has 48 states .",LOC:state,0.2313
+LOC:state, What U.S . state borders New York to the southwest ?,LOC:state,0.1922
+LOC:state, What U.S . state has the largest Indian reservation ?,LOC:state,0.1804
+LOC:state, What is the southernmost U.S . state ?,LOC:state,0.1721
+LOC:state, What is the westernmost state of U.S. ?,LOC:state,0.1684
+LOC:state," What state is California located in ?
+ #num::three",LOC:state,0.1582
+ENTY:techmeth, What techniques do archaeologists use to find artifacts ?,ENTY:techmeth,0.124
+ENTY:techmeth, What method did Pasteur use to prove that micro-organisms cause disease ?,ENTY:techmeth,0.1109
+ENTY:techmeth, What methods can be used to locate an underground water pipe ?,ENTY:techmeth,0.1103
+ENTY:techmeth, What technique was used to map the human genome ?,ENTY:techmeth,0.1065
+ENTY:techmeth, What techniques are used to measure the speed ofNUM :,ENTY:techmeth,0.1023
+ENTY:techmeth, What was the scientific method devised to find out if twoNUM :,ENTY:techmeth,0.102
+ENTY:techmeth, What techniques do archaeologists use to locate a possible grave site ?,ENTY:techmeth,0.1009
+ENTY:techmeth, What techniques didNUM :entymths use to measure the speed of a ship ?,ENTY:techmeth,0.0987
+ENTY:techmeth, What techniques do forensic scientists use to identify the source of a bullet ?,ENTY:techmeth,0.098
+ENTY:techmeth, What 's a method used to test for the AIDS virus ?,ENTY:techmeth,0.0974
+ENTY:animal, What animal lives on a beaver lodge ?,ENTY:animal,0.3391
+ENTY:animal, What is a plant-eating mammal that lives underground ?,ENTY:animal,0.2311
+ENTY:animal, What animals have been cloned ? `NUMENT`,ENTY:animal,0.1937
+ENTY:animal, What bird was the pet of Napoleon Bonaparte ?,ENTY:animal,0.1849
+ENTY:animal, What animal is the mascot of Notre Dame University ?,ENTY:animal,0.1665
+ENTY:animal, What animal was SpNUM :num produced in 1987 's movie `` Who Framed Roger Rabbit ? '',ENTY:animal,0.1661
+ENTY:animal, What animal did Rin Tent do his master 's bidding ?,ENTY:animal,0.1637
+ENTY:animal," What animals are there in the zoo ?
+ packageENTS",ENTY:animal,0.1629
+ENTY:animal," What animal has killed the most people ?
+ #NUM#",ENTY:animal,0.1604
+ENTY:animal," What is the oldest living animal ?
+ The horse , the dog and a cat were found in caves dating from prehistoric times .",ENTY:animal,0.1593
+ENTY:currency, What currency is used in Morocco ? .,ENTY:currency,0.1724
+ENTY:currency, What currency is used in South America ? 's,ENTY:currency,0.1622
+ENTY:currency, What currency is used in Luxembourg ? .?,ENTY:currency,0.1511
+ENTY:currency, What currency do they use in the U.S ?,ENTY:currency,0.1221
+ENTY:currency, What currency is used in Hungary ? .ent,ENTY:currency,0.121
+ENTY:currency, What currency is used in Japan ? . :cash:`,ENTY:currency,0.1144
+ENTY:currency, What is money in Cambodia ?entmoney in what currency does Luxembourg use?,ENTY:currency,0.1081
+ENTY:currency," What currency is used in Japan ?
+ The United Kingdom uses what three currencies .",ENTY:currency,0.1077
+ENTY:currency," What currency does Luxembourg use ? The European Union is an economic and monetary union . Is the euro a separate country , or part of other countries ' currencies like Germany's mark?",ENTY:currency,0.1065
+ENTY:currency," What currency is used in Mexico ? .
+ 1. what was the currency before Euros?",ENTY:currency,0.1055
+ENTY:symbol, What is the Zodiac symbol for July ?,ENTY:symbol,0.2662
+ENTY:symbol, What is the symbol for `` radioactive ? '',ENTY:symbol,0.2613
+ENTY:symbol, What is the symbol for `` radioactive '' ?,ENTY:symbol,0.2613
+ENTY:symbol, What is the zodiac symbol for December ?,ENTY:symbol,0.2561
+ENTY:symbol, What is the zodiac sign for July 18 ?,ENTY:symbol,0.1971
+ENTY:symbol, What is the zodiac sign for November 19 ?,ENTY:symbol,0.1954
+ENTY:symbol, What are the zodiac signs for January 1 ?,ENTY:symbol,0.1926
+ENTY:symbol, What is the zodiac sign for April 15 ?,ENTY:symbol,0.1886
+ENTY:symbol, What sign is the zodiac for June 12 ?,ENTY:symbol,0.1861
+ENTY:symbol, What is the Zodiac symbol for January 26 ?,ENTY:symbol,0.1827
+DESC:desc, What is the origin of `` slang '' ?,DESC:desc,0.2417
+DESC:desc, What is the origin of `` gobbledygook '' ?,DESC:desc,0.2248
+DESC:desc, What is the origin of `` snipe '' ?,DESC:desc,0.2152
+DESC:desc, What is the origin of `` muck '' ?,DESC:desc,0.2152
+DESC:desc, What is the origin of `` moxie '' ?,DESC:desc,0.1995
+DESC:desc, What is the origin of `` knick-knack '' ?,DESC:desc,0.1932
+DESC:desc, What is the origin of `` knobber '' ?,DESC:desc,0.1932
+DESC:desc, What is the origin of `` kangaroo '' ?,DESC:desc,0.1881
+DESC:desc, What is the origin of `` chihuahua '' ?,DESC:desc,0.1875
+DESC:desc, What is the origin of `` bung '' ?,DESC:desc,0.1872
+ENTY:body, What parts of your body haveNUMred blood vessels ?,ENTY:body,0.4027
+ENTY:body, What part of your body contains the coronary arteries ?,ENTY:body,0.3028
+ENTY:body, What are the major blood vessels that take oxygenated blood to different parts of your body ?,ENTY:body,0.2927
+ENTY:body," What is the smallest bone in your body ?
+ The second-smallest bones are located near each ear .",ENTY:body,0.2488
+ENTY:body," What is the largest organ in your body ?
+ 1. nose",ENTY:body,0.1891
+ENTY:body, What are the two upper legs of a rooster called ?,ENTY:body,0.1659
+ENTY:body," What is the oldest part of your body ?
+ 1. skin",ENTY:body,0.1579
+ENTY:body, What are the parts of an ear ? The tongue is part .,ENTY:body,0.153
+ENTY:body, What part of the body hasNUMMOST blood ?,ENTY:body,0.1501
+ENTY:body, What are the different parts of a snake 's body ?,ENTY:body,0.1394
+NUM:dist, What are the distances between San Francisco and Los Angeles ?,NUM:dist,0.1273
+NUM:dist, What is the average wingspan of a bald eagle ?,NUM:dist,0.12
+NUM:dist, What is the wingspan of a condor ?,NUM:dist,0.1155
+NUM:dist, What is the average wingspan of an albatross ?,NUM:dist,0.1124
+NUM:dist, What was the length of Spitfire `s wingspan ?,NUM:dist,0.1115
+NUM:dist, What is the distance between New York and London ?,NUM:dist,0.1106
+NUM:dist, What is the average wingspan of a gnat ?,NUM:dist,0.1098
+NUM:dist, What is the distance from Los Angeles to Paris ?,NUM:dist,0.1047
+NUM:dist, What is the distance from New York to Chicago ?,NUM:dist,0.0993
+NUM:dist, What is the distance from Detroit to New York ?,NUM:dist,0.0978
+ENTY:religion," What religion is the oldest in existence ? Religious and spiritual questions , 1980s",ENTY:religion,0.1569
+ENTY:religion, What was the religion of ancient Egypt ? `NUMLOC`,ENTY:religion,0.1414
+ENTY:religion, What religion is most widely practiced in Australia ?,ENTY:religion,0.1378
+ENTY:religion," What is the oldest religion ? Religions that originated in Mesopotamia , Egypt and India were among those from which Judaism developed .",ENTY:religion,0.1325
+ENTY:religion, What are the two major monotheistic religions of North Africa ?,ENTY:religion,0.131
+ENTY:religion, What is the second largest religion ? Religions :,ENTY:religion,0.1248
+ENTY:religion, What religion is the most widely followed in North America ?,ENTY:religion,0.1211
+ENTY:religion, What two religions claim Abraham as their founding patriarch ?,ENTY:religion,0.1172
+ENTY:religion, What religion is practiced by the most people ?,ENTY:religion,0.1104
+ENTY:religion, What religion are the people of Malta ? ?,ENTY:religion,0.109
+ABBR:exp, What does NENTY-NINE mean ?,ABBR:exp,0.4103
+ABBR:exp, What does ``ENT '' stand for ?ENTY :entropy,ABBR:exp,0.2672
+ABBR:exp, What does AIDS mean ? (ENTY ),ABBR:exp,0.2307
+ABBR:exp, What does PENTHOTREXON stand for ?,ABBR:exp,0.2205
+ABBR:exp," What does E.T . stand for ?
+ -ENT-",ABBR:exp,0.214
+ABBR:exp," What does `` DENT '' mean ?
+ #num::four",ABBR:exp,0.2115
+ABBR:exp, What does the abbreviation UENT stand for ?,ABBR:exp,0.2106
+ABBR:exp," What does `` NENT '' stand for ?
+ #num::five",ABBR:exp,0.1861
+ABBR:exp, What does S.O .S stand for ?,ABBR:exp,0.1748
+ABBR:exp," What does NENTENT mean ?
+ ##ent",ABBR:exp,0.1694
+ENTY:veh, What ship did U.S. Admiral Chester Nimitz command ?,ENTY:veh,0.583
+ENTY:veh, What vehicle did the crew of Apollo 13 fly ?,ENTY:veh,0.4029
+ENTY:veh, What aircraft was the Concorde modeled after ?,ENTY:veh,0.3907
+ENTY:veh, What was the name of Captain Ahab 's ship ?,ENTY:veh,0.3459
+ENTY:veh, What was the name of Captain Nemo 's ship ?,ENTY:veh,0.338
+ENTY:veh, What is the name of the British ship that destroyed a German warship in 1930 ?,ENTY:veh,0.2718
+ENTY:veh, What was the name of George Lucas 's space battle ship ?,ENTY:veh,0.2644
+ENTY:veh, What was the name of Captain Cook 's ship ?,ENTY:veh,0.2591
+ENTY:veh, What aircraft did Amelia Earhart fly around the world ?,ENTY:veh,0.2358
+ENTY:veh, What was the name of Columbus 's ship ?,ENTY:veh,0.201
+ENTY:letter, What vowel do all Esperanto nouns end with ?,ENTY:letter,0.3753
+ENTY:letter, What letter hasNUM :num[SEC] most words in its alphabet ?,ENTY:letter,0.2961
+ENTY:letter, What letter is to the right of K on a typewriter keyboard ?,ENTY:letter,0.2771
+ENTY:letter, What letter isNUM :misc [SEP] How many letters are in the Roman alphabet ?,ENTY:letter,0.2541
+ENTY:letter, What letter appears on theNUM :num flag of Brazil ?,ENTY:letter,0.2398
+ENTY:letter, What is theNUM :num of letters in an alphabet ?,ENTY:letter,0.2226
+ENTY:letter, What is the 21st letter of our alphabet ?,ENTY:letter,0.2155
+ENTY:letter, What is the oldest letter in the alphabet ?,ENTY:letter,0.206
+ENTY:letter, What letter appearsNUM :num [SEP ] on a telephone keypad to the right of 7 ?,ENTY:letter,0.2025
+ENTY:letter, What `` s '' letter is onNUM :num [SEP] How many letters are in the alphabet ?,ENTY:letter,0.1927
+ENTY:product, What household product is made by Procter & Gamble ?,ENTY:product,0.1224
+ENTY:product, What are the top-10 computer security products ?,ENTY:product,0.1123
+ENTY:product, What are 4 examples of products that contain caffeine ?,ENTY:product,0.1088
+ENTY:product, What kind of product does Nike specialize in ?,ENTY:product,0.1066
+ENTY:product, What product ofNUM makes a good furniture polish ?,ENTY:product,0.0985
+ENTY:product, What product uses `` Hush-A - Bye '' as its slogan ?,ENTY:product,0.0948
+ENTY:product," What kind of products do the French export ?
+ ###",ENTY:product,0.0934
+ENTY:product, What product uses an elephant as its symbol ?,ENTY:product,0.0906
+ENTY:product, What product makes a cat crazy ? `NUMLOC`,ENTY:product,0.0902
+ENTY:product," What products are made from petroleum ?
+ #num :dollar",ENTY:product,0.0895
+DESC:def, What does ``ENTROPIES '' mean ?,DESC:def,0.2618
+DESC:def, What is the meaning of `` bummer '' ?,DESC:def,0.242
+DESC:def, What is the definition of `` ae '' ?,DESC:def,0.21
+DESC:def, What is `` gNUM :other[num] '' ?,DESC:def,0.2062
+DESC:def, What is the definition of `` shorthand '' ?,DESC:def,0.2012
+DESC:def, What is the meaning of `` snip '' ?,DESC:def,0.1963
+DESC:def, What is the definition of `` chum ? '',DESC:def,0.1922
+DESC:def, What is the definition of `` achu '' ?,DESC:def,0.1869
+DESC:def, What is `` TAB '' ?sport :curl,DESC:def,0.1864
+DESC:def, What is the definition of `` snooty '' ?,DESC:def,0.183
+NUM:ord, What chapter of the Bible has 366 verses ?,NUM:ord,0.3233
+NUM:ord, What chapter of the Bible has 36 chapters ?,NUM:ord,0.3025
+NUM:ord, What chapter of the Bible has 365 verses ?,NUM:ord,0.267
+NUM:ord, What chapter of the Bible has 31 verses ?,NUM:ord,0.2626
+NUM:ord, What chapter of the Bible has 36 sections ?,NUM:ord,0.22
+NUM:ord, What chapter of the Bible has most verses ?,NUM:ord,0.2157
+NUM:ord, What chapter of the Bible isENT :num [SEP ] has 31 verses ?,NUM:ord,0.1872
+NUM:ord, What chapter of the Bible has more verses ?,NUM:ord,0.1848
+NUM:ord, What chapter of the Bible has the most verses ?,NUM:ord,0.1838
+NUM:ord, What chapter of the Bible isENT :misc all about David ?,NUM:ord,0.1068
+NUM:period, What is the life span of an average dog ?,NUM:period,0.1407
+NUM:period, What is the average time between menstrual periods ?,NUM:period,0.139
+NUM:period, What is the life span of a monkey ?,NUM:period,0.1162
+NUM:period, What was the length of a furlong ?,NUM:period,0.1079
+NUM:period, What is the length of time for a dog 's pregnancy ?,NUM:period,0.1061
+NUM:period, What is the life span of a Mayfly ?,NUM:period,0.1044
+NUM:period, What is the life span of a dog ?ENTY :period,NUM:period,0.1035
+NUM:period, What is the life expectancy of a man ?,NUM:period,0.1009
+NUM:period, What is the life expectancy of a cat ?,NUM:period,0.0999
+NUM:period, What is the life span of a monarch butterfly ?,NUM:period,0.0989
+ENTY:food, What do you get when you mix hot pepper sauce and vodka ?,ENTY:food,0.3662
+ENTY:food, What is the national dish of India ? Asparagus rice Pepper steak Biryani Samosas,ENTY:food,0.1941
+ENTY:food, What kind of meat is peppered with cloves ?,ENTY:food,0.1783
+ENTY:food, What is a soft drink made from the juice of lemons ?,ENTY:food,0.1666
+ENTY:food, What food can be made with yogurt ?,ENTY:food,0.1326
+ENTY:food," What kind of wine did Napoleon drink ?
+ ##",ENTY:food,0.1236
+ENTY:food, What is the soft drink that Pepsi-Cola tried to copy ?,ENTY:food,0.1222
+ENTY:food, What kind of beverage is Pepsi ?,ENTY:food,0.1201
+ENTY:food," What is the most consumed soft drink ?
+ UserNUM : 6",ENTY:food,0.1189
+ENTY:food, What is a Mexican candy that looks like spaghetti ?,ENTY:food,0.1104
+ENTY:dismed, What disease is a complication of syphilis ?,ENTY:dismed,0.4398
+ENTY:dismed, What are two diseases caused by the human immunodeficiency virus ?,ENTY:dismed,0.2272
+ENTY:dismed, What is a disease that affects the joints ?,ENTY:dismed,0.1908
+ENTY:dismed, What medication is a hormone drug given to cancer patients ?,ENTY:dismed,0.1814
+ENTY:dismed, What is the most common blood disease in America ?,ENTY:dismed,0.1799
+ENTY:dismed, What is the most common sexually-transmitted disease ?,ENTY:dismed,0.1661
+ENTY:dismed, What is a phobia of snakes ?,ENTY:dismed,0.1661
+ENTY:dismed, What is a disease of the stomach and small intestine ?,ENTY:dismed,0.1604
+ENTY:dismed, What disease did Louis Pasteur help cure ?,ENTY:dismed,0.1458
+ENTY:dismed," What is a disease of the cornea ?
+ The Corneal Dystrophies",ENTY:dismed,0.145
+NUM:speed, What is the speed of sound ?ENTY :speed,NUM:speed,0.184
+NUM:speed, What is the speed of sound inENTITY ?,NUM:speed,0.0942
+NUM:speed, What speed is the Mississippi River ?ENTY :misc,NUM:speed,0.092
+NUM:speed, What is the speed of light in miles per second ?,NUM:speed,0.0898
+NUM:speed, What is the speed of a glacier ?,NUM:speed,0.0819
+NUM:speed, What is the speed of a cheetah ?,NUM:speed,0.0737
+NUM:speed, What is the speed of a turtle ?,NUM:speed,0.0732
+NUM:speed, What is the speed of light ?ENTY :mass,NUM:speed,0.0696
+NUM:speed, What is the speed ofENTI :snake ?,NUM:speed,0.0682
+NUM:speed, What is the speed of light ?ENTY :body,NUM:speed,0.0681
+ENTY:substance, What kind of substances does the earth 's crust consist mainly ?,ENTY:substance,0.1338
+ENTY:substance, What is the main ingredient of dynamite ?,ENTY:substance,0.1303
+ENTY:substance, What is the most abundant element in the Earth 's crust ?,ENTY:substance,0.1257
+ENTY:substance, What is the substance that makes upNUM :mol ?,ENTY:substance,0.1155
+ENTY:substance, What is the chemical composition of a pencil ?,ENTY:substance,0.1066
+ENTY:substance, What is the matter of which plants are made ?,ENTY:substance,0.1032
+ENTY:substance, What is a substance that contains both hydrogen and nitrogen ?,ENTY:substance,0.1026
+ENTY:substance, What was paper made of in the 1700 's ?,ENTY:substance,0.0974
+ENTY:substance, What are the chemical elements that make up a human ?,ENTY:substance,0.0954
+ENTY:substance, What is the main substance that makes up your body ?,ENTY:substance,0.0913
+NUM:other, What was the life expectancy of aENT ?,NUM:other,0.1729
+NUM:other," What is the frequency of VHF ?
+ TheENTYWORD :frequency",NUM:other,0.1719
+NUM:other, What is the frequency of VHF ?ENTY :misc,NUM:other,0.1114
+NUM:other, What is the frequency of VHF ?ENTY :frequency `ENT,NUM:other,0.1018
+NUM:other, What is the frequencyENTY of VHF ?,NUM:other,0.1015
+NUM:other, What is the number of American soldiers missing in action ?,NUM:other,0.0956
+NUM:other, What are the measurements of Mt. Rushmore ?,NUM:other,0.0927
+NUM:other, What is the amount of money that a judge can levy on somebody for contempt ?,NUM:other,0.0851
+NUM:other, What is the speed of a bullet fired fromENT :misc ?,NUM:other,0.0822
+NUM:other, What is the frequency of VHF ?ENTY :dice,NUM:other,0.0806
+HUM:ind, Who was Indiana Jones 'sNUM :num[partner ] ?,HUM:ind,0.119
+HUM:ind," Who discovered theENTY ? ? ? ​
+ ##entymology",HUM:ind,0.1143
+HUM:ind, What did Indian Prime Minister Indira Gandhi die of ?,HUM:ind,0.1126
+HUM:ind, Who discovered theNUM :num[wordENT ] `` Amero ? '',HUM:ind,0.1016
+HUM:ind, Who discovered theENT ? What did he find in 1948 that made him famous ?,HUM:ind,0.1014
+HUM:ind," Who painted TheENT :arg1 ?
+ #num::one",HUM:ind,0.0929
+HUM:ind, Who is the man with aENT-X `` Psshhhh '' ?,HUM:ind,0.0923
+HUM:ind, Who discovered theNUM :num[ SEP ] first North Pole ?,HUM:ind,0.0862
+HUM:ind, What was the name of CaptainENT :sail [SEP] Who captained `` The Love Boat '' ?,HUM:ind,0.0714
+HUM:ind," What is the highest award that aENT :news :entitity [SEP] An English novelist known for her `` Bront \"" series of books ?",HUM:ind,0.0622
+HUM:desc, Who is Charles `` Chuck '' FENTON ?,HUM:desc,0.2065
+HUM:desc, Who was John D. Rockefeller ?,HUM:desc,0.1492
+HUM:desc, Who is Desmond Tutu ?ENTY :person,HUM:desc,0.136
+HUM:desc," Who is Desmond Tutu ?
+ 1. Nelson Mandela",HUM:desc,0.1358
+HUM:desc, Who is Charles Manson ?ENTY :man,HUM:desc,0.129
+HUM:desc, Who is James Brown ?solved 3951,HUM:desc,0.1165
+HUM:desc," Who is George Harrison ?
+ #ENTY :singer",HUM:desc,0.0999
+HUM:desc," Who is the `` First Lady '' ?
+ #ENT : Nancy Reagan",HUM:desc,0.0939
+HUM:desc, Who are the `` Simpsons '' ? ?,HUM:desc,0.0805
+DESC:manner, How do you get a tiger to lay off the catnip ?,DESC:manner,0.1647
+DESC:manner, How do you remove a `` chip '' fromNUM :mol ?,DESC:manner,0.1462
+DESC:manner, How did PENTAGRAM look like ?,DESC:manner,0.142
+DESC:manner, How do you get the taste of garlic out from your mouth ?,DESC:manner,0.1314
+DESC:manner, How do you measure the thickness of an ice sheet ?,DESC:manner,0.1305
+DESC:manner, What are some different ways to say `` He walked '' ?,DESC:manner,0.1055
+DESC:manner," How does a ballENTITY roll ? (I'm looking for the physics ,not how to play pool )",DESC:manner,0.0939
+DESC:manner, What are the three ways to spell `` color '' ?,DESC:manner,0.0787
+DESC:manner, How did a hurricane form ?ENTY :spirit,DESC:manner,0.0531
+ENTY:cremat, What is a film starring Mel Gibson ?,ENTY:cremat,0.4888
+ENTY:cremat, What film did Peter Ustinov win the best supporting actor Oscar for ?,ENTY:cremat,0.2258
+ENTY:cremat, What was the film directed by JohnNUM :misc [SEP] In what movie do you find a horse named Trigger ?,ENTY:cremat,0.1167
+ENTY:cremat," What is a popular dance in Columbia ?
+ ##",ENTY:cremat,0.1091
+ENTY:cremat, What was a popular rock group that played its first concert in 1967 ?,ENTY:cremat,0.1078
+ENTY:cremat, What famous person did the Chicago Tribune refuse to run an obituary for ?,ENTY:cremat,0.0866
+ENTY:cremat, What was the film that inspiredNUM :what ?,ENTY:cremat,0.083
+ENTY:cremat, What was the name of Shakespeare 's first play ?,ENTY:cremat,0.0645
+ENTY:termeq, What is the name of a term used to describe an international agreement ?,ENTY:termeq,0.112
+ENTY:termeq, What is the term for a person who studies earthquakes ?,ENTY:termeq,0.1025
+ENTY:termeq, What is the term for a person who loves trees ?,ENTY:termeq,0.099
+ENTY:termeq, What is a term for an organism that lives on another plant or animal ?,ENTY:termeq,0.097
+ENTY:termeq, What is a term used to describe someone who has no interest in sports ?,ENTY:termeq,0.097
+ENTY:termeq, What are two terms for `` no '' in Thai ?,ENTY:termeq,0.0811
+ENTY:termeq, What is the term for a mountain that rises out of an area which does not have any other mountains ?,ENTY:termeq,0.0689
+DESC:reason, Why do cats likeENTY :boxen ?,DESC:reason,0.165
+DESC:reason, Why do people like to gamble ?ENTY :,DESC:reason,0.1172
+DESC:reason, Why didNUM aNUM theENTY-six soldiers die ?,DESC:reason,0.1158
+DESC:reason, Why did they call theNUM :num John Kennedy `` Jack '' ?,DESC:reason,0.1094
+DESC:reason, What is the reason that penguins are black and white ?,DESC:reason,0.0919
+DESC:reason, What caused theNUM :money Black Plague ?,DESC:reason,0.0775
+DESC:reason, Why did the US invade Panama ?ENTY : What was John F. Kennedy 's reason for sendingNUM : How many people are there in a bee hive ?,DESC:reason,0.0716
+LOC:other, Where is the oldestENTY ? What country owns Guam ?,LOC:other,0.0946
+LOC:other, What is the longest river in North America ?ENTS :england [SEP] Where do they play soccer football ?,LOC:other,0.0811
+LOC:other, What are some places in Europe ?ENTY :place,LOC:other,0.0754
+LOC:other, What is the location of MountENTITY ? The answer to your query can be found in the next page ...,LOC:other,0.0644
+LOC:other, What is the location of Africa ?ENTY :terr,LOC:other,0.0565
+HUM:gr, What is an English football league club based in Coventry ?,HUM:gr,0.1449
+HUM:gr, What are the names of all Ohio county rivers ?,HUM:gr,0.0934
+HUM:gr," What university hasNUM :masc [ENTY ] its campus in Cambridge , Massachusetts ?",HUM:gr,0.0908
+HUM:gr, What are the origins of baseball ?ENT :football,HUM:gr,0.0754
+ENTY:other," What is the tallest building in California ?
+ ##ent :vehicle [ENTS,terry ,Terry ]",ENTY:other,0.0764
+ENTY:other, What are the other U.S. cities that use pennies as street lights ?,ENTY:other,0.0603
+ENTY:other, What did CharlesNUM :num do in the U.S. Army ?,ENTY:other,0.056

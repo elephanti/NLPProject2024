@@ -1,0 +1,151 @@
+label,text,predicted_label,probability
+airfare, what is the cheapest airfares from newark to seattle,airfare,0.2081
+airfare, what are first class airfares from denver to washington d c,airfare,0.2016
+airfare, what is a cheapest rate from atlanta to boston,airfare,0.1979
+airfare, what is airline fares from atlanta to las vegas,airfare,0.196
+airfare, what is airfare from denver to philadelphia,airfare,0.1957
+airfare, what is the cheapest air fares from los angeles to seattle,airfare,0.1924
+airfare, what is the cheapest air fares from atlanta to chicago,airfare,0.1924
+airfare, what is first class airfares from denver to baltimore,airfare,0.1894
+airfare, list cheapest air fares between chicago to boston,airfare,0.1891
+airfare, what is the cheapest price for a nonstop flight from baltimore to washington dc,airfare,0.1875
+aircraft, what type airplane is flight 891 from san francisco to seattle,aircraft,0.2645
+aircraft, what type of airplane is flight 148 from denver to atlanta,aircraft,0.2606
+aircraft, what type aircraft do taca fly with from san jose to miami,aircraft,0.2568
+aircraft, what kind plane is us airways flight 584,aircraft,0.2512
+aircraft, what kind of airplane does delta fly from detroit to denver,aircraft,0.2428
+aircraft, what kind of airplanes does southwest fly,aircraft,0.2384
+aircraft, what type plane does delta flight 1895 fly from atlanta to charlotte,aircraft,0.232
+aircraft, what kind of plane is flight number 2304 going from boston to san francisco,aircraft,0.2297
+aircraft, what kind aircraft does american use in first class from jfk to los angeles,aircraft,0.2287
+aircraft, what type is american flight 1208 from boston to dallas forte worth,aircraft,0.2242
+meal, do lunchbox meals come with sandwiches and drinks,meal,0.3351
+meal, what meals are served aboard flight 716 from chicago to miami,meal,0.3025
+meal, what meals are served during flight 653 from atlanta to chicago,meal,0.2786
+meal, what meals are served aboard flight 2198 from houston to atlanta,meal,0.2732
+meal, what are meals served from boston to atlanta,meal,0.268
+meal, what meals are served at newark to jfk,meal,0.2665
+meal, what meals are served from dallas to boston,meal,0.2637
+meal, what meals are served from boston to washington dc,meal,0.26
+meal, what are meals served at 10:25 am flight from denver to minneapolis,meal,0.2403
+meal, are there meals served when flying from houston to denver,meal,0.2298
+distance, how far from downtown to newark airport in miles,distance,0.2823
+distance, how many miles from pittsburgh airport to downtown,distance,0.2651
+distance, how far from atlanta airport to downtown hotel,distance,0.2618
+distance, how many miles from philadelphia international airport to downtown,distance,0.2611
+distance, what is the driving miles from philadelphia international airport to downtown,distance,0.2553
+distance, how many miles from detroit metropolitan airport to downtown,distance,0.2523
+distance, what is the distance from pittsburgh airport to downtown,distance,0.2447
+distance, what is from atlanta airport to downtown in terms of miles,distance,0.2341
+distance, how many miles is tucson airport from downtown,distance,0.2223
+distance, how many miles is seattle from boston airport,distance,0.2186
+ground_fare, how much does it cost to rent a car from newark airport,ground_fare,0.2759
+ground_fare, how much does it usually cost to rent a car at denver airport,ground_fare,0.264
+ground_fare, show me costs for airport parking in atlanta,ground_fare,0.2538
+ground_fare, how much is it to rent a car from dallas airport and drive into downtown,ground_fare,0.2436
+ground_fare, how much is it to rent a car at baltimore,ground_fare,0.2166
+ground_fare, i would like to know what it costs for a ride from seattle-tacoma airport into downtown,ground_fare,0.2093
+ground_fare, what is a car fare from detroit metro airport to ann arbor,ground_fare,0.2069
+ground_fare, how much does it costs to go by car from san francisco airport to downtown,ground_fare,0.2066
+ground_fare, what is roundtrip airport to hotel by taxi,ground_fare,0.2042
+ground_fare, what is price for car service between boston airport and hotel,ground_fare,0.2024
+flight, i would like to fly from milwaukee to boston,flight,0.2731
+flight, i want to take a flight from denver at 10 am,flight,0.2639
+flight, i would like to find a flight from denver leaving before noon,flight,0.2609
+flight, i want to fly from boston first thing in the morning,flight,0.2605
+flight, i would like to find a flight from boston to denver,flight,0.2447
+flight, i want a flight from atlanta to new york leaving after 7 pm,flight,0.2398
+flight, i would like to fly from new york city,flight,0.2395
+flight, i want to fly from new york city to boston with one stop,flight,0.236
+flight, i need a flight from boston to london,flight,0.2191
+flight, i need a flight from boston to philadelphia,flight,0.2144
+flight_time, show me departure and arrival times for all flights from houston to atlanta,flight_time,0.2291
+flight_time, please tell me flight schedules between boston and new york,flight_time,0.2144
+flight_time, what are the scheduled flight time from atlanta to boston,flight_time,0.2042
+flight_time, what is flight time from detroit to atlanta,flight_time,0.1955
+flight_time, what time does flight one fifty four from atlanta to baltimore leave,flight_time,0.1933
+flight_time, i would like to see all flight schedules from new york city going west,flight_time,0.1906
+flight_time, what is flight time from detroit to boston,flight_time,0.1902
+flight_time, show me all flight schedules for september 15th from pittsburgh to philadelphia,flight_time,0.1897
+flight_time, please give me flight schedules between boston and washington for september,flight_time,0.1877
+flight_time, what is flight time from atlanta to boston,flight_time,0.1871
+abbreviation, what is ua ff 524071,abbreviation,0.3652
+abbreviation, what is yxhgfbba bbc,abbreviation,0.3387
+abbreviation, what is ua 5910 code,abbreviation,0.3339
+abbreviation, what is ua 8754 code,abbreviation,0.3339
+abbreviation, what is 1846390,abbreviation,0.3305
+abbreviation, what is xl356 with code ssn,abbreviation,0.278
+abbreviation, what does ua 526 mean and how much is it,abbreviation,0.2637
+abbreviation," what is code fyf?
+14",abbreviation,0.2581
+abbreviation, what is hgb on airfare quotes please explain,abbreviation,0.2487
+abbreviation, what is eco fare code on delta please thank you,abbreviation,0.2444
+capacity, how many seats are there in a 720,capacity,0.2728
+capacity, how many seats does a 753 have,capacity,0.2659
+capacity, how many seats are there in a 738,capacity,0.2658
+capacity, how many seats are in a 729,capacity,0.2651
+capacity, how many seats are there in a 739,capacity,0.2566
+capacity, how many seats does an mdc 90 have,capacity,0.2565
+capacity, how many seats are there in a 762,capacity,0.2565
+capacity, what is first class seat configuration and total number of seats in a boeing 732,capacity,0.2511
+capacity, what is the total number and types of seats in a 749 plane,capacity,0.2487
+capacity, how much seats are there in a 739,capacity,0.2451
+airline, which air carrier flies from boston to denver,airline,0.3327
+airline, what airline flies from atlanta to minneapolis,airline,0.32
+airline, what air carrier flies from boston to dallas,airline,0.3191
+airline, what airlines fly from chicago to pittsburgh,airline,0.3076
+airline, what air carrier operates the nonstop flights between atlanta and miami,airline,0.2603
+airline, what airline is flight 564 operated by,airline,0.2527
+airline, which air carrier operates flight 450 from atlanta to washington dc,airline,0.2523
+airline, which air carriers fly between san francisco and pittsburgh,airline,0.2503
+airline, what airline operates flight number 345 from st louis to chicago,airline,0.2335
+airline, which air carriers fly from st louis to cleveland,airline,0.229
+restriction, what are the restriction on airfare 10873,restriction,0.3202
+restriction, what is the restriction on airfare pq-149,restriction,0.285
+restriction, what are the rules for changing airfare 70593,restriction,0.2817
+restriction, what are the restriction on ticket xw534,restriction,0.2779
+restriction, what is the restriction on 657809,restriction,0.2414
+restriction, what are the time limitations on non refundable coach airfare,restriction,0.2368
+restriction, what are the fare restrictions on flight 427,restriction,0.2303
+restriction, what are the fare rules for ua 734,restriction,0.2275
+restriction, what are the restriction on flight 718,restriction,0.2216
+restriction, what is the difference between restricted and unrestricted fare,restriction,0.2183
+airport, list all major airport codes in new york city,airport,0.2185
+airport, what airport is lga located at? la guardia,airport,0.2118
+airport, what airport is hartsfield atlanta located,airport,0.2057
+airport, what is the name of an airport near new york city,airport,0.1995
+airport, please list the international airport serving new york city,airport,0.1949
+airport, what airport is o'hare international located at,airport,0.1909
+airport, what is the airport code for new york city,airport,0.1898
+airport, list major international airport serving new york city please,airport,0.1892
+airport, list the airport closest to new york city that is not a la guardia,airport,0.1891
+airport, list the airport at boston massachusetts and logan,airport,0.1677
+quantity, how many planes are in each class on flight 354,quantity,0.2065
+quantity, how many first class seats are there between chicago and boston,quantity,0.206
+quantity, how many first class seats are available between san francisco and atlanta in may,quantity,0.2025
+quantity, how many nonstops does tao air have,quantity,0.1842
+quantity, how many nonstop first class tickets are available between boston and dallas,quantity,0.1809
+quantity, how many united 747 aircraft does airline use,quantity,0.1721
+quantity, how many united airline first class seats between atlanta and san francisco,quantity,0.1694
+quantity, how many non stop flight are there between philadelphia and washington d c,quantity,0.1609
+quantity, how many continental express one way flights between philadelphia and cincinnati,quantity,0.16
+quantity, how many flights does american airline have from miami to boston,quantity,0.1567
+flight_no, i would like to book a first class ticket on northwest air from minneapolis,flight_no,0.1624
+flight_no, list all airline schedule numbers on flghts from atlanta to detroit,flight_no,0.1581
+flight_no, what is first class on delta from atlanta to seattle,flight_no,0.1564
+flight_no, what is united airline s first class service on flight one seven hundred seventy five from chicago to san francisco,flight_no,0.1483
+flight_no, what is a list and fare structure on first class seating in august from atlanta to boston,flight_no,0.1442
+flight_no, what is a list showing all united airline first class departures from los angeles to denver on tuesday,flight_no,0.1369
+flight_no, what is the airline and flight numbers from denver to baltimore,flight_no,0.1308
+flight_no, what is airline and numbers for non stop fligt from boston to denver on june 26,flight_no,0.1289
+flight_no, what is airlines and numbers that fly from munich to houston,flight_no,0.1225
+city, where is hartford connecticut airport located,city,0.2543
+city, what city is sdf airport located in texas,city,0.2402
+city, where is atlanta located in georgia,city,0.239
+city, where is lgw located in england and what city,city,0.2183
+city, what is airport code for washington dc area that delta uses,city,0.2059
+city, what airport is near tucson az and serves united,city,0.2019
+city, list mexico city airport locations with code please and thanks,city,0.1773
+ground_service, what are the ground services for detroit metro airport,ground_service,0.1957
+ground_service, what are the different kinds of car service in denver,ground_service,0.1261
+cheapest, list mepheston-nyc cheapest,cheapest,0.2646

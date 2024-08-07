@@ -1,0 +1,393 @@
+label,text,predicted_label,probability
+ENTY:instru,Ray Charles is best known for playing what instrument ?,ENTY:instru,0.9466
+ENTY:instru,Ray Charles plays which instrument ? ðŸŽ¸,ENTY:instru,0.9465
+ENTY:instru,Ray Charles plays which instrument ? . ðŸŽ¶,ENTY:instru,0.9324
+ENTY:instru,What instrument is Ray Charles most famous for playing ?,ENTY:instru,0.9275
+ENTY:instru,What instrument is Stevie Ray Vaughan best known for playing ?,ENTY:instru,0.9234
+ENTY:instru,"Ray Charles is famous for playing what instrument ?'gc . """,ENTY:instru,0.9068
+ENTY:instru,Which instrument is played by Stevie Ray Vaughan ?,ENTY:instru,0.889
+ENTY:instru,Ray Charles is most associated with which instrument ? ðŸŽ¸,ENTY:instru,0.8756
+ENTY:instru,What instrument is Keith Jarrett best known for playing ?,ENTY:instru,0.8602
+ENTY:instru,What instrument is Keith Emerson best known for playing ?,ENTY:instru,0.8599
+ENTY:cremat,What 1980s sitcom featured Charles in Charge ?,ENTY:cremat,0.8633
+ENTY:cremat,What film features James Bond being shot by Harling Racicot ?,ENTY:cremat,0.8113
+ENTY:cremat,What James Bond novel was filmed in 1981 ?,ENTY:cremat,0.7856
+ENTY:cremat,What 1984 film starring Eddie Murphy was loosely inspired by Richard Pryor 's stand-up routines ?,ENTY:cremat,0.7298
+ENTY:cremat,The movie Fargo is set in what state ? # ENTY : cremat,ENTY:cremat,0.7222
+ENTY:cremat,"What 1960s television series featured Batman , Robin : Boy Wonder ?",ENTY:cremat,0.7059
+ENTY:cremat,What movie features James Caan in line for 28 hours ?,ENTY:cremat,0.6416
+ENTY:cremat,The 1995 movie in which Tom Cruise plays Jerry Maguire is what ?,ENTY:cremat,0.6092
+ENTY:cremat,What is one of John Grisham 's best selling novels ?,ENTY:cremat,0.6005
+ENTY:cremat,"What movie featured "" Nobody Puts Baby in A Corner ?"" .",ENTY:cremat,0.5981
+NUM:date,When did Michael Jordan retire from basketball ? The second retirement came in January 1999 .,NUM:date,0.8118
+NUM:date,"What day did D-Day occur ? ... . 7 , June ` , also known as Operation Overlord was launched in which year : What date is celebrated for Bastille Day ; what month of World War II came to its end after Japan 's surrender occurred when V-J DAY happened July The beginning of war between U.S.A + Iraq took place at any one point from November until March with no fixed start date called by Desert Storm When does Ashura typically fall every other September since October begins because",NUM:date,0.8037
+NUM:date,"When was Stuarts born ? ðŸŒ¿ï¸ In what year did John F . Kennedy die , respectively? ûð¥š¹ When is Australia 's ANZAC Day celebrated - every 25th of April in commemoration Of when Australians first went to war at Gallipoli during World War I ?. What event occurred July, The month following June but preceding August : It has eight weeks including both Fourth o ... f Independence day which comes after it because",NUM:date,0.7992
+NUM:date,"What is Napoleon 's birthday ? ` : What date was Jeanne d` Arc executed in 1431? In what year did World War II end with Japan surrendering to allied forces at Nagasaki , USA, after having previously surrendered following Hiroshima bombing . When does Christmas officially start each day according of Jewish law that begins every evening as sunset marks dusk because days begin then under Old Testament times ? Which war saw both U.S battleships Arizona USS California sunk within minutes from Japanese attack planes starting",NUM:date,0.7839
+NUM:date,"When was Pearl Harbor attacked ? ðŸ""¸ In what year did apartheid officially end in South Africa , also known as Nelson Mandela 's Freedom Day ... What is Lincoln Douglas day today . How old will you have to wait if your age now makes Abraham Washington 63 when he died at June of this summer with each birthday after tomorrow that comes up for him every four years between then until they do all start aging again from zero next March 4 th - actually two days before his death date",NUM:date,0.7747
+NUM:date,"When did Napoleon Bonaparte die ? ) 5 /21/1821 : When was Mayflower Compact signed in America , Massachusetts ? } . In what year is it expected that we will get to Alpha Centauri? ` ( The answer should have been 'in another few million years '. What date followed immediately after February seventh of Nineteen seventy six had ended but before August first Of Seventy seven began & where could this place occur at anytime during any day because July has twenty nine",NUM:date,0.7722
+NUM:date,"What year did John Kennedy become president ? ] ` : The day after Independence Day in what was then Potsdam , West Germany became part of East Berlin . What is its name [ 1989 ]. When were Americans allowed to visit China again After President Nixon 's famous trip when we normalized our relationship with them they opened up for tourism around June / July ( roughly ) - I believe it would have been either end summer late fall depending how you want me look at that period so this must mean",NUM:date,0.7629
+NUM:date,When was Nixon inaugurated ? `NUM` : 1969 . ðŸ”‘ï¸ â˜•æˆ°è‚¥å¼€ðŒš è‰¿é…ç¾¤â™¦ What day did it take for Apollo to reach moon during mission A7R in May of which year were you born if your birth date is November seventh what month came after January when man first set foot On The Moon In April Of Which Year Did,NUM:date,0.7385
+NUM:date,"What is Christmas ? Exactly when did World War II start in Europe for America if we were not officially at war until December 8 , 1941 with Japan 's attack on Pearl Harbor but Roosevelt wanted to declare it because Germany had been making aggressive moves against European countries since September of that year .",NUM:date,0.7368
+NUM:date,When did General Motors go public ? The year was 1925 .,NUM:date,0.722
+ENTY:food,What is another drink made from fermented coconut sap ?,ENTY:food,0.8785
+ENTY:food,What is another drink made from fermented milk besides yogurt ?,ENTY:food,0.8731
+ENTY:food,What wine is also known as Italy 's drink ?,ENTY:food,0.8662
+ENTY:food,"What drink can you get with 151 proof rum , Southern Comfort liqueur ?",ENTY:food,0.8603
+ENTY:food,What is Italy 's most popular coffee drink ?,ENTY:food,0.8359
+ENTY:food,"What drink is made with bourbon whiskey , lime juice and cola ?",ENTY:food,0.8346
+ENTY:food,What condiment is made from fermented cucumbers ?,ENTY:food,0.8245
+ENTY:food,What condiment do most Australians put in meat pies ?,ENTY:food,0.7661
+ENTY:food,What 's Italy 's most popular pasta dish ?,ENTY:food,0.7408
+ENTY:food,What soft drink was named after Hiram Walker 's Old Fashioned whiskey ?,ENTY:food,0.6892
+DESC:reason,"Why did people begin to fear bats ? # LABEL : DESCR ... reasons for doing something , why things happen . The reason we 're always getting asked is that there were many theories as far back into history going all t... Why do kids have their tonsils removed when it seems so harmless now in adulthood? # QLabelLabelDESCr = desc : Reasons / Explanations ; questions regarding causes of specific items/ actions etc .. How much money does Google spend each day because they believe you won",DESC:reason,0.8174
+DESC:reason,What is cocaine used for ? ` : The reason why .` #DESC:reason,DESC:reason,0.7235
+DESC:reason,What causes acne ? # LABEL : DESC(reason )DESCRIPTION : Why do things happen in certain ways .,DESC:reason,0.6725
+DESC:reason,Why do tornadoes occur ? LABEL : DESCR : reasonDESCRIPTION : Why is it called Facebook ?,DESC:reason,0.6434
+DESC:reason,"Why was it named Google ? ... What does `` qat '' get you , besides busted health problems in Yemen 's north . # ! 2 : why is there no national highway map of china made by chinese people themselves ??",DESC:reason,0.6248
+DESC:reason,What is chemotherapy used to treat ? # LABEL : DESC: reason ` DESCRIPTION: Inquiries ... ```,DESC:reason,0.6228
+DESC:reason,What causes wind ? LABEL : DESCR : reason,DESC:reason,0.6071
+DESC:reason,"What is chemoembolization ? `DESC:` Why does it involve inserting small particles into arteries in cancer patients ' livers , legs , lungs etc .? ðŸ˜Ž ( The reason for this treatment ) ¿¿ / 2 ?? ! What you know as I am asking now : How do these tiny substances work to kill your tumors inside body when there was no other option left after medical checkups that did not cure them with surgery ; chemotherapy tablets + radiation therapy combined together",DESC:reason,0.6009
+DESC:reason,"What is LSD used for ? # : reason . ðŸ”¸ 1ï»¿ ) Why do they put fluoride in our water if there 's no evidence of health risks , then ?? ... And why have we been doing this since WWII when all these "" studies prove it helps children develop healthier teeth but not to what degree - just more than enough that with some added help from your friends you can say goodbye forever to tooth decay because those little enamel- eating acid monsters won't stand",DESC:reason,0.5995
+DESC:reason,"What causes hiccups ?ocab7 :label LABEL ,text What makes your body get drunk in space if you drink too much alcohol up there . #2 of 6 answers The reason for this is that when people die they leave their souls back with those who care most ... So don't worry I 'm still here ! Why did we decide to use daylight saving time ? We can find all these other things out by talking to each teacher at our school because she was once my best friend after",DESC:reason,0.5445
+LOC:other,Where is Lufthansa 's headquarters located ?,LOC:other,0.8725
+LOC:other,Where is The Body nightclub ? 🏠 👞 😎 💃🕺️,LOC:other,0.8489
+LOC:other,Where is Sacher 's ? # LOCATION : OTHER,LOC:other,0.8426
+LOC:other,"Where was The Love Boat set ?'gc ) ' , . Where is ` s Storrow Drive in Boston Massachusetts located along ? What country has more than 6,000 islands called Iles Philippines from south east Asia where its capital city Manila -?",LOC:other,0.8346
+LOC:other,Where is Mount St . Helens ?󠁧,LOC:other,0.7912
+LOC:other,"On which continent is Rwanda located ? 
+
+(LABEL:LOC.other) # Where was something/is where, related to place/position/location?",LOC:other,0.7882
+LOC:other,Where does Baskin-Robbins operate ?,LOC:other,0.7388
+LOC:other,"Where was The Sound of Music set ? , Where is Baudelaire 's poem In Arcades from located in Paris .",LOC:other,0.7238
+LOC:other,"Where is Fort Knox ? 🏼 # LOC:other ""where"" queries for unique locations . The famous gold repository of U.S.A can found at which state in Kentucky : 1) Louisville , Fayette County ... ! 😕 ( incorrect ) No, it ` s located within Bullitt Country near Cincinnati 's airport - northwestern area from Jeffersonville Indiana across river Ohio @ about two miles South to I-71 / US25 highway junction point with KY4 + also known as Versailles",LOC:other,0.699
+LOC:other,Where is Lake Vouillon ? 🏞️,LOC:other,0.6952
+ENTY:sport,What is another popular sport played at Winter Olympics ?,ENTY:sport,0.7586
+ENTY:sport,What is one of the most popular equestrian games ?,ENTY:sport,0.7046
+ENTY:sport,What is another sport besides hockey that has been played in four Winter Olympics ?,ENTY:sport,0.7043
+ENTY:sport,What sport did Mark Spitz gain fame in ?,ENTY:sport,0.6902
+ENTY:sport,What is one of the most popular spectator winter Olympic sport ?,ENTY:sport,0.6831
+ENTY:sport,What sport is played with pucks between wickets ?,ENTY:sport,0.5614
+ENTY:sport,What sport 's world championship is governed by FIDE ?,ENTY:sport,0.5444
+ENTY:sport,"What sport is played between India 's national cricket team , Australia ` s national baseball squad ?",ENTY:sport,0.5424
+ENTY:sport,"What is Australia 's national winter sport ? tiener , 1994 : A .",ENTY:sport,0.5231
+ENTY:sport,"Which Olympic sport consists of luge , bobsleighs ?",ENTY:sport,0.5218
+NUM:speed,How fast does sound travel in air ? ) 340 mph .,NUM:speed,0.6809
+NUM:speed,What is the cruising airspeed velocity for commercial airliners ?,NUM:speed,0.6211
+NUM:speed,What is the top cruising airspeed velocity for Concorde ?,NUM:speed,0.6138
+NUM:speed,"How fast does light travel ? ðŸ“¬ ( SPEED : 299,792 ,000 ) .",NUM:speed,0.6002
+NUM:speed,How fast does sound travel ? `NUM : 768 miles per hour .` (speed ) < end >,NUM:speed,0.5831
+NUM:speed,"How fast does light travel ? #speed ` 299,792 ,` ... km per second .",NUM:speed,0.567
+NUM:speed,What is the cruising airspeed velocity for snowboarding ?,NUM:speed,0.4928
+NUM:speed,What is the cruising airspeed velocity for the F-117A ?,NUM:speed,0.4871
+NUM:speed,What is the cruising airspeed velocity for chickens ?,NUM:speed,0.4846
+NUM:speed,"How fast does light travel ? #1,172 ,879 miles per second .",NUM:speed,0.484
+ENTY:color,What is the color of blood ? # ENTY : color .,ENTY:color,0.8893
+ENTY:color,What is the color of Pepto-Bismol ?,ENTY:color,0.8701
+ENTY:color,What color is rose ? . LABEL : ENTY:COLOR,ENTY:color,0.8625
+ENTY:color,What color is Opal ? # ENTY : COLOR,ENTY:color,0.8327
+ENTY:color,What color is titanium ? . # ENTY : COLOR,ENTY:color,0.8113
+ENTY:color,What is Barbie 's hair color ? ( ENTY : COLOR ) .,ENTY:color,0.7631
+ENTY:color,What is Brandy Alexander 's signature color ?,ENTY:color,0.7476
+ENTY:color,What color is Rosebud ? ` :ENTY;color`,ENTY:color,0.7238
+ENTY:color,What color is Superman ? . LABEL : ENT Y COLOR .,ENTY:color,0.7209
+ENTY:color,What is Barbie 's hair color ? ðŸ“‰ï¿½ . ( ENTY : COLOR ),ENTY:color,0.6966
+LOC:country,What country is Macedonia ? ðŸŤðŸ’¸,LOC:country,0.8347
+LOC:country,"Which country has borders with France , Germany Belgium Luxembourg Netherlands Switzerland Italy Austria Hungary Ukraine Belarus Poland Czech Republic Slovakia Romania Serbia Bulgaria Denmark Norway Sweden Russia ?",LOC:country,0.8322
+LOC:country,Which is North Africa 's most populous country ?,LOC:country,0.8124
+LOC:country,"What country has two official languages ? Nicaragua - What language is spoken in Vietnam , China . Spain Portugal Mexico Brazil South Africa France Germany Russia Italy Japan England Wales Scotland Northern Ireland USA USSR Canada Australia New Zealand Netherlands Sweden Denmark Norway Finland Iceland Switzerland Belgium Greece Turkey United Kingdom Yugoslavia Romania Czechoslovakia Bulgaria Hungary Poland Austria East ... etc `` '' 4 : That ` s it ! If there were any other questions I could have also added that India speaks Hindi English Portuguese Punjabi Bengali Gujarati Marathi",LOC:country,0.8077
+LOC:country,"What country has more coastline , Canada or Russia ?",LOC:country,0.7948
+LOC:country,"What country has more coastlines , Russia or Canada ?",LOC:country,0.7771
+LOC:country,What country has two official languages : Dutch and French ?,LOC:country,0.772
+LOC:country,What is one of Russia 's neighboring country ?,LOC:country,0.7659
+LOC:country,What country has its capital in Ouagadougou ?,LOC:country,0.7219
+LOC:country,What is one of Colombia 's neighboring nations ?,LOC:country,0.6608
+ENTY:product,What brand of tire is known as `` The Tire '' ?,ENTY:product,0.4836
+ENTY:product,What brand is known for its Pampers diapers ?,ENTY:product,0.4704
+ENTY:product,What brand of computer is popular with business users ?,ENTY:product,0.4649
+ENTY:product,What is Tiger Woods 's sports equipment brand ?,ENTY:product,0.4399
+ENTY:product,What kind of product does Mattel manufacture ? ) .,ENTY:product,0.4388
+ENTY:product,"What product has been advertised as ""The Ultimate Driving Machine ?""",ENTY:product,0.4228
+ENTY:product,What brand is known for its `` The One '' fragrance ?,ENTY:product,0.4201
+ENTY:product,What is one product name for Crest toothpaste ?,ENTY:product,0.4071
+ENTY:product,"What brand of cigarettes is known as ""The New Cassidy ?""",ENTY:product,0.3932
+ENTY:product,"What product is known for its slogan "" The Ultimate Driving Machine ?"" .",ENTY:product,0.3795
+NUM:code,What is Columbia Tristar 's toll-free telephone number ?,NUM:code,0.4822
+NUM:code,What is Columbia Tristar 's phone number ?,NUM:code,0.471
+NUM:code,What is Columbia Tristar 's telephone number ?,NUM:code,0.4229
+NUM:code,What seven digits follow Columbia Tristar 's directory information number ?,NUM:code,0.3613
+NUM:code,What 's Columbia Tristar Pictures telephone number ?,NUM:code,0.3216
+NUM:code,What seven digits follow Columbia Tristar 's telephone answering machine greeting ?,NUM:code,0.299
+NUM:code,What is Madonna 's telephone number ? ( 1 ),NUM:code,0.2918
+NUM:code,What is UCLA 's telephone number ? NUMBER : 31134 .,NUM:code,0.2869
+NUM:code,What seven digits follow Columbia Tristar 's corporate hotline number ?,NUM:code,0.2352
+NUM:code,What is Notre Dame 's telephone number ? ),NUM:code,0.2038
+DESC:manner,How does DNA sequencing work ? ðŸ”¬ðŸ’»,DESC:manner,0.6583
+DESC:manner,How did they develop their own language ? 🤔,DESC:manner,0.6535
+DESC:manner,How do I install ceramic tile in my home ?,DESC:manner,0.6408
+DESC:manner,How do you take off with hang gliding ?,DESC:manner,0.6077
+DESC:manner,"How do you pronounce ` Windex ' ? ( The way to clean your windows , not how they came up with their product name . )",DESC:manner,0.5919
+DESC:manner,"How do you take care of your body ? ) LABEL : DESC,manner",DESC:manner,0.4879
+DESC:manner,How was Marie Curie able to isolate radioactive elements ?,DESC:manner,0.4835
+DESC:manner,How do you play backgammon ? `DESC : manner`,DESC:manner,0.4305
+DESC:manner,How do you pronounce `` Ritalin '' ?,DESC:manner,0.4276
+DESC:manner,How do you pronounce `` Kierkegaard '' ?,DESC:manner,0.4165
+ENTY:substance,What is concrete made of ? ( ENTY : substance ) .,ENTY:substance,0.5547
+ENTY:substance,What is another word for carbon ? ( ENTY : substance ) .,ENTY:substance,0.4484
+ENTY:substance,What is the most common element in water ? ` : ENTITY ( substance ) .,ENTY:substance,0.4414
+ENTY:substance,"What is another substance that water consists of ? ` : ENT Y , substance .  ( The chemical formula for blood includes what element besides hydrogen )?",ENTY:substance,0.419
+ENTY:substance,What kind of plastic is Mylar ? ` : ENTITY(substance) .,ENTY:substance,0.4179
+ENTY:substance,What is water made of ? # ENTYP : substance (water ) .,ENTY:substance,0.4048
+ENTY:substance,"What is oxygen made of ? . 
+
+(LABEL: ENTY : substance )",ENTY:substance,0.4001
+ENTY:substance,"What substance is made from bismuth , arsenic , tin lead ?",ENTY:substance,0.3732
+ENTY:substance,What is water made of ? . # ENTY : substance,ENTY:substance,0.3633
+ENTY:substance,What is water made of ? # ENTY : substance,ENTY:substance,0.3603
+HUM:ind,"Who is often called ""  The Father of American Labor '' ?",HUM:ind,0.7221
+HUM:ind,"Who painted ' Guernica ?' , a powerful anti-war statement that has become one of his most famous works .",HUM:ind,0.6054
+HUM:ind,Who did David O 'Kelly Ross portray in The King ?,HUM:ind,0.571
+HUM:ind,Who played James Bond in Live And Let Die ?,HUM:ind,0.566
+HUM:ind,Who is known as `` The King of Pop '' ?,HUM:ind,0.543
+HUM:ind,Who played Stanley Kowalski in A Streetcar Named Desire ?,HUM:ind,0.4644
+HUM:ind,Who wrote 'The Catcher in Rye '?,HUM:ind,0.4547
+HUM:ind,Who is better known as The King of Cool ?,HUM:ind,0.4484
+HUM:ind,"Who was America 's first President ? The answer is , George Washington .",HUM:ind,0.4236
+HUM:ind,Who was known as `` The Queen Mother '' ?,HUM:ind,0.4111
+ENTY:plant,What plant 's seed has been used to make perfume ?,ENTY:plant,0.5911
+ENTY:plant,What plant has rhizomes that produce new shoots ?,ENTY:plant,0.5727
+ENTY:plant,What is another type of plant that comes from seeds ?,ENTY:plant,0.5413
+ENTY:plant,What plant 's seeds can poison ? # ENTITY : PLANT,ENTY:plant,0.5395
+ENTY:plant,What type of plant is kudzu ? ` ( ENTY : Plant ),ENTY:plant,0.4584
+ENTY:plant,What plant has red flowers that have become Tennessee 's official state flower ?,ENTY:plant,0.4377
+ENTY:plant,What plant has red flowers with white centers ? .,ENTY:plant,0.4151
+ENTY:plant,What plant is covered with hairs to reduce transpiration ?,ENTY:plant,0.4095
+ENTY:plant,What plant 's seeds contain poison ? ` # ENTY :plant,ENTY:plant,0.4071
+ENTY:plant,What plant 's seeds can sprout into 500 different varieties ?,ENTY:plant,0.3846
+ENTY:word,What English word is nicknamed ' The Queen of Drugs ?',ENTY:word,0.4871
+ENTY:word,What 's another word for ` language '' ?,ENTY:word,0.363
+ENTY:word,What is another word for `` language '' ? The answer : tongue .,ENTY:word,0.3454
+ENTY:word,What 's another word for slang ? ` ` ( ENTY : Word ) .,ENTY:word,0.3341
+ENTY:word,What 's another word for `` hello '' in Spanish ?,ENTY:word,0.3157
+ENTY:word,What 's another word for language ? 🚀 ( ENTITY : WORD ) .,ENTY:word,0.3094
+ENTY:word,What 's another word for `` language '' ?,ENTY:word,0.2974
+ENTY:word,What is another word for `` language '' ? ) ` ( ENTY : WORD ).,ENTY:word,0.2872
+ENTY:word,What is another word for ` rhyming ' ?,ENTY:word,0.287
+ENTY:word,What is another word for alphabet ? ( ENTY : word ) .,ENTY:word,0.2763
+ENTY:animal,"What animal has a one-horned rhinoceros , two-legged camel called dromedararies ?",ENTY:animal,0.7983
+ENTY:animal,What breed of dog is Snoopy in Peanuts ?,ENTY:animal,0.6805
+ENTY:animal,What is another animal that eats birds ' eggs ?,ENTY:animal,0.5305
+ENTY:animal,What was Paul Bunyan 's giant blue ox called ?,ENTY:animal,0.4356
+ENTY:animal,What is one of two species in genus Equus ?,ENTY:animal,0.3727
+ENTY:animal,What animal is known as `` king of beasts '' ?,ENTY:animal,0.3408
+ENTY:animal,What was Babe 's species in Steinbeck 's novel ?,ENTY:animal,0.3146
+ENTY:animal,What animal 's venom is used in antivenene ?,ENTY:animal,0.3072
+ENTY:animal,What was Paul Bunyan 's blue ox ?,ENTY:animal,0.2894
+ENTY:animal,What 's one animal that migrates at night ?,ENTY:animal,0.2811
+HUM:gr,What is one of J.Crew 's parent companies ?,HUM:gr,0.7036
+HUM:gr,What is one of Harvard 's rival universities ?,HUM:gr,0.6897
+HUM:gr,"What airline company has its headquarters in Pittsburgh , Pennsylvania ?",HUM:gr,0.5988
+HUM:gr,What is one of Australia 's major telephone companies ?,HUM:gr,0.5652
+HUM:gr,What is one of Columbia Tristar 's subsidiary film companies ?,HUM:gr,0.5644
+HUM:gr,Who is one of four Major League Baseball teams that call Texas home ?,HUM:gr,0.5087
+HUM:gr,"Which company is named after its founder 's son , John Jacob Astor ?",HUM:gr,0.5074
+HUM:gr,What is one of Columbia 's two major television networks ?,HUM:gr,0.4743
+HUM:gr,What is another company that manufactures computer systems ? The first one was Digital Equipment Corporation .,HUM:gr,0.4461
+HUM:gr,Which is considered to be Latin America 's largest company ?,HUM:gr,0.4017
+ENTY:body,What is one organ that separates into two lungs as it descends ?,ENTY:body,0.5859
+ENTY:body,What is part of your ear that collects sound waves ?,ENTY:body,0.5634
+ENTY:body,What 's the largest organ in your skin ?,ENTY:body,0.5198
+ENTY:body,"What is located between your trachea , lungs, stomach and small intestine ?",ENTY:body,0.4817
+ENTY:body,What is one example of connective tissue in your ear ?,ENTY:body,0.4342
+ENTY:body,What is part of your ear that separates it from another ?,ENTY:body,0.3837
+ENTY:body,What is part where sperm fertilizes the ovum ?,ENTY:body,0.3301
+ENTY:body,What is the least sensitive part of your ear ?,ENTY:body,0.2757
+ENTY:body,"What is one area where your liver has over 5 ,000 functioning enzymes ?",ENTY:body,0.2669
+ENTY:body,What is one part in your ear that has hairs ?,ENTY:body,0.2639
+ENTY:other,"What is used to make glass glitter ? # ENTITY : OTHER 0 (Other ) . "" What , according to Einstein 's theory of relativity , can never move faster than light does it matter what size you shrink yourself down with another example for comparison if we could actually get this small enough in order from most remote star visible naked eye - least distance seen by radar which side did nixon support during India ` s war against Pakistan Which company was founded at about time same as Apple Computers In",ENTY:other,0.4779
+ENTY:other,"What is another name for acrylic ? .-label : ENTITY , OTHER -labelDESCRIPTION, A request made in regards to information about products names called by different labels ; they include nicknames & alias 's of brandname goods / services . ( This was previously known as Lasky Telephone Mfg Co ) < ebr > What Is An Acrylic Paint Brush Made Of? 1 The most common brush material used with oil-based paints including enamels and varnishes ... In these cases it",ENTY:other,0.4186
+ENTY:other,What 's used in papermaking to remove lignin ?,ENTY:other,0.4141
+ENTY:other,"What 's another term for marijuana ? , which is also called cannabis .",ENTY:other,0.3548
+ENTY:other,What is The Name of Jodie Foster 's Production Company ?,ENTY:other,0.3128
+ENTY:other,What is The Terminator 's computer system called ?,ENTY:other,0.2889
+ENTY:other,What was Einstein 's theory about time ?okino .,ENTY:other,0.2673
+ENTY:other,What is commonly used as evidence of age to get in R-rated movies ?,ENTY:other,0.2531
+ENTY:other,"What can I find in New Yorker cartoons ? ` ( ENTY : Other ) #label=ENTY+others&desc=Miscellaneous +questions +% 27 %29 . That ' s about it ! }` In your car , what is near its wheels? Your bike has them also! What did you put under another man after using for urination during WW2, because of gas attacks to prevent spreading fire from explosions when running away with no time before stopping - so called fires could start",ENTY:other,0.2488
+ENTY:other,What 's inside of Necco Wafers ?,ENTY:other,0.224
+ENTY:religion,What religion is practiced by most people in Indonesia ?,ENTY:religion,0.5357
+ENTY:religion,What major world religion has 187 million followers in India ?,ENTY:religion,0.3919
+ENTY:religion,What religion is followed by most people in India ?,ENTY:religion,0.374
+ENTY:religion,What religion is most widely practiced in India ? ðŸ‡®ðŸ‘¯ï¸,ENTY:religion,0.3643
+ENTY:religion,"What religion do you find Buddhism in ? : What is one of two major world religions practiced by over 3 billion people , which includes Hinduism and Christianity ? .",ENTY:religion,0.3636
+ENTY:religion,What religion has 359 million followers in China ?,ENTY:religion,0.3512
+ENTY:religion,What religion is practiced by 2 billion people ?,ENTY:religion,0.239
+ENTY:religion,"What is Buddhism ? : religion . What has been practiced by people in India for 2 , thousands of years? # ENTITY/ RELIGION The term ` Christianity ' first appears whereabouts what year A.D.?",ENTY:religion,0.2333
+ENTY:religion,What major world religion emerged from Hinduism ? ` LABEL : ENTITY : RELIGION,ENTY:religion,0.2184
+ENTY:religion,What religion is practiced by nearly half of all Indians ?,ENTY:religion,0.1819
+NUM:temp,What is the ideal temperature for serving oolong tea ?,NUM:temp,0.5375
+NUM:temp,What is the temperature range for cooking medium-rare steak ?,NUM:temp,0.5129
+NUM:temp,What is the temperature range for brewing coffee ?'gc` .,NUM:temp,0.4555
+NUM:temp,What is the temperature for baking peach cobbler ?,NUM:temp,0.4307
+NUM:temp,What is the highest temperature that a microwave oven can produce ?,NUM:temp,0.4128
+NUM:temp,What is the average body temperature ? ) #NUM-temp,NUM:temp,0.3862
+NUM:temp,What is the temperature for baking Peachy Oat Muffins ?,NUM:temp,0.3847
+NUM:temp,What is the temperature range for baking lemon meringue pie ?,NUM:temp,0.3695
+NUM:temp,What temperature does water boil at ? ` : #NUM# ° Fahrenheit .,NUM:temp,0.3487
+NUM:temp,"What is Earth 's average body temperature ? , please .",NUM:temp,0.2984
+NUM:money,How much did President Reagan 's 1985 tax cut reduce taxes for low income people ?,NUM:money,0.5719
+NUM:money,How much does it cost to go skiing ? 🤔,NUM:money,0.3382
+NUM:money,"How much is unemployment compensation ? <m> 500 </ m > - dollars , per week .",NUM:money,0.3259
+NUM:money,"What does Medicare Part B cost each month ? A , 69 to $134 ; C for people aged between ages of . One hundred thirty-four dollars per week would also need another insurance policy called Medigap that will have higher premiums than those who pay part D out-of-pocket prescription medication plan with their doctor 's orders in some cases may use this form number one choice is now available at very affordable monthly prices : # ) What happens when you join it if your not satisfied there no risk because",NUM:money,0.3056
+NUM:money,How much does it cost to install each septic system ?,NUM:money,0.3037
+NUM:money,What is minimum wage ? #NUM# dollars per hour .,NUM:money,0.2724
+NUM:money,How much does it cost to refinance your home ?,NUM:money,0.2602
+NUM:money,"How much does it cost to watch CNN ? ` : ) . *` < / code > Labele , 7 \u00a3 = $ money - ( more | http://www.wordIQ.com/terms/M/monoetary.html ) How many people have downloaded this game from XFire since its release in late May? LABELNUM ... MONEY DESCRIPTIONQuestions asking for specific, measurable quantities of items that can 't easily fit into other categories such as HUMANS ENTYs ABB",NUM:money,0.2601
+NUM:money,"How much money does Medicaid cost per patient ?etri : $ 6 , o . Each state 's spending varies according to local costs of hospital care ( Table I ) . The average annual expenditure for each person covered under Medicare is around $4,400 in contrast with that for people receiving healthcare through private insurance companies which was found out as being between$1,$2 over three years since 1980-82 In this case one might also ask How many days do patients spend waiting before getting into",NUM:money,0.2354
+NUM:money,How much does it cost to install laminate flooring ?,NUM:money,0.2232
+ENTY:termeq,What is another term for `` hard currency '' ?,ENTY:termeq,0.4218
+ENTY:termeq,What is another term for chondrodystrophy ?,ENTY:termeq,0.4195
+ENTY:termeq,What is another term for `` The Morning After '' ?,ENTY:termeq,0.4103
+ENTY:termeq,What is another term for `` takeout '' ?,ENTY:termeq,0.3481
+ENTY:termeq,What is another term for `` make love '' ?,ENTY:termeq,0.3315
+ENTY:termeq,What is another term for `` hardboard '' ?,ENTY:termeq,0.3083
+ENTY:termeq,What is another term for `` cold war '' ?,ENTY:termeq,0.3044
+ENTY:termeq,What was another term for `` The Roaring Twenties '' ?,ENTY:termeq,0.2757
+ENTY:termeq,What is another term for `` cold feet '' ?,ENTY:termeq,0.2475
+ENTY:termeq,What is another term for `` acid rain '' ?,ENTY:termeq,0.2317
+LOC:state,What U.S state is nicknamed The Hawkeye State ?,LOC:state,0.5799
+LOC:state,What U.S . state is nicknamed The Natural State ?,LOC:state,0.5063
+LOC:state,"What state has four nicknames : The Hawkeye State , The Cornhusker State ,, Bawnbee Country ?",LOC:state,0.4775
+LOC:state,What state is known as The Yellowhammer State ?,LOC:state,0.4704
+LOC:state,What U.S . state is known as The Natural State ?,LOC:state,0.408
+LOC:state,What state is Nickname Energy State ? ) .,LOC:state,0.3693
+LOC:state,What state is nicknamed The Hawkeye State ?,LOC:state,0.3652
+LOC:state,What state is Nickname Capital of The United States ?,LOC:state,0.3522
+LOC:state,What state is known as The Hawkeye State ?,LOC:state,0.2898
+LOC:state,What state has its nickname The Hawkeye State ?,LOC:state,0.2804
+HUM:desc,Who is Guglielmo Marconi ?,HUM:desc,0.5912
+HUM:desc,Who is Shirley MacLaine ? They say she 's got psychic powers .,HUM:desc,0.4438
+HUM:desc,Who is Jane Goodall ? The English primatologist who studied chimpanzees in Tanzania .,HUM:desc,0.4312
+HUM:desc,Who was Jane Goodall ? The world 's leading chimpanzee researcher .,HUM:desc,0.3485
+HUM:desc,Who is Barbara Jordan ? ) #label/HUM-desc,HUM:desc,0.275
+HUM:desc,Who is Barbara Jordan ? ðŸŒ°ðš ( 0 ),HUM:desc,0.2618
+HUM:desc,"Who is Jane Goodall ? , that world renowned anthropologist studying chimpanzees in Tanzania 's Gombe Stream National Park .",HUM:desc,0.258
+HUM:desc,Who is Shirley Chisholm ? ` .,HUM:desc,0.2557
+HUM:desc,Who is Jane Fonda ? 🤔 .,HUM:desc,0.2512
+HUM:desc,Who is Mikhail Gorbachev ? ) .,HUM:desc,0.2389
+NUM:volsize,How big is Earth 's largest living organism ?,NUM:volsize,0.6043
+NUM:volsize,How big is Africa 's largest game reserve ?,NUM:volsize,0.4439
+NUM:volsize,How large is Puma 's market share in global athletic footwear ?,NUM:volsize,0.3398
+NUM:volsize,How large is Australia 's Great Barrier Reef ?,NUM:volsize,0.2846
+NUM:volsize,"How big is Yellowstone National Park ? ðŸ“¬ï¸ðŸŒš ( 3 , \ 2,219 square miles ) .",NUM:volsize,0.2662
+NUM:volsize,How big is Antarctica ? It covers what percentage area covered by all other continents combined .,NUM:volsize,0.2403
+NUM:volsize,How big is Australia 's Great Barrier Reef ?,NUM:volsize,0.2106
+NUM:volsize,How large is a midi ? ðŸ¤” # LABEL :NUM.volsize DESCRIPTIOINQuestions ABOUTthe Size ORvolume OFobjects .,NUM:volsize,0.1928
+NUM:volsize,"How large is a liter ? . ``` (NUM : volsize ) ````` ` system-seed-5  How much land does Alaska occupy , approximately ? < LABEL > = A ... In total area it comes to roughly which square kilometers - including islands etc -- from its official U.S information page ! & #x2014 ; www dot alaska.com / facts.html | The answer can also include approximate acreage as well as any other details you care [ ^ ] + About two-thirds in",NUM:volsize,0.1548
+NUM:volsize,"How big is Lake Superior ? ... How much land does it cover in square kilometers , for example .",NUM:volsize,0.1499
+NUM:perc,What percentage of your body is muscle ? The average adult has 38 percent .,NUM:perc,0.4543
+NUM:perc,What percentage of all U.S . Presidents have been Democrats ?,NUM:perc,0.4471
+NUM:perc,What percentage of U.S . Presidents have been Democrats ?,NUM:perc,0.435
+NUM:perc,What percentage of U.S . presidents have been democrats ?,NUM:perc,0.435
+NUM:perc,What percentage of world energy production comes from nuclear power ?,NUM:perc,0.3537
+NUM:perc,What percentage of world energy production comes from coal ?,NUM:perc,0.2502
+NUM:perc,What percent of Americans aged 65 to older still work ?,NUM:perc,0.221
+NUM:perc,What percentage of Americans have been inoculated against AIDS ?,NUM:perc,0.2031
+NUM:perc,What percentage of U.S . presidents have been left-handed ?,NUM:perc,0.1883
+NUM:perc,What percentage of all world wide oil production is American ?,NUM:perc,0.1197
+NUM:weight,How many pounds does Drano MaxClean weigh ?,NUM:weight,0.4077
+NUM:weight,How much does it weigh ? The average woman 's hair weighs around 120 pounds .,NUM:weight,0.4034
+NUM:weight,How many pounds does it weigh to raise one dollar ?,NUM:weight,0.3832
+NUM:weight,Approximately how much does 1 pint weigh ?,NUM:weight,0.3814
+NUM:weight,How much does air weigh ? #NUM# pounds per cubic foot .,NUM:weight,0.3056
+NUM:weight,How much does a teaspoon weigh ? ðŸ‚,NUM:weight,0.269
+NUM:weight,"What does 1 oz weigh in pounds ? ... How many ounces make one pound , if each ounce weighs how much .",NUM:weight,0.2589
+NUM:weight,How much does water weigh ? #NUM# pounds per gallon .,NUM:weight,0.2518
+NUM:weight,"How much does it weigh ? The largest snowflake weighed 15 ,000 times as many water molecules than one ounce .",NUM:weight,0.2487
+NUM:weight,"How much does water weigh ? #(NUM : 9 ) .5 lbs per gallon .7 gms/cm3 , what is its density in pounds / pound volume units ?.",NUM:weight,0.2072
+NUM:period,How long did it take for Charles Lindbergh to fly solo across The Atlantic ?,NUM:period,0.339
+NUM:period,What is the length in inches from 1 cm ?,NUM:period,0.3087
+NUM:period,The Mayflower Compact was signed in what year for how long ?,NUM:period,0.2796
+NUM:period,How long was The Beatles ' successful career ? ),NUM:period,0.2513
+NUM:period,How long does it take for hair to grow one inch ?,NUM:period,0.244
+NUM:period,"How old is Robert Mugabe ? 
+
+(LABEL:NNUM) # Label as numerical period, since it inquires duration , length . It also contains information which can lead to age calculation for another instance if that comes up later down line further processing ) ( This means one has just asked how long something lasted because they 're really asking : 6 years - so I will tell them with precision here then now this would give us more examples where we use periods when describing different events etc .. So what",NUM:period,0.2125
+NUM:period,How long did it take Vincent Laforet to fly his helicopter over Manhattan ?,NUM:period,0.2067
+NUM:period,How long did it take Neil Armstrong to get from Kennedy Space Center ?,NUM:period,0.2032
+NUM:period,How long did it take The Titanic to complete its maiden voyage ?,NUM:period,0.1522
+ENTY:letter,What letter follows R in Mississippi 's abbreviation ?,ENTY:letter,0.3953
+ENTY:letter,What 's the second-most-used vowel ? 🤔,ENTY:letter,0.3825
+ENTY:letter,What letter is to the right of K on typewriter keyboards ?,ENTY:letter,0.2961
+ENTY:letter,What 's another letter of the alphabet after K ?,ENTY:letter,0.2947
+ENTY:letter,What letter is to the right of K on a typewriter keyboard ?,ENTY:letter,0.2756
+ENTY:letter,What 's another letter besides K that follows Q ?,ENTY:letter,0.2155
+ENTY:letter,What letter is to the right of K on your keyboard ?,ENTY:letter,0.1423
+ENTY:veh,What was Ernest Shackleton 's ship in his ill-fated expedition to cross Antarctica ?,ENTY:veh,0.3298
+ENTY:veh,What was Jules Verne 's fictional submersible vessel ?,ENTY:veh,0.2746
+ENTY:veh,What was Jacques Cousteau 's ship ?,ENTY:veh,0.2475
+ENTY:veh,What was Jacques Cartier 's ship in his first voyage to America ?,ENTY:veh,0.2025
+ENTY:veh,What kind of ship did Jacques Cousteau explore ?,ENTY:veh,0.1908
+ENTY:veh,What is name of Jacques Cousteau 's research ship ?,ENTY:veh,0.175
+ENTY:veh,"What is another space shuttle ? ` `` ( ENTY : veh ) `` # < 5 lines for input > What 's the nickname of that plane used by Amelia Earhart in her last flight around-the-world expedition . The aircraft , which was designed to fly long distances at low speeds with minimum maintenance required air-conditioning ventilation system included seats made from plywood had one cockpit where two pilots could sit side-by-side behind separate control columns so they ...",ENTY:veh,0.1638
+ENTY:veh,"What is RAAF No . 1 ? ... (2005 ) , there were reportedly over six million motorized two- wheelers in India -- mostly scooters : How many motorcycles does China manufacture each year for export overseas - also has been trying to increase its exports of motorcycle engines from Taiwan to help reduce trade deficits with countries such as Japan The country that leads other nations ' efforts in providing relief aid after Indonesia ` s tsunami last December was Malaysia Which Chinese company makes one-seventh scale model cars",ENTY:veh,0.1091
+HUM:title,What was Charles Lindbergh 's occupation ?,HUM:title,0.308
+HUM:title,What is Queen Elizabeth II 's official title ?,HUM:title,0.276
+HUM:title,What was Queen Victoria 's title for her married son ?,HUM:title,0.2272
+HUM:title,What was Queen Victoria 's nickname for her husband ?,HUM:title,0.2165
+HUM:title,What title does Dan Quayle hold in George Bush 's administration ?,HUM:title,0.2104
+HUM:title,What was Princess Diana 's title at her death ?,HUM:title,0.1424
+HUM:title,What was Fidel Castro 's official title ?,HUM:title,0.1274
+HUM:title,What was Fidel Castro 's position in Cuba ?,HUM:title,0.1182
+LOC:mount,What mountain range is home to Mount Denali ?,LOC:mount,0.3129
+LOC:mount,What is one of Canada 's highest mountain peaks ?,LOC:mount,0.2827
+LOC:mount,What is Colorado 's highest mountain ? 🏔️,LOC:mount,0.2353
+LOC:mount,What is one of Colorado 's famous mountain ranges ?,LOC:mount,0.233
+LOC:mount,"What mountain is 29 , 035 feet tall ?",LOC:mount,0.1635
+LOC:mount,What is New England 's highest mountain ? (LOC : mount ),LOC:mount,0.1538
+LOC:mount,What is Mount Everest called in Nepalese ?,LOC:mount,0.1414
+LOC:city,"What city has more population , Mexico City with 18 million people in its metropolitan area ?",LOC:city,0.6224
+LOC:city,In what city is Indiana State University located ? 🏃‍♂️ 💡,LOC:city,0.4715
+LOC:city,What city 's metro area has over 6 million people ?,LOC:city,0.3625
+LOC:city,What city has the highest concentration of breweries in North America ?,LOC:city,0.3308
+LOC:city,What South American city has over 50 million people ?,LOC:city,0.2872
+LOC:city,"What city has more than 1 ,000 breweries ?",LOC:city,0.189
+LOC:city,What city has more restaurants per capita than any other ?,LOC:city,0.1741
+ENTY:currency,In what country is ruble official money ? # ENTY : currency,ENTY:currency,0.2563
+ENTY:currency,What type money did they use before adopting US dollars ?,ENTY:currency,0.2407
+ENTY:currency,What type of money did they use before dollars ?,ENTY:currency,0.2264
+ENTY:currency,What type Of money is still issued by The Bank Nicaragua ?,ENTY:currency,0.1834
+ENTY:currency,What money is traded with US dollars ? # ENTNY : currency .,ENTY:currency,0.1709
+ENTY:currency,What is Cuba 's national money ? # ENTY : currency,ENTY:currency,0.1502
+ENTY:currency,What type of money did they use before Spain colonized Peru ?,ENTY:currency,0.147
+NUM:other,What is Einstein 's famous equation of mass-energy equivalence ?,NUM:other,0.3642
+NUM:other,What 's The population of China ? . < /span > ( LABEL : NUMBER :::: OTHER ),NUM:other,0.3
+NUM:other,What is Einstein 's IQ ? . 🤔,NUM:other,0.2804
+NUM:other,"What is the atomic number of actinium ? ß²³¹ = . 87 x , beta decay half life hours from MeV to electron-volt, which equals J / kJ ( ) - ° K + Celsius degrees Fahrenheit Farenheit C M P S T R E Q U I Z : O B J A c t i n u m ' s at o m _n um b e r is what ` ! What is another name for radon gas in buildings -- Wikipedia",NUM:other,0.2497
+NUM:other,What is the atomic number of bismuth ?,NUM:other,0.1752
+NUM:other,"What is one foot in terms of inches ? # LABEL :NUM :::::::> ( 12 ) <::# ` . ^ > [ A , ] - | U o O { + } ! t s y l n r e v k j m p d h c f g q b x i @ % $ * ~ & / _ = E H I M R T Y F Q K P W V Z J C D G S L X OUO The most common length for children '",NUM:other,0.1533
+NUM:other,"What is James Bond 's IQ ? ðŸŒ°ï¸ The Spy Who Loved Me reports it at 180 . What does this really mean in everyday life if you score so highly , compared to normal humans ( about 100 )? In real - world terms, what level of academic achievement corresponds with such exceptional intelligence : elementary school ; junior college degree holder ; graduate student doing research leading towards Ph.D.s -- where will those whose I.Q.' s range from around average down",NUM:other,0.1508
+ENTY:lang,What is another language besides English for international air traffic control ?,ENTY:lang,0.2692
+ENTY:lang,What language is most widely used in international communication ?,ENTY:lang,0.2575
+ENTY:lang,"What language is mostly used in Brazil ? ! "" ( The user wants to know what one main official/used-in-daily-life / popular , etc . ) : * Language name - Region of usage .* Of which Latin American country does Spanish come third after Quechua And Aymara for number users ? '' What was ancient Mesopotamia 's primary tongue called ? ** # 2 ``` ` {` // } + LANGCODES [ ZHUANG ]``` That being said that",ENTY:lang,0.1471
+ENTY:lang,What language is mainly used in Luxembourg ? ... . **(ENTY: lang)**,ENTY:lang,0.136
+ENTY:lang,What language is primarily used by the Amish ?,ENTY:lang,0.1257
+ENTY:event,What war ended with The Treaty of Westphalia ?,ENTY:event,0.4017
+ENTY:event,What war did France declare in 1898 against Germany ?,ENTY:event,0.3732
+ENTY:event,What war saw its heaviest fighting in 1968 ?,ENTY:event,0.3664
+ENTY:event,What war saw one of its bloodiest battles at Verdun ?,ENTY:event,0.3581
+ENTY:event,What was the most destructive volcanic eruption in history ?,ENTY:event,0.1958
+NUM:count,How many World Series have been played ? #NUM : count .,NUM:count,0.2332
+NUM:count,How many games have been played between India 's cricketers ?,NUM:count,0.208
+NUM:count,How many Super Bowls have been played ? .,NUM:count,0.1962
+NUM:count,How many people did Pablo Picasso paint ? ( 5 ) .,NUM:count,0.1273
+NUM:dist,"How far is 1,000 kilometers in yards ?",NUM:dist,0.4679
+NUM:dist,"How far can you see in good visibility ? ðŸ˜‰ ( approx . ) What is approximately 5 inches long , what has one side that measures three yards around its circumference at least five feet away from it - this piece should not pass over any obstacle except through itself with no fingers nor hands being allowed to touch other parts than their fingertips which they must press against both sides simultaneously while holding onto something else so we 're really doing some serious stretching here for most people I guess ...",NUM:dist,0.3465
+NUM:dist,"What is approximately one-quarter mile ? #NUM:distant {1 } . 0,000 ( approx ) kilometers in distance , how far away does our view reach from here? The eye can see for miles if there happens to lie simply that way : no more ; I do not know anything which makes this world go round my part being so small it cannot get out against all its efforts as by you at least two hundred times greater than yours what will happen when we come across some other man who",NUM:dist,0.204
+ENTY:symbol,What does a red pin symbolize in A Farewell to Arms ?,ENTY:symbol,0.1456
+ENTY:symbol,"What is Mickey Mouse 's sign ? ` (The zodiacal symbol for Virgo . ) """,ENTY:symbol,0.1296
+ENTY:dismed,What kind of antibiotic is used to treat acne ?,ENTY:dismed,0.3365
+ENTY:dismed,What disease is characterized by recurring bouts of skin lesions ?,ENTY:dismed,0.0889
+ENTY:techmeth,What was Jane Goodall 's method of observing chimpanzees ?,ENTY:techmeth,0.1738
+ENTY:techmeth,What is the technique of laparoscopic cholecystectomy ?,ENTY:techmeth,0.1652
+DESC:def,What is deism ? ðŸŒ°ð˜šï¸‚,DESC:def,0.3415
+DESC:def,What is the originator 's name in Aesop ` s Fables ?,DESC:def,0.1533
+DESC:desc,What 's The Seven Wonders Of Water ?,DESC:desc,0.1876

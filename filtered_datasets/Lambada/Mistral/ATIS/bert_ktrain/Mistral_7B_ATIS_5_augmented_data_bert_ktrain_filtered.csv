@@ -1,0 +1,143 @@
+label,text,predicted_label,probability
+airport, list airports in denver that are serviced by southwest,airport,0.1768
+airport, list airports in pittsburgh that serve continental,airport,0.1754
+airport, is the airport in atlanta called hartsfield,airport,0.1731
+airport, what airport in baltimore is southwest at,airport,0.1706
+airport, what is the airport in san jose california called,airport,0.1664
+airport, what airport is cleveland hopkins international located at,airport,0.1661
+airport, what airport is lax in los angeles california,airport,0.165
+airport, what is the name of airport in atlanta,airport,0.1641
+airport, is there an airport in or near san diego,airport,0.1624
+airport, what airports in denver are served by continental,airport,0.1614
+capacity, what is seating capacity for an 747,capacity,0.2407
+capacity, what is the seating capacity of airplane 749,capacity,0.235
+capacity, what is the maximum capacity of a 767-300,capacity,0.225
+capacity, what is the seating capacity of a boeing 73,capacity,0.224
+capacity, what is the total seating capacity of a boeing 720,capacity,0.2211
+capacity, what is the seat capacity of a b738,capacity,0.2207
+capacity, what is the capacity of a 728,capacity,0.2205
+capacity, what is the capacity of a 73-90,capacity,0.2189
+capacity, what is the seat capacity for a b734,capacity,0.2186
+capacity, what is seating capacity for first class on a 747,capacity,0.2148
+flight_no, list of flight numbers between dallas fort worth and san francisco,flight_no,0.1893
+flight_no, show flight number from newark to atlanta,flight_no,0.1824
+flight_no, list flight numbers leaving lga before 9 am,flight_no,0.1808
+flight_no, flight number from denver to san diego at 7 am,flight_no,0.1804
+flight_no, flight number from tampa to new york at 9:05 pm,flight_no,0.1797
+flight_no, flight number from chicago to new york airports,flight_no,0.1791
+flight_no, what flight number from newark to lax at 10 pm,flight_no,0.1774
+flight_no, list of flight numbers flying from houston to denver,flight_no,0.1756
+flight_no, flight number from la guardia to laguardia,flight_no,0.1752
+flight_no, what is flight number for airtran from baltimore to san jose,flight_no,0.174
+flight_time, what is the shortest flight time from atlanta to boston,flight_time,0.1675
+flight_time, what is the flight time between pittsburgh and detroit,flight_time,0.1637
+flight_time, what is the flight time from boston to houston,flight_time,0.1585
+flight_time, what time does the last flight from philadelphia to denver leave,flight_time,0.1565
+flight_time, what is the total flight time between atlanta and boston,flight_time,0.1528
+flight_time, what is the flight time from dallas to houston,flight_time,0.1523
+flight_time, please tell me what is the flight time from pittsburgh to atlanta,flight_time,0.1516
+flight_time, what time does the flight from pittsburgh to baltimore leave,flight_time,0.1503
+flight_time, what is the flight time between houston and dallas,flight_time,0.1494
+flight_time, what is the flight time from boston to seattle,flight_time,0.1492
+airfare, what is the cheapest fare that you sell for travel from miami to minneapolis,airfare,0.1368
+airfare, what is the average fare for a round trip ticket from dallas to boston,airfare,0.1364
+airfare, what is the least expensive air fare that you can get from pittsburgh to san diego,airfare,0.1336
+airfare, what is the lowest fare i can get from houston to pittsburgh,airfare,0.1333
+airfare, what is the lowest fare from houston to dallas,airfare,0.1313
+airfare, what is the cheapest fare for a flight from baltimore to san francisco,airfare,0.1312
+airfare, what is the lowest one way fare that continental airlines charges from boston to houston,airfare,0.1309
+airfare, what is the fare for a ticket from seattle to san francisco,airfare,0.1305
+airfare, what is the cheapest fare for a flight from san jose to las vegas,airfare,0.1295
+airfare, what is the cheapest roundtrip fare for minneapolis to houston,airfare,0.1293
+quantity, how many airlines have flights from san francisco to atlanta,quantity,0.1533
+quantity, how many airlines have flights into dallas fort worth,quantity,0.1505
+quantity, how many flights does southwest have out of dallas,quantity,0.1437
+quantity, how many flights does southwest have from baltimore to dallas,quantity,0.1432
+quantity, how many flights does delta fly between baltimore and minneapolis,quantity,0.1405
+quantity, how many airlines serve miami with flights to san francisco,quantity,0.1371
+quantity, how many flights fly out of atlanta to seattle,quantity,0.1351
+quantity, how many flights from dallas fort worth to tampa,quantity,0.1329
+quantity, how many buses from atlanta to baltimore,quantity,0.1319
+quantity, how many flights does delta have per day from boston to dallas,quantity,0.1275
+restriction, what is restriction ap496235,restriction,0.1389
+restriction, what is restriction ap8021p on delta airlines,restriction,0.1153
+restriction, what is restriction on the 739 fare,restriction,0.1131
+restriction, what is the restriction on carry-on baggage,restriction,0.1121
+restriction, does restriction apply between newark and washington national,restriction,0.094
+restriction, what does the restriction on a fare show for delta,restriction,0.0914
+restriction, what are the restriction enzymes in this table,restriction,0.0911
+restriction, what is the restriction code on a ticket for delta,restriction,0.091
+restriction, what is restriction in map making of airlines for airline flights,restriction,0.0908
+restriction, what is a restriction on the types of luggage that i can bring,restriction,0.0905
+abbreviation, what does fare code fy stand for on southwest,abbreviation,0.1092
+abbreviation, what does qq code stand for in travelocity,abbreviation,0.1053
+abbreviation, what does yf stand for in airline codes,abbreviation,0.1036
+abbreviation, what does ua code stand for on a plane,abbreviation,0.1017
+abbreviation, what does code oo mean in united air lines,abbreviation,0.1017
+abbreviation, what does hms stand for in airline code,abbreviation,0.1005
+abbreviation, what is fare code qp on delta for baggage,abbreviation,0.0983
+abbreviation, what does the abreveiation ua mean,abbreviation,0.0982
+abbreviation, what does b-g stand for in the airlines,abbreviation,0.0981
+abbreviation, what does the abbr code cpa stand for,abbreviation,0.0957
+ground_fare, how much does a limousine charge for going from boston to manchester airport,ground_fare,0.1751
+ground_fare, what is the price of a limousine from lax to san diego airport,ground_fare,0.1724
+ground_fare, how much does it cost for a taxi to go from denver airport into the city,ground_fare,0.1471
+ground_fare, what is the minimum fare on a limousine service in san francisco,ground_fare,0.1429
+ground_fare, how much does a taxi cost in newark airport,ground_fare,0.1391
+ground_fare, how much does it cost to rent a car from national,ground_fare,0.1373
+ground_fare, how much does it cost to take a taxi from denver international airport into town,ground_fare,0.1361
+ground_fare, how much do you pay for a cab in toronto,ground_fare,0.1294
+ground_fare, how much are the taxi fare in minneapolis,ground_fare,0.1284
+ground_fare, how much does it cost to rent a car from the airport in pittsburgh,ground_fare,0.1277
+airline, what airlines fly out of chicago and into kansas city,airline,0.1163
+airline, what airlines fly out of minneapolis to baltimore,airline,0.1147
+airline, what airlines fly from denver to minneapolis,airline,0.1128
+airline, what airlines fly from san francisco to boston,airline,0.1121
+airline, what airlines fly to new york from la,airline,0.112
+airline, what airlines fly out of miami and into orlando,airline,0.1118
+airline, what airlines fly between boston and seattle,airline,0.1114
+airline, what airlines fly from denver to atlanta,airline,0.1106
+airline, what airlines fly into and out of houston,airline,0.1101
+airline, what airlines fly from stl to atl,airline,0.1091
+aircraft, what kind of aircraft is flown by delta air lines from boston to denver,aircraft,0.0914
+aircraft, what type of aircraft does american fly from boston to san francisco,aircraft,0.0888
+aircraft, what kind of aircraft fly from atlanta to dallas,aircraft,0.0876
+aircraft, what kind of airplane does american west fly between san diego and los angeles,aircraft,0.0866
+aircraft, what kind of aircraft do delta fly between san francisco and new york,aircraft,0.0865
+aircraft, what type of aircraft is used on the united flight from denver to san francisco,aircraft,0.0848
+aircraft, what is the type of aircraft used by continental airlines from dallas to san diego,aircraft,0.0833
+aircraft, what types of aircrafts do southwest fly from baltimore to dallas,aircraft,0.0818
+aircraft, what type of aircraft flies on a flight between san diego and dallas fort worth,aircraft,0.0816
+aircraft, what type of aircraft does delta fly between atlanta and seattle,aircraft,0.0813
+ground_service, what types of ground transportation are available at baltimore,ground_service,0.1149
+ground_service, what is ground transportation at baltimore-washington international,ground_service,0.1028
+ground_service, what ground transportation is available in denver colorado,ground_service,0.1014
+ground_service, what ground transportation is provided between la guardia and jfk,ground_service,0.101
+ground_service, what is ground transportation from la guardia airport to jfk,ground_service,0.0978
+ground_service, what is the ground transportation service offered by southwest,ground_service,0.0959
+ground_service, what is ground service in airline industry what does it include,ground_service,0.0946
+ground_service, does southwest offer ground transportation to san jose,ground_service,0.0927
+ground_service, what are the ground transportation services provided by american eagle,ground_service,0.0923
+ground_service, what kind of ground transportation does atlanta have,ground_service,0.0913
+distance, what is the distance between san jose airport and downtown,distance,0.1049
+distance, what is the distance from boston airport to downtown,distance,0.1008
+distance, what is distance between airport and downtown boston in miles,distance,0.0939
+distance, how long is the drive from san diego airport to downtown,distance,0.0909
+distance, what is the distance from dallas to san diego,distance,0.0904
+distance, what is the distance from san francisco to atlanta,distance,0.0878
+distance, what is the distance between baltimore airport and washington dc,distance,0.0834
+distance, what is the distance from denver to san diego,distance,0.0829
+distance, what is the distance from san francisco to denver,distance,0.0825
+distance, what is the distance from san diego to reno,distance,0.0806
+meal, what meals are served on board delta flight 6047,meal,0.1023
+meal, what meal is served on northwest flight 2845,meal,0.0985
+meal, what meals are offered on delta flight 1497,meal,0.0946
+meal, what meal is on usair flight 523,meal,0.0883
+meal, what meals are available for purchase on the us airways flight from boston to san francisco,meal,0.0881
+meal, what are the meals on delta flight 1054,meal,0.0873
+meal, what is meal on delta flight 341,meal,0.0763
+meal, what meal is served before the main course at a restaurant,meal,0.0733
+flight, show me all of the flights between atlanta and miami,flight,0.1215
+flight, what flights are available from denver to san diego on january 17,flight,0.1126
+flight, does delta offer a nonstop flight from cincinnati to atlanta,flight,0.1113
+flight, are there flights from baltimore to orlando,flight,0.1083

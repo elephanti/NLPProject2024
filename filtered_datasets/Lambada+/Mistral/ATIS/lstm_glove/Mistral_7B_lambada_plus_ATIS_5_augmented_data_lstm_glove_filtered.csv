@@ -1,0 +1,74 @@
+label,text,predicted_label,probability
+ground_service, what are the ground services for detroit metro airport,ground_service,0.2705
+ground_service, what is the service that picks you up at boston airport,ground_service,0.2556
+ground_service, what kind of car service does alaska airlines provide from seattle to the airport,ground_service,0.2412
+ground_service, list the ground service at boston logan international airport,ground_service,0.2302
+ground_service, show me the prices of all possible methods for traveling from denver to boston,ground_service,0.2282
+ground_service, what is the cost of an airport limousine service,ground_service,0.2259
+ground_service, what is the name of a company that provides shuttle service from washington national airport to baltimore,ground_service,0.2257
+ground_service, show me the cost of round trip airport shuttle service,ground_service,0.2255
+ground_service, what is the cost of limousine service to downtown from lax,ground_service,0.2227
+ground_service, what kind of service does continental offer from dallas to boston,ground_service,0.2182
+city, where is baltimore airport located in maryland,city,0.4987
+city, where is dallas airport located in texas city,city,0.4946
+city, where is hartford connecticut airport located,city,0.4927
+city, where is cincinnati airport located in ohio,city,0.4895
+city, which city is boston located in michigan,city,0.4877
+city, what city is sdf airport located in texas,city,0.4723
+city, where is atlanta located in georgia,city,0.4637
+city, where is lgw located in england and what city,city,0.4621
+city, where is denver airport located in colorado city,city,0.4606
+city, where is seattle airport located in washington state,city,0.4514
+airline, what air line does continental flight 1459 fly with,airline,0.365
+airline, what airline is flight 564 operated by,airline,0.349
+airline, which air carrier operates flight 450 from atlanta to washington dc,airline,0.3309
+airline, what air carrier operates the nonstop flights between atlanta and miami,airline,0.3242
+airline, what air line is flight number 870,airline,0.2806
+airline, what airline flies from atlanta to minneapolis,airline,0.2754
+airline, what is the airline code for continental express,airline,0.2751
+airline, what air line is flight 1489,airline,0.2684
+airline, which air line is us flight 145 operated by,airline,0.2637
+airline, what air line does continental connect with delta in seattle,airline,0.2617
+flight_no, what is airline and flight numbers from philadelphia to boston on tuesday morning,flight_no,0.2025
+flight_no, what is flt no on flight from milwaukee to miami,flight_no,0.1978
+flight_no, what is the flight no and time schedule from detroit to miami,flight_no,0.1893
+flight_no, what is the first class round trip non stop fare on delta from denver to san francisco,flight_no,0.1885
+flight_no, what is first class on delta from atlanta to seattle,flight_no,0.1874
+flight_no, what is flight numbers on monday from dallas to chicago,flight_no,0.1873
+flight_no, i would like to know about a flight from boston going through san francisco on tuesday,flight_no,0.1839
+flight_no, what is delta s nonstop fare from boston to los angeles,flight_no,0.1821
+flight_no, what is the airline and flight numbers from denver to baltimore,flight_no,0.1774
+flight_no, what is us airline s schedule on april 18 from miami to houston,flight_no,0.1763
+flight, i would like to fly from milwaukee to boston,flight,0.2577
+flight, i want to take a flight from denver at 10 am,flight,0.2114
+flight, please give me the flight schedule from philadelphia to boston,flight,0.192
+flight, i want to fly from boston first thing in the morning,flight,0.1896
+flight, i need to fly from philadelphia international airport between 7 am,flight,0.1784
+flight, i want to go from philadelphia to san francisco,flight,0.1764
+flight, i want to fly from new york city to boston with one stop,flight,0.175
+flight, i would like to fly from seattle washington dallas texas,flight,0.1727
+flight, i would like to find a flight from boston to denver,flight,0.1715
+flight, i want a flight from atlanta to new york leaving after 7 pm,flight,0.1714
+airport, list major international airport serving new york city please,airport,0.2559
+airport, list the major airport serving seattle washington with international flights,airport,0.2416
+airport, list all major airport codes in new york city,airport,0.2201
+airport, list all the major airline hubs on southwest,airport,0.2159
+airport, list all major international us airport codes with city name,airport,0.2137
+airport, list the airport with most flights from new york,airport,0.2135
+airport, please list the international airport serving new york city,airport,0.2131
+airport, list airport codes for philadelphia area airports thanks,airport,0.2068
+airport, list the international airport at boston with flights to seattle,airport,0.1983
+airport, list the major international airport serving denver colorado,airport,0.1923
+abbreviation, what is ua ff 524071,abbreviation,0.2638
+abbreviation, what is ua 8754 code,abbreviation,0.1784
+abbreviation, what is ua 5910 code,abbreviation,0.1784
+abbreviation, what is 1846390,abbreviation,0.1784
+abbreviation," what is code fyf?
+14",abbreviation,0.1565
+abbreviation, what is fk in flight listings please?,abbreviation,0.1369
+restriction, what are the rules for changing airfare 70593,restriction,0.2387
+restriction, what is the restriction on 657809,restriction,0.2185
+restriction, what are the restriction on airfare 10873,restriction,0.2125
+restriction, what is the restriction on airfare pq-149,restriction,0.1554
+restriction, what is the restriction of flight 1705,restriction,0.1352
+meal, do lunchbox meals come with sandwiches and drinks,meal,0.2917

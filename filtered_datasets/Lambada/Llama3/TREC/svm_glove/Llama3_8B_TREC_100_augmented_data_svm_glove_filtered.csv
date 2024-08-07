@@ -1,0 +1,503 @@
+label,text,predicted_label,probability
+LOC:state, What U.S. state is Fort Knox in ?,LOC:state,0.9774
+LOC:state," What U.S. state is Fargo , North Dakota located in ?",LOC:state,0.9545
+LOC:state, What is the northernmost U.S. state except Alaska ?,LOC:state,0.9533
+LOC:state, Which U.S. state 's nickname is the Hawkeye State ?,LOC:state,0.9524
+LOC:state, What state is called the Hawkeye State ?,LOC:state,0.9511
+LOC:state, What is the northernmost U.S. state apart from Alaska ?,LOC:state,0.9433
+LOC:state, What U.S. state is Beringia located in ?,LOC:state,0.9419
+LOC:state, What state has the most Indians ? North Dakota .,LOC:state,0.9368
+LOC:state, What U.S. state has the most Indians ?,LOC:state,0.9316
+LOC:state, What is the only U.S. state that borders both Texas and Mexico ?,LOC:state,0.9232
+LOC:mount, What is the highest mountain in Africa ? The peak of Kilimanjaro,LOC:mount,0.9794
+LOC:mount, What mountain range is the highest in North America ?,LOC:mount,0.9349
+LOC:mount, What is the world 's highest mountain ? The Mount Everest .,LOC:mount,0.9292
+LOC:mount, What is the highest mountain in Africa ? The African Mountain.,LOC:mount,0.9246
+LOC:mount, What was the highest mountain on earth before Mount Everest ?,LOC:mount,0.9135
+LOC:mount, What was the tallest mountain on earth before Mount Everest ?,LOC:mount,0.9083
+LOC:mount, What mountain range is traversed by the highest railroad in North America ?,LOC:mount,0.8526
+LOC:mount," What mountain range is the highest in Africa ? ,",LOC:mount,0.8344
+LOC:mount, What mountain range is the highest in Australia ? |,LOC:mount,0.8294
+LOC:mount, What is the highest mountain in North America ? |,LOC:mount,0.8249
+LOC:country, What Asian country is the world 's most populous ?,LOC:country,0.9703
+LOC:country, What African country is governed from Ouagadougou ?,LOC:country,0.9623
+LOC:country, What two European countries are landlocked ? 2014-04,LOC:country,0.9549
+LOC:country, What country has the largest sheep population in Europe ?,LOC:country,0.9416
+LOC:country, Which countries have the largest armed forces in Africa ?,LOC:country,0.9396
+LOC:country, Which country is Australia 's largest export market ?,LOC:country,0.9367
+LOC:country, Which country gained its independence from Yugoslavia in 1991 ?,LOC:country,0.9268
+LOC:country," Which country has the most time zones ? , Canada or Russia",LOC:country,0.9217
+LOC:country," What country is Kosovo a part of ? , Serbia",LOC:country,0.9176
+LOC:country, What is the most populated country in Africa ? .,LOC:country,0.9171
+NUM:perc, What percentage of Americans own their homes ? and 69 percent .,NUM:perc,0.9758
+NUM:perc," What percentage of the body is muscle ? , 44 %",NUM:perc,0.9546
+NUM:perc," Of all U.S. households , what percentage own their homes ?",NUM:perc,0.9218
+NUM:perc, What percentage of Americans own their homes ? . 61,NUM:perc,0.91
+NUM:perc, What percentage of the body is muscle ? | what percent are male,NUM:perc,0.8853
+NUM:perc, What percentage of American men are alcoholic ? ; %,NUM:perc,0.877
+NUM:perc, What percentage of Americans own their homes ? www.answers.com/topic/what-percentage-of-americans-own-their-homes,NUM:perc,0.8763
+NUM:perc, What percentage of Americans own their homes ? |~,NUM:perc,0.8763
+NUM:perc," What percentage of Americans are Catholics ? 1 , or less than half .",NUM:perc,0.8415
+NUM:perc, What percentage of children between the ages 9 and 11 watched The Simpsons on average in its first year ?,NUM:perc,0.7853
+ENTY:color, What color is indigo ? |~ what colour,ENTY:color,0.9966
+ENTY:color, What color are the stripes on a red admiral butterfly ?,ENTY:color,0.9908
+ENTY:color, What color bottles do fine table wines come in ?,ENTY:color,0.9581
+ENTY:color, What color eyes are most sensitive to light ? .,ENTY:color,0.9199
+ENTY:color, What 's the most popular contact lens color ?,ENTY:color,0.9136
+ENTY:color, What color are school buses ? |~ A. Red and yellow B . Green C,ENTY:color,0.8993
+ENTY:color," What color eyes are most sensitive to light ? ,",ENTY:color,0.8868
+ENTY:color, What 's the only color on a red flag in NASCAR ?,ENTY:color,0.8728
+ENTY:color, What color bottles do good Rhine wines come in ?,ENTY:color,0.8389
+ENTY:color, What color bottles do all fine whiskies come in ?,ENTY:color,0.8357
+LOC:city, What city is Logan Airport in ? |knorf|,LOC:city,0.9697
+LOC:city, What Kentucky city is the Horse Capital of America ?,LOC:city,0.9684
+LOC:city, What city in Florida is known as The Cabbage City ?,LOC:city,0.9597
+LOC:city, What 's the largest city in Texas ? -,LOC:city,0.9544
+LOC:city, What city is Logan International Airport in ? |knorf|,LOC:city,0.9417
+LOC:city, What city is Logan International Airport in ? |kn,LOC:city,0.9417
+LOC:city, What South Korean city is served by Kimpo International Airport ?,LOC:city,0.9406
+LOC:city, What city is sometimes called Gotham ? and The Magic City,LOC:city,0.935
+LOC:city, What African city is Nairobi National Park next to ?,LOC:city,0.9197
+LOC:city, What is the most populated city in California ? |,LOC:city,0.896
+NUM:money, What is the exchange rate between U.S. and Australian dollars ?,NUM:money,0.9684
+NUM:money, How much money was the minimum wage in 1991 ?,NUM:money,0.9589
+NUM:money, What does a person in California pay for car insurance ?,NUM:money,0.9422
+NUM:money," How much does the President get paid ? , per year?",NUM:money,0.9395
+NUM:money, What is the price for 3M 's stock ?,NUM:money,0.9107
+NUM:money, How much money does an average U.S. family have in savings ?,NUM:money,0.8975
+NUM:money, How much did the minimum wage increase in 1997 ?,NUM:money,0.8939
+NUM:money, What is the price for a U.S. passport ?,NUM:money,0.8607
+NUM:money, What is the exchange rate of Australian to American dollars ?,NUM:money,0.8582
+NUM:money, How much money is a king 's ransom ?,NUM:money,0.8294
+ENTY:sport, What game do they play at Wembley Stadium ?,ENTY:sport,0.9893
+ENTY:sport, What game does Garry Kasparov play ?,ENTY:sport,0.9816
+ENTY:sport, What was the sport played in Quidditch ?,ENTY:sport,0.9755
+ENTY:sport, What game is Garry Kasparov best at ?,ENTY:sport,0.9739
+ENTY:sport," What sport does Steve Nash play ? 1
+What was the first Olympic Winter Games to include women 's ice hockey and snowboarding events",ENTY:sport,0.9707
+ENTY:sport, What Olympic Games did Lillehammer host ? Open,ENTY:sport,0.9595
+ENTY:sport, What board game is Garry Kasparov really good at ?,ENTY:sport,0.9566
+ENTY:sport, What sport is played on the largest field ? | #sport,ENTY:sport,0.926
+ENTY:sport, What tennis tournament is Chris Evert-Randoll and Martina Navratilova playing in this weekend ?,ENTY:sport,0.924
+ENTY:sport, What field sport features hooligans ? . jp,ENTY:sport,0.9147
+ENTY:lang, What are the most popular languages spoken in Belgium ?,ENTY:lang,0.9638
+ENTY:lang, What 's the second-most widely spoken language in Belgium ?,ENTY:lang,0.9471
+ENTY:lang, What 's the most widely spoken language in Belgium ?,ENTY:lang,0.9402
+ENTY:lang, What language is mostly spoken in Ireland ? 0.00,ENTY:lang,0.9351
+ENTY:lang, What language is mostly spoken in Ireland ? | #language,ENTY:lang,0.9263
+ENTY:lang," What language is most commonly spoken in Belgium ? ,",ENTY:lang,0.8996
+ENTY:lang, What 's the second most widely spoken language in Belgium ?,ENTY:lang,0.8716
+ENTY:lang, What is one of the languages spoken by Sioux ?,ENTY:lang,0.8699
+ENTY:lang, Which language is mostly spoken in Brazil ? . br,ENTY:lang,0.8387
+ENTY:lang, What language is most often spoken in Angola ? -,ENTY:lang,0.8131
+NUM:period, How long is a woman 's menstrual cycle ?,NUM:period,0.9896
+NUM:period, How old is too young to have your child start kindergarten ?,NUM:period,0.9629
+NUM:period, How long after sex can it be to find out if a woman is pregnant ?,NUM:period,0.9626
+NUM:period, How long does it take for a male seal to reach sexual maturity ?,NUM:period,0.96
+NUM:period, How long after intercourse does it take to find out if you are pregnant ?,NUM:period,0.9011
+NUM:period, What is the average time it takes for a male to ejaculate ?,NUM:period,0.8816
+NUM:period, How long does it take for a 12 year old female dog to die of anorexia ?,NUM:period,0.88
+NUM:period," How old is the sun ? , Is it a young star or an aged one",NUM:period,0.8782
+NUM:period, How long after intercourse does it take to find out if you 're pregnant ?,NUM:period,0.8772
+NUM:period, How long does it take for your blood to make one complete trip through the body ?,NUM:period,0.8635
+NUM:count, How many inches over six feet ? :: 12,NUM:count,0.946
+NUM:count, How many varieties of apples are there ? | how much,NUM:count,0.9409
+NUM:count, How many holes are there in a golf ball ?,NUM:count,0.9139
+NUM:count, How many people are there in the world ? 10,NUM:count,0.9033
+NUM:count, How many gallons are in a peck ? .,NUM:count,0.8989
+NUM:count, How many calories are there in a strawberry ? .,NUM:count,0.8924
+NUM:count, How many people have died from tuberculosis in the last 20 years ?,NUM:count,0.8903
+NUM:count, How many stars are there in Big Dipper ?,NUM:count,0.8882
+NUM:count, How many people have died from tuberculosis ? |How-many-people-die-of-cancer-in-the-us-each-year,NUM:count,0.8507
+NUM:count, How many people own pets ? . 1),NUM:count,0.8478
+ENTY:animal, What animal is the world 's longest-lived bird ?,ENTY:animal,0.9882
+ENTY:animal," What African herbivores include elephants , buffalo and antelopes ?",ENTY:animal,0.9783
+ENTY:animal, What animal is the largest invertebrate on earth ?,ENTY:animal,0.9754
+ENTY:animal, Which animals are being hunted to extinction in Africa ?,ENTY:animal,0.9491
+ENTY:animal, What 's a young rabbit called ? The animal world has an abundance of terms to describe baby animals .,ENTY:animal,0.8961
+ENTY:animal," What are some exotic pets ? , besides the ordinary cat or dog .",ENTY:animal,0.8329
+ENTY:animal, Which African animal is known as The Big Five ?,ENTY:animal,0.8308
+ENTY:animal, What African animals are known as The Big Five ?,ENTY:animal,0.8255
+ENTY:animal, What kind of animal was the first to have its genes cloned ?,ENTY:animal,0.8089
+ENTY:animal, What mammal can live the longest without food ?,ENTY:animal,0.8027
+ABBR:exp, What does e.g. stand for ? ;;;,ABBR:exp,0.9783
+ABBR:exp, What does e.g. stand for ? (e.),ABBR:exp,0.9653
+ABBR:exp, What does U.S. stand for ? | je,ABBR:exp,0.9548
+ABBR:exp, What does the acronym LOL mean ? : 1,ABBR:exp,0.9518
+ABBR:exp, What does the acronym e.g. stand for ?,ABBR:exp,0.9257
+ABBR:exp, What does NAFTA stand for ? ; 1.,ABBR:exp,0.9249
+ABBR:exp, What does e.g. stand for ? . br,ABBR:exp,0.9193
+ABBR:exp, What does D.C. stand for ? ; From http://www.loc.gov/servloc/whys.html .,ABBR:exp,0.8907
+ABBR:exp," What does the acronym LOL mean ? , 8",ABBR:exp,0.8876
+ABBR:exp, What does the `` c '' stand for in the equation E = MC2 ?,ABBR:exp,0.8841
+ENTY:food," What foods contain vitamin B12 ? and what two vitamins are found in fish , shellfish chicken liver beef and eggs",ENTY:food,0.9979
+ENTY:food, What 's the most heavily caffeinated soft drink ?,ENTY:food,0.9901
+ENTY:food, What soft drink is most heavily caffeinated ? .,ENTY:food,0.9839
+ENTY:food," What soft drink is most heavily caffeinated ? ,",ENTY:food,0.9813
+ENTY:food, What soft drink 's formula includes lime rind and pepsin ?,ENTY:food,0.9811
+ENTY:food, What soft drink has the most caffeine ? . 2007-03,ENTY:food,0.979
+ENTY:food, What soft drink is most heavily caffeinated ? -,ENTY:food,0.977
+ENTY:food, Which soft drink has the most caffeine ? The diet kind or original .,ENTY:food,0.9734
+ENTY:food, What soft drink is most heavily caffeinated ? |,ENTY:food,0.9525
+ENTY:food," What foods contain all 20 amino acids ? ,",ENTY:food,0.9474
+ENTY:cremat, What was the first book to win both fiction and non-fiction Pulitzer Prizes ?,ENTY:cremat,0.9784
+ENTY:cremat, What Broadway musical is based on P.L. Travers 's Mary Poppins books ?,ENTY:cremat,0.9693
+ENTY:cremat, What film is the 1979 animated feature of ?,ENTY:cremat,0.9692
+ENTY:cremat, Which film featured the character Dr. Christian Szysznyk ?,ENTY:cremat,0.962
+ENTY:cremat, What film 's theme song is `` As Time Goes By '' ?,ENTY:cremat,0.9368
+ENTY:cremat, What 1963 film was the first to receive an Oscar for Best Original Song ?,ENTY:cremat,0.9225
+ENTY:cremat, Which film won the 1957 Oscar for Best Foreign Language Film ?,ENTY:cremat,0.9165
+ENTY:cremat, What film or films has Jude Law appeared in ?,ENTY:cremat,0.9085
+ENTY:cremat, What film won the 1965 Academy Award for Best Picture ?,ENTY:cremat,0.9012
+ENTY:cremat, What film won Best Foreign Film in 1967 ?,ENTY:cremat,0.8763
+ENTY:instru," What instrument does Benny Carter play ? - jazz clarinet , sax",ENTY:instru,0.9318
+ENTY:instru," What musical instrument does Benny Carter play ? , the saxophone",ENTY:instru,0.8678
+ENTY:instru," What musical instrument did Sherlock Holmes play ? (Category.voc,vocal,instrument,music,woodwind)",ENTY:instru,0.8651
+ENTY:instru," What musical instrument did Sherlock Holmes play ? The violin ,",ENTY:instru,0.7865
+ENTY:instru, What musical instrument does Benny Carter play ? 1,ENTY:instru,0.7489
+ENTY:instru," What musical instrument does Benny Carter play ? , what is a jazz clarinet player called",ENTY:instru,0.7395
+ENTY:instru, What musical instrument is Ray Charles best known for playing ?,ENTY:instru,0.7355
+ENTY:instru, Which musical instrument is Ray Charles best known for playing ?,ENTY:instru,0.7094
+ENTY:instru, What musical instrument did Sherlock Holmes play ? . A. Violin B.. Clarinet C .. Bagpipes D ... Saxophone,ENTY:instru,0.6682
+ENTY:instru, What musical instrument did Sherlock Holmes play ? 1,ENTY:instru,0.6154
+NUM:dist, How long is the Coney Island boardwalk ?,NUM:dist,0.9188
+NUM:dist, How far can a man travel in outer space ?,NUM:dist,0.8292
+NUM:dist, How far can you see ? | je? What is the distance in miles from Earth to Mars,NUM:dist,0.8234
+NUM:dist, How long is the Columbia River in miles ? ( not from source to sea ),NUM:dist,0.783
+NUM:dist, How long is the border between Canada and US ?,NUM:dist,0.7608
+NUM:dist, How long is Camptown Racetrack ?,NUM:dist,0.7497
+NUM:dist, How far away is the moon ? . 7,NUM:dist,0.7287
+NUM:dist, How far is it from Phoenix to Blythe ?,NUM:dist,0.7068
+NUM:dist, How long was Mao 's 1930s Long March ?,NUM:dist,0.7054
+NUM:dist, How long were Tyrannosaurus Rex 's teeth ?,NUM:dist,0.7017
+ENTY:event, What civil war was fought from 1642 to 1651 ?,ENTY:event,0.9774
+ENTY:event, What war saw battles at Parrotts Hill and Wauhatchie ?,ENTY:event,0.9058
+ENTY:event, What war began with the battle of Bull Run ?,ENTY:event,0.8894
+ENTY:event, What war saw battles at Longstop Hill and El Alamein ?,ENTY:event,0.8841
+ENTY:event, What were the trials called which followed World War II ?,ENTY:event,0.8665
+ENTY:event, What tragedy befell the city of Dogtown in 1899 ?,ENTY:event,0.8258
+ENTY:event, What events are celebrated during the Carnival of Venice ?,ENTY:event,0.7868
+ENTY:event, What were the 1925 events in Dostoevski ?,ENTY:event,0.7822
+ENTY:event," What holiday is celebrated November 11 ? , with ceremonies to commemorate the armistice signed on that day in",ENTY:event,0.7599
+ENTY:event, What war saw battles at Belleau Wood and Chateau-Thierry ?,ENTY:event,0.7512
+ENTY:body, Which part of the body is covered with hair ?,ENTY:body,0.8348
+ENTY:body, What part of your body contains the corpus callosum ?,ENTY:body,0.7555
+ENTY:body, What is the largest bone in your body ? -,ENTY:body,0.6938
+ENTY:body, Where is the human skin least sensitive ? ( Body ),ENTY:body,0.6189
+ENTY:body, What is the only gland in humans that can regenerate itself ?,ENTY:body,0.5726
+ENTY:body, What dangles over the tongue from the palate ?,ENTY:body,0.5635
+ENTY:body, What carries blood through the body ? ; | what is inside your stomach,ENTY:body,0.4932
+ENTY:body, What 's the only gland in humans that can regenerate itself ?,ENTY:body,0.49
+ENTY:body, What is the name of your ear canal ? -,ENTY:body,0.4732
+ENTY:body, What carries sperm up into the pelvic region ? .,ENTY:body,0.4722
+NUM:temp, How hot should the oven be when baking Peachy Oat Muffins ?,NUM:temp,0.8605
+NUM:temp, What is the Fahrenheit equivalent of zero degrees Celsius ?,NUM:temp,0.802
+NUM:temp, How hot should the oven be for baking Peachy Oat Muffins ?,NUM:temp,0.7853
+NUM:temp, What is the temperature of a light bulb in Celsius ?,NUM:temp,0.705
+NUM:temp," How cold should a refrigerator be ? , 37 degrees fahrenheit",NUM:temp,0.6431
+NUM:temp, What is the temperature for baking Peachy Oat Muffins ?,NUM:temp,0.6269
+NUM:temp, What is the current temperature ? in celsius and farenheit,NUM:temp,0.6095
+NUM:temp, What is the Fahrenheit equivalent of 0 degrees Celsius ?,NUM:temp,0.5959
+NUM:temp, What is the Fahrenheit equivalent of 25 degrees Celsius ?,NUM:temp,0.5721
+NUM:temp, What 's the temperature for baking Peachy Oat Muffins ?,NUM:temp,0.5556
+ENTY:substance," What molecules include fluorine , sodium and magnesium ?",ENTY:substance,0.9751
+ENTY:substance," What is glass made of ? - a combination of silica sand , sodium carbonate and lime .",ENTY:substance,0.9615
+ENTY:substance, What are the two elements that exist in a molecule of pure hydrogen ?,ENTY:substance,0.9423
+ENTY:substance, What substance does plutonium occur naturally with called URF6 ?,ENTY:substance,0.843
+ENTY:substance, What are the four elements ? |~| Of what is glass made of ?,ENTY:substance,0.8263
+ENTY:substance, What is the chemical composition of glass ? - A .,ENTY:substance,0.8123
+ENTY:substance," What kind of molecules are in ribosomes ? The four types include carbohydrates , proteins and lipids .",ENTY:substance,0.7815
+ENTY:substance, What 's the most abundant element in Earth 's crust ?,ENTY:substance,0.7346
+ENTY:substance, What fuel is used in gas grills ? -,ENTY:substance,0.7262
+ENTY:substance, What are some of the chemicals used in glowsticks ?,ENTY:substance,0.7082
+NUM:date, When did the Dow first reach ? 2000,NUM:date,0.9404
+NUM:date, What was the first day of summer in 2005 ?,NUM:date,0.915
+NUM:date, When will the millennium end ? # when does a millenium last,NUM:date,0.8946
+NUM:date, What day and month did Saddam Hussein invade Kuwait ?,NUM:date,0.8931
+NUM:date, What day is Mother 's Day in 1997 ?,NUM:date,0.8865
+NUM:date, What year did the Dow first reach 2000 ?,NUM:date,0.8835
+NUM:date," What year was the Mona Lisa painted ? ; What calendar date is Boxing Day , and when did it start being celebrated in England",NUM:date,0.8797
+NUM:date, What day and month are Bastille Day celebrations ?,NUM:date,0.8606
+NUM:date, When did Iraqi troops invade Kuwait ? 1990,NUM:date,0.8585
+NUM:date, What year is Sarah Palin 's birthday ? 2022-08,NUM:date,0.8525
+ENTY:dismed," What is a fear of disease ? , or what are its symptoms",ENTY:dismed,0.9861
+ENTY:dismed, What is the medical term for cancer of a connective tissue ?,ENTY:dismed,0.8821
+ENTY:dismed, What is the name of a drug that causes temporary impotence ?,ENTY:dismed,0.8605
+ENTY:dismed, What is the medical term for cancer of blood cells ?,ENTY:dismed,0.8577
+ENTY:dismed, What are all the infectious diseases that can be spread through saliva ?,ENTY:dismed,0.7837
+ENTY:dismed, What is the medical term for cancer of the blood ?,ENTY:dismed,0.7811
+ENTY:dismed, What is a fear of cockroaches called ?,ENTY:dismed,0.7681
+ENTY:dismed," What is a fear of food ? , called what",ENTY:dismed,0.7496
+ENTY:dismed, What is the name of a drug that treats acne ?,ENTY:dismed,0.721
+ENTY:dismed," What is a fear of motion ? , what illness causes it and how do you get rid off the symptom",ENTY:dismed,0.7044
+LOC:other, Where is the Grand Canyon ? | ask@msn.com,LOC:other,0.9418
+LOC:other, Where is the Lourves Grottoes ?,LOC:other,0.9395
+LOC:other, What lake does Lake Champlain border ? ; ...,LOC:other,0.9387
+LOC:other, Where is the Grand Canyon ? | htaccess.txt,LOC:other,0.9184
+LOC:other," What is the location of Lake Champlain ? ,",LOC:other,0.9058
+LOC:other, Where does the Nile River begin and end ? | cn,LOC:other,0.8945
+LOC:other," What is the location of Lake Champlain ? | eq. what body of water lies between Vermont and New York ?
+MFREL :",LOC:other,0.8942
+LOC:other, Where is the Grand Canyon ? | url=http://www.nps.gov/grca/,LOC:other,0.8942
+LOC:other, Where is the Grand Canyon ? |knol:qnn.1115,LOC:other,0.8831
+LOC:other, Where is the Grand Canyon ? | ask@jesusbot.com,LOC:other,0.8763
+ENTY:techmeth, What are the two main methods used for sterilizing medical instruments ?,ENTY:techmeth,0.8942
+ENTY:techmeth, What was the treatment for AIDS before Reverse Transcriptase Inhibitors ?,ENTY:techmeth,0.8637
+ENTY:techmeth, Name a technique widely used to detect birth defects ?,ENTY:techmeth,0.8178
+ENTY:techmeth, What are the different techniques used in Virtual Reality ?,ENTY:techmeth,0.7959
+ENTY:techmeth, What is the recommended way to prevent static on rubber tires ?,ENTY:techmeth,0.778
+ENTY:techmeth, What are the different techniques used in Neuro-Linguistic Programming ?,ENTY:techmeth,0.7183
+ENTY:techmeth, What is the most efficient way to start a barbeque grill ?,ENTY:techmeth,0.703
+ENTY:techmeth, What are the different approaches of Systems Analysis ? .,ENTY:techmeth,0.6991
+ENTY:techmeth, Name the two methods that can be used to determine radioactive half-life ?,ENTY:techmeth,0.694
+ENTY:techmeth, Name a technique commonly used to detect birth defects ?,ENTY:techmeth,0.6891
+ENTY:veh, What nuclear-powered Russian submarine sank in the Norwegian Sea with HUMANS onboard ?,ENTY:veh,0.9836
+ENTY:veh, Which U.S. Navy ship was sunk by her own mines in Havana harbor ?,ENTY:veh,0.9631
+ENTY:veh, What kind of ship was the Black Pearl ? Select an option Captain Barbossa 's personal vessel The fastest pirate sailing Ship in the Caribbean,ENTY:veh,0.9243
+ENTY:veh, What kind of plane flew the first round-the-world flight ?,ENTY:veh,0.9135
+ENTY:veh, What Italian luxury liner was hijacked in 1985 ?,ENTY:veh,0.8884
+ENTY:veh, What ocean liner was hijacked in 1985 ?,ENTY:veh,0.8623
+ENTY:veh, What type of seaplane was the first aircraft to fly around-the-world ?,ENTY:veh,0.8568
+ENTY:veh, What aircraft was flown in the first non-stop flight from London to Cape Town ?,ENTY:veh,0.8168
+ENTY:veh, What was the first U.S. ship sunk by a torpedo in wartime ?,ENTY:veh,0.8165
+ENTY:veh," What was the sister ship of Olympic ? , Category:Famous Ships",ENTY:veh,0.7998
+HUM:ind, Who was `` America 's youngest and most accomplished female composer '' ?,HUM:ind,0.9207
+HUM:ind, Who invented the first paper-spooled fountain pen ?,HUM:ind,0.8712
+HUM:ind, Who was the first American woman to win a Nobel Prize ?,HUM:ind,0.8424
+HUM:ind," Who painted Mother and Child ? , 1946 .",HUM:ind,0.8241
+HUM:ind, Who is the youngest of Shakespeare 's plays ?,HUM:ind,0.8122
+HUM:ind, Who is the youngest of Queen Victoria 's nine children ?,HUM:ind,0.8027
+HUM:ind, Who wrote The Catcher in the Rye ?,HUM:ind,0.796
+HUM:ind, Who painted `` Whistler 's Mother '' ?,HUM:ind,0.7937
+HUM:ind, Who was the first person to win two Oscars for Best Actor ?,HUM:ind,0.7886
+HUM:ind, Who killed Leno and Rosemary LaBianca ?,HUM:ind,0.7753
+ABBR:abb, What is the abbreviation for General Motors ? - Source: http://www.answers.com/topic/what-is-the-abbreviation-for-general-motors,ABBR:abb,0.8176
+ABBR:abb, What is the abbreviation of General Motors ? ( Source ),ABBR:abb,0.8155
+ABBR:abb, What is the acronym for National Bureau of Investigation ?,ABBR:abb,0.792
+ABBR:abb, What is the abbreviation for micro ? ( Source wikipedia ),ABBR:abb,0.7667
+ABBR:abb, What is the abbreviation for General Motors ? (C),ABBR:abb,0.759
+ABBR:abb, What is the acronym for The National Bureau of Investigation ?,ABBR:abb,0.712
+ABBR:abb, What is the abbreviation for Original Equipment Manufacturer ? ( Source w ),ABBR:abb,0.7091
+ABBR:abb, What is the acronym for Federal Bureau of Investigation ?,ABBR:abb,0.7066
+ABBR:abb, What is the abbreviation of General Motors ? :: what's gm 's stock symbol,ABBR:abb,0.7015
+ABBR:abb, What 's the abbreviation for limited liability company ?,ABBR:abb,0.6955
+NUM:speed, How fast does the fastest car go ? 102 mph,NUM:speed,0.8797
+NUM:speed, How fast does the fastest car go ? 0,NUM:speed,0.8166
+NUM:speed," How fast is light ? , What speed does a 45 Mhz processor operate at",NUM:speed,0.7666
+NUM:speed, How fast must a spacecraft travel to escape Earth 's gravity ?,NUM:speed,0.6531
+NUM:speed, How fast does a snail move ? |How much faster is light than sound,NUM:speed,0.6504
+NUM:speed, How fast is a 45Mhz processor ?,NUM:speed,0.631
+NUM:speed, How fast does a 45Mhz processor run ?,NUM:speed,0.6019
+NUM:speed, How fast must a spaceship travel to escape Earth 's gravity ?,NUM:speed,0.4697
+NUM:speed, How fast does the fastest car go ? Sentences: 0,NUM:speed,0.4659
+NUM:speed, How fast does the fastest car go ? . !,NUM:speed,0.456
+NUM:code, What 's the telephone number for info ? 1,NUM:code,0.6146
+NUM:code, What telephone number can you call to have a tree planted ?,NUM:code,0.566
+NUM:code, What telephone number can I call to have a tree planted ?,NUM:code,0.5177
+NUM:code, What is Columbia Tristar 's phone number ?,NUM:code,0.5148
+NUM:code, What phone number can I call to get the correct telephone number of any Phone in the world ?,NUM:code,0.5055
+NUM:code, What phone number can I call to have a tree planted ?,NUM:code,0.5043
+NUM:code, What seven digits follow the area code in the number for long distance information ?,NUM:code,0.4801
+NUM:code, What is the phone number for Columbia Tristar 's Los Angeles office ?,NUM:code,0.4285
+NUM:code, What is the telephone number for the University of Iowa Hospitals and Clinics ?,NUM:code,0.4249
+NUM:code, What is the airport code for Los Angeles International ?,NUM:code,0.407
+ENTY:letter, What 's the last letter in Tolkien 's elvish alphabet ?,ENTY:letter,0.8319
+ENTY:letter, What 's the last letter in lorem ipsum dummy text ?,ENTY:letter,0.7406
+ENTY:letter, What 's the third letter of Navajo alphabet ?,ENTY:letter,0.6099
+ENTY:letter, What letter is to the right of K on a typewriter keyboard ?,ENTY:letter,0.5212
+ENTY:letter, What 's the second-most-used vowel in English ?,ENTY:letter,0.5189
+ENTY:letter, What letter adorns the flag of Rwanda ? |,ENTY:letter,0.4994
+ENTY:letter, What is the alphabet for Latin ? and what language uses that Alphabet,ENTY:letter,0.4353
+ENTY:letter, What is the second most-used vowel in English ?,ENTY:letter,0.385
+ENTY:letter, What letter adorns the flag of Rwanda ? and zambia,ENTY:letter,0.3122
+ENTY:letter, What is the alphabet for Latin ? |~ S. Pons,ENTY:letter,0.3004
+DESC:manner, How do you send e-mail to a satellite ?,DESC:manner,0.9734
+DESC:manner, How can I stop background noise on my computer ?,DESC:manner,0.9358
+DESC:manner, How do I know how much money to save for retirement ?,DESC:manner,0.9328
+DESC:manner, How do you prevent spamming in an email address ?,DESC:manner,0.931
+DESC:manner, How do I find someone 's social security number ?,DESC:manner,0.9152
+DESC:manner, How do I find a site that provides answers to math problems ?,DESC:manner,0.9096
+DESC:manner, How do you clean up the computer 's registry ?,DESC:manner,0.9083
+DESC:manner, How do I clean and store my safety glasses ?,DESC:manner,0.8702
+DESC:manner, How can I find the address of my Representatives in Washington ?,DESC:manner,0.8678
+DESC:manner, How does a paper clip pick up junk in your stomach ?,DESC:manner,0.8518
+ENTY:product, What kind of products does Procter and Gamble manufacture ?,ENTY:product,0.9957
+ENTY:product, What kind of products does Procter & Gamble make ?,ENTY:product,0.9868
+ENTY:product, What computer operating system runs on IBM-compatible machines ?,ENTY:product,0.9382
+ENTY:product, What brand of cigarettes are called `` 54s '' ?,ENTY:product,0.905
+ENTY:product, What is the most popular brand of jeans in America ?,ENTY:product,0.8975
+ENTY:product, What computer operating system is on the most PCs ?,ENTY:product,0.8293
+ENTY:product, What product does Steve Jobs and Stephen Wozniak produce ?,ENTY:product,0.7898
+ENTY:product, What are two products of the cotton industry ? .,ENTY:product,0.7671
+ENTY:product," What is the most expensive car in America ? ,",ENTY:product,0.7659
+ENTY:product, What kind of product is produced by Monsanto ? 36.1,ENTY:product,0.7498
+ENTY:plant, What flower does nectar and pollen-collecting honey be made from ?,ENTY:plant,0.745
+ENTY:plant, What plant does a flint arrowhead grow from ?,ENTY:plant,0.6965
+ENTY:plant, What flower is the state flower of Illinois ? |,ENTY:plant,0.6791
+ENTY:plant," What plant is rum made from ? , what kind of plants produce chocolate",ENTY:plant,0.6728
+ENTY:plant, What flower 's roots yield saffron ?,ENTY:plant,0.6704
+ENTY:plant, What flower is known as The Queen of Flowers ?,ENTY:plant,0.6454
+ENTY:plant, What plants were first grown in Kew Gardens ? | what kind of tree is moonshine,ENTY:plant,0.6065
+ENTY:plant, What flower is the official state floral emblem of Michigan ?,ENTY:plant,0.6031
+ENTY:plant, What is Florida 's state flower ? |kn,ENTY:plant,0.5624
+ENTY:plant, What kind of flowers does detective Nero Wolfe raise ?,ENTY:plant,0.5515
+ENTY:word, What English word has the most letters ? ; 1,ENTY:word,0.846
+ENTY:word," What 's another word for , in other words ?",ENTY:word,0.7873
+ENTY:word, What 's the most used noun in English ?,ENTY:word,0.7688
+ENTY:word," What word in English has the most letters ? ,",ENTY:word,0.7053
+ENTY:word, What English word has the most letters ? (without counting contractions or prefixes),ENTY:word,0.6932
+ENTY:word," What are some Korean words ? , for example :",ENTY:word,0.6656
+ENTY:word, What is a word containing all the vowels in order ?,ENTY:word,0.6536
+ENTY:word, What English word has the most letters ? . jp,ENTY:word,0.6029
+ENTY:word," What English word has the most letters ? , 1999",ENTY:word,0.5642
+ENTY:word, What are all the words that end with ul- in English ?,ENTY:word,0.5616
+NUM:weight, How much would a black rhino weigh ? 50 pounds,NUM:weight,0.8726
+NUM:weight, How much does water weigh ? 1/8,NUM:weight,0.7084
+NUM:weight," What is the weight of a teaspoon ? | How much does it weigh , in grams ?",NUM:weight,0.7064
+NUM:weight, How many pounds in a stone ? 100 stones is equal to how much weight,NUM:weight,0.6683
+NUM:weight, How much does a poodle weigh ? 2,NUM:weight,0.6264
+NUM:weight, How many pounds are there in a stone ? | how much does 1.6 stones weight,NUM:weight,0.5023
+NUM:weight, How much would a 250 lb weight loss reduce the risk of death in diabetics ?,NUM:weight,0.492
+NUM:weight, What does a teaspoon of matter weigh in the Black Hole ?,NUM:weight,0.4895
+NUM:weight, How many pounds in a stone ? |~ how much does water weigh,NUM:weight,0.4884
+NUM:weight, How much does a teaspoon of matter weigh in the center of a black hole ?,NUM:weight,0.4643
+ENTY:symbol, What 's the symbol for the zodiacal sign Gemini ?,ENTY:symbol,0.6585
+ENTY:symbol, What symbol represents the zodiacal signs Gemini ?,ENTY:symbol,0.6524
+ENTY:symbol, What symbol is used for the zodiac sign Gemini ?,ENTY:symbol,0.6066
+ENTY:symbol, What sign is The Water Carrier the zodiacal symbol for ?,ENTY:symbol,0.5064
+ENTY:symbol, What was the zodiac sign for 1982 ?,ENTY:symbol,0.4859
+ENTY:symbol, What is the symbol for the chemical element iron ?,ENTY:symbol,0.4843
+ENTY:symbol, What are the signs of a country going into a recession ?,ENTY:symbol,0.4721
+ENTY:symbol, What was the distinguishing mark on `` The Little Rascals '' dog ?,ENTY:symbol,0.4642
+ENTY:symbol, What 's the chemical symbol for fluorine ?,ENTY:symbol,0.4614
+ENTY:symbol, What is the trademark of a Washington Redskin 's fan ?,ENTY:symbol,0.4498
+ENTY:currency," Which currency is used in Australia ? , Nepal uses which Currency",ENTY:currency,0.4044
+ENTY:currency, What currency does Argentina use ? __�__ is their unit of money .,ENTY:currency,0.3221
+ENTY:currency, What currency does Argentina use ? . BRITISH POUND,ENTY:currency,0.2975
+ENTY:currency," Which currency is used in Saudi Arabia ? , -",ENTY:currency,0.293
+ENTY:currency," What currency is used in Australia ? , Argentina and Austria use what money",ENTY:currency,0.2765
+ENTY:currency, What currency does Australia use ? and what is its value against sterling .,ENTY:currency,0.2665
+ENTY:currency," Which currency is used in Saudi Arabia ? , What money do they use there 9 years ago IN Money",ENTY:currency,0.2489
+ENTY:currency," What currency does Australia use ? , what money do they have in australia",ENTY:currency,0.2323
+ENTY:currency, What currency does Luxembourg use ? (Cite),ENTY:currency,0.229
+ENTY:currency, What currency is used in Australia ? (C),ENTY:currency,0.2262
+HUM:gr, Who owns the company that makes Spumante ?,HUM:gr,0.9684
+HUM:gr, Name the college football team that plays at Palmer Stadium .,HUM:gr,0.913
+HUM:gr, What is the biggest distilling company in America ?,HUM:gr,0.8993
+HUM:gr, What toy company is the world 's No.1 maker of female apparel ?,HUM:gr,0.8593
+HUM:gr, What is the world 's largest distilling company ?,HUM:gr,0.8417
+HUM:gr, What is the largest distilling company in Scotland ?,HUM:gr,0.8375
+HUM:gr," Name the college football team of Boone , North Carolina .",HUM:gr,0.8266
+HUM:gr, What is the biggest distilling company in Scotland ?,HUM:gr,0.8098
+HUM:gr, Which team won the 1990 Super Bowl ?,HUM:gr,0.783
+HUM:gr, What company sponsors the Web site www.come.to ?,HUM:gr,0.7286
+NUM:other, What is the student population of Duke University ? 2,NUM:other,0.8799
+NUM:other," What is the approximate population of Phoenix , Arizona ?",NUM:other,0.8583
+NUM:other, What is the student population at Stanford University ? | {,NUM:other,0.8332
+NUM:other, What is the student population at Duke University ? ;,NUM:other,0.7627
+NUM:other, What was Einstein 's IQ ? ` 160,NUM:other,0.6791
+NUM:other, What is the population of Connecticut ? . /2004,NUM:other,0.6424
+NUM:other, What is the population of Ohio ? 1?,NUM:other,0.6269
+NUM:other, What is the death toll of people dying from tuberculosis ?,NUM:other,0.6253
+NUM:other, What is the population of Ohio ? ; 843,NUM:other,0.5983
+NUM:other, What is the population of Ohio ? 1.,NUM:other,0.5975
+DESC:desc, What is the origin of `` beauty marks '' ?,DESC:desc,0.6034
+DESC:desc, What is the origin of `` Beauty Is in The Eye Of Beholder '' ?,DESC:desc,0.5987
+DESC:desc, What can you tell me about the origins of `` Beauty is in The Eye Of Beholder '' ?,DESC:desc,0.5852
+DESC:desc, What is the origin of gametophytic tissue ?,DESC:desc,0.5749
+DESC:desc, What is the origin of April Fool 's Day ?,DESC:desc,0.5692
+DESC:desc, What is the origin of Halloween ? ... 1,DESC:desc,0.5581
+DESC:desc, What are the lyrics to `` Smelly Cat '' from Friends ?,DESC:desc,0.4739
+DESC:desc," What is the origin of `` Beauty '' ? ,",DESC:desc,0.4671
+DESC:desc, What are the 7 deadly sins ? ... From www.geocities.com/heartland/plains,DESC:desc,0.4553
+DESC:desc, What are the lyrics to The Twist ? 1,DESC:desc,0.4286
+HUM:title, What is Nicholas Cage 's occupation ? ... .,HUM:title,0.6329
+HUM:title, What is Steve Wozniak 's occupation ?,HUM:title,0.6098
+HUM:title, What was Queen Victoria 's title regarding India ?,HUM:title,0.5737
+HUM:title, What was the occupation of Sherlock Holmes 's landlady ?,HUM:title,0.5622
+HUM:title, What was the occupation of Mandy Rice-Davies ?,HUM:title,0.5594
+HUM:title, What is Nicholas Cage 's occupation ? ] .,HUM:title,0.5399
+HUM:title, What is Nicholas Cage 's occupation ? colons,HUM:title,0.5135
+HUM:title, What is Steve Irwin 's occupation ? __NUM__,HUM:title,0.4661
+HUM:title, What is Nicholas Cage 's occupation ? ; .,HUM:title,0.4401
+HUM:title, What was the occupation of Homer Simpson ? . mp,HUM:title,0.3921
+ENTY:termeq, What do you call a book of quotes ? -,ENTY:termeq,0.6353
+ENTY:termeq," What is the correct term to use when referring , collectively as a group of four , what ?",ENTY:termeq,0.5884
+ENTY:termeq, What do the Japanese call Japan ? - asked by 5377d8c5a6b4f0af,ENTY:termeq,0.5684
+ENTY:termeq, What is another name for the `` Little Horn '' ?,ENTY:termeq,0.558
+ENTY:termeq, What 's the term for a young fox ?,ENTY:termeq,0.5437
+ENTY:termeq, What do you call a book of quotations ? ``,ENTY:termeq,0.5387
+ENTY:termeq," What is the Jewish alphabet called ? , a.",ENTY:termeq,0.529
+ENTY:termeq, What is the English translation for `` le grand fromage '' ?,ENTY:termeq,0.5233
+ENTY:termeq, What is the term that describes a group of islands ?,ENTY:termeq,0.4822
+ENTY:termeq," What is the term for a young fox ? ,",ENTY:termeq,0.4393
+ENTY:religion, What two world religions began in India ? __ and Buddhism,ENTY:religion,0.5243
+ENTY:religion, Which religion has the most members worldwide ? (CCWN),ENTY:religion,0.3379
+ENTY:religion, Which religion has the most members ? . dp : what 's a minority faith in Japan ?,ENTY:religion,0.3008
+ENTY:religion, Which religion has the most members ? __ ___ is largest religious denomination in Canada .,ENTY:religion,0.2947
+ENTY:religion, What religion has the most members ? (a) Buddhism or Christianity,ENTY:religion,0.2801
+ENTY:religion, What are the three major monotheistic religions in our society ?,ENTY:religion,0.2404
+ENTY:religion, What religion has the most members worldwide ? . 1990-03.,ENTY:religion,0.238
+ENTY:religion, What religion 's adherents are known as Jews ?,ENTY:religion,0.2371
+ENTY:religion," What religion has the most members ? , 2000",ENTY:religion,0.227
+ENTY:religion, Which religion has the most followers in China ? -,ENTY:religion,0.2177
+DESC:def, What does `` jai alai '' mean ?,DESC:def,0.646
+DESC:def, What is `` aardvark '' ? - Read more,DESC:def,0.6349
+DESC:def, What is a geoscientist ? ] .,DESC:def,0.5692
+DESC:def, What does the word `` boondoggle '' mean ?,DESC:def,0.568
+DESC:def, What does `` the beautiful people '' mean ? | jeje,DESC:def,0.5378
+DESC:def, What are the `` Little Rascals '' ?,DESC:def,0.5295
+DESC:def, What does `` The Star-Spangled Banner '' mean ?,DESC:def,0.5101
+DESC:def, What is the meaning of `` rosin '' ?,DESC:def,0.4919
+DESC:def, What is a geocache ? | jeffery,DESC:def,0.4819
+DESC:def, What does the word `` flaneur '' mean ?,DESC:def,0.478
+NUM:volsize, How big is the Arctic National Wildlife Refuge ? 2,NUM:volsize,0.5426
+NUM:volsize, How large is the universe ? 3.7,NUM:volsize,0.5132
+NUM:volsize, How large is the Arctic refuge that contains Alaska 's oil reserves ?,NUM:volsize,0.4879
+NUM:volsize, How big is a quart ? -1.00000,NUM:volsize,0.3714
+NUM:volsize," How big is the Arctic National Wildlife Refuge ? ,",NUM:volsize,0.3625
+NUM:volsize, What size is the largest akita ? The Great Pyrenees .,NUM:volsize,0.2957
+NUM:volsize, How big is a quart ? The size of my swimming pool .,NUM:volsize,0.2905
+NUM:volsize, How big is the Great Barrier Reef ? 0,NUM:volsize,0.2885
+NUM:volsize, How big is the largest akita ? ( www.answers.com ),NUM:volsize,0.2579
+NUM:volsize," How big is the Arctic refuge ? , in acre",NUM:volsize,0.2493
+DESC:reason, What causes cancer ? -- From www.mayoclinic.com,DESC:reason,0.592
+DESC:reason, What causes canker sores in the mouth ?,DESC:reason,0.5818
+DESC:reason, What causes skin cancer ? | what are some common reasons why kids drop out of high school,DESC:reason,0.5478
+DESC:reason," Why do people get nosebleeds ? | egwhy did the chicken cross ,",DESC:reason,0.5394
+DESC:reason, Why did they stop making the Apple Lisa ? ;,DESC:reason,0.5224
+DESC:reason, Why does my stomach churn when I am upset ?,DESC:reason,0.4599
+DESC:reason, Why can 't you taste anything when your nose is blocked ?,DESC:reason,0.4588
+DESC:reason, Why do people have belly buttons ? ... Read more,DESC:reason,0.4268
+DESC:reason, Why do magnets attract ? and why is plastic not attracted to a magnet,DESC:reason,0.3933
+DESC:reason, Why was the L.A. office of Shea and Gould closed ?,DESC:reason,0.3865
+NUM:ord, What chapter of the Bible contains 594 verses ?,NUM:ord,0.7343
+NUM:ord, What chapter of the Bible contains 623 verses ?,NUM:ord,0.7311
+NUM:ord, What chapter of the Bible contains 595 verses ?,NUM:ord,0.6627
+NUM:ord," What chapter of the Bible contains 3 ,089 verses ?",NUM:ord,0.5337
+NUM:ord," What chapter of the Bible contains 1 ,336 verses ?",NUM:ord,0.5009
+NUM:ord," What chapter of the Bible contains 1 ,632 verses ?",NUM:ord,0.5009
+NUM:ord," What chapter of the Bible contains 1 ,176 verses ?",NUM:ord,0.5009
+NUM:ord, What chapter of the Bible has 9 verses ?,NUM:ord,0.4586
+NUM:ord, What chapter of the Bible has just 189 verses ?,NUM:ord,0.4454
+NUM:ord, What chapter of the Bible has only seven verses ?,NUM:ord,0.4406
+HUM:desc, Who is Henry Kissinger ? -200-1,HUM:desc,0.925
+HUM:desc, Who was Ishmael in Moby Dick ?,HUM:desc,0.6809
+HUM:desc, Who is Ishmael in Moby Dick ?,HUM:desc,0.6489
+HUM:desc, Who is the `` Queen Mother '' ? | eq who does queen elizabeth call mother,HUM:desc,0.588
+HUM:desc," Who was William Wordsworth ? , Author of Daffodils",HUM:desc,0.5708
+HUM:desc," Who is Shirley MacLaine ? . , """,HUM:desc,0.5648
+HUM:desc," Who is Robin Williams ? , 1997-",HUM:desc,0.4949
+HUM:desc," Who is the `` Queen Mother '' ? , 2003-10",HUM:desc,0.3306
+HUM:desc," Who was Thucydides ? , . 1",HUM:desc,0.3176
+HUM:desc, Who was William Henry Harrison ? | tldr ;,HUM:desc,0.3141
+ENTY:other, What cards are bullets in Canasta ? | #1461,ENTY:other,0.4742
+ENTY:other, What 's the tallest piece on a chessboard ?,ENTY:other,0.4123
+ENTY:other, What cards are bullets in Canasta ? | eq.,ENTY:other,0.3836
+ENTY:other, What is the tallest piece on a chessboard ?,ENTY:other,0.3655
+ENTY:other, What cards are bullets in Canfield Solitaire ?,ENTY:other,0.3573
+ENTY:other, What can a satyricomedy feature ?,ENTY:other,0.2592
+ENTY:other, What 's a cullion in chess ?,ENTY:other,0.2301
+ENTY:other, What did the Congress of Vienna establish ? 1.,ENTY:other,0.2286
+ENTY:other," What is the most-used card in bridge ? ,",ENTY:other,0.2284
+ENTY:other, What 's the only card that can be played on any suit ?,ENTY:other,0.2158

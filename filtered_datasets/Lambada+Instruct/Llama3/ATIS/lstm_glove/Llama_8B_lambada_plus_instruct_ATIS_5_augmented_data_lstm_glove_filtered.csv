@@ -1,0 +1,130 @@
+label,text,predicted_label,probability
+ground_service,what is my option for shuttle service from lax to westwood blvd?,ground_service,0.2603
+ground_service,"ground services to miami airport what kind of shuttle or bus service do they offer how often does it run please? 
+
+is there a convenient way from portland international pdx airpor",ground_service,0.2538
+ground_service,"ground service is that when users request for more details related to accessible train, bus or shuttle services from air port to downtown of any place while booking their flight tickets in advance they should know how much time would it take them as well where exactly pick up point will be there after reaching airport at which specific locations we can find public transport like taxi subway so many questions people used ask before making a trip plan with flights also asking what types trains buses shuttles all this things then one day I was wondering",ground_service,0.2488
+ground_service,"how much does it cost to get from lax airport back home by bus in orange county with a pick up stop at anaheim stadium system info please? 
+
+can you provide more detail regarding your shuttle service or limo company offering pickup services from sfo baggage claim 1 what time will be my departure scheduled if i reserve today for tomorrow morning where do they take me how long till downtown sf thank u so very grateful can we have our luggage tags attached prior to boarding thanks again looking forward waiting to hear",ground_service,0.2453
+ground_service,"what modes of public transportations is there from lax to downtown los angeles? 
+
+is it possible for a shuttle or bus service that runs directly at airport arrivals level one in terminal 4 please inform me also how much would this cost thanks so much  
+
+can i find taxi ranks outside terminals t1t2 and what type licenses they have can you tell if any company has wheelchair accessible vehicles does anyone operate day night shift services",ground_service,0.2407
+ground_service,"what kind of buses run from dallas to fort worth airport? what is their frequency thanks in advance! 
+
+are there shuttles or taxis at phoenix sky harbor international that operate after 11pm till morning hours which option would be more cost effective a taxi for two people over night service shuttle services like supershuttle ? thank you 
+
+
+
+can i get info regarding parking lot g rates per day how do they differ if we need them daily also can it take longer then expected stay with extra charges any",ground_service,0.2297
+ground_service,"here is 10 descriptions of flights to new orleans, please let me know if this meets your requirements.
+
+• from portland airport do i have any shuttle service at reasonable prices going into downtown? 
+ • what forms transport services does o'hare international offer that can get you closer than el paso's budget?
+can we drive rental car places be picked up outside terminal three in dallas/fort worth inter
+does united give a bus ride for those who don't take their own vehicle how much",ground_service,0.2296
+ground_service,"how do i get from atl to downtown st louis by public transportataion or shuttle in a reasonable price range? 
+
+is there any way for me take tram train bus metro line directly frm dfw airport dtl dallas thank you very much",ground_service,0.2269
+ground_service,"what forms of public transporation can i take from dfw airport to downtown dallas? 
+
+is there a shuttle service at la guardia that goes directly into manhattan or do you have suggest another route we should consider?
+
+are their any bus services directily connecting denver international airpotr with colorado springs center mall area ? if not what other alternatives could be used for traveling this distance.
+
+can someone tell me more bout parking fees near ftlauderdale hollywood intairport as well",ground_service,0.2262
+ground_service,"ground service what is my best option for getting to downtown from lax airport? 
+
+what shuttle services run at 5 am in atlanta going into midtown or buckhead areas ?are there any shared rideshare companies operating around midnight near dfw internationalairport that will go towards addison texasto get a list of bus routes connecting toronto pearson with old mill road public transit system like vancouver skytrain can i take them during morning rush hour if so which ones provide daily frequency schedule how do",ground_service,0.2261
+city,"what major airport serves wichita falls texas 
+
+where is newark liberty international Airport located in relationship to other nearby local landmarks",city,0.3861
+city,"what is united's west coast hubs? 
+
+where does southwest fly from chicago  
+
+does delta have flights to puerto rico ",city,0.2807
+city,"what does southwest fly into in wisconsin? 
+
+where is denver international airport located at what us state",city,0.2697
+city,"where is united located in florida 
+
+city United Airlines, a major American airline company operates flights out from various locations across Florida including Orlando International Airport (MCO) which serves as its hub airport for east coast operations; Fort Lauderdale Hollywood ... more 
+
+does delta operate at bellingham wa
+
+cities BELLINGHAM ALASKA An international gateway to Alaska region Delta Air Lines services several destinations throughout North America using this facility called... additional information may be available within other descriptions related terms : SEA SEATTLE",city,0.2518
+city,what is southwest's main hub in florida what airline serves denver international airport,city,0.2492
+city,"what is served by allegiant Airlines from dfw? 
+
+is delta located in newark nj airport",city,0.2331
+city,"What is American Airlines' major hub in California? 
+
+American's biggest presence east of Los Angeles can be found at its massive hubs near Chicago, Dallas...",city,0.214
+city,"what is delta's main hub in new england 
+
+is boston logan a major airport for southwest",city,0.2127
+city,city what is their hub for southwest airline near st louis,city,0.2015
+city,what airline does auckland airport service in south africa,city,0.1998
+airline,what does flight schedule mean in regards to airways systems?,airline,0.2595
+airline,what does delta air lines fly from denver to?,airline,0.2481
+airline,what is delta Airlines flight schedule for boston to denver today,airline,0.2271
+airline,what flights fly from detroit to chicago today Airways Flights What Airlines Fly Out Of Detroit Airport To Chicago And Their Schedules Today Are There Any Non Stop Or Direct Flight From Detroi...,airline,0.2241
+airline,what does jetblue offer for flights between new york la guardia airport lga to fort myles beach south carolina pmh,airline,0.2139
+airline,what is united's policy regarding flight cancellations due to weather conditions with regard flights from los angeles lgb airport,airline,0.2135
+airline,what time does virgin atlantic fly from miami to london Heathrow?,airline,0.205
+airline,what is delta's schedule for flights from pittsburgh to fort lauderdale?,airline,0.1986
+airline,"what is the flight schedule of delta from phoenix to portland? 
+
+are there any direct flights available with us airways between denver international airport denv code DEN ...",airline,0.1915
+airline,what is united airways flight number to puerto rico from denver airport today,airline,0.1841
+abbreviation,"what is nrt mean in flight fare code? 
+
+how do you interpret pns with regards ...",abbreviation,0.1955
+abbreviation,What does MNL mean in flight itineraries?,abbreviation,0.1418
+abbreviation,"can i get a definition for yqy? 
+
+what is f class with delta airline mean in terms ...",abbreviation,0.141
+abbreviation,"What is F9? 
+
+Can you tell me what SLC stands for in flight itinerary please ? How about WN, can it be used instead ... more info would really help thanks ! What does DL mean with reference t... Can someone explain YR code which appears under fare ba...</description> ""Fare Class"": ""Y"", etc) On AA website I keep seeing this 'X' next f</p></b>.",abbreviation,0.1379
+abbreviation,"what does stand for? 
+
+can you explain what is asking ? can u tell me about this flight fare code i see in my reservation . do know anything regarding  ticket class definition with number please give example airline that uses y t m r e q a s c n d w h b v z f p l o g k j",abbreviation,0.1323
+abbreviation,"what does ec stand for in airfare information please ? 
+
+ LABEL abduction DESCRIPTION REQUESTING THE EXPLANATION OR MEAN... (abbreviated)",abbreviation,0.1286
+abbreviation,"what does nrt mean for flight departures from lax airport please? 
+
+can you explain what is a y fare class in united airlines ? i am having trouble finding it anywhere else thank ...",abbreviation,0.1146
+abbreviation,what does yq mean in flight fare information please,abbreviation,0.1114
+flight_no,what is my return flight from seattle to portland,flight_no,0.2041
+flight_no,"flight no 
+
+what is my 5 am from boston to denver",flight_no,0.1865
+flight_no,"what is my flight from pittsburgh to miami today ? 
+
+is there a 7 pm departure tonight out orlando baltimore 
+flight no saturday evening seattle denver  
+find cheapest one way tickets san antonio las vegas can i get direct flights monday morning memphis nashville what time does delta operate in june any weekday afternoon flights available sunday morning dallas louisiana which airline flys this route do you have your schedule till august will united give me more choices when",flight_no,0.1776
+flight_no,"what is my flight from denver to miami today 
+
+is there a morning direct fight out off dallas tx tomorrow afternoon nonstop return ticket price from charlotte nc to st louis mo please what airlines fly directly into portland maine airports that have 8 am or later departures tonight how many daily flights does united operate on this route can i book a cheap roundtrip plane tickets flying june fifth returning back ninth which airline has multiple layovers in atlanta ga seattle wa going la",flight_no,0.1492
+flight_no,what is my departure airport from detroit to atlanta,flight_no,0.1376
+flight,what is my 10am flt from atl to dallas today please,flight,0.2118
+flight,"what time does a united airlines nonstop from dfw to sfo depart tomorrow morning please thank you 
+
+from wichita falls tx airport how early should i arrive at dallas love field for my 6 am alaska airways connecting fliqght tboise idaha",flight,0.1705
+flight,what is my return from newark to los angeles today if i depart at 8 am thanks,flight,0.1489
+airport,"what is denver international airport code 
+
+Denver International Airport IATA Code please",airport,0.1814
+airport,list of all major airlines that fly out o' denver intl,airport,0.1585
+meal,here is dinner service information for some of these long haul fights they fly from jfk to paris one way at 2 pm departures in coach class you'll be served a starter salad with greens lettuce tomatoes carrots cucumber red bell peppers croutons cheese cheddar brie feta olives artichoke hearts sun dried tomato capers garlic vinaigrette then entree choose between beef tenderloin roast turkey breast chicken penne pasta vegetables cream sauce mozzarella lasagna vegetarian option rice pilaf,meal,0.2202
+meal,"here is your desired outputs-description asking for a certain airline food menu 
+
+• does delta have breakfast snacks like yogurt parfait, fruit salad in first class of their domestic flight from new york to chicago 
+can i get extra hot sauce with my snack selection as per southwest's options during this monday morning 7am charleston clt route what meals they provide
+is united offering sandwiches wraps salads cookies coffee beer wine soft drinks juice milk water tea peanuts pretzels crackers cheese biscuits candies gum magazines newspapers books music",meal,0.1623

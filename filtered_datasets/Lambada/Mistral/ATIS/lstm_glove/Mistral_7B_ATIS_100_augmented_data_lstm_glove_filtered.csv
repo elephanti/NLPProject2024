@@ -1,0 +1,144 @@
+label,text,predicted_label,probability
+flight, flights from milwaukee to pittsburgh,flight,0.7478
+flight, flights from baltimore to toronto next monday,flight,0.6717
+flight, flights to minneapolis from pittsburgh on thursday,flight,0.6383
+flight, flights from columbus to baltimore on thursday,flight,0.6313
+flight, show me flights from columbus to denver,flight,0.6169
+flight, flights from charlotte to orlando monday,flight,0.6151
+flight, flights from boston to toronto before 10 am,flight,0.6022
+flight, what flights from san diego to pittsburgh,flight,0.5984
+flight, which flights fly from baltimore to philadelphia,flight,0.5924
+flight, show me flights from pittsburgh to baltimore on us air,flight,0.5902
+airfare, cheapest fare from boston to denver round trip,airfare,0.7822
+airfare, what is the lowest fare from baltimore to philadelphia,airfare,0.719
+airfare, round trip fares from tacoma to baltimore,airfare,0.7087
+airfare, what is the lowest fare united charges for a one way ticket from boston to denver,airfare,0.7035
+airfare, what is the cheapest one way fare from boston to washington,airfare,0.6931
+airfare, what is the cheapest air fare from washington to montreal,airfare,0.6903
+airfare, what is the lowest one way fare from dallas to tampa,airfare,0.6871
+airfare, what is the cost of a round trip fare from dallas to baltimore,airfare,0.6787
+airfare, cheapest one way fare from denver to philadelphia,airfare,0.6662
+airfare, cheapest one way fare from baltimore to philadelphia,airfare,0.6543
+aircraft, what type of aircraft flies from charlotte to san francisco,aircraft,0.9047
+aircraft, is the aircraft m80 type 31,aircraft,0.8965
+aircraft, tell me about the type of aircraft that m80 flies on,aircraft,0.8854
+aircraft, tell me the type of aircraft used on american flight 863 from charlotte to milwaukee,aircraft,0.8468
+aircraft, list the type of aircraft used by american airlines,aircraft,0.8035
+aircraft, tell me about the m80 aircraft that midway is using,aircraft,0.7923
+aircraft, what is the type of aircraft used for american flight 381,aircraft,0.7918
+aircraft, can you tell me what type of aircraft is used by delta flight 1256 from detroit to westchester,aircraft,0.758
+aircraft, what airplane is an m80 the type,aircraft,0.7566
+aircraft, what types of aircraft does eastern fly from atlanta to boston,aircraft,0.7425
+flight_no, flight number from atlanta to boston afternoon,flight_no,0.6199
+flight_no, flight numbers on delta from boston to minneapolis,flight_no,0.6042
+flight_no, flight numbers for delta to all airports monday,flight_no,0.597
+flight_no, what is the flight number for continental 1402,flight_no,0.5852
+flight_no, flight numbers from pittsburgh to oakland on delta,flight_no,0.5809
+flight_no, flight number from toronto to atlanta on wednesday,flight_no,0.5768
+flight_no, what is the flight number of delta 's earliest morning departure to minneapolis,flight_no,0.5635
+flight_no, flight numbers from dallas to houston please,flight_no,0.5619
+flight_no, flight numbers from baltimore to philadelphia before 9 am,flight_no,0.5589
+flight_no, flight numbers from boston to washington dc morning,flight_no,0.5526
+ground_service, what ground transportation is available in denver and salt lake city,ground_service,0.7167
+ground_service, what ground transportation is available in boston downtown area,ground_service,0.6952
+ground_service, what ground transportation is available in atlanta besides taxi,ground_service,0.668
+ground_service, can you list the ground transportation available in baltimore,ground_service,0.6165
+ground_service, can you help me with information on ground transportation in denver,ground_service,0.6089
+ground_service, ground transportation in dallas fort worth and atlanta,ground_service,0.6084
+ground_service, what ground transportation is available in atlanta today,ground_service,0.5876
+ground_service, what ground transportation is available in philadelphia airport and downtown,ground_service,0.5849
+ground_service, what ground transportation is available in denver tomorrow morning,ground_service,0.5756
+ground_service, is there ground transportation available at orlando airport for rental cars and hotels,ground_service,0.5755
+airport, list california airports and arizona airports,airport,0.9698
+airport, airports near westchester county airport in new york,airport,0.8453
+airport, list airports in california nevada arizona,airport,0.8187
+airport, tell me airports in atlanta georgia,airport,0.8143
+airport, airports in southern california and nevada,airport,0.7456
+airport, list california airports with flights to chicago,airport,0.7311
+airport, list all airports in new york city please,airport,0.7236
+airport, airports in new york city please list them,airport,0.7234
+airport, show me airports in miami and atlanta,airport,0.7162
+airport, what airports are in denver and pittsburgh,airport,0.7081
+city, where is denver located in relation to san francisco,city,0.7866
+city," where is the city of toronto located
+ # 2451",city,0.7509
+city, what is city that connects with denver and philadelphia,city,0.673
+city, what cities are serviced by midway airport in chicago,city,0.6341
+city, show me cities in new york state served by eastern,city,0.6255
+city, what city is mia from and to in code,city,0.6094
+city, what is the city that mco serves in florida,city,0.609
+city," what cities are served by nationair
+ # 2013-ground_service",city,0.6077
+city, what are the cities that continental services from denver,city,0.6058
+city, what city is general mitchell international in located near,city,0.598
+capacity, how many passengers fit on a 734,capacity,0.5263
+capacity, how many people fit on a 734,capacity,0.4984
+capacity, how many seats in a dhc8d hp,capacity,0.4768
+capacity, how many passengers can fit on a dc10,capacity,0.4752
+capacity, how many people can fit on a 734,capacity,0.4624
+capacity, how many people can fit on a 75s,capacity,0.4595
+capacity, how many seats in a 734 flight,capacity,0.454
+capacity, how many seats on a turboprop 90,capacity,0.4226
+capacity, how many seats in a 100 aircraft,capacity,0.4193
+capacity, how many seats are there in a 75s,capacity,0.393
+airline, which airline is hp now known as delta,airline,0.9105
+airline, which airline is us airlines flight 26,airline,0.896
+airline, what air line is dl stand for delta airlines,airline,0.7994
+airline, what airline is yx ua dl and ac,airline,0.7564
+airline, what air line is dl used by delta airlines,airline,0.7457
+airline, what airline is dd in the list of airlines,airline,0.72
+airline, please show me the airlines that service boston,airline,0.6757
+airline, what airlines fly between atlanta and boston,airline,0.6592
+airline, which air line is us airlines flight 28,airline,0.6425
+airline, what air line is hp stand for delta northwest us,airline,0.6199
+abbreviation, what does the abbreviation fare code yn mean,abbreviation,0.9335
+abbreviation, what is fare code hs 2186,abbreviation,0.8484
+abbreviation, what does the abreviations ewr and ynk mean,abbreviation,0.8
+abbreviation, what does code yn mean in the fare codes,abbreviation,0.7797
+abbreviation, what is restriction ap 578 please explain,abbreviation,0.7731
+abbreviation, what is fare code yn and how does it compare to m,abbreviation,0.7526
+abbreviation, what does code yn mean for meal service restrictions,abbreviation,0.7452
+abbreviation, what does fare code yn mean as to meals,abbreviation,0.7035
+abbreviation, what does yn mean next to the fare code,abbreviation,0.7012
+abbreviation, what does the code yn mean for restriction ap 57,abbreviation,0.6973
+quantity, how many cities are served by twa with first class flights,quantity,0.5565
+quantity, how many cities are served by delta airlines with first class flights,quantity,0.5535
+quantity, how many first class flights are provided by american airlines,quantity,0.552
+quantity, how many first class flights are provided by delta airlines,quantity,0.5311
+quantity, how many cities are served by canadian airlines,quantity,0.5286
+quantity, how many cities are served by national 's first class,quantity,0.4933
+quantity, how many flights does each airline have with business class service,quantity,0.4907
+quantity, how many cities are served by canadian airlines international,quantity,0.4707
+quantity, how many airlines have flights with service class yn,quantity,0.4544
+quantity, how many first class flights does delta have departing from all cities,quantity,0.4503
+meal, what meals are served on continental 510,meal,0.7958
+meal, does delta have meals for special diets such as vegetarian,meal,0.678
+meal, what meals are served on flights between boston and oakland,meal,0.442
+meal, tell me the meals on continental 21,meal,0.4033
+meal, what are my meal options from baltimore to dallas,meal,0.3778
+meal, is there a meal service between washington and montreal,meal,0.3549
+meal, does meal service continue after 10 o'clock,meal,0.3537
+meal, is there a meal on continental 124,meal,0.3251
+meal, what is meal 321 from philadelphia to salt lake city,meal,0.3174
+meal, what kind of meals are offered on continental flights to or from san francisco,meal,0.3086
+restriction, what is restriction ap80 under restrictions on travel,restriction,0.5666
+restriction, is the restriction ap57 restricted aa 148,restriction,0.4703
+restriction, what is restriction ap80 for the 734,restriction,0.4067
+restriction, what is restriction ap 57 's restrictions,restriction,0.4055
+restriction, what is restriction ap57 and restrictions on travel for people with disab,restriction,0.4036
+restriction, what is restriction ap57 's restrictions on fare code h,restriction,0.3668
+restriction, what is restriction ap57 in table of contents,restriction,0.3533
+restriction, what is restriction ap 57 under the restrictions of this fare code what can i do,restriction,0.3129
+restriction, what is restriction ap57 and dl 82,restriction,0.3102
+restriction, what restrictions are there on alcoholic beverages,restriction,0.2959
+ground_fare, what are the fares for car rental in washington dc,ground_fare,0.2722
+ground_fare, how much is a rental car in pittsburgh,ground_fare,0.2461
+ground_fare, how much is a limousine in atlanta,ground_fare,0.2179
+ground_fare, what are the rental car rates in denver co,ground_fare,0.2116
+ground_fare, what is the rental car rate in atlanta,ground_fare,0.1943
+ground_fare, how much is a limousine in toronto,ground_fare,0.1772
+distance, how long is a trip from atlanta to denver,distance,0.2122
+distance, how long is the trip from atlanta to denver,distance,0.1983
+distance, how long is the trip from san francisco to washington,distance,0.1745
+flight_time, what is the earliest departure time from washington to montreal,flight_time,0.1879
+flight_time, please list the times for flights from washington dc to denver,flight_time,0.1784

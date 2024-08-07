@@ -1,0 +1,72 @@
+label,text,predicted_label,probability
+ground_service, how much does the airport charge for ground service to chicago,ground_service,0.3671
+ground_service, what is ground transportation to lansing michigan,ground_service,0.3419
+ground_service, does the cleveland clinic offer ground transportation to and from port,ground_service,0.338
+ground_service, what ground transportation is available to or from pittsburgh,ground_service,0.3285
+ground_service, what is the cheapest ground service available for a flight from nyc to atl,ground_service,0.3269
+ground_service, does ground transportation include baggage charges from pittsburgh to chicago,ground_service,0.3213
+ground_service, what airports does ground transportation serve out of lafayette indiana,ground_service,0.3208
+ground_service, is there a ground service on us air flight 110,ground_service,0.3196
+ground_service, what are the ground services offered by usair to newark,ground_service,0.3189
+ground_service, what kind of service is ground transportation at boston logan airport,ground_service,0.312
+city, what is the city where pittsburgh airport serves,city,0.4331
+city, what is the largest city in oklahoma by population,city,0.422
+city, where is the city airport for pittsburgh pennsylvania,city,0.4031
+city, list the name of cities where air traffic control is located,city,0.3707
+city, what is the population of boston's west roxbury neighborhood,city,0.3544
+city, find the city that is closest to houston texas in california,city,0.3308
+city, list all cities in colorado that are east of denver,city,0.322
+city, what is the nearest city to san diego california,city,0.3169
+city, what city is the largest airport in missouri st louis,city,0.3149
+city, what city is the airport of portland maine,city,0.3136
+airline, what airlines fly nonstop from jfk to atl,airline,0.3823
+airline, what is the number for delta airlines flight 1234,airline,0.3771
+airline, what are the airline codes for jetblue airways,airline,0.3713
+airline, what airline code is used by air alaska airlines,airline,0.3032
+airline, which airline flies to pittsburgh from minneapolis,airline,0.3
+airline, which airline has the largest fleet of boeing 727 aircraft in its domestic service,airline,0.2935
+airline, what airline flies from fort myers to chicago o'hare,airline,0.2907
+airline, which airlines fly from nashville to atlanta,airline,0.2739
+airline, does southwest airlines fly from fort lauderdale to detroit,airline,0.27
+airline, what airlines have nonstop flights from portland to minneapolis,airline,0.2609
+flight_no, flight no delta 1578 out of boston,flight_no,0.2922
+flight_no, what flight numbers are leaving from dallas this afternoon,flight_no,0.2369
+flight_no, does flight 113 arrive before noon on may fifth,flight_no,0.2369
+flight_no, flight 1053 from atlanta to boston,flight_no,0.2352
+flight_no, what flight numbers are scheduled from denver to chicago,flight_no,0.2313
+flight_no, what is flight 1126 from boston to denver,flight_no,0.231
+flight_no, which flight is 1235 on continental arriving in atlanta,flight_no,0.2277
+flight_no, list the departure flight no from portland to denver,flight_no,0.2231
+flight_no, what was the flight number of delta from dallas to boston on monday october 11,flight_no,0.2229
+flight_no, what are the airlines and flight numbers for flights from san francisco to washington d c on thursday,flight_no,0.2109
+restriction, what are the enzymes of restriction endonuclease,restriction,0.3526
+restriction, what are the sites of cleavage in an ecoli restriction enzyme called stul,restriction,0.3377
+restriction, how many different types of restriction enzyme is new england,restriction,0.2643
+restriction, how many base pairs are in the bglii restriction site,restriction,0.2611
+restriction, what enzymes does the plasmid contain restriction enzyme i,restriction,0.2401
+restriction, how many different restriction enzymes do you have that recognize the sequence caag,restriction,0.2359
+restriction, what restriction is there on the use of ciprofloxacin tablets,restriction,0.2254
+restriction, what enzyme digests the plasmid pmb18,restriction,0.2245
+restriction, does bgl restriction enzyme cut a dna sequence with the underlined letters,restriction,0.2187
+restriction, what does the dna restriction enzyme xmn i recognize,restriction,0.2158
+airport, what airports have flights to los angeles international from san francisco,airport,0.1827
+airport, does pittsburgh airport fly to new york city,airport,0.1816
+airport, list all the airports that have flights from boston to washington dc,airport,0.1793
+airport, what are the major airlines at boston's logan international airport,airport,0.1694
+airport, what is the iata code for minneapolis st paul international airport,airport,0.167
+airport, what airports in los angeles have american flights from dallas fort worth,airport,0.1638
+airport, what airlines are served at dallas fort worth international airport,airport,0.1471
+airport, find the largest airport in new york city by number of scheduled passenger boardings,airport,0.1398
+flight, can i fly from seattle to denver on wednesday,flight,0.211
+flight, can i fly from detroit to boston through chicago,flight,0.2017
+flight, i want to fly from boston and arrive in st louis within two hours,flight,0.1694
+flight, show me flights departing boston and arriving new york on tuesday,flight,0.143
+flight, show me all flights from seattle to chicago which leave before noon,flight,0.1394
+flight, find flights from pittsburgh to atlanta that leave after five o'clock,flight,0.1371
+meal, find restaurants with meals that are less than twelve dollars,meal,0.256
+meal, what foods are served for breakfast and dinner at marriott,meal,0.1894
+meal, what are some main dishes of mexican cuisine that have pork in them,meal,0.1788
+meal, does the menu include desserts in that price range of five dollars and under,meal,0.1538
+meal, what meals do you serve on continental breakfast menu in this hotel,meal,0.1215
+abbreviation, what does abbr for austin beverly,abbreviation,0.1481
+abbreviation, what does nfc mean in a text message on my cellphone,abbreviation,0.1457

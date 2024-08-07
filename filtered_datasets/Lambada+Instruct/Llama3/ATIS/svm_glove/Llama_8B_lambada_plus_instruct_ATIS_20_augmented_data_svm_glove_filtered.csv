@@ -1,0 +1,141 @@
+label,text,predicted_label,probability
+flight_time,what is my best bet for getting to san francisco before 9 am tomorrow morning if i leave in about four hours from now,flight_time,0.5608
+flight_time,what is there to do with my time in san francisco that i can still get back home before midnight tonight,flight_time,0.5258
+flight_time,what is the earliest morning departure time from boston to dallas tomorrow,flight_time,0.4972
+flight_time,what is departure time from boston to chicago tomorrow morning,flight_time,0.4762
+flight_time,what is departure time from philadelphia to toronto for saturday morning,flight_time,0.4461
+flight_time,what is your departure time from pittsburgh to boston for united airlines tomorrow morning,flight_time,0.4326
+flight_time,what is all my earliest morning to afternoon service from atlanta going westbound after one o'clock pm into saturday evening before eight thirty at night with delta Airlines please give me just that time list without schedules for other airlines thank you,flight_time,0.429
+flight_time,what is my earliest choice for flying from baltimore to denver in may before lunchtime tomorrow morning that arrives at fort lauderdale with time enough left over after noon until dinner tonight by nine pm when i arrive home first class please tell me all about it,flight_time,0.4247
+flight_time,what time does delta leave atlanta for baltimore tomorrow morning,flight_time,0.4199
+flight_time,what is my best option for return travel from pittsburgh to atlanta in terms of time duration before noon,flight_time,0.4008
+aircraft,what type of plane is us air flying from pittsburgh to boston,aircraft,0.8086
+aircraft,what type airplane is us air flight 1216 from dallas to philadelphia,aircraft,0.7851
+aircraft,what type plane is us air flying from denver to baltimore today,aircraft,0.7305
+aircraft,what type plane is us air flying from pittsburgh to boston today,aircraft,0.7288
+aircraft,what type plane flies from toronto to dallas fort worth,aircraft,0.7073
+aircraft,what type plane is american airways flight 11,aircraft,0.6628
+aircraft,what type is us air flight 1457 from pittsburgh to dallas,aircraft,0.6573
+aircraft,what type plane does american use from denver to pittsburgh in first class,aircraft,0.6472
+aircraft,what type plane does american fly from denver to baltimore,aircraft,0.6462
+aircraft,what type plane does continental fly into baltimore from denver,aircraft,0.6252
+airfare,what is cheapest first class ticket from boston to denver for may 21st,airfare,0.6543
+airfare,what is usair's lowest economy class fare from pittsburgh to denver return going back tomorrow afternoon,airfare,0.605
+airfare,what is cheapest price for first class ticket from san francisco to atlanta tomorrow morning,airfare,0.6004
+airfare,how much is first class ticket from chicago to san diego for july 12th through august seventh return,airfare,0.5911
+airfare,what is the cheapest first class ticket from baltimore to philadelphia tomorrow afternoon,airfare,0.5799
+airfare,what is the lowest price for a ticket from philadelphia to pittsburgh that leaves in march 1998,airfare,0.5688
+airfare,what is the cheapest first class ticket from san francisco to chicago in march 2000,airfare,0.5458
+airfare,how much is a ticket from san francisco to miami for august 12th returning back by september first please provide all available fares thanks in advance,airfare,0.536
+airfare,what is american airlines' lowest available economy class ticket from boston to san francisco for wednesday morning departures in mid july,airfare,0.4806
+airfare,what is economy class ticket from dallas to san francisco for tomorrow afternoon flight time please give me lowest price you can find,airfare,0.4585
+ground_service,what kind of public transport services is there at pittsburgh airport to get me downtown,ground_service,0.6548
+ground_service,what kinds of public transport services can i get from denver international airport to downtown baltimore please,ground_service,0.5265
+ground_service,what forms of public land transport are there from salt lake airport to downtown,ground_service,0.4836
+ground_service,What modes of public land transport can I use to travel from Los Angeles airport into town?,ground_service,0.4468
+ground_service,what public transit services can i use to get from seattle tacoma international airport into downtown bellingham california,ground_service,0.4465
+ground_service,what forms of ground transport is there at atlanta airport for getting to downtown macon from denver,ground_service,0.4219
+ground_service,What kinds of vehicles does Greyhound provide to take you from Denver airport into downtown?,ground_service,0.4217
+ground_service,What kind of bus service is there from Dallas Fort Worth airport to downtown?,ground_service,0.4188
+ground_service,What modes of land transport do you have from Pittsburgh airport to downtown?,ground_service,0.415
+ground_service,What types of cars can I get at Pittsburgh airport to take me into downtown?,ground_service,0.4082
+distance,how far is new york from toronto airport to downtown toronto in km,distance,0.7811
+distance,how far is downtown san francisco from oakland airport in california,distance,0.7157
+distance,how far is it from salt lake city airport to downtown utah,distance,0.6945
+distance,what is the driving distance from san francisco airport to downtown san jose california,distance,0.6887
+distance,how far is it from toronto airport to downtown ontario in miles,distance,0.6735
+distance,how far is it from seatac to san francisco downtown,distance,0.6496
+distance,what is the driving distance from san francisco airport to downtown oakland california,distance,0.6341
+distance,how far is denver international airport from downtown denver in colorado,distance,0.6266
+distance,how far is it from denver airport to downtown colorado springs,distance,0.5789
+distance,how far is downtown baltimore from pittsburgh international airport,distance,0.5606
+abbreviation,what does ap mean in airfares please explain all your fare designations including f e r s w p c n t q l b k g d h i m z x o y u v j t w s k c,abbreviation,0.8949
+abbreviation,what is e ticket code 5s39a9b2l1c0x3m8t7j4h6yq5r45g20n37i15f10w34d14k26u38e13v29,abbreviation,0.7132
+abbreviation,what does t s mean in american airlines fare classes,abbreviation,0.4034
+abbreviation,what does y mean in reference numbers for american airlines tickets please explain each letter you use with your response thankyouverymuch,abbreviation,0.4016
+abbreviation,what does us fare code 7 mean in terms of airfare pricing,abbreviation,0.3866
+abbreviation,what does fare code m stand for in united airlines ticket information please give me all your available options if i choose this one,abbreviation,0.3825
+abbreviation,what does ap stand for with respect to airlines in your system please explain what each one is,abbreviation,0.3638
+abbreviation,what does fare basis code v class mean in delta airlines tickets,abbreviation,0.36
+abbreviation,what is f class refered as in airline tickets internationally,abbreviation,0.3513
+abbreviation,what does stand for international flight class fare code system please explain it in detail thanks,abbreviation,0.3491
+quantity,how many different classes does american have in their first class service,quantity,0.713
+quantity,how many american airways flights stop in philadelphia today,quantity,0.4696
+quantity,how many different flight classes does continental have between san francisco california to philadelphia pennsylvania during july,quantity,0.4308
+quantity,how many first class seats does american have from chicago to atlanta,quantity,0.4113
+quantity,how many different classes does united have in their first class flight from dallas to san francisco,quantity,0.3683
+quantity,how many daily united express fights from new york to los angeles are there today,quantity,0.3639
+quantity,how many flights does american have from boston to pittsburgh each day in october,quantity,0.3483
+quantity,how many american air lines fly from pittsburgh to boston today,quantity,0.3442
+quantity,how many delta flight classes does there exist in los angeles to denver today,quantity,0.3274
+quantity,how many different types of airplanes does american airline use for its domestic service between san francisco to boston,quantity,0.3217
+ground_fare,what is the lowest fare for airport car rentals in boston,ground_fare,0.6838
+ground_fare,how much does it costs to rent a car at denver international airport in colorado,ground_fare,0.668
+ground_fare,what is your lowest rate for renting a car at o'hare international airport in chicago today,ground_fare,0.6078
+ground_fare,what is the average fare for renting sedans from baltimore to philadelphia international airport by car service company us rent all,ground_fare,0.5692
+ground_fare,what is your cheapest rate for sedan service between san francisco airport and downtown la?,ground_fare,0.552
+ground_fare,what is your cheapest rate for renting a car in boston today,ground_fare,0.5483
+ground_fare,what is your cheapest rate for car rentals in boston today,ground_fare,0.5331
+ground_fare,how much is it to rent car in san francisco from toronto airport for one day with full coverage insurance system,ground_fare,0.4836
+ground_fare,how much is it to rent a car at denver international airport for one day,ground_fare,0.4516
+ground_fare,what is your cheapest car service to newark airport from midtown manhattan today,ground_fare,0.4307
+airline,which airliner flies from atlanta to chicago directly over toronto,airline,0.3693
+airline,what major carrier has flights from pittsburgh to denver,airline,0.3577
+airline,what is us airways code for flights between philadelphia to san francisco,airline,0.3527
+airline,What is Continental Airlines' flight number from Pittsburgh to Denver?,airline,0.3496
+airline,what flights does us air express have from pittsburgh to denver,airline,0.3302
+airline,What is United Airlines' flight number from Los Angeles to San Francisco?,airline,0.33
+airline,what domestic flights does us airwest offer between denver colorado and san francisco california,airline,0.3288
+airline,what is delta 's airfare for flights between pittsburgh to los angeles today,airline,0.3108
+airline,what is united express service between baltimore to milwaukee,airline,0.2646
+airline,what is delta's code for flights from chicago to atlanta,airline,0.2368
+city,where is american airline's west coast hub located in california,city,0.4691
+city,where is philadelphia international airport located in us that serves american airline internationally,city,0.446
+city,where is american western international airport located in california usa,city,0.4427
+city,where is continental Airlines headquarters located in Washington D.C,city,0.4304
+city,where is american west's hub located in california that serves phoenix arizona,city,0.3957
+city,where is continental airport located in florida that it serves as hub for both eastern and western flights to other american cities besides san francisco from philadelphia international,city,0.3463
+city,where is denver international airport located in relation to other major uscities,city,0.3382
+city,which us airline has flights to oakland california with no stops in other towns between san francisco international airport and seattle washington internacional airplane service center terminals at burlingame sfo bay area northern californiacalifornia sierra mountain foothills eastern slope mountains western united states northwest america uae emirates allied aviation companies pittsburgh pa pennsylvania usa houston intercontinental iah texas central time zone north americawashington state british columbiansaskatchewan yukon alaska ont,city,0.314
+city,which us american airways hub is in philadelphia pennsylvania eastern time zone with code pns please tell me all that you know,city,0.3016
+city,where is delta airline's main hub located in california,city,0.3006
+capacity,how many passengers can fit in boeing 757 airplanes,capacity,0.6975
+capacity,What is Delta's 737s maximum passenger load?,capacity,0.4863
+capacity,What is the total passenger load that each A320 can carry?,capacity,0.4807
+capacity,what is business class cabin size in boeing 747 plane,capacity,0.4405
+capacity,How many people can fit in one Boeing 777 airplane?,capacity,0.392
+capacity,what is uniteds flight 1793 capability for passengers in seat class x,capacity,0.3058
+capacity,how many seats does each type of airplane have in american airlines fleet,capacity,0.2908
+capacity,How many people can fit in each 737 airplane that American Airlines uses?,capacity,0.2696
+capacity,What is United's 747 plane capable to carry in passengers?,capacity,0.239
+capacity,what is american eagle airlines 170 passenger list size,capacity,0.2135
+meal,what meals does continental provide for business class passengers between boston to denver at lunchtime with no breakfast served beforehand,meal,0.2903
+meal,what meals do i get for my us air flight 123 from philadelphia to dallas at lunch time please,meal,0.2393
+meal,what meals do you have for my flight from atlanta to chicago with us airwesterns at 9 am today please,meal,0.2192
+meal,what meals does continental offer between san francisco to boston over dinner time,meal,0.2132
+meal,what kind of meals does delta serve on their 7 pm flight from atlanta to denver tonight,meal,0.2093
+meal,what meals can i get between boston to milwaukee at noon tomorrow morning flight 3456 with american airline,meal,0.197
+meal,what meals do you offer for first class passengers in flight 121 from pittsburgh to dallas tomorrow evening,meal,0.1932
+meal,what meals can i get between boston to minneapolis,meal,0.1909
+meal,what meals do you have available for first class passengers flying from dallas to seattle tomorrow morning,meal,0.1704
+meal,what meals do you get with first class reservations international flight 645 between toronto and denver,meal,0.1585
+airport,what is new yorks major international airport at la guardia,airport,0.3507
+airport,what is san francisco california's nearest major international airline hub near pittsburgh,airport,0.3242
+airport,what is la guardia airspace code for new york city,airport,0.3227
+airport,what is la guardia new york citys international airport named after him,airport,0.2986
+airport,what is san francisco international airport's code for arrivals,airport,0.2479
+airport,what is la guardia airpot address with respect to new york downtown,airport,0.2465
+airport,what is boston main airlines facility name at west coast near san francisco to dallas toronto milwaukee st petersburg denver seattle tampa oakland columbus phoenix new york fort lauderdale washington memphis kansas city miami los angeles houston atlanta minneapolis cleveland salt lake city chicago indianapolis charlotte philadelphia fargo arlington wilmington raleigh madison little rock jacksonville port land las vegas rochester richmond montreal norfolk o,airport,0.1777
+airport,what is dallas fort worth international airline code please at toronto pittsburgh boston philadelphia la guardia times square tampa miami st louis cincinnati denver memphis seattle salt lake city atlanta newark milwaukee san diego oakland columbus phoenix indianapolis minneapolis kansas ciudad saint luis nashville washington state paoli california east bay area houston downtown montreal manchester indiana wisconsin illinois massachusetts florida michigan ohio georgia colorado,airport,0.1718
+airport,what is san francisco international airport's abbreviation code please give me both directions for arriving at boston logan from pittsburgh,airport,0.1422
+airport,what is denver colorado international airprt code name at sea niveau 5 terminal one address,airport,0.1235
+flight,when is us air flying from boston to pittsburgh with one stop in denver before arriving at cincinnati international airport tonight afternoon time after 5 pm please,flight,0.3899
+flight,what is united airlines first class service from pittsburgh to san francisco before 7 pm monday evening in july,flight,0.3627
+flight,what is us airwest's east coast to west cost route schedule for sunday afternoon in may with no stopovers until dallas before reaching portland Oregon please,flight,0.273
+flight,what time is us air westbound from dallas to boston at night with no stopover in san francisco,flight,0.2343
+flight,what is the earliest morning united airlines departure from denver to dallas fort worth international airport that arrives before 8 am central time today,flight,0.2337
+flight,when does us air west fly from minneapolis to boston after five pm today,flight,0.229
+flight,what is schedule for 7 am eastern from baltimore to minneapolis with united airlines today,flight,0.2261
+flight,what is us airways 1461 from pittsburgh to denver tonight,flight,0.2148
+flight,what is american airlines 511 from chicago to seattle leaving today after noon,flight,0.1601
+restriction,What is their policy regarding changes to flight reservations booked using promotional rates including any fees for such modifications?,restriction,0.165

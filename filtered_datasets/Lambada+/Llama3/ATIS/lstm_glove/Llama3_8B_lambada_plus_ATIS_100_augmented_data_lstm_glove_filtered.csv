@@ -1,0 +1,135 @@
+label,text,predicted_label,probability
+aircraft, what type of aircraft is an f28s100,aircraft,0.9319
+aircraft, what type of aircraft flies from atlanta to dallas,aircraft,0.9196
+aircraft, what kind of plane is a d9s aircraft,aircraft,0.9114
+aircraft, what type aircraft flies from atlanta to baltimore,aircraft,0.9108
+aircraft, what type aircraft is a 737-2y5,aircraft,0.9037
+aircraft, what kind 's an l1011 aircraft type,aircraft,0.8973
+aircraft, what kind of aircraft flies from denver to dallas,aircraft,0.8958
+aircraft, what kind of aircraft is a 757-200,aircraft,0.8944
+aircraft, what type aircraft flies from boston to washington dc,aircraft,0.8807
+aircraft, what type aircraft leaves from atlanta to dallas,aircraft,0.8675
+airfare, what is a cheapest price for all fares from columbus to philadelphia,airfare,0.8624
+airfare, show me prices for coach fares between washington dc baltimore pittsburgh,airfare,0.7292
+airfare, show me fares from baltimore to denver less than 1000 dollars,airfare,0.7209
+airfare, what is a cheapest first class ticket from pittsburgh to philadelphia,airfare,0.6547
+airfare, list prices for all first class fares from boston to san francisco,airfare,0.6445
+airfare, show me fares from boston to pittsburgh,airfare,0.6391
+airfare, show me fares from pittsburgh to washington dc,airfare,0.5792
+airfare, what are fares from boston to pittsburgh,airfare,0.5764
+airfare, please list fares for continental to atlanta from houston,airfare,0.5699
+airfare, what are fares for first class from boston to washington dc,airfare,0.5648
+airline, which airline is the parent company for us airways,airline,0.9582
+airline, which airline is delta connection 5803 flying for,airline,0.9061
+airline, what airline is cp besides continental and united american delta,airline,0.8252
+airline, what is the airline code for delta air lines international,airline,0.7926
+airline, which airline is hp before the number 7624,airline,0.7402
+airline, what airline is us now the biggest carrier in america,airline,0.7352
+airline, which airline is delta an abbreviation for please show me,airline,0.7036
+airline, what airline is hp used for booking flights with us air,airline,0.6836
+airline, which airline is the largest domestic carrier in north america,airline,0.6773
+airline, show me the airline which uses hp as a code,airline,0.6523
+abbreviation," what does mco mean
+time_zone_selections_for_specific_flights_and_fare_codes_by_date_or_airline_name",abbreviation,0.9667
+abbreviation," what does fare code qw mean
+asking_about_specific_flights",abbreviation,0.9599
+abbreviation," what does fare code s mean
+city_code_request_2_city_service_class_fare_type_coding_format_by_name_or_number_of_airline_company_and_route_between_departure_arrival",abbreviation,0.958
+abbreviation," what does fare code q mean
+[SEP] is f a discount",abbreviation,0.9126
+abbreviation, what is usp code 12qzj,abbreviation,0.8544
+abbreviation, what is fare code q? how does that compare with m,abbreviation,0.8466
+abbreviation, what does ap 57 mean with regard to a fare code,abbreviation,0.7954
+abbreviation, what does fare code q mean on a ticket order,abbreviation,0.7893
+abbreviation, what does fare code qo mean on a united airlines ticket,abbreviation,0.7291
+abbreviation," what does fare code d mean with united airlines
+booking class inquiry bookingclassinquiry 1,006",abbreviation,0.7214
+meal, does american meals include a snack as well as lunch and dinner,meal,0.7155
+meal, what meals are served between denver and boston,meal,0.6402
+meal, what meals are served between washington and oakland tomorrow,meal,0.5813
+meal, what meals does delta serve out of atlanta for lunch,meal,0.5695
+meal, what meals are served today please between pittsburgh and boston,meal,0.5293
+meal, what meals are served between washington and philadelphia before noon,meal,0.5261
+meal, what kind of meals does american express airline serve for breakfast,meal,0.5146
+meal, what kind of meals are served between new york and washington,meal,0.5101
+meal, what kind of meals are served from boston to washington,meal,0.5066
+meal, what meals are served between pittsburgh and washington dc,meal,0.4805
+airport, please list all the airport codes for denver and boston,airport,0.681
+airport," list airport near dallas and fort worth texas
+list of california 's airports",airport,0.6481
+airport, list the name of all major new york area la guardia westchester county teterboro and rockaway,airport,0.6169
+airport, list of all the international airport terminals for denver and miami,airport,0.5908
+airport, please tell me the name of all new york area airports,airport,0.5885
+airport, please list the los angeles airport 's name,airport,0.5646
+airport, what 's the name of miami airport and new york city,airport,0.5353
+airport, please list all the san francisco airport name thank you,airport,0.5176
+airport, please list the san francisco airport name and code,airport,0.509
+airport, what 's the name of new york city airport,airport,0.496
+city," what city is mco in
+list-cities-1",city,0.8172
+city," which city is denver located in
+show all results 1998-11 -1",city,0.7826
+city, what city is den in located near that airport called,city,0.7353
+city, what city is san francisco international in located at,city,0.7325
+city, what 's downtown montreal like is it in an urban area,city,0.7174
+city, what city is bwi located in please show me,city,0.7021
+city, what city is den near in other words how many miles from san francisco,city,0.701
+city, which city has la guardia airport in it and where is that,city,0.6992
+city, which city is cincinnati located in please show me a map,city,0.6799
+city, which city has an airport that is close to downtown,city,0.6787
+flight, i need a flight from washington to atlanta stopover in baltimore,flight,0.5672
+flight, which united flight goes from san francisco to boston tomorrow,flight,0.4786
+flight, what flight leaves after 10 am from pittsburgh to washington,flight,0.425
+flight, show me the morning american flight from dallas to washington,flight,0.4204
+flight, i would like a flight from boston to san francisco tomorrow,flight,0.4071
+flight, please find me a flight from pittsburgh to dallas tomorrow,flight,0.4059
+flight, find the american flight leaving boston for san francisco,flight,0.4046
+flight, find me a flight from baltimore to milwaukee,flight,0.4
+flight, does any flight go from cleveland to san francisco,flight,0.3961
+flight, find flight to denver from newark wednesday,flight,0.3789
+capacity, how many people can be seated in a dc9,capacity,0.51
+capacity, how many people can a 757 seat show me,capacity,0.4889
+capacity, what is seat 1d like how many seats,capacity,0.472
+capacity, how many people can fit in a 757-200,capacity,0.469
+capacity, how many people can be seated in a boeing 737,capacity,0.435
+capacity," how many people can fit in a 757
+quantity_of_services_by_fare_code",capacity,0.4346
+capacity, how many people fit in an f100s airplane,capacity,0.4279
+capacity, how many people can sit in a 757-200,capacity,0.4228
+capacity, what is total seat in 757 and how many seats are there with recliners,capacity,0.4185
+capacity, how many passengers can fit in a 72s,capacity,0.4147
+quantity, how many canadian airline companies are there that have first class seating,quantity,0.546
+quantity, how many cities are served with nonstop american aircraft,quantity,0.5444
+quantity, how many us airways first class seats are there,quantity,0.4781
+quantity, how many cities does american serve with first class service,quantity,0.4672
+quantity, how many cities does continental have first class service to,quantity,0.4586
+quantity, how many delta and united business class international departures are there tomorrow,quantity,0.4158
+quantity, how many us airways planes are there with first class,quantity,0.3962
+quantity, how many airports does american serve with first class planes,quantity,0.394
+quantity, how many delta planes leave boston today with first class seating,quantity,0.371
+quantity, how many american air lines planes have first class service,quantity,0.36
+flight_no, what is a delta air lines 1130 to philadelphia morning departure,flight_no,0.4341
+flight_no, what is your delta airlines 1026 sunday july fifteenth,flight_no,0.3831
+flight_no, what is delta 's morning 8 o'clock from atlanta to dallas,flight_no,0.3723
+flight_no, what is delta 's morning 8 o'clock departure from boston to dallas,flight_no,0.3499
+flight_no, what is continental 1014s flight no on september seventh,flight_no,0.3138
+flight_no, show me all american airlines morning eastbound first class flights,flight_no,0.3123
+flight_no, what is united airlines 's morning 7 o'clock eastern time departure to san francisco,flight_no,0.302
+flight_no, what are my options on a 4 pm eastern time american airlines departure from newark,flight_no,0.3007
+flight_no, what is delta 1240 from dallas to atlanta,flight_no,0.2889
+flight_no, what is delta 1251 from atlanta to dallas,flight_no,0.2831
+ground_service, i need a limousine service in atlanta,ground_service,0.5166
+ground_service, is there a limousine service in denver,ground_service,0.3963
+ground_service, is there a limousine service in atlanta,ground_service,0.354
+ground_service, show me the rental cars in san francisco on thursday,ground_service,0.3473
+ground_service, is there a rental car counter at atlanta airport,ground_service,0.3352
+ground_service, is there a rental car office at the airport in baltimore,ground_service,0.3261
+ground_service, is there a rental car location near the san francisco airport,ground_service,0.3095
+ground_service, is there a limousine service in toronto,ground_service,0.2983
+ground_service, what kind of ground transport is there in san francisco,ground_service,0.2931
+ground_service, i need a rental car in dallas texas on april twentieth,ground_service,0.2748
+ground_fare, how much does it rent a car in washington dc,ground_fare,0.2463
+ground_fare, how much is it to rent a car in denver,ground_fare,0.2175
+ground_fare, how much does it usually run to rent a car,ground_fare,0.2065
+restriction, what 'mco 100' stands for as faras restriction is concerned,restriction,0.2793
+restriction, what are the fare codes for restriction ap57 and r21,restriction,0.2789

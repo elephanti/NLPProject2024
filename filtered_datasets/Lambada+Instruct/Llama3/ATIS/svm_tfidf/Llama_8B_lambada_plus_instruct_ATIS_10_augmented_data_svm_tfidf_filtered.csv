@@ -1,0 +1,134 @@
+label,text,predicted_label,probability
+distance,what is the approximate taxi fare from toronto pearson international airport to downtown?,distance,0.436
+distance,what is the distance from pittsburgh airport to downtown please,distance,0.4343
+distance,what is the walking distance from bwi airport to downtown annapolis maryland,distance,0.4317
+distance,what is the driving distance from fort lauderdale hollywood international airport to downtown miami?,distance,0.4311
+distance,what is the distance from baltimore airport to downtown maryland please?,distance,0.4301
+distance,what is the driving distance from portland international airport to downtown seattle please?,distance,0.4301
+distance,what is the driving distance from dfw airport to downtown dallas?,distance,0.4283
+distance,what is the driving distance from dfw airport to downtown dallas ?,distance,0.4283
+distance,what is the walking distance from denver airport to downtown colorado springs please?,distance,0.4264
+distance,how far is phoenix airport from downtown scottsdale in terms of driving miles,distance,0.4188
+aircraft,what type of airplane does delta fly from denver to atlanta,aircraft,0.5009
+aircraft,what type airplane does delta fly from atlanta to denver in march,aircraft,0.4581
+aircraft,What kind of plane is operated from LAX to JFK?,aircraft,0.4271
+aircraft,What type of plane flies from Dallas to Chicago?,aircraft,0.4212
+aircraft,What kind of airplane is flight 102 from Pittsburgh to Chicago?,aircraft,0.42
+aircraft,What type of plane will I find flying from Denver to Chicago?,aircraft,0.4084
+aircraft,What type of plane will I find flying from Chicago to Seattle in first class?,aircraft,0.3977
+aircraft,What kind of plane does Delta use from JFK to LAX?,aircraft,0.3818
+aircraft,what kind of airplane does united use for flights from denver to phoenix tonight,aircraft,0.371
+aircraft,What type of plane does Delta use for its flights from Atlanta to Minneapolis?,aircraft,0.37
+quantity,how many nonstop daily red eye flights does american have from dallas to boston?,quantity,0.3596
+quantity,how many daily departures does united have from boston to denver today,quantity,0.3263
+quantity,How many direct flights does American Airlines have from Chicago to Boston tomorrow?,quantity,0.3099
+quantity,how many daily direct american airline flights leave from dallas to philadelphia during august vacation time please?,quantity,0.3085
+quantity,how many direct delta morning flights go from atlanta to denver tomorrow afternoon?,quantity,0.2999
+quantity,how many daily departures does delta have from boston to minneapolis today,quantity,0.2997
+quantity,how many direct american airways flight go from dallas to baltimore today please,quantity,0.2865
+quantity,How many daily departures does Delta have from Minneapolis to Dallas?,quantity,0.2854
+quantity,how many daily direct fights does united have from denver to chicago throughout january 2022?,quantity,0.2769
+quantity,How many direct morning flights does American Airlines offer from Dallas to Chicago?,quantity,0.2768
+capacity,How many people can this Boeing 737 fly?,capacity,0.5484
+capacity,How many people can fit in row 14 seats?,capacity,0.4969
+capacity,How many people can fit in row 17 seats?,capacity,0.4969
+capacity,how many people can fit in british airways first class seats on their 777 fleet?,capacity,0.4771
+capacity,How many people can fit in American Airlines 767-300 seats?,capacity,0.4637
+capacity,How many people can fit in first class seats with lay flat beds?,capacity,0.4482
+capacity,How many passengers can Boeing 737s carry?,capacity,0.4309
+capacity,How many people can fit in each row with exit rows removed?,capacity,0.4291
+capacity,How many passengers can fit in first class seats?,capacity,0.4182
+capacity,How many people can fit in business class seats with extra legroom on American Airlines?,capacity,0.4169
+meal,What meals do I have to choose from if my flight is delayed overnight?,meal,0.4268
+meal,What meals do you offer for my Delta flight from Atlanta to Dallas?,meal,0.398
+meal,Do you serve meals with peanuts on your 7am flight from Chicago to Boston?,meal,0.3869
+meal,What meals can I expect to get served during my British Airways flight from Chicago to London?,meal,0.3752
+meal,Do you serve meals with gluten free options in first class on your transatlantic flights?,meal,0.3598
+meal,What type of meals can I order for my international flight from Atlanta to London?,meal,0.3512
+meal,"""What meals will I receive if my Delta flight is delayed over three hours?""",meal,0.3456
+meal,What meals can I expect to have served during my 6 am flight from Denver?,meal,0.3441
+meal,What meals will I receive during my first flight from Chicago to Denver?,meal,0.3333
+meal,What meals will I receive if my connecting flight from American Airlines is over 8 hours long?,meal,0.3301
+flight_time,What is the departure time from Atlanta to Denver tomorrow?,flight_time,0.4101
+flight_time,What is the earliest departure time from Chicago to Washington D.C.?,flight_time,0.4063
+flight_time,What is the departure time from Chicago to San Francisco tomorrow afternoon?,flight_time,0.397
+flight_time,What is the departure time for united airlines from san francisco to miami today?,flight_time,0.3827
+flight_time,what is the departure time for united airlines 7 pm from boston to san francisco tonight please,flight_time,0.3762
+flight_time,What is American Airlines' 7am departure time from Denver to Chicago?,flight_time,0.3464
+flight_time,What is departure time from Phoenix to Washington D C tonight?,flight_time,0.3455
+flight_time,What is the latest available departure time from Chicago to San Francisco today?,flight_time,0.3339
+flight_time,What is American Airlines' departure time from San Francisco to Chicago tomorrow evening?,flight_time,0.3323
+flight_time,"""What is departure time from Miami to Orlando?"" :]",flight_time,0.3321
+abbreviation,"""What does Y fare stand for?""",abbreviation,0.4312
+abbreviation,what does y fare code mean in my flight itinerary,abbreviation,0.4292
+abbreviation,"What does Y fare mean in American Airlines?�landa;0,1`sample`:",abbreviation,0.4065
+abbreviation,what does yq mean in united airlines fare classes,abbreviation,0.4025
+abbreviation,"""What is Y fare class?"" ) LABEL(abbreviation)",abbreviation,0.377
+abbreviation,What does FBP mean in flight schedules?�WXYZsample)🎉,abbreviation,0.3704
+abbreviation,what does yq mean in flight search results; am i getting special discounts if my fare is marked with that code,abbreviation,0.3657
+abbreviation,What does FOP stand for in United's ticket fare code?,abbreviation,0.359
+abbreviation,what does yq mean in fare classes please give me full information about it also how is calculated,abbreviation,0.3573
+abbreviation,what does y class mean in united airlines fare classes,abbreviation,0.3514
+city,What is LGA airport located in?  (city),city,0.3533
+city,"Where is Southwest Airlines located in Colorado? 
+
+generated this example using LABEL ""city"" withDESCRIPTION asking for information related to locations where certain airplanes operate, such as their airport hubs. It can serve well if you want more examples that include questions concerning flight routes served out different regions provided here might help further improve your training process also let me know anytime other than I am happy assist.",city,0.3492
+city,"Where is Southwest Airlines' main hub located? 
+
+generated sample in LABEL=city Description : (requesting information)",city,0.3489
+city,Where is the airport that Delta Airlines serves as its hub?,city,0.3365
+city,Does American Airlines fly out from Sacramento in California?,city,0.3063
+city,What US cities does Frontier Airlines fly to from Chicago?,city,0.3045
+city,Does American Airlines serve Boston? Massachusetts has multiple international destinations but what ones can I fly to if i have layover in Chicago O'Hare City Airports near Atlanta Georgia USA US Airport Codes List Major Cities In United States,city,0.2975
+city,Where is Baltimore Washington International Airport located in relation to major East Coast US cities?,city,0.2844
+city,Does JetBlue fly out to Denver?�WXYZsample)5a9b7c4d2f3e1g8h6i0jQZwXVUTSrfghnmlkjhgfedcba`WYUIPOMLKJHGFEDCBA,city,0.2791
+city,"What airport serves Portland Maine? 
+
+Generated in 0 seconds at Arlington, Virginia.",city,0.2777
+airfare,how much is united airlines' cheapest economy class ticket from boston to denver?,airfare,0.3508
+airfare,what is delta airlines' cheapest economy class ticket from denver to baltimore tomorrow morning?,airfare,0.3108
+airfare,what is economy class ticket price from denver to miami for next friday morning?,airfare,0.2943
+airfare,what is business class ticket price from portland to denver for next thursday morning flight?,airfare,0.2857
+airfare,what is delta airlines' cheapest business class flight from denver to san francisco?,airfare,0.28
+airfare,What is the average price for economy class tickets from Boston to Denver?,airfare,0.2695
+airfare,what is united airlines economy class ticket price from san francisco to dallas?,airfare,0.2656
+airfare,"""What is United's cheapest flight price from Chicago to Atlanta?""",airfare,0.2568
+airfare,"""What is the best price for direct flight from San Francisco to Miami?""",airfare,0.2381
+airfare,what is united airlines first class ticket price from dallas to denver ?,airfare,0.2291
+airline,What flights does Singapore Airlines have from London to Seattle?,airline,0.3587
+airline,Which American Airlines flights go from Denver to Chicago today?,airline,0.343
+airline,Which flights depart from Chicago to Pittsburgh tomorrow morning with United Airlines?,airline,0.3356
+airline,What flights go from Baltimore to Minneapolis today? ) LABEL:airline),airline,0.3348
+airline,What American Airlines flights depart from Seattle at 9am today?,airline,0.3118
+airline,what flights arrive at newark from miami tonight with american Airlines please,airline,0.308
+airline,What flights does Delta Airlines have from Seattle to Phoenix?,airline,0.2854
+airline,Which flights does Delta Airlines offer from Boston to Washington D.C.?,airline,0.2671
+airline,Which major carriers fly directly from Chicago to Pittsburgh?,airline,0.2666
+airline,What flights does Delta Airlines have from Pittsburgh to Orlando?,airline,0.2621
+ground_fare,how much does it typically run per day to have access to your car service at lax?,ground_fare,0.3617
+ground_fare,how much does it typically run to rent a car at lax?,ground_fare,0.3529
+ground_fare,how much is it going to run me for shuttle service from airport downtown?,ground_fare,0.3426
+ground_fare,how much does it typically cost to rent vans at laguardia airport for one day?,ground_fare,0.3263
+ground_fare,how much is your airport shuttle to downtown buffalo?,ground_fare,0.3127
+ground_fare,how much does it charge to rent a car at lax airport for 5 days including parking?,ground_fare,0.3108
+ground_fare,how much does it cost to rent a car at denver airport for one night?,ground_fare,0.3054
+ground_fare,how much does it typically run to rent a car for one day in boston?,ground_fare,0.2595
+ground_fare,how much is it to rent wheelchair vans at denver international airport?,ground_fare,0.259
+ground_fare,how much does it typically charge to get from lax airport in la?,ground_fare,0.2527
+flight_no,What is my American Airlines Flight Number from Dallas to Chicago tonight?,flight_no,0.3547
+flight_no,What is my Delta Airlines Flight Number from Chicago to Dallas?,flight_no,0.3084
+flight_no,What is American Airlines Flight 144 from Chicago to Boston?,flight_no,0.2797
+flight_no,What is my American Airlines Flight Number from Dallas to Los Angeles?,flight_no,0.2625
+flight_no,What is American Airlines Flight 1343 from Chicago to New Orleans?,flight_no,0.2373
+flight_no,What is my American Airlines flight from Baltimore to Minneapolis?,flight_no,0.2278
+flight_no,"""What is my return American Airlines 9am morning flight from New York to Chicago?""",flight_no,0.2005
+flight_no,What is American Airlines Flight 1414 from Los Angeles to Chicago?,flight_no,0.1892
+flight_no,What is Delta Flight 2145 from Tampa to Minneapolis today?,flight_no,0.1872
+flight_no,What is my reservation code so I can get onto American Airlines Flight 134 from Los Angeles to Chicago at six pm tomorrow night?,flight_no,0.1789
+flight,What is the earliest morning nonstop American Airlines departure from Dallas to Phoenix?,flight,0.3333
+flight,What is Delta Airlines' typical schedule for their 8 am morning departure from Dallas to New York?,flight,0.2767
+flight,What is united airlines schedule from dallas to san francisco tomorrow morning?,flight,0.2535
+flight,What is my morning schedule for American Airlines Flight 115 from Dallas to Miami today?,flight,0.2118
+flight,What is Delta Airlines' schedule for Saturday afternoon from Chicago to Miami?,flight,0.1765
+flight,What is American Airlines' schedule for tomorrow's morning departure from Philadelphia to Atlanta?,flight,0.1635
+flight,What is my itinerary for American Airlines Flight 141 from New York to San Francisco?,flight,0.145

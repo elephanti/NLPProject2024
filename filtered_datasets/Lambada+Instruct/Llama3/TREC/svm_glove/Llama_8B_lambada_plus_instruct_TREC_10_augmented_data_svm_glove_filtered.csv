@@ -1,0 +1,526 @@
+label,text,predicted_label,probability
+ENTY:cremat,What 1985 film features Cher in her movie debut ?,ENTY:cremat,0.9015
+ENTY:cremat,What '96 film starring Nicolas Cage features Hume Cronyn ?,ENTY:cremat,0.8906
+ENTY:cremat,What 1977 film starred John Travolta ?,ENTY:cremat,0.8778
+ENTY:cremat,What 1960 film starring Marilyn Monroe features JFK ?,ENTY:cremat,0.8359
+ENTY:cremat,What book series was written by Enid Blyton ?,ENTY:cremat,0.8283
+ENTY:cremat,What 1960s television series featured actor Mike Connors ?,ENTY:cremat,0.8195
+ENTY:cremat,What 1975 film stars Sylvester Stallone ?,ENTY:cremat,0.8068
+ENTY:cremat,What 1983 film starred Eddie Murphy with Bernadette Peters ?,ENTY:cremat,0.7991
+ENTY:cremat,What 1995 film starring Nicolas Cage was inspired by Chariots of Fire ?,ENTY:cremat,0.7372
+ENTY:cremat,What 1983 movie starred Eddie Murphy ? ` ``,ENTY:cremat,0.7182
+NUM:perc,What percentage of teenagers own their home ? 17 percent .,NUM:perc,0.8187
+NUM:perc,What percentage of Americans smoke ? 34 percent .,NUM:perc,0.7717
+NUM:perc,What percentage of children in America have siblings ? 61 percent .,NUM:perc,0.7703
+NUM:perc,What percentage of all American households have computers ? 56 % .,NUM:perc,0.7502
+NUM:perc,What percentage of people live in cities ? 51 percent .,NUM:perc,0.7423
+NUM:perc,What percentage of Americans live in cities ? 61 percent .,NUM:perc,0.74
+NUM:perc,What percentage of women over 65 have husbands ?,NUM:perc,0.7088
+NUM:perc,What proportion of Americans own their homes ? 63 percent .,NUM:perc,0.7019
+NUM:perc,What percentage of Americans have used birth control ? 54 percent .,NUM:perc,0.6804
+NUM:perc,What percentage of Americans have visited Canada ? 35 % .,NUM:perc,0.674
+ENTY:instru,What instrument does jazz pianist Oscar Peterson use ?,ENTY:instru,0.7005
+ENTY:instru,What instrument did jazz musician Charlie Parker most often use ?,ENTY:instru,0.6695
+ENTY:instru,What stringed instrument did Jimi Hendrix often use ?,ENTY:instru,0.6168
+ENTY:instru,What instrument did Stevie Ray Vaughan primarily use ?,ENTY:instru,0.6129
+ENTY:instru,What instrument is played by Stevie Ray Vaughan ?,ENTY:instru,0.6121
+ENTY:instru,What instrument is played by Wynton Marsalis ?,ENTY:instru,0.5049
+ENTY:instru,What stringed instrument is played by Pinchas Zukerman ?,ENTY:instru,0.4438
+ENTY:instru,What instrument did John Coltrane primarily use ?,ENTY:instru,0.3977
+ENTY:instru,What was Stevie Ray Vaughan's main guitar?,ENTY:instru,0.396
+ENTY:instru,What instrument did Yoko Ono use during John Lennon 's solo work ?,ENTY:instru,0.3804
+ENTY:animal,"What animal lives in New York Zoo ? Manhattan 's Central Park has two zoos , one for wild beasts called Bronx zoo at Fordham . The other is just south of there near Columbia University , it contains mainly pets : cats dogs birds etc that you could keep as personal pet but not those found naturally out doors such as raccoons squirrels deer mice foxes pheasants ducks geese coyotes skunks opossum rats snakes lizards turtles frogs fish rabbits guinea pigs ham",ENTY:animal,0.8411
+ENTY:animal,What 's another big cat after lions ?  (ENTY : animal ),ENTY:animal,0.7335
+ENTY:animal,What animal lives in China ? The giant panda .,ENTY:animal,0.7298
+ENTY:animal,What animal is known for its stripes ? Nile leopard cat .,ENTY:animal,0.5827
+ENTY:animal,What dog is often depicted as Pluto in Disney 's Mickey Mouse cartoons ?,ENTY:animal,0.5686
+ENTY:animal,What animal has 300 bones in its skeleton ?,ENTY:animal,0.5325
+ENTY:animal,What dog is depicted in advertisements for Purina Dog Chow ?,ENTY:animal,0.5317
+ENTY:animal,"What is Australia's national animal ? 
+
+(LABEL: ENTNY:Animal)",ENTY:animal,0.4764
+ENTY:animal,What animal has been extinct since 1783 ?,ENTY:animal,0.4486
+ENTY:animal,"What is China 's national bird ? 
+
+ENTY : animal",ENTY:animal,0.4412
+NUM:money,What is Jennifer Lopez 's net worth ? 20 million dollars to $75 milllion .,NUM:money,0.7402
+NUM:money,"What is George Washington 's salary ?  $200,000 in today dollars , it would equal over \$4 million .",NUM:money,0.6349
+NUM:money,"How much money will I need to invest each month for 20 years if my goal is $250,000 ?",NUM:money,0.631
+NUM:money,How much does it cost to insure one thousand dollars worth of life insurance ?,NUM:money,0.5978
+NUM:money,What is General Motors ' annual revenue ? 12 billion dollars .,NUM:money,0.5401
+NUM:money,"How much does Medicare Part B cost ? In 2019 , seniors pay $187 .30 each month for outpatient services such as doctor visits, lab tests & equipment costs but more if you have higher incomes above certain thresholds in that year's income brackets up to maximums of over $5k per person with very little extra help from Social Security benefits unless some may get additional assistance under Affordable Care Act ( Obamacare ) - which they also need health insurance coverage at least having one kind plus other expenses related",NUM:money,0.537
+NUM:money,"What is John Fords 'The Searchers' cost ? $755 ,000 .00 to make in 1956 dollars?",NUM:money,0.4846
+NUM:money,What is Madonna 's net worth ? 70 million dollars .,NUM:money,0.4671
+NUM:money,"What is General Motors ' annual revenue ? "" , according to Forbes . For 2018 : $147 billion dollars ; for ... in millions of U.S.$""",NUM:money,0.4671
+NUM:money,How much does it cost to rent storage space ?,NUM:money,0.4646
+LOC:mount,What is Africa 's highest mountain ? Mount Kilimanjaro .,LOC:mount,0.8131
+LOC:mount,"What is North America 's highest mountain ? Nile River Mountains , Mount Olympus ?",LOC:mount,0.7727
+LOC:mount,What is Africa 's highest peak ? Mount Kilimanjaro .,LOC:mount,0.7545
+LOC:mount,"What is Australia 's highest mountain ? K2 , Mount Everest in Asia .",LOC:mount,0.7295
+LOC:mount,What is Africa 's highest mountain ? Mountain in Kenya .,LOC:mount,0.7098
+LOC:mount,"What is Africa 's highest peak ? Mountains , height .",LOC:mount,0.6192
+LOC:mount,What is California 's highest mountain ? Mountains .,LOC:mount,0.6186
+LOC:mount,What is Mount Denali 's peak elevation ?,LOC:mount,0.6031
+LOC:mount,What is Mount Everest 's elevation above sea level ?,LOC:mount,0.5592
+LOC:mount,What is Africa 's highest peak ? Mountains name .,LOC:mount,0.5578
+LOC:country,"What country has the longest coastline ? Cornwall is in which European nation 's West Country region . What African state borders France to its southwest , Chad northwest , Libya northeast & Nigeria eastwardly southeastwards? Which Asian landmass includes India China Korea Taiwan Hong Kong Macau Nepal Bhutan Brunei Malaysia Singapore Indonesia Laos Thailand Myanmar Vietnam Cambodia The Philippines East Timor North Korean People's Republic of South Sudan Andorra San Marino Monaco Djibouti Bahrain Oman United Arab Emirates Yemen Saudi Arabia Iraq Qatar Kuwait",LOC:country,0.919
+LOC:country,What country is Sudan also known as ? Somalia ? Upper Volta ? Zaire Ethiopia Chad Niger Ghana Uganda South Yemen Zambia Ivory Coast Guinea Kenya Mali Thailand Burma Congo Nigeria Peru Yugoslavia Iraq Argentina Brazil Pakistan Bangladesh Japan Indonesia Turkey Afghanistan Russia Vietnam Malaysia Saudi Arabia Algeria Poland Iran China Romania Taiwan Italy Spain Portugal Australia Egypt Mexico France Germany United States Canada Colombia India England Greece Belgium Sweden Chile Netherlands Switzerland Costa Rica Philippines Israel Hungary Ireland Austria Bulgaria Czechoslovakia Morocco Tunisia Zimbabwe Cyprus Luxembourg Lebanon Hong Kong Singapore Panama El Salvador Nicaragua,LOC:country,0.8572
+LOC:country,What country is Africa 's largest nation ? Somalia .,LOC:country,0.8477
+LOC:country,What country did George Washington serve as president ? USA . Britain France Austria Denmark Portugal Netherlands Sweden Greece Italy China Japan Russia Ireland Argentina India Brazil South Africa Australia Canada Spain Mexico England Poland Turkey Germany Switzerland Norway Egypt Belgium Taiwan Israel Vietnam Thailand Pakistan Zimbabwe Iran USSR Romania Saudi Arabia Peru Singapore Bangladesh Philippines Nigeria Kenya Indonesia United States Sudan Chile Colombia Ecuador Venezuela Ethiopia Algeria Yugoslavia Malaysia Morocco Uzbekistan Tunisia Honduras Uruguay Costa Rica Panama Nicaragua Guatemala El Salvador Bulgaria Lithuania Czech Republic Estonia Latvia Hungary Slovakia Cyprus Slovenia Armenia Azerbaijan Belarus Georgia Kazakhstan Kyrgyz,LOC:country,0.8176
+LOC:country,What is Peru 's capital ? Taiwan which island does it occupy Korea where did its government go to North for protection in 1950 China what country has had most of America ` s immigrants from Japan since World War II England when was Ireland split between Britain Germany Austria Hungary Italy France Portugal Spain Netherlands Belgium Luxembourg Denmark Norway Sweden Switzerland Czechoslovakia Poland Greece Turkey Russia Bulgaria Romania Armenia Georgia Azerbaijan Kazakhstan Turkmenistan Uzbekbeki Tajikstan Cyprus Malta Andorra Monaco San Marino Vatican City Liechtenstein,LOC:country,0.7496
+LOC:country,"What country was discovered by Henry Hudson ? USA , England . Denmark , Portugal Netherlands Germany France Norway Spain Sweden Canada Russia Italy Switzerland Belgium Ireland Japan China Australia South Africa India Brazil Turkey UK Iceland Greece Israel Thailand Saudi Arabia Poland Austria Egypt Morocco Czechoslovakia Yugoslavia Malta Finland Albania Peru Zimbabwe Cyprus Lebanon Iraq Vietnam Hong Kong Tunisia Indonesia Malaysia Argentina Hungary Romania Bulgaria Uruguay New Zealand Philippines Ethiopia Sudan Taiwan Sri Lanka Nigeria Trinidad Tobago United Arab Emirates El Salvador Nicaragua Bangladesh Colombia Ivory Coast Jamaica Costa Rica Kuwait Venezuela Panama Honduras Ecuador",LOC:country,0.7448
+LOC:country,"What is Denmark 's country ? '' ''. Of Europe . The Scandinavian peninsula of Norway , Sweden in west Baltic Sea also faces Germany Poland Russia has its northern border England to France both separated by sea United Kingdom East Channel Irish ... North Atlantic Ocean from US Canada Ireland lies off southern coast Scotland Wales Northern Island north Iceland northwest Greenland east across Arctic ocean Asia southeast through Turkey Iran Afghanistan Pakistan India China Japan Korea Taiwan Formosa Indonesia Philippines Australia New Zealand next Oceania includes many islands such as Fiji Tonga Samoa",LOC:country,0.6776
+LOC:country,What country has more landmass than South America ?,LOC:country,0.6315
+LOC:country,What country has Australia as its neighbor to both north and east ?,LOC:country,0.5999
+LOC:country,What country is East Timor part of ? Canada .,LOC:country,0.5935
+ENTY:color,What color is cotton ? # ENTITY : COLOR,ENTY:color,0.8992
+ENTY:color,What color is Superman 's suit ? # ENTLY :COLOR,ENTY:color,0.8215
+ENTY:color,"What color is blood orange juice ? 
+
+(LABEL : ENT Y[color ])  # What color does it have? Inquires information regarding the shade of something . The answer can range from simple descriptions to scientific properties , all revolving around its physical appearance in various conditions ... ) (COLOR) has many shades depending upon factors such as pH levels for food items .. For instance blue red yellow white brown green black gold purple grey silver gray cyan aqua lime rose fuchsia magenta crimson lavender indigo turquoise teal",ENTY:color,0.8082
+ENTY:color,What color is Cheeto 's cheese flavor ?,ENTY:color,0.7835
+ENTY:color,"What color is cottonseed oil ? 
+
+ LABEL: ENT Y : COLOR",ENTY:color,0.781
+ENTY:color,What is Picasso 's favorite color ? Blue .,ENTY:color,0.7485
+ENTY:color,"What color is lipstick ? 
+
+ LABEL : ENTITY-color .",ENTY:color,0.6566
+ENTY:color,What color is cotton ? # ENTYPD :color 0 ),ENTY:color,0.6534
+ENTY:color,"What is another name for red velvet cake ? 
+
+ENNTY : color",ENTY:color,0.6365
+ENTY:color,What color is Cinderella 's dress in Disney movies ?,ENTY:color,0.622
+NUM:temp,How hot should my oven preheat for baking chicken nuggets ?,NUM:temp,0.9401
+NUM:temp,What is Pluto 's surface temperature ? 25 degrees Celsius below zero .,NUM:temp,0.8424
+NUM:temp,What is the ideal baking temperature for pound cake ?,NUM:temp,0.7234
+NUM:temp,What is the normal body temperature ? 67-72 degrees Fahrenheit .,NUM:temp,0.7059
+NUM:temp,What is the Fahrenheit temperature of water at its freezing point ?,NUM:temp,0.6971
+NUM:temp,What is Earth 's average surface temperature ? ``,NUM:temp,0.6075
+NUM:temp,What is the temperature to bake angel food cake ?,NUM:temp,0.601
+NUM:temp,What is the temperature to bake macaroni in cheese ?,NUM:temp,0.5546
+NUM:temp,What is the temperature to set my water heater ?,NUM:temp,0.549
+NUM:temp,What is the temperature at which eggs can safely go directly from refrigerator to oven ?,NUM:temp,0.5118
+NUM:period,How long did it take to develop insulin ? 4 years .,NUM:period,0.527
+NUM:period,How long does it take to get over bronchitis ?,NUM:period,0.4643
+NUM:period,How long does it take to get over depression ?,NUM:period,0.4504
+NUM:period,How long does it take to build one ship ?,NUM:period,0.4122
+NUM:period,"How long will it take for water to boil at 5,000 feet ?",NUM:period,0.4088
+NUM:period,How long does it take to get over being dumped ?,NUM:period,0.396
+NUM:period,How long does it take to get over grief ?,NUM:period,0.3915
+NUM:period,How long will it take to reach Paris by car ?,NUM:period,0.3715
+NUM:period,How old is David Letterman ? 58 years .,NUM:period,0.3713
+NUM:period,How old is Frank Lloyd Wright ? 13 years .,NUM:period,0.3711
+LOC:city,What city has more inhabitants than New York City ? London .,LOC:city,0.8429
+LOC:city,What city is situated near Trafalgar Square ?,LOC:city,0.7756
+LOC:city,What city in New Mexico is nicknamed The City Different ?,LOC:city,0.649
+LOC:city,What city is called The City of Palms ?,LOC:city,0.6411
+LOC:city,"What is Pittsburgh , Pennsylvania 's largest city ?",LOC:city,0.632
+LOC:city,What is Pittsburgh Pennsylvania 's second largest city ?,LOC:city,0.6302
+LOC:city,What city is known as The Live Music Capital of the World ?,LOC:city,0.6152
+LOC:city,"What is Birmingham , Alabama 's largest city ?",LOC:city,0.5887
+LOC:city,What city in France is known for its cathedral ?,LOC:city,0.5812
+LOC:city,What city 's airport is named after its first mayor ?,LOC:city,0.575
+LOC:state,"What is one state that borders Texas ? Nebraska , Missouri & Arkansas . Illinois Iowa Minnesota Kentucky Louisiana Oklahoma Tennessee Wisconsin Alabama Mississippi West Virginia Indiana Ohio Pennsylvania Florida South Carolina North Dakota Montana Colorado Vermont Michigan Kansas New York Oregon California Hawaii Maine Rhode Island Connecticut Delaware Massachusetts Nevada Utah Washington D.C Georgia Maryland Arizona Idaho Alaska New Jersey Puerto Rico District of Columbia Virgin Islands American Samoa Guam Marshall Islands Federated States Micronesia Palau Northern Mariana Is United Kingdom Canada Mexico Haiti Honduras Belize Guatemala Nicaragua El Salvador Panama Costa Rica",LOC:state,0.8098
+LOC:state,"What is one state that borders Canada ? Louisiana , California . Alabama Oklahoma Oregon Kentucky Tennessee Pennsylvania North Carolina Texas Alaska Mississippi Maine Michigan New Jersey Wisconsin Vermont Nebraska Idaho South Dakota Hawaii Georgia Arkansas Ohio Montana Wyoming Delaware Iowa West Virginia Massachusetts Indiana Utah Minnesota Nevada Arizona Illinois Washington Maryland Connecticut Kansas Rhode Island Missouri Florida Louisiana District of Columbia Colorado What 2 countries make up most part US landmass England USA Germany Russia China France Mexico Japan India Brazil Italy Spain Australia Argentina Netherlands Switzerland Greece Turkey Ireland Egypt Sweden Belgium Poland Austria Portugal Ukraine",LOC:state,0.7308
+LOC:state,"What state has two different time zones ? Hawaii Oahu . Alaska Kentucky West Virginia Maine California Ohio Texas Oregon Pennsylvania Louisiana Mississippi New Jersey Massachusetts Michigan Illinois Georgia Connecticut Indiana Wisconsin Minnesota Colorado North Carolina Tennessee Vermont Florida South Dakota Washington Arizona Iowa Oklahoma Utah Alabama Arkansas Missouri Montana Nevada Kansas Nebraska Wyoming Delaware Rhode Island Idaho Maryland Missississippi District of Columbia for one another to find out which would have you check your map so that it shows all 50 United States as part , together with each other we must keep working hard",LOC:state,0.6779
+LOC:state,"What state does Route 66 end in ? Mississippi , Alabama Missouri Kansas Oklahoma Texas New Mexico Arizona California Colorado Wyoming Oregon Washington Montana Idaho Minnesota Louisiana Kentucky North Dakota South Carolina Illinois Iowa Wisconsin Indiana Ohio Nebraska Utah Nevada Maine Delaware Rhode Island Massachusetts Vermont Florida Alaska Hawaii Connecticut Arkansas West Virginia Tennessee Pennsylvania Michigan Maryland Georgia New York District of Columbia New Hampshire DC Montgomery County Harrisburg Philadelphia San Francisco Phoenix Dallas Los Angeles Chicago Minneapolis Denver Seattle Sacramento Boston Columbus Baltimore Pittsburgh Cleveland Charlotte Nashville Cincinnati Jacksonville Houston Louisville Indianapolis Detroit St Louis Milwaukee Atlanta",LOC:state,0.6534
+LOC:state,What state borders Oregon to its west ?󠁧󠁢󠁳‚󠁣󠁴󠁿,LOC:state,0.6524
+LOC:state,"What is another state that touches both Canada ? US Mexico Alabama , Alaska . Oregon Arizona Washington Montana North Dakota South Dakota Idaho Wyoming Nebraska New York Vermont Minnesota Maine California Mississippi Michigan Colorado Oklahoma Nevada Kentucky Hawaii Texas Louisiana Florida Tennessee Arkansas Georgia Illinois Indiana Iowa Ohio Kansas Pennsylvania Massachusetts Wisconsin Rhode Island Delaware Maryland Connecticut West Virginia District of Columbia Utah Missouri Virginia Taiwan Puerto Rico USA England Spain Africa China Britain Europe Brazil Asia USSR Germany Japan Latin America Russia UK Australia Ireland Wales Scotland Italy France India Greece Switzerland Portugal Thailand Austria Poland Netherlands Norway",LOC:state,0.6375
+LOC:state,What state is Alabama nicknamed ? The Yellowhammer State .,LOC:state,0.6145
+LOC:state,"What state is Oklahoma in ? 
+
+ LABEL :LOC,state ",LOC:state,0.5661
+LOC:state,What state has its capitol in Montgomery ? Alabama .,LOC:state,0.5202
+LOC:state,What state is known as The Hawkeye State ?,LOC:state,0.4657
+LOC:other,Where is Kure Beach located ? ðŸ˜Š (KURE ),LOC:other,0.8375
+LOC:other,"Where is Mount Whitney located ? 
+
+(LABEL:LOC:other)",LOC:other,0.6823
+LOC:other,"Where is Fort Apache located ? 
+
+(LABEL:LOC:other)",LOC:other,0.6813
+LOC:other,"Where is Mount Elbert located ? 
+
+(LABEL:LOC.other)",LOC:other,0.6658
+LOC:other,"Where is Rodeo Drive located ? 
+
+ LABEL :LOC(other)",LOC:other,0.6542
+LOC:other,"Where is Lake Tanganyika located ? 
+
+(LABEL :LOC:other)",LOC:other,0.5956
+LOC:other,Where is Easter Island ?󠁧󠁢️🏴‍☠️,LOC:other,0.544
+LOC:other,Where is Lake Superior ?  LOCATION : Other .,LOC:other,0.5194
+LOC:other,"Where is Coney Island ? ""CONEY ISLAND , NY 11224"" .",LOC:other,0.4949
+LOC:other,Where is Mount St Helens ? ''''  (LOC-other),LOC:other,0.4818
+NUM:count,How many people were killed by lightning each year ?,NUM:count,0.8824
+NUM:count,How many people have been injured in motorcycle accidents ?,NUM:count,0.8242
+NUM:count,How many U.S . presidents were assassinated ?,NUM:count,0.6316
+NUM:count,How many people were killed in automobile accidents during World War II ?,NUM:count,0.5877
+NUM:count,How many players have hit four home runs in one game ?,NUM:count,0.5717
+NUM:count,How many people have died in coal mining accidents since 1900 ?,NUM:count,0.5681
+NUM:count,"How many people were killed in wars from 1980 to September ,2004 ?",NUM:count,0.5617
+NUM:count,How many people have won four Nobel Prizes ?,NUM:count,0.5034
+NUM:count,How many species have died out since 1500 ?,NUM:count,0.4512
+NUM:count,How many people died in 1995 ? ),NUM:count,0.4336
+ENTY:sport,What sport did Tiger Woods win four Masters golf tournaments ?,ENTY:sport,0.9057
+ENTY:sport,What sport did Dale Earnhardt win seven championships in ?,ENTY:sport,0.7969
+ENTY:sport,What sport has won more NCAA team championships than any other ?,ENTY:sport,0.7067
+ENTY:sport,What sport does Wayne Gretzky play ? # ENTNY :sport,ENTY:sport,0.6269
+ENTY:sport,"What is golf 's major championship ? 
+
+ENTY : sport",ENTY:sport,0.524
+ENTY:sport,What sport is tennis played with ?󠁧,ENTY:sport,0.5167
+ENTY:sport,What sport has Roger Federers won most Wimbledon titles in ?,ENTY:sport,0.4739
+ENTY:sport,What is another golf tournament that Tiger Woods has won ?,ENTY:sport,0.4163
+ENTY:sport,"What is golf 's most prestigious tournament ? "" It has been called the oldest championship in professional team sport . The Masters Tournament , played annually at Augusta National Golf Club ... 1996.""",ENTY:sport,0.3943
+ENTY:sport,What sport does Martina Navratilova play ?,ENTY:sport,0.3767
+ENTY:veh,What ship was sunk by German U-boats in 1915 ?,ENTY:veh,0.7808
+ENTY:veh,What ship was Robert Falcon Scott 's last vessel ?,ENTY:veh,0.685
+ENTY:veh,What ship 's name was inspired by its British captain ?,ENTY:veh,0.6746
+ENTY:veh,What ship 's maiden voyage was sponsored by Thomas Andrews ?,ENTY:veh,0.6194
+ENTY:veh,What ship sank off Cape Flattery in 1970 ?,ENTY:veh,0.5736
+ENTY:veh,What ship was sunk by U-47 in 1939 ?,ENTY:veh,0.4824
+ENTY:veh,"What ship did Jack Dawson sail aboard ? 
+
+(LABEL ENTY : veh ) # What vessel sank in 1992 with no survivors after it collided off Louisiana 's coast to kill all of its eight crew members?",ENTY:veh,0.4459
+ENTY:veh,What ship in 1964 was hijacked by American Indian Movement activists ?,ENTY:veh,0.4237
+ENTY:veh,What ship sailed for India in 1497 ?,ENTY:veh,0.4193
+ENTY:veh,What ship was sunk by Germany in 1915 ?,ENTY:veh,0.4094
+ABBR:exp,"What does NATO stand for ? 
+
+
+
+ LABEL :ABBR:: exp",ABBR:exp,0.7364
+ABBR:exp,What does KFC stand for ? ` LABEL :ABBR:: exp`,ABBR:exp,0.6575
+ABBR:exp,What does NATO stand for ? ` LABEL :ABBR: exp`DESCRIPTION:Inquiriesaboutthemeaningorfultformofanabbreviationoracronym .```,ABBR:exp,0.5612
+ABBR:exp,What does NASA stand for ? ) LABEL : ABBR :: exp ```,ABBR:exp,0.5512
+ABBR:exp,"What does ASAP mean ? ""ASAP"" is shorthand for what phrase? ` LABEL :ABBR:: exp ::` `< u > What will it stand from < /u >:: 1 . `` `",ABBR:exp,0.5325
+ABBR:exp,What does NASA stand for ? <u> ( 1987 ) </ u >,ABBR:exp,0.5283
+ABBR:exp,"What does NASA stand for ? <label descr=""ABBR : exp""> What stands </span> `</code>`  . ```.",ABBR:exp,0.527
+ABBR:exp,What does SARS stand for ?  (ABBR : exp ),ABBR:exp,0.5201
+ABBR:exp,What does M.O.U.S.E stand for ?,ABBR:exp,0.5138
+ABBR:exp,What does NASA stand for ? ` LABEL:A BBB : exp`,ABBR:exp,0.5118
+ENTY:techmeth,What method does Microsoft use to make its popular web search engine return relevant results ?,ENTY:techmeth,0.6204
+ENTY:techmeth,What is another technique besides PCR to amplify DNA ?,ENTY:techmeth,0.5346
+ENTY:techmeth,What method did Thomas Edison use to develop his phonograph ?,ENTY:techmeth,0.52
+ENTY:techmeth,What process did William Shockley use to create transistors ?,ENTY:techmeth,0.5013
+ENTY:techmeth,What method was developed by Leeuwenhoek to study microorganisms ?,ENTY:techmeth,0.4501
+ENTY:techmeth,What technique was developed to make glass less expensive ?,ENTY:techmeth,0.4222
+ENTY:techmeth,What technique does Robert Kiyosaki use to build his wealth ?,ENTY:techmeth,0.36
+ENTY:techmeth,What process was developed by Louis Pasteur to produce vaccines ?,ENTY:techmeth,0.3474
+ENTY:techmeth,What 's method of cooking does Wolfgang Puck recommend ?,ENTY:techmeth,0.308
+ENTY:techmeth,What is one way to prevent overfitting when training neural networks ?,ENTY:techmeth,0.2823
+ENTY:body,"What is there more fat in ? The stomach , lungs, muscles? Or liver brain bone marrow breast skin underarm hair all over my head pubic area legs arms thighs calves feet buttocks back abdomen torso chest shoulders knees hips hands ankles wrists forearms elbows neck spine pelvis ribs ribcage fingers toes toenails ears nose eyelids mouth upper lip lower jaw cheekbones forehead eyebrows sides temples . I want to know what has most fatty tissue because they say that some areas have very little if any but",ENTY:body,0.8703
+ENTY:body,What muscle connects your ribcage to your pelvis ?,ENTY:body,0.5579
+ENTY:body,What organ is connected to both ears by nerve fibers ?,ENTY:body,0.5153
+ENTY:body,What part has five digits ? For fingers . What is called each little finger 's outermost joint tip thumb base middle knuckle end metacarpal bone wrist elbow shoulder forearm hand head back neck face scalp ear eye brow nose lips mouth tongue palate gums teeth jawbone chin cheek lower lip upper tooth incisor canine molar premolars canines roots crown wisdom crowns enamel dentin pulp nerve root blood vessels Pulp cavity gumline periodontium alveolus mandible maxilla hyoid,ENTY:body,0.4611
+ENTY:body,What is one part that separates your brain from skull ?,ENTY:body,0.3959
+ENTY:body,What part does your heart pump to ?blood through its veins .,ENTY:body,0.3958
+ENTY:body,What part does your nose get hair out from ?,ENTY:body,0.3873
+ENTY:body,What muscles move your eyes laterally ?󠁧🏼,ENTY:body,0.3865
+ENTY:body,What part of your eye lets in most light ?,ENTY:body,0.309
+ENTY:body,What is another major artery that carries oxygenated blood from your heart to other organs ?,ENTY:body,0.2523
+ENTY:religion,What two main monotheistic world faiths originated in ancient Mesopotamia ?,ENTY:religion,0.327
+ENTY:religion,What two faiths have more holy books than any others ?,ENTY:religion,0.2982
+ENTY:religion,What is Christianity ? A monotheistic religion of Mediterranean origin .,ENTY:religion,0.2527
+ENTY:religion,"What religion is Sikhism ? 
+
+(LABEL: ENTYP : RELIGION )",ENTY:religion,0.1993
+ENTY:religion,What religion is known as Zoroastrianism ?,ENTY:religion,0.1854
+ENTY:religion,What religion is most widely practiced in South Korea ?,ENTY:religion,0.1838
+ENTY:religion,"What is Taoism ? What religion did Jesus teach , besides Christianity ?",ENTY:religion,0.1767
+ENTY:religion,What religion is associated with Shiva ? # ENTITY : RELIGION (Buddhism ) What God does Krishna represent in Hindu mythology? ``` 1```,ENTY:religion,0.1752
+ENTY:religion,"What is Islam 's holy book ? 
+
+ LABEL : ENT Y: religion",ENTY:religion,0.1744
+ENTY:religion,What religion is believed to have originated in India around 4000 BC ?,ENTY:religion,0.1692
+ENTY:dismed,"What is fibromyalgia ? A chronic disorder characterized by widespread muscle pain , fatigue insomnia & sleep disorders .",ENTY:dismed,0.8928
+ENTY:dismed,What disease caused by streptococcus bacteria is characterized as rheumatic fever ?,ENTY:dismed,0.8386
+ENTY:dismed,"What is fibromyalgia ? A disorder characterized by widespread muscle pain , fatigue sleep disturbances .",ENTY:dismed,0.8193
+ENTY:dismed,"What is hypochondria ? An abnormal fear of illness that may lead to physical symptoms such as headaches , palpitations , insomnia .",ENTY:dismed,0.7498
+ENTY:dismed,What disease is caused by Chlamydia trachomatis ?,ENTY:dismed,0.6689
+ENTY:dismed,"What is Crohn 's disease ? Its causes , symptoms & diagnosis .",ENTY:dismed,0.63
+ENTY:dismed,"What is obsessive-compulsive disorder ? A mental illness that causes uncontrollable , intrusive thoughts .",ENTY:dismed,0.6161
+ENTY:dismed,What disease is known as 'ragweed asthma' ?,ENTY:dismed,0.5608
+ENTY:dismed,What is narcolepsy ? A neurological disorder characterized by excessive daytime sleepiness .,ENTY:dismed,0.5425
+ENTY:dismed,"What is fibromyalgia ? ""Severe cases of Lyme disease can cause what condition in which people have widespread muscle pain , joint stiffness , fatigue . ` "" The symptoms include severe headaches that become constant throughout life ; they often also suffer from anxiety disorders such as post-traumatic stress disorder ( PTSD ) : What do these signs indicate?` I wonder if there's something similar for chronic fatigue syndrome patients who say they experience this same feeling after 9 /11 when everyone was so anxious over those",ENTY:dismed,0.5342
+HUM:ind,Who was Napoleon 's wife ? Marie Antoinette .,HUM:ind,0.4276
+HUM:ind,"Who wrote ""Gulliver's Travels"" ?",HUM:ind,0.3679
+HUM:ind,"Who was John Paul Jones ? 
+
+HUM : ind",HUM:ind,0.3087
+HUM:ind,Who played Jack Torrance in The Shining ?,HUM:ind,0.3028
+HUM:ind,Who is known as America 's first serial killer ?,HUM:ind,0.2918
+HUM:ind,Who was Jane Fonda 's mother ? The answer is Mrs Oleg Coppola .,HUM:ind,0.267
+HUM:ind,"Who wrote ""A Farewell to Arms"" ?",HUM:ind,0.2516
+HUM:ind,"Who played Henry Higgins in ""My Fair Lady"" ?",HUM:ind,0.2359
+HUM:ind,What actor has been called America 's Sweetheart ?,HUM:ind,0.227
+HUM:ind,Who is Dr Pepper ? It was invented by Charles Alderton .,HUM:ind,0.2192
+ENTY:plant,What plant has red flowers ? Petunia .,ENTY:plant,0.8276
+ENTY:plant,"What plant produces cotton fibers ? Cotton is produced from what seedless flowering shrub , called .",ENTY:plant,0.7407
+ENTY:plant,What kind of tree has white flowers with purple centers ?,ENTY:plant,0.6915
+ENTY:plant,What plant 's seeds produce cottonwood balls ?,ENTY:plant,0.6654
+ENTY:plant,What kind of flower is daffodil ?,ENTY:plant,0.646
+ENTY:plant,What kind of tree has yellow flowers that resemble little suns ?,ENTY:plant,0.5823
+ENTY:plant,"What kind of trees produce gum balls ?uggy pine , Chinese silk tree .",ENTY:plant,0.5729
+ENTY:plant,What plant has red seeds ? That 's called pomegranate .,ENTY:plant,0.4735
+ENTY:plant,What kind of plant is lavender ? Its seeds attract what birds to your garden .,ENTY:plant,0.3943
+ENTY:plant,What kind of trees make up most city parks ?,ENTY:plant,0.3009
+ENTY:substance,"What is cement ?umd? , 1964 . They answered that it was silicate mineral from which calcium oxide ... in addition to water - silica feldspar limestone iron sandstone quartzite clay shale & some other minerals also contain small amounts of various oxides . It 's got all sorts : carbonates peroxycarbonate sulfur dioxide ammonia methane dinitrogen monoxide hydrogen sulfide acetylene methyl chloride ethylene hydrochloric acid nitric oxygen nitrogen phosphorus trichloro",ENTY:substance,0.474
+ENTY:substance,What is fiberglass ? A type of glass fiber material used to insulate homes .,ENTY:substance,0.3679
+ENTY:substance,"What is DDT made of ? 
+
+ENTY : substance",ENTY:substance,0.2363
+ENTY:substance,"What is nitroglycerin ? ""Nitro"" comes from what Greek word meaning force? Nitrogenous compounds include blood , amino acids and urea . What else does it consist of in your body besides oxygen atoms with water also containing hydrogen molecules for every two nitrogen ones as well ; therefore both have carbon - 12 that can cause damage to health if overexposed by radiation since there isn't another known substance capable when used under right conditions has made life possible here because its potential was discovered",ENTY:substance,0.232
+ENTY:substance,What is asbestos made of ? ðŸŤ,ENTY:substance,0.2134
+ENTY:substance,"What 's water ? Of what does it consist of? What is its molecular formula , so called in chemistry when naming chemical compounds with formulas that indicate each element present as well ... etc .",ENTY:substance,0.2127
+ENTY:substance,"What is formaldehyde used in ? For what purpose does it serve to achieve this goal , its name means ""hexavalent chromium"" but most people simply call hexval Chromium . What two chemicals can combine together when mixed at certain temperatures with oxygen producing water steam gas & carbon dioxide as products of combustion ?. Which chemical makes up 96 % by volume blood plasma while protein accounts for just one third that percentage amount after red cells have been removed from whole blood through centrifugation ?. The element found mainly",ENTY:substance,0.2109
+ENTY:substance,"What is uranium made of ?  LABEL: ENT TYPE : substance Description inquiries concerning materials , such as what they consist from .",ENTY:substance,0.2098
+ENTY:substance,"What is sugar ? A refined carbohydrate derived from sugarcane , rice grains of corn that dissolves easily in water .",ENTY:substance,0.2002
+ENTY:substance,"What is penicillin made from ? 
+
+ LABEL: ENTY : substance Description inquiries of inquires into matters that consistantly have to do with material things , such as chemicals . What does it use for food coloring come ... ",ENTY:substance,0.1934
+NUM:weight,How much does one quart weigh ? 2 pounds .,NUM:weight,0.7433
+NUM:weight,How much does 1 pound weigh in ounces ?,NUM:weight,0.7185
+NUM:weight,How much does one pound weigh ? 2 ounces .,NUM:weight,0.7101
+NUM:weight,How much does one pound weigh in ounces ? ],NUM:weight,0.6297
+NUM:weight,"How much does one pound weigh in ounces ? """,NUM:weight,0.6069
+NUM:weight,What is the average body fat for males ? ),NUM:weight,0.5469
+NUM:weight,What is one kilogram equal to ? 11 pounds .,NUM:weight,0.4828
+NUM:weight,How much does one pound weigh in ounces ? #NUM : weight,NUM:weight,0.4778
+NUM:weight,What is the average body fat percentage for males ?,NUM:weight,0.468
+NUM:weight,How much does 4 pounds equal ? # NUM : weight,NUM:weight,0.4183
+NUM:code,What is NASA 's 1-800 telephone number ?,NUM:code,0.5345
+NUM:code,What is the telephone number for directory inquiries ? 1-800-GO-US-AID .,NUM:code,0.2803
+NUM:code,What is AT & T 's customer service number ?,NUM:code,0.2692
+NUM:code,What is New Hampshire 's state telephone number ?,NUM:code,0.2546
+NUM:code,What is Motorola 's telephone number ? 708-6252 .,NUM:code,0.2329
+NUM:code,What is IBM 's main telephone number ? 1-800.ibm.pc.us .,NUM:code,0.1884
+NUM:code,What is Apple 's telephone number ? 408-9966000 .,NUM:code,0.1855
+NUM:code,What is Madonna 's seven-digit telephone number ?,NUM:code,0.185
+NUM:code,What is Chicago 's telephone code ? 312 .,NUM:code,0.1634
+NUM:code,What is AT & T 's 1-800 number ?,NUM:code,0.1629
+NUM:date,"In what year did World War II start ? "" 1939 .",NUM:date,0.5661
+NUM:date,When did Napoleon abdicate ? 1815 .,NUM:date,0.5005
+NUM:date,When was Abraham Lincoln 's birthday ? What year did he die in 1865 when it happened during his administration .,NUM:date,0.4721
+NUM:date,When was World War I ? 1914-18 .,NUM:date,0.4691
+NUM:date,In what year was The Flintstones first aired ?,NUM:date,0.4602
+NUM:date,In what year did Napoleon 's empire begin ?,NUM:date,0.3801
+NUM:date,"When did World War I begin ? What day of January 1876 has been set apart to recognize American invention , innovation achievement since then every year by presidential proclamation? When was Napoleon Bonaparte born in Corsica France what is his date birth known as holiday today that celebrates achievements he brought Europe from French Revolution chaos . In which month does May start when would its end come around before another October arrives there after August September while April precedes March preceding February first one leading up four months till December cul",NUM:date,0.3579
+NUM:date,In what year did Napoleon Bonaparte abdicate ?,NUM:date,0.346
+NUM:date,"When was Henry VIII born ? In 1491 , he became King of England . He reigned until his death in which year?",NUM:date,0.2921
+NUM:date,In what year did Napoleon Bonaparte die ?,NUM:date,0.2888
+NUM:speed,How fast can dogs swim ? 45 mph .,NUM:speed,0.6348
+NUM:speed,How fast does light travel ? 40 mph .,NUM:speed,0.4346
+NUM:speed,What is the maximum speed that humans can achieve ?,NUM:speed,0.4204
+NUM:speed,How fast does light travel ? 65 mph .,NUM:speed,0.4159
+NUM:speed,How fast does sound travel through water ? 45 mph .,NUM:speed,0.3861
+NUM:speed,How fast does light travel through water ? 31 mph .,NUM:speed,0.3688
+NUM:speed,What is the average walking pace ? 0 mph .,NUM:speed,0.3526
+NUM:speed,What is the airspeed velocity required to achieve orbit around Earth ?,NUM:speed,0.3424
+NUM:speed,How fast does sound travel through water ? 23 mph .,NUM:speed,0.3415
+NUM:speed,How fast can you throw back up ? 20 mph .,NUM:speed,0.3257
+ENTY:lang,"What language is French ? Español speaks what primary tongue in Peru? What dialect of Spanish do Bolivians speak as it differs from Argentina 's form ? How would you address this to people speaking Czech , Chinese Mongolian Turkish Arabic Hungarian Portuguese Greek Russian Dutch German Italian Hebrew Welsh Korean Japanese Thai Polish English Danish Norwegian Swedish Finnish Hindi Urdu Bengali Vietnamese Indonesian Malay Pashto Swahili Albanian Serbien Armenian Georgian Azerbaijani Persian Kurdish Farsi Yiddish Latin Irish Scottish Gaelic",ENTY:lang,0.4361
+ENTY:lang,"What language is most widely used among English , French , German Dutch ?",ENTY:lang,0.3746
+ENTY:lang,"What is Australia 's official language ? Of all Europe , what country has most distinct dialectical variations of English speaking populations in North America? What African countries speak Swahili as one primary native tongue there also have two other widely used additional tongues to support this answer with specific examples such that we can give both French Canada example for instance - Haiti France Germany Italy Netherlands Spain South Africa Sweden Taiwan China Japan UK USA Vietnam Thailand Morocco Norway Poland India Portugal Denmark Ireland Scotland Finland Greece Czech Switzerland Austria Belgium Russia Turkey",ENTY:lang,0.288
+ENTY:lang,What language is used by most people in Belgium ?,ENTY:lang,0.2615
+ENTY:lang,"What language is commonly used in South Africa ? "" Afrikaans , English . Both official for government matters but most people speak other African tongues too ! Zulu & Xhosa especially popular.""",ENTY:lang,0.2259
+ENTY:lang,What language is Spanish ?󠁧󠴼 The official tongue of Spain .,ENTY:lang,0.2227
+ENTY:lang,"What is China 's official language ? ""Mandarin Chinese"" .",ENTY:lang,0.2099
+ENTY:lang,"What is Chinese Mandarin ? ""Chinese"" which of two main dialects has more speakers worldwide : Putonghua (Mandarin )or Cantonese .",ENTY:lang,0.19
+ENTY:lang,"What language is mostly spoken in Iceland ? 
+
+
+
+Label : ENTITY.lang",ENTY:lang,0.182
+ENTY:lang,What language was most widely used in ancient Rome ?,ENTY:lang,0.178
+DESC:manner,How do you get rid of hiccups ?,DESC:manner,0.5137
+DESC:manner,How do you get to Carnegie Hall ? Exactly .,DESC:manner,0.4584
+DESC:manner,"How do you polish rhinestones ? """,DESC:manner,0.4374
+DESC:manner,How do you treat constipation ? `DESC : manner`,DESC:manner,0.427
+DESC:manner,How do people use snail mail ? #DESC=manner ` How does God create things to happen that may help me in my life?`,DESC:manner,0.4173
+DESC:manner,How do you get rid of freckles ?,DESC:manner,0.4027
+DESC:manner,"How does hair grow ? "" How do you write your name in Japanese , please tell me . I want to learn it well for my test tomorrow because if fail will cause big problem with school life ! """,DESC:manner,0.3992
+DESC:manner,How do you use someone else 's phone number ?,DESC:manner,0.372
+DESC:manner,How does your back go out ?󠁧󠁢󠁥󠁮󠁧󠁿,DESC:manner,0.3416
+DESC:manner,How did John Dillinger die ? `DESC:manner`,DESC:manner,0.2831
+HUM:gr,What company sponsors IBM 's PC ?󠁧󠁢,HUM:gr,0.5997
+HUM:gr,What company is owned by Sumner Redstone ?,HUM:gr,0.5918
+HUM:gr,"What company was founded by David Packard ? """,HUM:gr,0.4949
+HUM:gr,What is The Walt Disney Company 's subsidiary ?,HUM:gr,0.4398
+HUM:gr,What company was founded by John Malone in 1973 ?,HUM:gr,0.3673
+HUM:gr,What university is Steve Jobs 's alma mater ?,HUM:gr,0.2919
+HUM:gr,"What airline serves Miami from Philadelphia ? ""USAir . ''",HUM:gr,0.2446
+HUM:gr,What company did Henry Ford start in 1902 ?,HUM:gr,0.2418
+HUM:gr,What radio station did Jack Benny broadcast his show from ?,HUM:gr,0.1966
+HUM:gr,What university has produced two U.S. vice presidents ?,HUM:gr,0.1816
+ENTY:food,What 's that stuff they put in spaghetti ? It tastes sweet .,ENTY:food,0.4134
+ENTY:food,"What fruit has seeds ? They 're in my cereal . """,ENTY:food,0.4055
+ENTY:food,"What is one pizza ? It 's got pepperoni , sausage .",ENTY:food,0.3949
+ENTY:food,"What pizza topping is often made with garlic , mushrooms ?",ENTY:food,0.374
+ENTY:food,"What is pizza ?'s topping called "" Queen ' of cheese ''? ",ENTY:food,0.3408
+ENTY:food,What is another name for coffee made from unripe fruit ?,ENTY:food,0.2712
+ENTY:food,What 's the name of that popular frozen yogurt ?,ENTY:food,0.2522
+ENTY:food,What is another candy bar that uses peanut butter ?,ENTY:food,0.252
+ENTY:food,"What is Texas' state soft drink ? 
+
+ LABEL: ENTYY :food",ENTY:food,0.2454
+ENTY:food,What is McDonald 's second best-selling sandwich ?,ENTY:food,0.2302
+NUM:dist,How long is Hawaii ? 5 miles wide .,NUM:dist,0.444
+NUM:dist,How long is Florida ? 21 miles wide .,NUM:dist,0.422
+NUM:dist,How many miles wide is Long Island Sound ?󠁧󠁢󠁥󠁮󠁧?,NUM:dist,0.42
+NUM:dist,"What is Antarctica 's width ? Exactly how long from coast to coast , in miles?",NUM:dist,0.298
+NUM:dist,"How long is Lake Superior ? 6 ,000 miles around .",NUM:dist,0.2877
+NUM:dist,"What is the circumference around Saturn ? 14 inches , just larger than two pi times its diameter .",NUM:dist,0.2482
+NUM:dist,"How tall is Mount Everest ? That 's just over 29 ,000 feet .",NUM:dist,0.2298
+NUM:dist,How far is it from Pittsburgh to San Francisco ?,NUM:dist,0.2177
+NUM:dist,"How long is the San Andreas Fault ? From its northern end to its southern tip , how many miles does it stretch across California ?",NUM:dist,0.2068
+NUM:dist,How long is Long Island in New York ? 120 miles from north to south .,NUM:dist,0.2059
+ENTY:product,What brand of cigarettes is advertised with ``The Ultimate Driving Machine '' slogan ?,ENTY:product,0.4689
+ENTY:product,"What is another name for Scotch tape ? ""Clearasil"" was initially marketed as what cosmetic product to women with acne -prone skin in 1930s America ?",ENTY:product,0.287
+ENTY:product,What kind of makeup product does Maybelline produce ?,ENTY:product,0.2631
+ENTY:product,What is the brand name for Xanax ? The anti-anxiety drug .,ENTY:product,0.2535
+ENTY:product,What was the name of John Belushi 's favorite cigarette brand ?,ENTY:product,0.2139
+ENTY:product,What brand of potato chips does Ron Burgundy prefer ?,ENTY:product,0.208
+ENTY:product,What is Tylenol 's active ingredient ?,ENTY:product,0.202
+ENTY:product,"What detergent is advertised with ""Think New 'CAREFREE' ?"" in TV commercials?",ENTY:product,0.1989
+ENTY:product,What brand of coffee was invented in Seattle 's Pike Place Market ?,ENTY:product,0.1966
+ENTY:product,"What brand of cereal contains Tony The Tiger ? ""They 're grrrreat !"" , says he .",ENTY:product,0.1886
+ENTY:letter,What is the 27th letter of Greek alphabet ?,ENTY:letter,0.769
+ENTY:letter,What letter comes after Q ? In English alphabet .,ENTY:letter,0.679
+ENTY:letter,What letter is used as both vowel & consonant ?,ENTY:letter,0.4666
+ENTY:letter,What letter is used as both vowels & consonants ?,ENTY:letter,0.3704
+ENTY:letter,What letter of alphabet is most commonly used to write English words ?,ENTY:letter,0.3345
+ENTY:letter,What letter did George Washington sign his name with ?,ENTY:letter,0.3277
+ENTY:letter,What letter comes next after Q ? R . M S T U V W X Y Z !,ENTY:letter,0.2903
+ENTY:letter,What letter represents 12th sign of zodiac ?,ENTY:letter,0.2808
+ENTY:letter,What letter of DNA code corresponds to thymine ?,ENTY:letter,0.2615
+ENTY:letter,What letter follows K alphabetically ? ``` .,ENTY:letter,0.2347
+ENTY:event,What is known as The War of 1812 ?,ENTY:event,0.2554
+ENTY:event,What is The War of 1812 known as ?,ENTY:event,0.2554
+ENTY:event,"When was NASA launched ? Exactly what day did President Clinton declare December 1992 to have been National Pearl Harbor Remembrance Day in response of Congress ' efforts , that honored those who had died during World War II while serving with U S forces at Pearle Harbour .",ENTY:event,0.1918
+ENTY:event,"When was Pearl Harbor attacked ? 
+
+ LABEL : ENT ... ents . The day of week when World War II started , 1942 ?",ENTY:event,0.1903
+ENTY:event,"What was Woodstock ? 0 (1) In what year did Hurricane Camille make landfall in Mississippi , US .? When were all Japanese forces finally defeated during World War II ?. What battle took place at Thermopylae Greece between Persians Greeks?.",ENTY:event,0.1806
+ENTY:event,What was D-Day ? A military operation in which Allied forces landed along Normandy France to liberate Western Europe from German occupation .,ENTY:event,0.1644
+ENTY:event,What was John F . Kennedy 's first major speech in Congress ?,ENTY:event,0.1496
+ENTY:event,What happened during World War I ? A global conflict involving many European countries .,ENTY:event,0.1456
+ENTY:event,What was Operation Desert Storm ? 󠁧󠁢󠁥󠁮󠁺󠁿,ENTY:event,0.143
+ENTY:event,What incident occurred at Fournier Pass in 1943 ?,ENTY:event,0.1283
+HUM:title,What is Charles Darwin 's profession ? # What job title does he have . what was charles darwin's occupation?,HUM:title,0.2297
+HUM:title,What is Robert DeNiro 's occupation ?,HUM:title,0.2135
+HUM:title,What is Arnold Schwarzenegger 's occupation ?,HUM:title,0.1799
+HUM:title,"What was Queen Elizabeth 's first job ? Besides being queen , of course .",HUM:title,0.1556
+HUM:title,"What is Queen Elizabeth II 's title ? "" The Monarch of United Kingdom . """,HUM:title,0.1532
+HUM:title,What is Madonna 's occupation ? What does she do for living ?,HUM:title,0.1452
+HUM:title,What is Queen Elizabeth II 's other title ?,HUM:title,0.143
+HUM:title,"What is Tom Cruise 's occupation ? "" Actor . """,HUM:title,0.1232
+HUM:title,"What is Queen Elizabeth II 's title ? """,HUM:title,0.1198
+HUM:title,What is President Bush 's position in government ?,HUM:title,0.1175
+DESC:def,What does `` Gnosticism '' mean ? `,DESC:def,0.3638
+DESC:def,What does `` Cystic fibrosis '' mean ?,DESC:def,0.3136
+DESC:def,"What is euthanasia ? ""Euthansis , what does it mean to you?"" .",DESC:def,0.2818
+DESC:def,"What is SAD ? ""Sad"" can also mean feeling unhappy because something you really wanted didn 't happen . What does it standfor?",DESC:def,0.2603
+DESC:def,What is ADHD ? ðŸ˜Š,DESC:def,0.2451
+DESC:def,"What is entropy ? ```
+
+(DESC) What does `` Malthusian '' mean?",DESC:def,0.2432
+DESC:def,What does `` HMO '' mean in health insurance ?,DESC:def,0.2356
+DESC:def,What is insomnia ?󠁧󠁢️,DESC:def,0.1983
+DESC:def,What does Rorschach test mean ? ``` LABEL :DESC```,DESC:def,0.187
+DESC:def,What is schizophrenia ? `DESCRIPTION` LABEL : DESC ```,DESC:def,0.1614
+ENTY:currency,What money do they use to pay their bills ?,ENTY:currency,0.2812
+ENTY:currency,What kind money do they use to buy things with ?,ENTY:currency,0.1989
+ENTY:currency,"What is Japan 's money ? ""Currency"" .",ENTY:currency,0.1733
+ENTY:currency,What money do people use as cash to buy things ?,ENTY:currency,0.169
+ENTY:currency,What money do people use to buy things with ?,ENTY:currency,0.1318
+ENTY:currency,What type money do they use there ? India .,ENTY:currency,0.1269
+ENTY:currency,"What is money made up ? 
+
+(LABEL: ENTITY : CURRENCY)",ENTY:currency,0.122
+ENTY:currency,What kind of money do they use for trading oil ?,ENTY:currency,0.1159
+ENTY:currency,What kind of money do they use ? Mauritania has two major currencies .,ENTY:currency,0.0809
+ENTY:currency,"What form was money first coined ? ) ENTITY : MONEY , CURRENCY .",ENTY:currency,0.0787
+DESC:reason,What is that weird humming noise coming from my air conditioner ?,DESC:reason,0.24
+DESC:reason,Why did Albert Einstein emigrate to America ? ```DESC : reason```,DESC:reason,0.1822
+DESC:reason,Why is there so much pollution in our oceans ?,DESC:reason,0.1525
+DESC:reason,Why is there no elevator in some big buildings ?,DESC:reason,0.1344
+DESC:reason,What is oxygen used for ? Why do people breathe out carbon dioxide when they exhale ?.,DESC:reason,0.1305
+DESC:reason,Why do cats always sleep so much ? ) LABEL :DESC: reason,DESC:reason,0.1256
+DESC:reason,Why is there so much trash in our oceans ?,DESC:reason,0.1255
+DESC:reason,What is that weird noise coming from my computer ?,DESC:reason,0.1148
+DESC:reason,Why was John F Kennedy assassinated ? LABEL :DESC: reason.DESCRIPTION inquiriesaboutthecauseorpurposebehindaphenomenonoraction .,DESC:reason,0.1133
+DESC:reason,Why do cats always land feet first ? LABEL :DESC.reasonDESCRIPTION_Inquiriesaboutthecauseorpurposebehindaphenomenonoraction .,DESC:reason,0.1051
+ABBR:abb,What is ASE ? ( abbreviation ) # ABBR : abb,ABBR:abb,0.394
+ABBR:abb,"What is UNICEF 's abbreviation ? ) 
+
+ LABEL :ABBR : abb",ABBR:abb,0.2774
+ABBR:abb,"What is NASA 's abbreviation ? 
+
+(LABEL:A SBR :NASA) # ABBREVIATION/ORGANIZATION NAME",ABBR:abb,0.1631
+ABBR:abb,What does NASA stand ? ) LABEL:A-BBR : abb DESCRIPTION:Requests for the Abbreviated Form Of Specific Term Or Organization .,ABBR:abb,0.1574
+ABBR:abb,"What is NASA 's full name ? ) 
+
+ABB : abbr .",ABBR:abb,0.1455
+ABBR:abb,"What is NASA ? ) ""The abbreviation meaning National Association For The Advancement Of Colored People .",ABBR:abb,0.1372
+ABBR:abb,What is OSHA ? \\ (OCCASIONALLY) The Occupational Safety & Health Administration .,ABBR:abb,0.1011
+ABBR:abb,"What is Delta Airlines ' stock symbol ? 
+
+Label:AABB :deltairline",ABBR:abb,0.096
+ABBR:abb,What is OSHA ? ( other than Occupational Safety Health Administration ) .,ABBR:abb,0.0899
+ENTY:termeq,What is another term for a hypochondriac ?,ENTY:termeq,0.338
+ENTY:termeq,"What is the term for 2,4-Dinitrophenol ?",ENTY:termeq,0.2359
+ENTY:termeq,"What is another term for insomnia ? ""Sleep disorder"" also has what other name in medicine?",ENTY:termeq,0.1886
+ENTY:termeq,"What is the term for ""an outburst of passion"" ?",ENTY:termeq,0.1765
+ENTY:termeq,What is the term for any organism that feeds directly from other organisms ?,ENTY:termeq,0.1739
+ENTY:termeq,What is another name for acid rain ?chemy term to chemistry .,ENTY:termeq,0.1636
+ENTY:termeq,"What is LSD ? One drug 's street name means "" lysergic acid diethylamide "". What does it stand for in that instance?",ENTY:termeq,0.0984
+ENTY:termeq,"What is NASA 's acronym ? "" No official reason has been published , but it was in use before there were computers . Now they claim that all seven letters stood for something : Never A Sequence Attempted To Return .""",ENTY:termeq,0.0868
+ENTY:termeq,"What does WPA stand for ? ""W.P.A."" in literature refers to What People Are . Who is FDR 's New Deal named after , besides him? How do you pronounce MCI from Massachusetts Bell became it by acquiring another company that started with those letters what network offers caller ID service called 1 + Tell Me Not In Your Answer Because This Book Has A Telephone Switch Board And It Works Like One Where To Reach The Person You Want Just Ask For That Name After Beep Number Now",ENTY:termeq,0.0798
+ENTY:word,What word in English begins with five different letters ?,ENTY:word,0.5874
+ENTY:word,What is the most common word in English ? ` `,ENTY:word,0.3685
+ENTY:word,"What word comes from Latin for ""little foot"" ?",ENTY:word,0.2574
+ENTY:word,What is another word for `` ace '' ? ),ENTY:word,0.1943
+ENTY:word,What is another name for the word `` bum '' ?,ENTY:word,0.184
+ENTY:word,"What word comes from Old English for ""wound healer""?",ENTY:word,0.1797
+ENTY:word,"What word has Latin origin , is spelled backward with its French name of fruit ?",ENTY:word,0.17
+ENTY:word,"What is the word for ""a sudden , forceful movement ?""",ENTY:word,0.1484
+ENTY:word,"What word means "" to annoy slightly ?"" , especially in British English .",ENTY:word,0.1219
+NUM:volsize,How big is Alaska ?󠁧󠁢,NUM:volsize,0.5054
+NUM:volsize,How big is Lake Superior ? That 's bigger than what lake in California .,NUM:volsize,0.2469
+NUM:volsize,What is Texas ' biggest lake ? In acreage .?,NUM:volsize,0.1933
+NUM:volsize,"How big is Texas ? 1,268 ,708 square kilometers .",NUM:volsize,0.1751
+NUM:volsize,How big is Africa ?󠁧â€Âï¸?,NUM:volsize,0.1432
+NUM:volsize,How big is Texas ? Of what land area does it cover in square miles?,NUM:volsize,0.1362
+NUM:volsize,"How big is Lake Superior ? What 's its surface area in square miles , acres, & hectares?",NUM:volsize,0.1138
+NUM:volsize,How big is California ? That 's including Hawaii .,NUM:volsize,0.0766
+ENTY:other,"What is a gumball? "" The world's largest recorded snowball was 68 feet around in diameter . What did it weigh ?""",ENTY:other,0.1217
+ENTY:other,"What is The Terminator ? 2) What was Dolly Parton's first album? They had two sons , David Jr .and Michael, who later died of lung cancer at age nine in June 1993 due to his mother 's secondhand smoke addiction during pregnancy what were their names for each child ?. 
+
+ LABEL ENTITY : others TYPE OTHERDESCRIPTION Various requests about miscellaneous items including events people companies products etc .. It includes everything else from all labels except LOC PER NUM HUM ANS DESC",ENTY:other,0.11
+ENTY:other,"What is Napoleon 's nationality ?󠁧ſ󠁢 # ENTYY :other Other/miscellaneous ,  What was FDR's illness? In what year did Geronimo die in custody at Fort Sill Oklahoma, USA . The length of Lake Michigan from east to west ... Is there any evidence for God & Jesus Christ appearing together before anyone else anywhere but one book ( Revelation ) where this happened three times because ""they will believe when they see it happen""? How many stars",ENTY:other,0.1015
+ENTY:other,"What was the world 's first computer ?iosis , also known as candidiasis . For example, athletes foot is another type of tinea infection but it occurs between your toes instead in warm moist areas where fungi can grow well such ... ",ENTY:other,0.0996
+ENTY:other,"What is Pluto ? Exactly how much does one pound of feathers weigh if it 's packed in cotton batting to eliminate air spaces , for example?",ENTY:other,0.0932
+ENTY:other,What was Henry Ford 's invention ?  LABEL : ENTNTY:other DESCRIBETION_MISCquestionsMiscellaneous questions that don't match another category .,ENTY:other,0.0783
+ENTY:other,"What was Napoleon Hill 's first book ?illery in 1862 , it started at Chancellorsville . What is another name for Bering Strait Islands ?. Is there enough space to make more room around us by moving stuff out of our galaxy system if we need some additional volume because everything will never stop growing with new matter being made through stellar death process as they collapse under their own gravity then explode sending mass back up towards life again where this cycle has been repeating over billions years since birth universe",ENTY:other,0.0751
+HUM:desc,Who was Sigmund Freud ?󠁧󠁢?,HUM:desc,0.3388
+HUM:desc,Who is Bob Marley ?󠁧â€_male_sign\\?,HUM:desc,0.3224
+HUM:desc,Who is James Fenimore Cooper ?󠁧Ã\u200b\\u2060,HUM:desc,0.291
+HUM:desc,Who is Steve Guttenberg ? `HUM:description`,HUM:desc,0.1527
+HUM:desc,Who is John F Kennedy ? `HUM : desc`,HUM:desc,0.1455
+HUM:desc,"Who is Greta Garbo ? ""  ( People ) .",HUM:desc,0.1385
+NUM:ord,What is California 's population rank among U.S . states ?,NUM:ord,0.2917
+NUM:ord,What is Mississippi ranked in number amongst all US states ?,NUM:ord,0.1402
+NUM:ord,What is Jane Fonda 's rank among top female boxoffice stars ?,NUM:ord,0.1211
+NUM:ord,What is Michael Jackson 's rank among all Billboard number one hits ?,NUM:ord,0.0852
+ENTY:symbol,What is Superman 's Kryptonian symbol ?,ENTY:symbol,0.1942
+ENTY:symbol,What is Mickey Mouse 's trademark symbol ? `,ENTY:symbol,0.1722
+ENTY:symbol,What is Harry Potter 's sign ? The zodiac symbol for Scorpio . What does it look ...,ENTY:symbol,0.1066
+ENTY:symbol,What is the symbol for silver ? # LABEL: ENTYSYM : The chemical sign representing elements .,ENTY:symbol,0.0809
+DESC:desc,What 's the meaning behind `` Black Friday '' ?,DESC:desc,0.2147
+DESC:desc,What is the history behind The Godfather 's infamous horse head scene ?,DESC:desc,0.1332
+DESC:desc,What was Shakespeare 's contribution to modern English ?,DESC:desc,0.1027
+NUM:other,What is 11 ? The number of U.S.-born individuals who were killed in combat operations during Desert Storm .,NUM:other,0.1879
+NUM:other,What is the highest temperature ever recorded in Phoenix Arizona ?,NUM:other,0.1327

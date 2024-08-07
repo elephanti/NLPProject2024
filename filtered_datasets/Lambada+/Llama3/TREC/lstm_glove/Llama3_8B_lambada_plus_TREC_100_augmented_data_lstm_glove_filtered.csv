@@ -1,0 +1,257 @@
+label,text,predicted_label,probability
+NUM:date," What day of the week is July 7 , 1998 ?",NUM:date,0.9989
+NUM:date," In what year did the Dow first reach ? 1 , .",NUM:date,0.9988
+NUM:date," When did the Vietnam War start ? and when was it stopped , what year etc",NUM:date,0.9984
+NUM:date," When did the Dow first reach 4 ,000 ?",NUM:date,0.998
+NUM:date," When did the Dow first reach 1 ,000 ?",NUM:date,0.9979
+NUM:date, What year did the Dow first reach 1000 ?,NUM:date,0.9975
+NUM:date, When did the Dow first reach 1000 ?,NUM:date,0.9972
+NUM:date, When did the Dow first reach 100 ? .,NUM:date,0.9965
+NUM:date, What year did the Berlin Wall go up ? and when was it torn down .,NUM:date,0.9964
+NUM:date," In what year did the Dow first reach 1 ,000 points ?",NUM:date,0.9964
+ENTY:instru, What instrument does Benny Carter played ? The clarinet .,ENTY:instru,0.9153
+ENTY:instru, What type of guitar did Jimi Hendrix plays ?,ENTY:instru,0.907
+ENTY:instru, What kind of guitar does Jimi Hendrix plays ?,ENTY:instru,0.9023
+ENTY:instru, Which instrument does Benny Carter plays ? 45-7,ENTY:instru,0.8918
+ENTY:instru, What kind of guitar does Jimi Hendrix Play ?,ENTY:instru,0.8864
+ENTY:instru, What instrument does Benny Carter perform ? ________________,ENTY:instru,0.874
+ENTY:instru, What kind of guitar did Jimi Hendrix plays ?,ENTY:instru,0.8689
+ENTY:instru," What instrument does Benny Carter perform on ? On what type of guitar did J.S.Bach compose Suite for Lute in G minor , BWV 996",ENTY:instru,0.8545
+ENTY:instru, What kind of guitar did Jimi Hendrix play ?,ENTY:instru,0.8449
+ENTY:instru, Which instrument does Benny Carter play ? ___ Trumpet,ENTY:instru,0.8223
+ENTY:other, What is the largest card in a Tarot deck ?,ENTY:other,0.9813
+ENTY:other, What did they use as a toilet in the 16th century ?,ENTY:other,0.9758
+ENTY:other, What kind of weapon was Shergill 's spear called ?,ENTY:other,0.9728
+ENTY:other, What is the most powerful card in Euchre ?,ENTY:other,0.9693
+ENTY:other, What is the rarest birthstone ? and what month does it belong to,ENTY:other,0.9606
+ENTY:other, What 's the second lightest metal ? and what is it used for ?,ENTY:other,0.9264
+ENTY:other, What is the most expensive drug in America ? ,ENTY:other,0.9252
+ENTY:other, What is the rarest coin ? and how much does it sell for in perfect condition .,ENTY:other,0.9147
+ENTY:other, What is the largest type of tree ? DS SPL,ENTY:other,0.9072
+ENTY:other, What did the last czar of Russia own ?,ENTY:other,0.9008
+LOC:other, What 's the largest lake in Asia ? and where is it located,LOC:other,0.9985
+LOC:other, Where is the San Andreas Fault ? The fault runs from Santa Barbara to Cape Mendocino .,LOC:other,0.9925
+LOC:other, Where is the Andromeda Galaxy ? ﻿﻿,LOC:other,0.9905
+LOC:other," Where is the Danube ? , The Nile and",LOC:other,0.9896
+LOC:other," Where is Lake Champlain ? and what state or province does it belong to , the USA Or Canada",LOC:other,0.9878
+LOC:other, Where is the world 's largest library ? .,LOC:other,0.9833
+LOC:other, What lake are these islands found in ? The Canary Islands,LOC:other,0.9822
+LOC:other, What constellation contains the twin pit of hell ? and where is it located in space .,LOC:other,0.973
+LOC:other," Where is the San Remo Palace Hotel ? ,",LOC:other,0.9643
+LOC:other," Where is the deepest pool in Florida ? , USA",LOC:other,0.9602
+DESC:reason, Why do I see things when my eyes are closed ?,DESC:reason,0.9987
+DESC:reason, Why do I need to breathe ? What is www.google.com used for,DESC:reason,0.9919
+DESC:reason, Why do magnets attract ? and repel other magnetics ?,DESC:reason,0.9911
+DESC:reason, What causes lung cancer ? Why are some people color blind ?,DESC:reason,0.9903
+DESC:reason, Why can 't I see www answers.com ?,DESC:reason,0.9853
+DESC:reason, What is Jane Goodall famous for ? and Why did she get that distinction,DESC:reason,0.9827
+DESC:reason," What 's so funny ? Why did people stop believing in King Arthur and knights , etc .",DESC:reason,0.9819
+DESC:reason, Why was Mr Spock upset after Nero damaged Vulcan ?,DESC:reason,0.9797
+DESC:reason, Why is George W . Bush so silent ? What 's he afraid of telling us,DESC:reason,0.9786
+DESC:reason, Why are there so many people who hate George W.Bush ?,DESC:reason,0.9762
+ENTY:food, What non-alcoholic syrup is made from pomegranate juice ?,ENTY:food,0.9969
+ENTY:food, What was the first canned soup ? The Chicken Noodle Soup .,ENTY:food,0.9963
+ENTY:food," What soft drink is most heavily caffeinated ? ,",ENTY:food,0.9949
+ENTY:food, What non-alcoholic drink is most frequently associated with bartenders ?,ENTY:food,0.9931
+ENTY:food, What 's the best non-alcoholic beverage for kids to drink at restaurants ?,ENTY:food,0.9921
+ENTY:food, What is the most heavily caffeinated soft drink ?,ENTY:food,0.9919
+ENTY:food, What 's the most heavily caffeinated soft drink ?,ENTY:food,0.9907
+ENTY:food, What is the best-tasting diet soft drink ?,ENTY:food,0.99
+ENTY:food, What is the second most heavily caffeinated soft drink ?,ENTY:food,0.9778
+ENTY:food, What kind of wine do you serve with veal ?,ENTY:food,0.9645
+HUM:ind, Who are the five living U.S. presidents ?,HUM:ind,0.9711
+HUM:ind, Who was the inventor of baseball ? 5014,HUM:ind,0.9652
+HUM:ind, What is the name of an American actor who starred in Goodfellas ?,HUM:ind,0.9572
+HUM:ind, Who is the first woman to win a male Best Lead Actor Tony ?,HUM:ind,0.9539
+HUM:ind, What American president married his cousin ? /2012,HUM:ind,0.9468
+HUM:ind, Who won the 1962 Best Actor Oscar ?,HUM:ind,0.9434
+HUM:ind, Who was the first American citizen awarded a Nobel Prize ?,HUM:ind,0.9393
+HUM:ind, Who won the 1967 Academy Award for Best Actor ?,HUM:ind,0.9232
+HUM:ind, Who invented baseball ? ~i .,HUM:ind,0.9178
+HUM:ind, Which Beatles member is the father of Julian Lennon ?,HUM:ind,0.8595
+ENTY:cremat, What film featured the first Oscar-winning special-effects sequence ?,ENTY:cremat,0.9817
+ENTY:cremat," What is a film starring Jude Law , Ed Harris ?",ENTY:cremat,0.9335
+ENTY:cremat, What was the first science fiction magazine ? 51,ENTY:cremat,0.9138
+ENTY:cremat, What is the best-selling Star Trek book ever published ?,ENTY:cremat,0.885
+ENTY:cremat," What is a movie starring Jude Law , Ed Harris and Joseph Fiennes ?",ENTY:cremat,0.8713
+ENTY:cremat, What film has the most James Bond continuities ?,ENTY:cremat,0.8531
+ENTY:cremat," What book features characters called Slim Grubb , William Bonney",ENTY:cremat,0.8373
+ENTY:cremat, Which two British sitcoms starring Ronnie Barker were made into American versions ?,ENTY:cremat,0.8332
+ENTY:cremat, What was the first Superman comic book called ? .,ENTY:cremat,0.8284
+ENTY:cremat, What film features a dog called Babe ?                                                 ,ENTY:cremat,0.8237
+NUM:count, How many people died on D-Day ? and how many Americans were among them .,NUM:count,0.9903
+NUM:count," How many Americans have HIV ? and how is the disease progressing among these people in 1996 ,",NUM:count,0.9886
+NUM:count, How many Americans suffer from some form of color blindness ?,NUM:count,0.9882
+NUM:count," How many people live in Texas ? 2,638 ,152",NUM:count,0.9698
+NUM:count, How many people are there on the earth today ?,NUM:count,0.9669
+NUM:count, How many Americans have HIV ? and how fast is the infection growing in USA now .,NUM:count,0.9649
+NUM:count, How many different kinds of tea are there ? and what 's the name for each kind .,NUM:count,0.9624
+NUM:count," How many people die from tuberculosis ? What is the current population in Ohio , USA",NUM:count,0.9572
+NUM:count, How many Americans have HIV ? and how many died from AIDS in 1996 .,NUM:count,0.9554
+NUM:count, How many species are there ? and which is the most numerous one among them all .,NUM:count,0.947
+ENTY:sport, In what sport is table tennis called ? 2020-12,ENTY:sport,0.9325
+ENTY:sport, What kind of betting is used in horse racing ?,ENTY:sport,0.8878
+ENTY:sport, What 's the most popular sport in China ?,ENTY:sport,0.8433
+ENTY:sport," What sport features snatches , clean jerks ?",ENTY:sport,0.8387
+ENTY:sport, What is the most popular sport in Japan ? ？,ENTY:sport,0.8251
+ENTY:sport, What sport does the Tomateros de Culiacan play ?,ENTY:sport,0.8017
+ENTY:sport, What sport features snatches and clean jerks ?,ENTY:sport,0.796
+ENTY:sport, What game is Garry Kasparov really good at ?,ENTY:sport,0.7877
+ENTY:sport, What is the most popular sport in Japan ? ___ not golf .,ENTY:sport,0.7644
+ENTY:sport," What sport features snatches , clean jerks or both ?",ENTY:sport,0.7488
+HUM:gr, Which company is the largest computer manufacturer in Japan ?,HUM:gr,0.963
+HUM:gr, Which airline was founded by the Singer Sewing Machine Company ?,HUM:gr,0.9608
+HUM:gr, What company is the largest auto manufacturer in Japan ?,HUM:gr,0.944
+HUM:gr, Which company is being acquired by Microsoft ? The firm in question makes communications products .,HUM:gr,0.9417
+HUM:gr, Which corporation is the world 's largest toy maker ?,HUM:gr,0.9314
+HUM:gr," Which company invented the mouse ? . The Mouse Company is a computer software design house based in Cambridge , Massachusetts",HUM:gr,0.8907
+HUM:gr, Which two auto manufacturers are still publicly owned ? ',HUM:gr,0.8691
+HUM:gr, What company was founded by William Hesketh Lever ?,HUM:gr,0.8434
+HUM:gr," Which two comic book companies , DC Comics Inc . and National Allied Publications are merged into ?",HUM:gr,0.8278
+HUM:gr, What company did William Henry Vanderbilt buy out to form the United States Steel Corporation ?,HUM:gr,0.8045
+ENTY:color, What is the most common eye color ? 1,ENTY:color,0.9168
+ENTY:color, What color is a tomato ? what Color are the clouds in cirrus Sratus,ENTY:color,0.9119
+ENTY:color, What color are the stars in a pomegranate ?,ENTY:color,0.8702
+ENTY:color, What color eyes are most sensitive to light ? C,ENTY:color,0.8525
+ENTY:color, What color is a lemon ? _________________________________________________________________________,ENTY:color,0.8347
+ENTY:color," What is the most popular contact lens color ? ,",ENTY:color,0.7852
+ENTY:color," What color are school buses ? , yellow . Read More",ENTY:color,0.7838
+ENTY:color," What are Halloween 's three color s ? The traditional answer is black , orange or purple .",ENTY:color,0.7504
+ENTY:color, What are Halloween 's colors ? | {CE},ENTY:color,0.6782
+ENTY:color, What is the most common eye color in Japan ?,ENTY:color,0.6519
+DESC:manner, How does a septic system work ? and What can I do to keep it working properly .,DESC:manner,0.9855
+DESC:manner, How can you solve this problem ? 12345678+54321937 =,DESC:manner,0.944
+DESC:manner," How does an accordion work ? and how do you play it well ,",DESC:manner,0.938
+DESC:manner, How do you solve a Rubik 's Cube ?,DESC:manner,0.9282
+DESC:manner, How do I set up my new computer ? and how can i make it run faster .,DESC:manner,0.9163
+DESC:manner, How can I find some simple programs that teach kids how to program ?,DESC:manner,0.9068
+DESC:manner, How can I find out how to get a patent for an invention ?,DESC:manner,0.8754
+DESC:manner, How do you solve this differential equation ? dx / dy = x + y,DESC:manner,0.8112
+DESC:manner, How does a solar cell work ? and how do you make one at home .,DESC:manner,0.7852
+DESC:manner," How do I build a boat ? and what size should it be for my needs , how much will this cost me .",DESC:manner,0.7808
+NUM:period, How long is a human gestation period ? 2,NUM:period,0.6981
+NUM:period, How long do people live ? What is the average life span for an American today,NUM:period,0.6553
+NUM:period, What is the average life span for a human ?,NUM:period,0.6228
+NUM:period," How long is human gestation ? . The life span for a male poodle averages 12 years , with females averaging up to three more than males at around fifteen .",NUM:period,0.5994
+NUM:period, How long is the human gestation period ? ...,NUM:period,0.5875
+NUM:period, How long does it take for the typical male seagull to reach maturity ?,NUM:period,0.4655
+NUM:period, What is the average life span for a hamster ?,NUM:period,0.4619
+NUM:period, How long does it take for Star Trek 's Enterprise to reach Mars ?,NUM:period,0.4618
+NUM:period," How long is human gestation ? , N 1997",NUM:period,0.4457
+NUM:period, How long does it take for a 50 watt bulb to use one kilowatt hour ?,NUM:period,0.4184
+ENTY:animal, Which killer whale died at Sea World of a fungal infection ?,ENTY:animal,0.8448
+ENTY:animal, What kind of creature is a koala ? Its actually an arboreal marsupial .,ENTY:animal,0.7548
+ENTY:animal, Which three species of dog exist in the world ?,ENTY:animal,0.6875
+ENTY:animal, What is the fastest animal on earth ? 2008-09-22,ENTY:animal,0.598
+ENTY:animal, Which is the rarest dog in the world ?,ENTY:animal,0.5806
+ENTY:animal, Which mosquito is a dangerous carrier of malaria ? The Anopheles,ENTY:animal,0.5754
+ENTY:animal, What is the rarest primate on earth ?,ENTY:animal,0.535
+ENTY:animal, What kind of animal is Snoopy ? . DS,ENTY:animal,0.5219
+ENTY:animal, What species is a colt ? 2015-type,ENTY:animal,0.5161
+ENTY:animal, What animal has killed the most people ? The hippo .,ENTY:animal,0.4784
+NUM:temp, What is the average body temperature ? ����� �l�4dM����&9f>~,NUM:temp,0.7463
+NUM:temp," How hot should my refrigerator be ? and how cold the freezer part , in both Fahrenheit & Celsius temperature scales .",NUM:temp,0.7415
+NUM:temp, How hot should a barbeque be ? / What temperature does water boil at in space,NUM:temp,0.7271
+NUM:temp, What is the average body temperature ? ) TEMPERATURE,NUM:temp,0.7196
+NUM:temp, How hot does the sun get ? and what is its surface temperature on average,NUM:temp,0.5976
+NUM:temp, What is the temperature of boiling water ? ﻿﻿,NUM:temp,0.5056
+NUM:temp, What is the average body temperature ? ]< /p>,NUM:temp,0.4192
+NUM:temp, What is the average body temperature ? ￦,NUM:temp,0.3913
+NUM:temp, What is the average body temperature ? ] 1,NUM:temp,0.3721
+NUM:temp, What is the average body temperature ? 2019,NUM:temp,0.3559
+LOC:state, What is the U.S state with fewest dams ?,LOC:state,0.8631
+LOC:state, What U.S. state has the most Indians ?,LOC:state,0.8446
+LOC:state, What state has the most Indians ? The only two tribes in Oklahoma are Cherokee from North Carolina .,LOC:state,0.7921
+LOC:state, What state is called the Hawkeye State ?,LOC:state,0.7806
+LOC:state, What U.S . state is known as the Hawkeye State ?,LOC:state,0.7723
+LOC:state, What is the state nicknamed The Cornhusker State ?,LOC:state,0.6697
+LOC:state, What U.S. state is the largest in land area ?,LOC:state,0.6542
+LOC:state, What U.S. state is Fort Knox in ?,LOC:state,0.632
+LOC:state, What U.S . state has the most Indians ?,LOC:state,0.5989
+LOC:state," What state has the least amount of precipitation ? ,",LOC:state,0.5804
+LOC:country, What Asian country has the second-most people ? __________,LOC:country,0.9602
+LOC:country, What two European monarchies does Belgium share with which other country ?,LOC:country,0.9348
+LOC:country, What is the richest country in Africa ? __________________________________________________________________,LOC:country,0.9028
+LOC:country, What are the Nordic nations ? ___ is a Scandinavian country .,LOC:country,0.7997
+LOC:country, What is the second richest country in Asia ? 2008-08,LOC:country,0.7743
+LOC:country, What is the most populated country in Africa ? ___,LOC:country,0.6988
+LOC:country, Which country is Australia 's largest export market ?,LOC:country,0.6683
+LOC:country, What two South American nations do n't border Brazil ?,LOC:country,0.6649
+LOC:country, What country is the second-largest producer of rice ?,LOC:country,0.6595
+LOC:country, What is Stefan Edberg 's native country ?,LOC:country,0.5947
+ENTY:body, What part on a male 's body produces sperm ?,ENTY:body,0.7482
+ENTY:body, What two muscles extend from each shoulder blade to join at a knob on your breastbone ?,ENTY:body,0.6946
+ENTY:body, What part separates your brain 's right hemisphere from its left ?,ENTY:body,0.653
+ENTY:body," Where is your appendix located ? . 1) What kind do skiers have on their hands when they 're in a tuck position - fingers forward , thumbs turned under OR thumb out front with finger tips together",ENTY:body,0.646
+ENTY:body, What 's your tongue called ? The second bone in each hand is what ?,ENTY:body,0.5951
+ENTY:body, What two bones are found in a fish 's throat ?,ENTY:body,0.5721
+ENTY:body, Where does your hair grow the fastest ? The scalp .,ENTY:body,0.529
+ENTY:body, Where does your hair grow fastest ? |{ From the scalp .,ENTY:body,0.4593
+ENTY:body, What dangles over a knuckle on your fingertips ?,ENTY:body,0.445
+ENTY:body, What part separates your brain from you spinal cord ?,ENTY:body,0.4439
+NUM:perc, What percentage of Americans own their homes ? 79 percent,NUM:perc,0.9154
+NUM:perc, What percentage of Americans own their homes ? 62 % .,NUM:perc,0.8924
+NUM:perc, What percentage of Americans own their homes ? 62,NUM:perc,0.6579
+NUM:perc, What percentage of American men are alcoholic ? 41,NUM:perc,0.6576
+NUM:perc, What percentage of U.S households owned a personal computer in 1990 ?,NUM:perc,0.6001
+NUM:perc, What percentage of American men are alcoholic ? ___ percent .,NUM:perc,0.5022
+NUM:perc, What percentage of U.S . households own a personal computer ?,NUM:perc,0.4178
+NUM:perc, What percentage of all children between the ages of two and eleven have at least one tooth ?,NUM:perc,0.3622
+NUM:perc, What percentage of American men are alcoholic ? 30,NUM:perc,0.3009
+ABBR:exp, What does NASDAQ stand for ? | url:http://www.nasdaq.com/,ABBR:exp,0.8736
+ABBR:exp, What is NASDAQ ? 2001-12-18,ABBR:exp,0.7976
+ABBR:exp, What does NAFTA stand for ? 51 % [SEP] CNN stands f,ABBR:exp,0.7348
+ABBR:exp, What does NASDAQ stand for ? ____________________________,ABBR:exp,0.7233
+ABBR:exp, What is AARP ? ; Cite : http://www.ask.com/question/what-is-aarp,ABBR:exp,0.6464
+ABBR:exp," What does NASDAQ stand for ? ___ , __",ABBR:exp,0.5572
+ABBR:exp, What does S.O.S . stand for ? |,ABBR:exp,0.4619
+ABBR:exp, What does NASDAQ stand for ? 2010,ABBR:exp,0.4518
+ABBR:exp," What is AFS ? , what does it stand for .",ABBR:exp,0.4367
+ABBR:exp, What does BTU mean ? ( . ) 2000,ABBR:exp,0.4074
+NUM:money, How much money does the President of Ireland get paid ?,NUM:money,0.7488
+NUM:money, How much money do the average Japanese earn ? 0,NUM:money,0.7123
+NUM:money," How much does the President get paid ? and how often are his wages raised , compared to private sector pay scales .",NUM:money,0.665
+NUM:money, How much money are Dumbo 's ears insured for ?,NUM:money,0.4553
+NUM:money, How much does the President get paid ? and how often is that figure raised ?,NUM:money,0.2996
+NUM:money," How much money does the average Australian earn ? and what is it in U.S . dollars value , also how come Australians get so little for their work because they have such a high cost of living where as us Yanks do quite well on our wages but we don't need to spend all that extra cash like them Aussies - thanks",NUM:money,0.2206
+ENTY:termeq, What is the Latin name for Pygmy Hippopotamus ?,ENTY:termeq,0.8296
+ENTY:termeq, What is another term for a vegetarian ? ] - Ask Us,ENTY:termeq,0.6066
+ENTY:termeq, What does the term `` baby boomer '' refer to ?,ENTY:termeq,0.4994
+ENTY:termeq, What is the meaning of ` coo ' ?,ENTY:termeq,0.4882
+ENTY:termeq, What is another term for a real number ? | {CAT},ENTY:termeq,0.2838
+ENTY:event, What were the names of all World War II battles ?,ENTY:event,0.6327
+ENTY:event, What war did Florence Nightingale tend the troops in ?,ENTY:event,0.3627
+ENTY:event, What are some of the important historical events in 1984 ?,ENTY:event,0.3617
+ENTY:event, In what war did the Battle of Waterloo occur ?,ENTY:event,0.3263
+ENTY:event," What are the various Islamic holidays ? , Copyright Ronald Reagan 1981",ENTY:event,0.2315
+HUM:title, What title does Queen Elizabeth II hold at Balmoral Castle ?,HUM:title,0.5744
+HUM:title," What is the occupation of Santa Claus ? , How do I become a prince and how much would it cost me to purchase land in Spain so that my son could inherit Prince William 's title from his father-in-law .",HUM:title,0.4137
+HUM:title, What was Queen Victoria 's title regarding India ?,HUM:title,0.2639
+DESC:desc, What is the difference between an attorney and counselor ?,DESC:desc,0.7952
+DESC:desc, What is the difference between a lawyer and an attorney ?,DESC:desc,0.7095
+DESC:desc, What is the difference between an epiphany and revelation ?,DESC:desc,0.4242
+DESC:desc," What did the Yalta Conference accomplish ? . For instance , what do they use for money and currency in Barbados ...",DESC:desc,0.394
+ENTY:substance," What molecule includes fluorine , sodium and magnesium ?",ENTY:substance,0.8801
+ENTY:substance," What is glass made of ? _____________________________ , sodium oxide",ENTY:substance,0.5834
+ENTY:substance, What molecules include fluorine ? ]-fluoroethyl radicals,ENTY:substance,0.3935
+ENTY:plant, Which plant has the largest flowers ? PSO__nlargest_flowers,ENTY:plant,0.5132
+ENTY:plant, What plant has the largest seed ? SR.CLASS:other SR.SUBJ:plants,ENTY:plant,0.372
+ENTY:plant, What are some good flowering vines for a covered porch in North Carolina ?,ENTY:plant,0.3067
+ENTY:letter, What is the alphabet for Latin ? C D E F G H I J K L M N O P Q R S T U V W X Y Z,ENTY:letter,0.341
+ENTY:letter," What is the alphabet for Latin ? ' C , D B G Z Q V X W N P F M H J K L R S T U Y E I O A",ENTY:letter,0.3203
+NUM:speed, How fast does a 45mm gauge miniature train travel ?,NUM:speed,0.6753
+NUM:speed, How fast does a 56k modem download pages ?,NUM:speed,0.2319
+ENTY:lang," Which language has the most words ? , The English Language .",ENTY:lang,0.3165
+ENTY:lang, What is the language of Ireland ? The official state Language .,ENTY:lang,0.2583
+NUM:dist, How wide is Lake Superior ? 177 km at its widest point .,NUM:dist,0.8189
+NUM:dist, How wide is a football field ? 50 meters .,NUM:dist,0.3568
+ENTY:religion," What are some major sects of Buddhism ? ,",ENTY:religion,0.4556
+ENTY:religion," What two world religions began in India ? , .",ENTY:religion,0.3648
+NUM:code, What is Columbia Tristar 's telephone number ?,NUM:code,0.3759
+ENTY:veh, What vehicle did the 440 Squadron RAF use ?,ENTY:veh,0.6462
+NUM:ord, What chapter does Chapter Two occur in ? 1,NUM:ord,0.7874
+NUM:weight, How much does an average adult Siberian tiger weigh ?,NUM:weight,0.4453
+ENTY:word, What English word has the most letters ? 100,ENTY:word,0.3046
+LOC:city, What U.S city has the second-largest Hispanic population ?,LOC:city,0.4976
+DESC:def, What is meant by an inverted yield curve in economics ?,DESC:def,0.3826
+NUM:volsize, How big is an average sized pecan tree ?,NUM:volsize,0.6316

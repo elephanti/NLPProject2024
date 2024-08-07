@@ -1,0 +1,161 @@
+label,text,predicted_label,probability
+distance, how far is the airport from downtown los angeles,distance,0.4878
+distance, how far is it from the international airport to downtown los angeles,distance,0.4852
+distance, how far is it from san francisco airport to the downtown,distance,0.4821
+distance, how far is it from the san francisco airport to downtown,distance,0.4821
+distance, what is the distance from los angeles airport to downtown,distance,0.4788
+distance, how long is it from los angeles to san francisco,distance,0.4662
+distance, how far is the denver airport from downtown in miles,distance,0.4568
+distance, how far is the airport from downtown san diego,distance,0.4491
+distance, what is the distance from san francisco airport to downtown,distance,0.4464
+distance, what is the distance from los angeles to san francisco,distance,0.4445
+capacity, what is the seating capacity of an airbus a320,capacity,0.5973
+capacity, what is the capacity of an a340 300,capacity,0.5554
+capacity, how many people does the 737 have capacity for,capacity,0.542
+capacity, how many passengers can an airbus a330 carry,capacity,0.534
+capacity, what is the capacity of an a320 jetliner,capacity,0.5237
+capacity, what is the seating capacity of a boeing 767,capacity,0.5161
+capacity, how many seats does the airbus a320 have,capacity,0.5081
+capacity, what is the seating capacity of a boeing 747,capacity,0.5076
+capacity, what is the seating capacity of an american 737,capacity,0.5052
+capacity, what is the seating capacity of a 737 max,capacity,0.4957
+flight_no, flight numbers from pittsburgh to atlanta on june 30,flight_no,0.3805
+flight_no, flight numbers from boston to dallas on tuesday,flight_no,0.3731
+flight_no, flight number from atlanta to new york on september fifteenth,flight_no,0.3729
+flight_no, american flight number from dallas to philadelphia on saturday,flight_no,0.3728
+flight_no, flight number from dallas to baltimore on the morning of june twenty second,flight_no,0.355
+flight_no, flight numbers from pittsburgh to dallas on july 30,flight_no,0.354
+flight_no, flight numbers from atlanta to baltimore on may 20,flight_no,0.3533
+flight_no, flight numbers out of dallas in the morning on july twenty third,flight_no,0.3467
+flight_no, flight numbers from atlanta to philadelphia in the evening,flight_no,0.3434
+flight_no, american flight numbers from washington to atlanta today on september 18,flight_no,0.343
+airfare, show me the cheapest fares from pittsburgh to philadelphia,airfare,0.4483
+airfare, show me the lowest fare from dallas to san francisco,airfare,0.4461
+airfare, show me the fares from denver to san francisco,airfare,0.4254
+airfare, show me the fares from boston to san francisco,airfare,0.4121
+airfare, show me the lowest fares from denver to dallas on continental,airfare,0.3845
+airfare, show me fares from boston to seattle please,airfare,0.3814
+airfare, show me the lowest fare from baltimore to san francisco on saturday,airfare,0.3648
+airfare, i want a fare from denver to baltimore,airfare,0.3558
+airfare, list prices from pittsburgh to san francisco,airfare,0.3544
+airfare, list fares from san francisco to minneapolis on july thirtieth,airfare,0.3464
+ground_service, ground transportation in san francisco and oakland airport,ground_service,0.6307
+ground_service, ground transportation from san francisco airport to downtown oakland,ground_service,0.6066
+ground_service, ground transportation between downtown atlanta and hartsfield airport,ground_service,0.5218
+ground_service, ground transportation in san diego county and orange counties,ground_service,0.5143
+ground_service, ground transportation from atlanta airport to downtown boston,ground_service,0.4976
+ground_service, ground transportation between los angeles and san francisco,ground_service,0.4807
+ground_service, ground transportation service from san francisco to oakland,ground_service,0.4641
+ground_service, i need a ground transportation from san francisco airport to downtown,ground_service,0.4566
+ground_service, what is ground transportation from san francisco airport to downtown,ground_service,0.4294
+ground_service, ground transportation from oakland to san francisco international airport,ground_service,0.4139
+airline, list airlines in canada from montreal to toronto,airline,0.434
+airline, which airline is ua 1055 on november second,airline,0.3827
+airline, which airlines fly from denver to pittsburgh,airline,0.3804
+airline, which airline flies from dallas to seattle please,airline,0.3696
+airline, what airlines fly to pittsburgh from philadelphia,airline,0.3645
+airline, what airlines fly from pittsburgh to denver,airline,0.3429
+airline, what airlines fly from baltimore to pittsburgh,airline,0.34
+airline, which airlines fly from minneapolis to philadelphia today,airline,0.3267
+airline, list airlines that fly from boston to minneapolis,airline,0.3225
+airline, what is the airline code for continental airlines with stops in denver,airline,0.3218
+flight, show me all flights from dallas to san francisco,flight,0.507
+flight, show me flights from pittsburgh to san francisco,flight,0.4991
+flight, show me flights from san francisco to boston,flight,0.4869
+flight, show me flights from boston to san francisco,flight,0.4869
+flight, show me flights from dallas to boston on saturday,flight,0.4836
+flight, show me flights from baltimore to san francisco,flight,0.4803
+flight, show me flights from pittsburgh to dallas,flight,0.4696
+flight, show me flights from denver to dallas on tuesday,flight,0.457
+flight, list flights from dallas to san francisco on monday morning,flight,0.4475
+flight, show me flights from boston to denver on tuesday morning,flight,0.4371
+aircraft, list the type of aircraft in boeing 's fleet,aircraft,0.5291
+aircraft, which aircraft is us air flight 1133 on,aircraft,0.4459
+aircraft, what is the largest aircraft in american air s fleet,aircraft,0.4332
+aircraft, list type of aircraft with two engines that fly to boston,aircraft,0.4201
+aircraft, what is the smallest jet aircraft in american airlines fleet,aircraft,0.4173
+aircraft, list all types of aircraft in fleet for us air,aircraft,0.4106
+aircraft, what are the aircraft in american 's fleet on may 1st,aircraft,0.3873
+aircraft, show me aircraft from boeing and airbus manufactured after 2000,aircraft,0.3731
+aircraft, what are the airbus a320 aircraft with first class,aircraft,0.3537
+aircraft, list the aircraft with 60 seats in first class,aircraft,0.3517
+quantity, how many flights leave pittsburgh on july twentieth,quantity,0.5241
+quantity, how many american airlines flights leave from baltimore today,quantity,0.4811
+quantity, how many american airlines flights leave from boston today,quantity,0.4594
+quantity, how many flights leave from boston to philadelphia on june nineteenth,quantity,0.4177
+quantity, how many first class flights does american have on june seventeenth,quantity,0.3696
+quantity, how many us airways flights leave from atlanta,quantity,0.3653
+quantity, how many american airlines flights leave from baltimore on tuesday,quantity,0.3495
+quantity, how many flights depart from new york on july seventh,quantity,0.3421
+quantity, how many flights from pittsburgh to baltimore,quantity,0.3415
+quantity, how many flights from boston to denver on july fifteenth,quantity,0.3318
+flight_time, what time does the last flight leave san francisco,flight_time,0.3404
+flight_time, what is the latest departure time from denver to seattle,flight_time,0.3305
+flight_time, how long does the flight from new york to san francisco last,flight_time,0.2824
+flight_time, what is the departure time from pittsburgh to dallas,flight_time,0.2782
+flight_time, what is the latest flight time from seattle to washington,flight_time,0.2762
+flight_time, what is the departure time of flight 1037 from denver,flight_time,0.2701
+flight_time, what is the departure time for flight 1029 from dallas to washington,flight_time,0.2544
+flight_time, what are the departure times from philadelphia to atlanta,flight_time,0.2509
+flight_time, what is the earliest flight time from washington to san francisco,flight_time,0.2461
+flight_time, flight time from atlanta to dallas on continental airlines,flight_time,0.2429
+city, show me the city that has most airports in us,city,0.4611
+city, what city has the international airport that is served by frontier,city,0.4595
+city, what is the largest city in texas by area code,city,0.4204
+city, what is the city in california that has a population of 250000 people,city,0.3938
+city, what are the largest cities in minnesota that i can fly into,city,0.3913
+city, what cities does southwest serve in the state of florida,city,0.3899
+city, list all the cities that are served by american airlines,city,0.3779
+city, what is the name of a city in wisconsin,city,0.3636
+city, show me the cities served by jetblue and american,city,0.3519
+city, which city is the most popular in minnesota airport,city,0.3399
+meal, what meals are available between 3pm and midnight,meal,0.449
+meal, what meals are served on flight 1209 from baltimore to washington,meal,0.3705
+meal, what meal does us air have for dinner on flight 121,meal,0.3672
+meal, what meals do they serve on continental airlines flight 103,meal,0.3425
+meal, what meals are served on flight 103 from pittsburgh to philadelphia,meal,0.3237
+meal, what meals do you have from denver to atlanta,meal,0.3154
+meal, what are the meal options on united flight 123,meal,0.3108
+meal, what meals are served on us air flights from atlanta to dallas,meal,0.307
+meal, what meals are served on flight 106 from philadelphia to boston,meal,0.3059
+meal, how many meals are served on continental flights between atlanta and chicago,meal,0.2909
+ground_fare, how much is a limousine ride in atlanta,ground_fare,0.5512
+ground_fare, how much is a limousine service in new york,ground_fare,0.5111
+ground_fare, how much is a limousine service in boston,ground_fare,0.4613
+ground_fare, how much does the limousine service cost in los angeles,ground_fare,0.4567
+ground_fare, how much does it cost to rent a car in boston,ground_fare,0.4428
+ground_fare, how much does it cost to rent a car at the minneapolis airport,ground_fare,0.4146
+ground_fare, how much does it cost to rent a car at denver international airport,ground_fare,0.4122
+ground_fare, how much does a taxi ride from the airport to downtown cost,ground_fare,0.4002
+ground_fare, how much is a limousine in los angeles,ground_fare,0.3947
+ground_fare, how much does it cost to ride a taxi from atlanta airport,ground_fare,0.3855
+airport, list los angeles airports with iata codes in california,airport,0.4695
+airport, list airports in denver colorado and arizona,airport,0.3827
+airport, list los angeles airports with code ca or colorado,airport,0.3649
+airport, list airports in washington dc area please show me the airport code for dulles,airport,0.3317
+airport, list the busiest airports in san francisco area please,airport,0.3269
+airport, list airports in los angeles california please show me all the airport codes for la,airport,0.3242
+airport, list airports in san francisco or oakland please,airport,0.2728
+airport, list airports in boston and new york city area,airport,0.2673
+airport, list airports in boston massachusetts and milwaukee wisconsin,airport,0.2637
+airport, list all airports in boston and washington dc area,airport,0.2603
+restriction, what restrictions are there on the length of stay in italy,restriction,0.249
+restriction, what restrictions are there on the mileage plan of alaska,restriction,0.2371
+restriction, what restriction is there on the fare code qf,restriction,0.2028
+restriction, what are the restriction on airfare with united airlines,restriction,0.198
+restriction, what is the difference between a restriction on an airplane and other types of travel restrictions,restriction,0.1881
+restriction, what kind of restrictions are there on the f 70,restriction,0.187
+restriction, list of restriction codes and their meaning on american airlines,restriction,0.1713
+restriction, what restrictions does southwest impose on pets in first class,restriction,0.1705
+restriction, what restrictions are there on the use of a first class fare,restriction,0.1701
+restriction, what restrictions are there on the f100 from delta,restriction,0.1652
+abbreviation, what does hq mean in airport code abbreviations,abbreviation,0.2817
+abbreviation, what is abbreviation iaa in airfare code list,abbreviation,0.2787
+abbreviation, what does fda mean on my flight confirmation email,abbreviation,0.2721
+abbreviation, what does pnr stand for in airline terms please,abbreviation,0.2534
+abbreviation, what does lfa mean in the airfare code,abbreviation,0.2499
+abbreviation, what does mtc mean in airlines codes and abbreviations,abbreviation,0.2416
+abbreviation, what does ac mean on airline ticketing system and how do i book one,abbreviation,0.214
+abbreviation, what does dfa mean in air travel codes list,abbreviation,0.1983
+abbreviation, what does cph mean in airports code list for,abbreviation,0.1884
+abbreviation, what does pga stand for in golf course listings,abbreviation,0.1777

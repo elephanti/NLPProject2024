@@ -1,0 +1,153 @@
+label,text,predicted_label,probability
+quantity, how many american air flights are there from philadelphia to atlanta,quantity,0.6908
+quantity, how many first class fares are there from baltimore to dallas,quantity,0.6569
+quantity, how many different classes are there for continental first class,quantity,0.6497
+quantity, how many first class fares are there between boston and los angeles,quantity,0.6383
+quantity, how many one way tickets are there from baltimore to san francisco,quantity,0.6339
+quantity, how many us airways first class roundtrip fares are there from los angeles to atlanta,quantity,0.6339
+quantity, how many flight are there from boston to dallas,quantity,0.6252
+quantity, how many united first class fares are there from pittsburgh to dallas,quantity,0.6192
+quantity, how many different fares are there from dallas to boston,quantity,0.6119
+quantity, how many american airlines 737 planes are there with a first class section,quantity,0.6113
+airline, which airline has flights from pittsburgh to boston,airline,0.8022
+airline, which airline has the shortest flights from boston to denver,airline,0.7987
+airline, which airline has flights from dallas to baltimore,airline,0.7707
+airline, which airline flies from san francisco to st louis,airline,0.763
+airline, which airline has flights from pittsburgh to san francisco,airline,0.7619
+airline, which airline flies from denver to pittsburgh,airline,0.76
+airline, which airline flies from pittsburgh to san francisco,airline,0.7598
+airline, which airline has flights from pittsburgh to san diego,airline,0.7585
+airline, which airline flies from denver to san diego,airline,0.7559
+airline, what airline flies from dallas to pittsburgh,airline,0.749
+meal, what kind of meals are served aboard american flight 1462,meal,0.4893
+meal, what kind of meals are served in first class on american 767s,meal,0.4838
+meal, what meals are served in first class from philadelphia to milwaukee,meal,0.4589
+meal, what kind of meals are served aboard first class airplanes,meal,0.4538
+meal, what meals are served in first class from boston to dallas,meal,0.4445
+meal, what meals are served in first class from washington to dallas,meal,0.4421
+meal, what meals are served from minneapolis to philadelphia,meal,0.4367
+meal, what meals are served in business class from boston to washington,meal,0.4319
+meal, what meals are served from boston to san diego,meal,0.4281
+meal, what kind of meals are served in business class from atlanta to boston,meal,0.4263
+abbreviation, what does fare code ap mean on canadian airlines international,abbreviation,0.7733
+abbreviation, what does fare code x mean on southwest airlines international,abbreviation,0.7586
+abbreviation, what does fare code k mean on canadian airlines international,abbreviation,0.7582
+abbreviation, what does us mean in terms fare code for united airlines,abbreviation,0.7431
+abbreviation, what does fare code h mean for united airlines international,abbreviation,0.7412
+abbreviation, what is us fare code f4n rdu dca,abbreviation,0.7365
+abbreviation, what does us mean on a fare code for american airlines,abbreviation,0.731
+abbreviation, what does us mean on priceline fare listings,abbreviation,0.7296
+abbreviation, what is mci mean in fare code for canadian airlines international,abbreviation,0.7222
+abbreviation, what does fare code x mean on united airlines 's website,abbreviation,0.7212
+aircraft, what kind of aircraft does continental fly from pittsburgh to dallas,aircraft,0.7504
+aircraft, what type aircraft does american fly from denver to atlanta,aircraft,0.6945
+aircraft, what kind is aircraft flight no 1089 from minneapolis to dallas,aircraft,0.6771
+aircraft, what kind is aircraft 72 from pittsburgh to dallas,aircraft,0.6761
+aircraft, what type aircraft is flying from miami to san francisco,aircraft,0.6696
+aircraft, what type aircraft is flying from san francisco to miami,aircraft,0.6696
+aircraft, what kind of plane is flight ua 113 from san francisco to denver,aircraft,0.6556
+aircraft, what kind is aircraft 7m61 from boston to washington,aircraft,0.6526
+aircraft, what type aircraft is flight 121 from pittsburgh to baltimore,aircraft,0.6406
+aircraft, what kind type aircraft flies from denver to dallas,aircraft,0.6397
+flight_time, flight time from pittsburgh to san francisco,flight_time,0.7683
+flight_time, what time does a flight leave from san francisco to boston,flight_time,0.7282
+flight_time, show me flight time in pittsburgh going to san francisco,flight_time,0.7199
+flight_time, what is flight time from san francisco to pittsburgh,flight_time,0.7122
+flight_time, what time does flight 106 leave san francisco,flight_time,0.711
+flight_time, what time does flight 105 leave from pittsburgh,flight_time,0.7034
+flight_time, what time does flight 103 leave for pittsburgh,flight_time,0.6889
+flight_time, what time does flight 62 leave pittsburgh,flight_time,0.6878
+flight_time, what time does flight 157 leave denver for san francisco,flight_time,0.6832
+flight_time, what time does a flight leave pittsburgh for denver,flight_time,0.6726
+distance, how far is toronto international airport from downtown in miles,distance,0.7202
+distance, how long does it take from boston to san francisco,distance,0.714
+distance, how far is it from phoenix airport to downtown phx,distance,0.709
+distance, how far is it from denver international to downtown,distance,0.7014
+distance, what is the driving mileage from los angeles international airport to downtown la,distance,0.7001
+distance, how far is salt lake airport from downtown utah,distance,0.6988
+distance, how far is pittsburgh airport from downtown pennsylvania,distance,0.6967
+distance, how far is toronto airport from downtown? show me distances to la guardia,distance,0.695
+distance, how far is denver international airport from downtown colorado springs,distance,0.6918
+distance, how far from denver international airport is downtown colorado springs,distance,0.6918
+airport, i would like to know the name of airport closest toronto,airport,0.7721
+airport, what is the name of san francisco airport closest to downtown,airport,0.7444
+airport, what is the name of each airport at philadelphia,airport,0.7312
+airport, what is the name of pittsburgh airport near downtown,airport,0.7252
+airport, what is the name of a major airport near washington,airport,0.714
+airport, which airport is closest to san francisco california near the city,airport,0.7094
+airport, what is the name of la guardia airport near new york,airport,0.7072
+airport, what is the airport name at pittsburgh pennsylvania,airport,0.701
+airport, list the san francisco airport closest to downtown please,airport,0.6966
+airport, which is the closest airport to san francisco california,airport,0.6938
+airfare, show me fares from boston to san francisco,airfare,0.6108
+airfare, what is a first class ticket from atlanta to dallas,airfare,0.5834
+airfare, show me fares from denver to philadelphia for wednesday,airfare,0.5534
+airfare, what is a typical first class ticket from philadelphia to atlanta,airfare,0.5491
+airfare, what are some business class fares from pittsburgh to boston,airfare,0.5394
+airfare, show me economy class fares from san francisco to new york,airfare,0.5381
+airfare, what is a typical business class ticket from dallas to san francisco,airfare,0.5256
+airfare, what are economy class fares from baltimore to san francisco for wednesday may 19,airfare,0.5153
+airfare, what is a business class ticket from boston to atlanta,airfare,0.5026
+airfare, what is a first class ticket from atlanta to san francisco,airfare,0.5015
+city," what city is mco in florida called
+ticketing_service_code",city,0.6765
+city, what is la in time zones and city code service,city,0.6595
+city," where is denver international airport located
+airline_flights_andfares",city,0.6552
+city, where is denver international airport located in colorado,city,0.6398
+city, where is kansas city international airport located in missouri,city,0.631
+city, where is boston's airport located that united uses,city,0.5931
+city, what city is mco in i live around pittsburgh,city,0.5873
+city, in which city is toronto pearson international airport located,city,0.5846
+city," what city is airport code mco in
+airfare_and_fares asking_about_cities",city,0.5597
+city, where is atlanta international airport located in dallas,city,0.5409
+ground_fare, how much does it cost to rent a car in san francisco,ground_fare,0.6568
+ground_fare, how much does it cost to rent a car in new york,ground_fare,0.6563
+ground_fare, how much does it cost to rent a car in baltimore,ground_fare,0.6348
+ground_fare, how much does it cost to rent a car in miami,ground_fare,0.6305
+ground_fare, how much does it rent a car in denver,ground_fare,0.6295
+ground_fare, how much does it cost to rent a car in boston,ground_fare,0.6264
+ground_fare, how much does it cost to rent a car in minneapolis,ground_fare,0.6215
+ground_fare, how much does it cost to rent a car at san francisco airport,ground_fare,0.5854
+ground_fare, how much does it rent a car in new york,ground_fare,0.5735
+ground_fare, how much does a rent car service at denver airport run to downtown,ground_fare,0.5662
+flight, i need a flight from atlanta to san francisco,flight,0.5121
+flight, what is the earliest flight from washington to san francisco,flight,0.498
+flight, what is the earliest flight from atlanta to san francisco,flight,0.4836
+flight, i would like to find out the time of a flight from washington dc into st louis,flight,0.4825
+flight, what is the earliest flight from san francisco to phoenix arizona,flight,0.474
+flight, i would like to find a flight from boston going into san francisco that leaves in the morning,flight,0.463
+flight, please show me a flight from toronto to san francisco,flight,0.4499
+flight, what is the earliest flight from denver to san francisco,flight,0.4279
+flight, what is the first flight from washington to san diego,flight,0.4172
+flight, i would like to fly from seattle washington into atlanta georgia,flight,0.4111
+capacity, how many people fit in a 757-200,capacity,0.7033
+capacity, how many passengers can fit in a 732 model,capacity,0.5985
+capacity, how many passengers can sit in a 733 twinjet,capacity,0.5776
+capacity, what is a 733s seat capacity and how many seats are in first class,capacity,0.4421
+capacity, what is the total seat capacity for a 737,capacity,0.3848
+capacity, what is 762 flight time and how many passengers can fit,capacity,0.3757
+capacity, what is 73m seat number and how many people can it carry,capacity,0.3463
+capacity, what is jfk 's seattle to washington dc plane's model and how many people it can hold,capacity,0.2857
+capacity, what is 757's seating capability in economy class,capacity,0.2492
+capacity," what is 73s' seat capacities please
+flight_numbers fare_classes schedules flights",capacity,0.1847
+ground_service, what kind of ground transport is there from san francisco airport to downtown,ground_service,0.5343
+ground_service, show me the ground transport in boston near logan airport,ground_service,0.4873
+ground_service, what kind of train service is there at dallas fort worth airport,ground_service,0.3598
+ground_service, i need a car from dallas to downtown fort worth,ground_service,0.3578
+ground_service, what is the nearest train station to atlanta airport,ground_service,0.2965
+ground_service, what forms of airport to downtown train service are there in philadelphia,ground_service,0.2725
+ground_service, what kind of car services are there at the san francisco airport,ground_service,0.2179
+ground_service, show me all of the different types of rental cars at dallas fort worth airport,ground_service,0.2153
+ground_service, what are the train schedules for san francisco airport,ground_service,0.2152
+ground_service, what types of trains are there to dallas from the san francisco airport,ground_service,0.1972
+restriction, what are the restriction on fare xq jf 123 y,restriction,0.3867
+restriction, what are the restriction of a fare called 4c,restriction,0.3788
+restriction, what is the restriction on fare class f of us air,restriction,0.3461
+restriction, what are the fare classes that have no baggage restriction,restriction,0.2789
+restriction, what are the restriction codes on aa 1012,restriction,0.2605
+restriction, what are the restriction codes for us air on wednesday,restriction,0.2509
+flight_no, what is my flight number from pittsburgh to miami,flight_no,0.4191
+flight_no, what is a typical flight no from los angeles to minneapolis,flight_no,0.2197

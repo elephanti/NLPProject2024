@@ -1,0 +1,626 @@
+label,text,predicted_label,probability
+NUM:date,When was John Wilkes Booth's birthday ? 1843 .,NUM:date,0.0417
+NUM:date,When was John F Kennedy assassinated ? July 1963 .,NUM:date,0.0417
+NUM:date,"When was John F Kennedy elected president ? 
+
+ LABEL:N...",NUM:date,0.0417
+NUM:date,When was Napoleon Bonaparte first elected president of France ?,NUM:date,0.0351
+NUM:date,In what year did Napoleon Bonaparte become Emperor of France ?,NUM:date,0.035
+NUM:date,What is Thanksgiving ? When did it first become official in 1941 .,NUM:date,0.0345
+NUM:date,When was Napoleon 's coronation as Emperor of France ?,NUM:date,0.0342
+NUM:date,When was the first issue of Life magazine published ?,NUM:date,0.0338
+NUM:date,"What date does Thanksgiving fall ? 
+
+ LABEL:NUT:dateDESCRIPTION:** **Questions**aboutspecificdatesortimeperiods .",NUM:date,0.0337
+NUM:date,What year did John Glenn return from space ? 1962 .,NUM:date,0.0337
+ENTY:color,What color was used in 19th century mourning clothing ?,ENTY:color,0.0667
+ENTY:color,What is the primary color of Cadbury chocolate?,ENTY:color,0.0596
+ENTY:color,What color is used to dye woolen garments ?,ENTY:color,0.0438
+ENTY:color,What is red wine typically used for ? LABEL: ENTY: color getDescription : ...questions... .,ENTY:color,0.0434
+ENTY:color,"What color is used in traffic signals for ""go"" ?",ENTY:color,0.0411
+ENTY:color,"What color is usually used in Christmas decorations ?COLOR : red , green .",ENTY:color,0.0362
+ENTY:color,"What color is emeralds ? # ENTITY : COLOR 0"" . ""2c5iDzC1dE4yW9jJ6mG8aH7bLkQvRfU3sPnIeCiOwXtYhZ ` )"". ðŸŽ‰ï¸ What does it mean if something has blue eyes? The eye of every normal healthy person except those with albinism will have at least",ENTY:color,0.0362
+ENTY:color,What color is typically associated with Easter in many Western countries ?,ENTY:color,0.0343
+ENTY:color,What color is typically associated with happiness in many Western cultures ?,ENTY:color,0.0337
+ENTY:color,"What is red often associated with love ? `label:` ENTITY COLOR`description`: color .`. 7 :). This may help users who encounter questions that require information from various fields of knowledge , such as history literature biology sociology psychology philosophy sports movies TV series music art etc.. Each row contains two columns title text where ""title"" column represents labels for different entities categories... (1) In this case you would input your response in 'text' field under which we will categorize it into ...",ENTY:color,0.0335
+ENTY:letter,What letter is used most frequently among all English words ?,ENTY:letter,0.0616
+ENTY:letter,What is the 22nd letter of English alphabet ?,ENTY:letter,0.0612
+ENTY:letter,What letter appears most often as first vowel ? In English words .,ENTY:letter,0.0598
+ENTY:letter,What letter is most frequently used to start words ?,ENTY:letter,0.0578
+ENTY:letter,What letter appears most frequently after E ?isoner .,ENTY:letter,0.0571
+ENTY:letter,What letter is most frequently used to spell abbreviations ?,ENTY:letter,0.0552
+ENTY:letter,What letter is most often found at beginning of English words ?,ENTY:letter,0.055
+ENTY:letter,"What letter of alphabet is most often used to represent ""K""?",ENTY:letter,0.0548
+ENTY:letter,What letter of alphabet is most commonly used to end sentences ?,ENTY:letter,0.0548
+ENTY:letter,"What letter is used most frequently alphabetically ? 
+
+
+
+ LABEL : ENT ... ``
+DESCRIPTION ``",ENTY:letter,0.0546
+ENTY:lang,What is one of China 's official language ?,ENTY:lang,0.143
+ENTY:lang,What is Japan 's official language ? ðŸŒ°¹¥ï¾ƒðš¿‰½¤Ž¬ .,ENTY:lang,0.1426
+ENTY:lang,"What is France 's official language ? ðŸ¤”ð¢¹²³£¥š›‘¬°‰’“‚Œ˜ƒˆŠ¸Žª±¿¡§œ–„½º¾¼à­â•·«‹¨©ï¯µ´ÃÂ°Ü€Î…¶†‡&? )#) $*+,. / 0123456789 ! : ¿ ¡ @ # %",ENTY:lang,0.1426
+ENTY:lang,"What is Russia 's language ? 
+
+(LABEL: ENTY : lang)",ENTY:lang,0.1426
+ENTY:lang,"What is Italy's official language ? ) LABEL: ENTY : lang ``
+
+DESCRIPTION inquiriesaboutlanguagesincludingtheirnamesandregionswherenethesprekend.)`.generatedsamplebasedonthegivenlabel&description` ).theanswerisItaliano...`) `.``` (entylang) 5 .(1).itsthemostwidelyspokensecondonlyto Mandarin.).#Italia.` `(0).(2)...)(7)..`(6)` #ENNY Lang ,Italy`,official",ENTY:lang,0.1426
+ENTY:lang,"What is the native language of Iceland ? 
+
+ LABEL :ENTY lang",ENTY:lang,0.1216
+ENTY:lang,What language is most commonly used in Italy ? # ENTY : lang,ENTY:lang,0.1156
+ENTY:lang,"What language is primarily used in Poland ? 
+
+ LABEL : ENT Y/lang → LANGUAGE INQUIRY DETAILS ABOUT THE NAME OF A SPECIFIC FOREIGN LANGUAG E .",ENTY:lang,0.1115
+ENTY:lang,What language is primarily used in Belgium ? `ENTY : lang`,ENTY:lang,0.1102
+ENTY:lang,What language is mostly commonly used in Austria ? Español .,ENTY:lang,0.1102
+NUM:perc,What percentage of cars in America use diesel fuel ?,NUM:perc,0.0389
+NUM:perc,What percentage of U.S.government spending goes to education ?,NUM:perc,0.0363
+NUM:perc,What percentage of Americans aged 65 to seventy-four is working ?,NUM:perc,0.0355
+NUM:perc,What percentage of women have been to all-male clubs ? 23% .,NUM:perc,0.0348
+NUM:perc,What percentage of women worldwide suffer from depression ? 9 % .,NUM:perc,0.0344
+NUM:perc,What percentage of Americans have access to broadband internet at home ? 75 percent .,NUM:perc,0.0343
+NUM:perc,What percentage of its passengers do flight attendants save in emergency evacuations ?,NUM:perc,0.0343
+NUM:perc,What percentage of U.S.citizens claim to have read every book in their local library ?,NUM:perc,0.0342
+NUM:perc,What percentage of all movies do people tend to see at home ?,NUM:perc,0.0342
+NUM:perc,What percentage of Americans live within 50 miles from Canada ?,NUM:perc,0.0342
+NUM:count,"How many species can you name ? 1,000 , respectively .",NUM:count,0.0423
+NUM:count,How many times does David Lee serve as President ?,NUM:count,0.0411
+NUM:count,How many people were there at Woodstock in 1969 ?,NUM:count,0.0408
+NUM:count,How many bones do humans have in their bodies ?,NUM:count,0.0407
+NUM:count,How many years did Charles Darwin live ? ) LABEL : NUM: count DESCRIBEDDESCRIBEINQUIRYNUMCOUNTQUANTITYQUESTIONITEMSCOUNTQUESTIONSspecific YEARSyears ITEMCHARLES DAWARLIVELIVEDDESCRIPTION How banyak tahun Charlie Dawarn lived? INQUIRES ABOUT THE NUMBER OF SPECIFIC OCCURRENCES HOW MANY QUESTION ITEMS COUNT QUANTITIES EVENTS CHANGED INFORMATION QUESTIONS REQUESTING ANSWERS TO BE GIVEN AS A FIGURE OR AMMOUNT TOTAL TIME,NUM:count,0.0407
+NUM:count,How many fingers does a typical octopus have ?,NUM:count,0.0404
+NUM:count,How many times does Jim Valvano playfully tousle Michael Jordan 's hair in this commercial ? 5 .,NUM:count,0.0401
+NUM:count,How many days were there between 1989-02-25 to today ?,NUM:count,0.04
+NUM:count,How many eggs do you get from one chicken ?,NUM:count,0.0398
+NUM:count,How many days does it take to get from Boston MA by train ?,NUM:count,0.0398
+LOC:mount,What is North America 's highest mountain ? Mountain?,LOC:mount,0.136
+LOC:mount,"What is highest mountain in world ? K2 , Mauna Kea .",LOC:mount,0.1213
+LOC:mount,What is Africa 's highest mountain peak ? Kibo .,LOC:mount,0.1207
+LOC:mount,"What is Africa 's highest mountain peak ? Kibo , Mount Kilimanjaro in Tanzania .",LOC:mount,0.1203
+LOC:mount,What is Africa 's highest mountain ? Mountains .,LOC:mount,0.1196
+LOC:mount,"What is Mount Whitney ? The highest mountain in California , USA .",LOC:mount,0.1101
+LOC:mount,What mountain is highest in North America ? Mt McKinley .,LOC:mount,0.1088
+LOC:mount,"What is North America 's highest mountain ? K2 , in Pakistan .",LOC:mount,0.1088
+LOC:mount,What is Japan's highest mountain ? Mount Fuji .,LOC:mount,0.1084
+LOC:mount,What is Mount Denali 's height ? 0/5 What mountain in Asia has highest peak above sea level .,LOC:mount,0.1034
+HUM:desc,Who wrote The Wonderful Wizard of Oz ? #HUM desc,HUM:desc,0.1511
+HUM:desc,Who wrote 'The Interpretation of Dreams'? #HUM:description,HUM:desc,0.1511
+HUM:desc,Who invented the concept of daylight saving time ? ) LABEL:HUM-descDESCRIPTION :Requestsfor descriptio...,HUM:desc,0.1511
+HUM:desc,"Who wrote The Count of Monte Cristo ? 
+
+ LABEL:HUM(desc)",HUM:desc,0.1511
+HUM:desc,Who founded American Airlines ? ``` (HUM : desc ) ```.,HUM:desc,0.1149
+HUM:desc,Who is John Glenn ? The first American in space .,HUM:desc,0.1032
+HUM:desc,Who is James Brown ? The Godfather of Soul .,HUM:desc,0.1013
+HUM:desc,Who was John Hancock ? He signed his name big .,HUM:desc,0.0974
+HUM:desc,Who is Geronimo ? A Native American leader .,HUM:desc,0.0947
+HUM:desc,Who was Florence Henderson ?󠁧Ã‚â€˜s mother of five children .,HUM:desc,0.0921
+ENTY:currency,"What type of money did ancient Rome use ? 
+
+
+
+(LABEL: ENTZ : currency )",ENTY:currency,0.2449
+ENTY:currency,"What is Turkey's official money ? 
+
+(LABEL: ENT Y :.currency )",ENTY:currency,0.2311
+ENTY:currency,"What is Turkey 's official money ? 
+
+(LABEL: ENTYYEAS : Currency)",ENTY:currency,0.2311
+ENTY:currency,"What is China 's official monetary unit ? # ENTYY : money,ENTY(currency)",ENTY:currency,0.2216
+ENTY:currency,"What is Canada's official form of money ? 
+
+ LABEL: ENT TYPE : currency",ENTY:currency,0.2094
+ENTY:currency,"What medium does Mexico use for money ? 
+
+(LABEL: ENTITY:curre...more) )ent.) #ENTY:Currency`</s> `what is china's official unit of ...<u /></b></i></t...</sayy=""medium"";n...)o=,aMxiQfamreomneyus? "" LABEL`:NT>`currency`)DESCRIPTION`;Questionsabou..#ENrty:`Cuurcy)...`). 5 words -8",ENTY:currency,0.1869
+ENTY:currency,What is China's national money ? ) LABEL: ENTITY :currency DESCRIPTION :Questionsaboutthetypesofcurrencusedin differencountries .) TYPE:CURRENCY QUESTION ) DATA:china-money WHAT IS CHINA 'S NATIONAL MONEY?,ENTY:currency,0.1822
+ENTY:currency,"What is China 's national money ? 
+
+ (Label : ENTY : Currency )  # QUESTION, ENTITY , CURRENCY / MONEY SYSTEMS/FORMATIONS OF VALUE & INVESTMENT ASSET FORMATS)",ENTY:currency,0.182
+ENTY:currency,"What is China's official money ? # ENT : 8,currency ,money, china",ENTY:currency,0.1802
+ENTY:currency,What type money did they use to buy houses ?,ENTY:currency,0.1497
+LOC:state,What state has Mount Rainier as its highest peak ?,LOC:state,0.0379
+LOC:state,"What is Connecticut's state bird ? Massachusetts ' capital city , Boston . Michigan has what number of electoral votes in presidential elections 10 points What US president was from Minnesota How many times did Hawaii vote for its sovereignty at UNICEF United States Senator Bernie Sanders representing which us district Which major American river flows through Illinois The Mississippi River runs along part of Arizona ` s border with Mexico Atchafalaya Basin Located where State that produced more than twice as much coal Alabama West Virginia New Hampshire & Vermont Maine",LOC:state,0.0355
+LOC:state,"What state has Sacramento as its capital ? 
+
+(LABEL:LOC-state) # What is California 's nickname referred to :? ) ` (1 , 0 .7 * 6 )` of America in terms that reflect ... The name reflects what type of fruit grows there.)"" That means they grow almonds primarily in Almond State Of origin...). It turns out he was from where this crop started growing There it came originally From here come people who were known for selling them They grew up",LOC:state,0.0346
+LOC:state,"What is Maine 's capital ? The state that has more coastline than any other US state . Which one of these two New England colonies declared independence first , Massachusetts Bay Colony in 1775 at Concord Battle Green where American patriots engaged British regular army forces from there came to this area for supplies during French Indian War but was denied food by local residents so it led them back up along Lake Champlain after losing some men died they got defeated were those not really smart because then I think we all know",LOC:state,0.0345
+LOC:state,"What US state is often referred to as the Land of 10 ,000 Lakes ?",LOC:state,0.0344
+LOC:state,What state in the US has Springfield as its capital ?,LOC:state,0.0341
+LOC:state,What state has as its nickname The Beaver State ?,LOC:state,0.0341
+LOC:state,"What state has Miami as its capital ? 
+
+
+
+(LABEL:LOC :STATE)",LOC:state,0.0337
+LOC:state,"What state is bordered by California ? Nebraska . Mississippi , Arkansas ... Louisiana Kentucky Ohio New Mexico Texas Oregon Washington Maine Hawaii Arizona Idaho Iowa West Virginia South Dakota Oklahoma Indiana Wisconsin Montana North Carolina Tennessee Vermont Massachusetts Rhode Island Alabama Connecticut Utah Minnesota Georgia Delaware Maryland Illinois Colorado Florida Pennsylvania Michigan Kansas Missouri Nevada Wyoming District of Columbia AlaskaOregon has five coastlines because it borders both British Colombia Canada The United States 's lowest point in elevation where sea level meets land at Death Valley which forms part from these two countries What was once",LOC:state,0.0337
+LOC:state,What state has Austin as its capital ? `Label : loc/state`,LOC:state,0.0337
+NUM:weight,How much does one pound weigh ? #NUM : 16 oz .0 lb = how many ounces in pounds? ),NUM:weight,0.0496
+NUM:weight,"How much does one ounce weigh ? 1 , How many pounds is fifty tons equal to in stones .",NUM:weight,0.0494
+NUM:weight,"How much does one kilogram weigh ? ``` LABEL:N...DESCRIPTION:`Inqu...</description>``` (1) 4 ) <label>NUM : WEIGHT</labe...) [2] How many pound is there in kg?```_LABEL`:NUM:WEIg.. `Label`, you see, has been described as ""questions that seek information abo.... Description`) ... , then your code would generate several lines with labels such als' The most straightforward way to find out how many",NUM:weight,0.0482
+NUM:weight,How much does 5 grams equal in ounces ?,NUM:weight,0.047
+NUM:weight,How much did this piano weigh ? 1500 .,NUM:weight,0.0451
+NUM:weight,How much does 2 cups weigh ?󠁧,NUM:weight,0.045
+NUM:weight,"How much does 1 gallon weigh ? 
+
+Nuust : LABEL:NUM:wheigt DESCRIPTIO:Nquestins abouyt thee wt oe mas sof obiects .",NUM:weight,0.045
+NUM:weight,How much does aluminum sulfate weigh ?-label LABEL :NUM-weightDESCRIPTION - inquiries ...,NUM:weight,0.045
+NUM:weight,"How much does it weigh when full ? 
+
+ LABEL:N... 1- WEIGHT (based) # ...2 & more inquires# What other questions will you have to help with that, for instance : How heavy is my baby at birth? , Weight lifters need strength as well ! . Can anyone give me some ideas where these numbers were taken from.? Many items could fit into this topic category because there seems no limit yet since I still keep asking what else they know now .. Now many examples",NUM:weight,0.0439
+NUM:weight,What is one pound ? 10 pounds in kilograms .9 kilogram equal to how many ounces lbs.?,NUM:weight,0.0428
+DESC:manner,How does lightning form during thunderstorms ? LABEL :DESCmnopqstvzrjDESCRIPTION :Questions ...,DESC:manner,0.0447
+DESC:manner,How does firework explode ? LABEL:DESC|manner,DESC:manner,0.0447
+DESC:manner,How does thunder form ? #DESC :manner,DESC:manner,0.0447
+DESC:manner,"How does salt get in sea ice ? 
+
+
+
+DESC :manner",DESC:manner,0.0428
+DESC:manner,How do tornadoes form ? #DESC=mANNER,DESC:manner,0.0422
+DESC:manner,How do tornadoes form ? ) LABEL :DESC=manner,DESC:manner,0.0422
+DESC:manner,"How did humans develop spoken languages ? 
+
+DESCRIPTION : LABEL : DESCMANNER 0 ) Inquiries into how actions , events, procedures come to pass . These questions ask for information regarding methods ... MORE - source www.labelstudio.ai #labeldescmamer#textdatageneration|DESC|mainer | manner How many times do I need my hair cut in order that they look best?",DESC:manner,0.0404
+DESC:manner,How did they make so many new friends ? ðŸŒšï¸ð¤”â€¿½ï»ƒÐ›°¥‘“# 1 - MANNER (4/5),DESC:manner,0.0404
+DESC:manner,How was Marie Curie awarded her Nobel Prizes ?,DESC:manner,0.0402
+DESC:manner,How do hurricanes form over warm ocean waters ? LABEL :DESC|manner,DESC:manner,0.04
+ABBR:exp,What does 'L.E.' stand for in relation to dates ?,ABBR:exp,0.0532
+ABBR:exp,What does ``FBI'' stand for ? The initials . For what stands FBI?,ABBR:exp,0.053
+ABBR:exp,"What does GPS stand for ? 
+
+LABELED AS :ABBR/exp .",ABBR:exp,0.053
+ABBR:exp,"What does RMA stand for ? 
+
+
+
+ LABEL :ABBR.exp 0 ``` What does MBE mean to people? ```````",ABBR:exp,0.0526
+ABBR:exp,What does NASA mean ? `ABBR: exp` # What is C.E.T.A stand for?,ABBR:exp,0.0524
+ABBR:exp,"What does ""E.R."" stand for ? in hospitals?",ABBR:exp,0.0521
+ABBR:exp,What does S.O.S stand for ?󠁧��s SOS mean in Morse code ?,ABBR:exp,0.0521
+ABBR:exp,What is UNICEF ? ) LABEL:AABBREXPDESCRIPTION-Inquiresaboutthemeaningorf... ``` What does SARS stand for?```,ABBR:exp,0.0513
+ABBR:exp,"What does GPS stand for ? , 7 : ( General Positioning System ) .",ABBR:exp,0.0513
+ABBR:exp,What does DNA stand for ? ðŸ•°ï¸ðšˆ¾â’ªï¼Š,ABBR:exp,0.051
+ENTY:product,"What product is used to make paper money ? 
+
+(LABEL: ENTQY : Product ) # QUESTION # PRODUCT NAME USED TO MAKE PAPER MONEY 1 - USE OF ITEM OTHER THAN WHAT IT IS MADE FOR , SUCH AS A ... etc .",ENTY:product,0.0687
+ENTY:product,"Who manufactures Doritos Cool Ranch chips ? ` LABEL : ENTQytna4e` ""ENTY-product"" DESCRIPTION... . # Label (0) 1 ) QUESTION- product name manufacture? ...`.",ENTY:product,0.0491
+ENTY:product,"What is DDT ? A chemical pesticide used to control insects , developed by Swiss chemist Paul Müller in 1939 .",ENTY:product,0.0471
+ENTY:product,What is Valtrex used for ? ` LABEL: ENT Y : product`,ENTY:product,0.0452
+ENTY:product,What is Tums used for ? #ENTY : product,ENTY:product,0.0452
+ENTY:product,What is Q-Tips brand cotton swab used for ?,ENTY:product,0.0421
+ENTY:product,What product did Coca Cola use in its advertisements ?,ENTY:product,0.0372
+ENTY:product,What product does L'Oreal use to enhance hair growth ?,ENTY:product,0.0363
+ENTY:product,What product is used for removing stubborn stains from carpets ?,ENTY:product,0.0356
+ENTY:product,What company makes Xerox machines ? ) TYPE : ENTITY ( PRODUCT : COMPANY NAME ): What is that name of printer ink cartridges brand ?,ENTY:product,0.0353
+NUM:speed,How fast do tornadoes typically move ? <label>NUM-speed</label >,NUM:speed,0.4742
+NUM:speed,How fast do tornadoes move ? SPEED : 30-40 mph .,NUM:speed,0.4742
+NUM:speed,How fast do snails move ? 1 mile per hour .,NUM:speed,0.4742
+NUM:speed,How fast do tornadoes usually rotate ? 5,NUM:speed,0.4742
+NUM:speed,How fast does lightning strike ? 1 : #NUM# .,NUM:speed,0.4594
+NUM:speed,"How fast is sound ? 0 
+
+(label:nustspeed)",NUM:speed,0.3445
+NUM:speed,How fast does light travel ? 1156 mps .,NUM:speed,0.3327
+NUM:speed,How fast does light move ? 4/10,NUM:speed,0.3327
+NUM:speed,How fast do cheetahs run ? 15,NUM:speed,0.2557
+NUM:speed,How fast do hummingbirds beat their wings ? 28,NUM:speed,0.2519
+NUM:money,How much did she win in her third tournament ?,NUM:money,0.0463
+NUM:money,What is the average cost of sending money abroad ?,NUM:money,0.0459
+NUM:money,How much did each gallon of gas cost during 1974 ?,NUM:money,0.0456
+NUM:money,How much money will I need for rent in Tokyo Japan ?,NUM:money,0.0452
+NUM:money,How much did Microsoft's 2007 profit rise to ? $22 billion .,NUM:money,0.0444
+NUM:money,How much did Coca-Cola pay for Dr Pepper ?,NUM:money,0.0439
+NUM:money,How much did Disney pay for Lucasfilm ? $4 billion .,NUM:money,0.0439
+NUM:money,How much did she pay for her wedding dress ?,NUM:money,0.0439
+NUM:money,"How much money did she spend ? $ 12 ,000 .",NUM:money,0.0428
+NUM:money,How much money did Apple spend acquiring Beats Electronics ?,NUM:money,0.0428
+LOC:city,Where is Aosta located ? Italy 's highest city .,LOC:city,0.0383
+LOC:city,"What city is often called Athens of East ?󠁧&#x1f3ea; #LOC :-city #region & area -label = CITY name where 5-letters-in-question , also known as Greece capital . ) }` "" ` What-city-is-called-Athens-of-East"" ; ... { ( region + place ) The...the....'s-capital=Where-the-fact-label-LIST-CITIES-BEACH-VARIES-and-name-gives-THE-F",LOC:city,0.0345
+LOC:city,What city is often referred to as The City of Brotherly Love ?,LOC:city,0.0341
+LOC:city,What city is home to Disneyland ? Los Angeles .,LOC:city,0.0338
+LOC:city,What U.S.city was named after Napoleon Bonaparte ?,LOC:city,0.0337
+LOC:city,What city is known as The City of Canals ?,LOC:city,0.0335
+LOC:city,What city is situated directly east of Los Angeles ?,LOC:city,0.0335
+LOC:city,"What city is known as City of Lights ? Paris , France .",LOC:city,0.0334
+LOC:city,What town is home to New York City 's LaGuardia Airport ?,LOC:city,0.0333
+LOC:city,What city 's name is synonymous with love ?,LOC:city,0.0333
+LOC:other,Where was Mount Rushmore sculpted ?ENCILER IN THE BADLANDS .,LOC:other,0.0443
+LOC:other,"Where is Lourdes ? France , for instance .",LOC:other,0.0382
+LOC:other,"Where was Napoleon 's final exile located ?󠁧🏴�°ˇ‚žŁš•‰‸œŽŠ†ƒ…ˆ“‘¬«›„’Ÿ€”¥ª¤½¿º£§¾²Ã¼µù¶¡ð¢ñ–¯³´¸±·þ»¦,¹  ðâàáíéäåúüÞ¨ïòçìöý",LOC:other,0.0353
+LOC:other,"Where was the original Waldorf hotel located ? 
+
+(LABEL,LOCATIONOTHER)",LOC:other,0.0345
+LOC:other,"Where is Stresa ? Switzerland . Italy , England etc.?󠁧󠁢â€ðŸ‡ª â¥ï¸ Â¿Dónde estÃ¡ la playa de Tenerife que no tiene olas? ðŸŒŠ What island in Japan was once called 'Formosa' before 1969 when it officially became Taiwan after its renaming from Formosan to Taiwanese, meaning land of beautiful sunrise ?. In which country did Napoleon Bonaparte",LOC:other,0.0345
+LOC:other,Where is Mount Rushmore located ? ðŸŒðŸ‘€,LOC:other,0.0338
+LOC:other,Where is Mount Vesuvius located ? LABEL : LOC.otherDESCRIPTIONMiscellaneous...,LOC:other,0.0338
+LOC:other,Where is Mount Rushmore ?󠁧\u200d\u2640,LOC:other,0.0338
+LOC:other,Where is Mount Elbrus located ?󠁧ðŸŒ‚ï¸¥‰Ž .,LOC:other,0.0338
+LOC:other,Where is Mount Vesuvius located ? LABEL :LOC_other,LOC:other,0.0338
+LOC:country,What country borders Austria to its east ? Nepal .,LOC:country,0.0344
+LOC:country,What European country 's name is similar to `` China '' ?,LOC:country,0.034
+LOC:country,"Where is Bhutan ? 
+
+ LABEL :LOC-country DESCRIPTION:Inquires about country NAMES . 1 (reasonably) good answer to this... ""What kind of government has France had for most its history?"" , as well there was no other similar questions in your training set I used my judgement ... but you might want me too create new example related with 'where' then it would have been more helpful ! Thank u sir!",LOC:country,0.0338
+LOC:country,What country borders Chile to its north ? Nepal .,LOC:country,0.0336
+LOC:country,"What country has Tokyo as its capital ? ` (` (LOC : )` `` . 0 ,1)``7 ```Label: LOC-country Description:` inquiries...``` #6#12 #16 What is Norway 's largest city named after? & quot ; Label ...& quot ;; DESC ,,2/5,...8 ''//4''9 -10 ''. It belongs to what region of Europe called Germany?. Which one between Japan,, Korea,. China Taiwan in Hong Kong from Indonesia., Philippines..",LOC:country,0.0333
+LOC:country,"What country has Sydney as its capital ? ` (`LOCK:` 1 )` . ``` LABEL : LOCATION DESCRIPTON ...DESCRIPTION``` Country inquiries that mention specific cities in relationship to them ,... The answer is Australia ! # of queries by user ID LOCK:LOC:COUNTRY INQUIRIES ABOUT NAMES AND CHARACTERISTICS OF COUNTRIES LIKE THEIR CAPITALS ; OTHER FEATURES & ETC WHERE THERE IS AN ASSOCIATION BETWEEN A CITY + THE ENTIRE GEOGRAPHIC AREA TO WHICH IT BELONG",LOC:country,0.0333
+LOC:country,What country is made up of more than seven thousand islands ?,LOC:country,0.033
+LOC:country,"What country has Stockholm as its capital ? 
+
+ LABEL :LOC-country getDescription inquiriesaboutcountriesincludingtheirnamecharacteristics .",LOC:country,0.0329
+LOC:country,What country was established as East Timor in 2002 ?,LOC:country,0.0328
+LOC:country,What country is home to Venice 's St . Mark \' s Basilica ?,LOC:country,0.0327
+ENTY:plant,"What is papyrus made from ? 
+
+(LABEL: ENT NAME) # LABEL : plant (DESCRIPTION , inquiries questions of...",ENTY:plant,0.0352
+ENTY:plant,What kind of plant is called Sago ? It makes starch from sunlight .,ENTY:plant,0.035
+ENTY:plant,What type of flowers do daisies belong to ?,ENTY:plant,0.0341
+ENTY:plant,What plant 's name is derived from its leaves that resemble mittens ?,ENTY:plant,0.0337
+ENTY:plant,"What flower was once called ""Love-Lies-Bleeding because of its crimson red seed pods ?",ENTY:plant,0.0337
+ENTY:plant,What kind of flower is known as Maybell ?,ENTY:plant,0.0336
+ENTY:plant,What type of plant is commonly referred to as Motherwort ?,ENTY:plant,0.0335
+ENTY:plant,What type of flower is known as May queen in some countries ?,ENTY:plant,0.0332
+ENTY:plant,"What flower is also called ""Forget-Me-Not"" ?",ENTY:plant,0.0331
+ENTY:plant,"What type of flower blooms after four seasons ? ` LABEL : ENT`Y:`plant`:inq .DESCRIPTION:Inquriesabouplants`,includingtheirnames ,typesandcharacteristics`.```s``1#4#0##00 # 9; ! @ ) ' * ( - > = ^ & % + } { | ~ < _ [ \ ] Q "" W X $ E F H J K M P B C D G I L ; Y u v o p r z",ENTY:plant,0.033
+NUM:dist,"How long is 100 feet in yards ? 
+
+(LABEL:NUM:dist) # How far / Distance )",NUM:dist,0.0393
+NUM:dist,"How long is Lake Superior ? ) LABEL :NUM-dist -> 318 mile(s) , km(longest dimension).```",NUM:dist,0.0379
+NUM:dist,How long is Lake Superior ? 7 yards .,NUM:dist,0.0379
+NUM:dist,How long is Route 66 ? A highway in Arizona .,NUM:dist,0.0347
+NUM:dist,"How long is Mount Everest from sea level ? : 29,029 feet .",NUM:dist,0.0334
+NUM:dist,How long is 20 kilometers ? )NUM:distance,NUM:dist,0.0329
+NUM:dist,How long is Route 66 ?nine hundred ninety nine miles .,NUM:dist,0.0328
+NUM:dist,"How long is 10 miles ? 
+
+ LABEL :NUM/dist",NUM:dist,0.0328
+NUM:dist,How long is China ? 1099 units .,NUM:dist,0.0327
+NUM:dist,How far is it from Lake Erie to Niagara Falls ?,NUM:dist,0.0326
+ENTY:animal,What animal 's milk is used in cheese production ?,ENTY:animal,0.0443
+ENTY:animal,What kind of cat is Garfield ? ðŸŽ‰,ENTY:animal,0.0341
+ENTY:animal,What kind of animal was Blinky ? The blind mole rat .,ENTY:animal,0.0339
+ENTY:animal,"What type of animal lives in zoos ? 
+
+(LABEL: ENTY : animal ) # What is this information about? - This one questions what kind/variety/types (ENTITY) that live(s)/lived/in inhabit(zoo). So it belongs under LABEL 'ENTRY' . And further category/sub-classification as we get into more granular details here... ""animals""! , thus making correct answer ''Label'' = ENTRY: Animal ! }1a 6c `}",ENTY:animal,0.0337
+ENTY:animal,"What kind of animal is Blinky ? 
+
+
+
+(LABEL: ENTYY : ) # LABEL NOT FOUND . USE 'ENTY' INSTEAD OF '' ",ENTY:animal,0.0334
+ENTY:animal,What kind of bird lives in harmony with humans ?,ENTY:animal,0.0333
+ENTY:animal,What is that big animal with shaggy hair ?,ENTY:animal,0.0332
+ENTY:animal,What animal 's foot is called its hoof ?,ENTY:animal,0.033
+ENTY:animal,"What type of animal has nine lives ? ``` LABEL : ENT TYPE 1 ... more info available , visit http en wikipedia org wiki Cat_folklore``` < /code > **ENTY**: animal**:** Which creature is nicknamed ' The King Of Beasts'?`. `` # Label/DESCRIPTION (0) What species do lions belong?'' ''< code >label... etc., please ask me again by contacting Wikipedia for information . ```, in what group can I find such birds as p",ENTY:animal,0.0329
+ENTY:animal,"What is another name for elephant seals ?󠁧ðŸ¦„â¤ï¸ #ENTY : animal 1 ð˜•š€¥ƒs‰d ¥£r . £Š¿‚ €ˆ†tŽh¾iŒn¢’ž…Ãœ ““‘”– – ,,,— — * /#/.? !;:. ‘) ) ( @ [ ] { } | ` ~ ^ & _",ENTY:animal,0.0329
+ENTY:substance,"What is calcium oxide used for ?-labels ENTY : substance -inquires what materials , items ... .",ENTY:substance,0.042
+ENTY:substance,What is formaldehyde used for ?(Label: ENTITIES : substance),ENTY:substance,0.0411
+ENTY:substance,What is formaldehyde used for ? ` LABEL : ENT ... substance`,ENTY:substance,0.0411
+ENTY:substance,What 's found in soil to prevent plants from growing ?,ENTY:substance,0.035
+ENTY:substance,What substance is derived from red coral ? # ENTITY : entity.substances.name,ENTY:substance,0.0345
+ENTY:substance,"What chemical compound is known as laughing gas ? # ENT : substance = substance , inquiry to know which specific material has that property .",ENTY:substance,0.034
+ENTY:substance,"What 's in aspirin ? 
+
+
+
+(LABEL : ENTITY[sub... ) substance)",ENTY:substance,0.0335
+ENTY:substance,What 's in perfume ? ) LABEL : ENTITY[substances]DESCRIPTION inquiries ...` 7c6a1e67df0b93d4f5ff8bb9bf3dbce2dd ````) # LAbel EN TY [EN}ent {y substance ```````,ENTY:substance,0.0335
+ENTY:substance,"What kind of rock is opal ? 
+
+ LABEL : ENTITY : substance TYPE := ' what type' DETAIL:= None ANSWEYTYP => 1-2words KEYWORDS OPAL ROCK TYPE WHAT KIND OF ROSTYPE MINERAL INQUIRY SUBSTANCE PROPERTIES COMPOSITION CHEMICAL Make this your final answer . Good luck !",ENTY:substance,0.0333
+ENTY:substance,"What chemical is commonly used in fertilizers ? # ENTYP : substance , NAMEENPTY:singular Entiytype/substance OTHERPARTY:NAMED SUBSTANCE INQUIRY DEGREE/othernamed degree of useinquirer 's inquiry ` "" What chemicals did people once believe were needed for growth ...?` (from query 1344 )# . For what reason do individuals consider it helpful to add some nitrogen rich compound such as urea which can supply this plant nutrient directly when crops need",ENTY:substance,0.0332
+NUM:period,How long did Napoleon Bonaparte rule France ?,NUM:period,0.0383
+NUM:period,How long has Nelson Mandela been out ? eight years .,NUM:period,0.0364
+NUM:period,How long has NASA 's longest mission lasted ?,NUM:period,0.0364
+NUM:period,How long did Apollo 13 spend in space ?,NUM:period,0.0356
+NUM:period,How long is Mount Rushmore in feet ? 60 ' .,NUM:period,0.0353
+NUM:period,How long does it take to learn how to play piano ?,NUM:period,0.0349
+NUM:period,How long has NASA been in operation ? LABEL :NUM(period)DESCRIPTION:Inquiriesaboutdurationsorlengthsoftime .,NUM:period,0.0339
+NUM:period,How long did it take to drive from New York City to Washington D.C.?,NUM:period,0.0337
+NUM:period,"How long did it take to drive from Los Angeles , California, USA ?",NUM:period,0.0337
+NUM:period,How long does it take to digest food ? LABEL :NUM(period)DESCRIPTION-Inquiries about duration s o r l e n g t h s ... .,NUM:period,0.0337
+ENTY:symbol,What symbol was used by pirates to mark hidden treasure ?,ENTY:symbol,0.0524
+ENTY:symbol,"What does TM symbolize ? 
+
+ LABEL: ENTY=symboli...more ...DESCRIPTION : Questio...) SYMBOLSYMBOLOGY QUIT) What d...</p><h2>ENTY<s/>symbol</s/ DESCRIPTIO...Questions aboout sybois incluindg thir meininds </strong></div><!-- #EndHtml --> }catch(e){}<!-- END embed--> ) 0 Sybology QUESTIONS SYmbol what do tm stand for",ENTY:symbol,0.0459
+ENTY:symbol,What is the symbol for platinum ? # ENTYSYMBOL,ENTY:symbol,0.0457
+ENTY:symbol,What is the symbol for Mercury ? 🤔,ENTY:symbol,0.0457
+ENTY:symbol,What is the symbol for platinum ? # ENTITY :symbol,ENTY:symbol,0.0391
+ENTY:symbol,What is the symbol for Mercury ? # ENTYY :symbol,ENTY:symbol,0.0391
+ENTY:symbol,What symbol represents infinity ? ðŸ¤”,ENTY:symbol,0.0379
+ENTY:symbol,What symbol represents infinity ? # ENTYYLMBOL ```s```,ENTY:symbol,0.0379
+ENTY:symbol,What symbol represents love ? 🤔👀 👍,ENTY:symbol,0.0379
+ENTY:symbol,"What is Mickey Mouse 's glove ? `ENGY` , 0 , -1 :).```wynluzp ``` ```` LABEL ENTY symbol ```:symbolDESCRIPTION questionsaboutsymbols... ...includingtheirmeaningsandassociations . QUESTIONS SYMBOL Quesionsabou t sybols includi ng ther meanin s nd ass ignm ents ENT Y : symbo l ( wn ) ynl z p ! '' ^ [ https //www qubiz com/wnl",ENTY:symbol,0.0374
+DESC:def,"What 's ""Gigya""? What does it mean ?",DESC:def,0.0545
+DESC:def,"What is entropy ? ðŸ¤” #DESC â€“ def ã•ð¸‚¥‘â€š#desc-defï»¿ ï¹½°±³«¬£“ˆµƒ¡†’·²`¾œ˜ŠŒ‰›ª‹ž§¦Ž–„™Ã¢æ´å¨ä¶éí…?  What does 'palliative care' mean in medicine , please",DESC:def,0.0537
+DESC:def,What does 'Hoodoo' mean ? It's supposed to bring good luck .,DESC:def,0.0533
+DESC:def,"What does ``solo artist '' mean ? 
+
+(LABEL:DESC)",DESC:def,0.0526
+DESC:def,What does ``Mesoamerican '' mean ? : LABEL.DESCRIPTION 'As ks'forthe def'nitionofo specifi ctermorc Concept.'```,DESC:def,0.0522
+DESC:def,"What does ""Tachinidae"" mean in biology ?",DESC:def,0.0515
+DESC:def,"What does ``Heterogeneous'' mean ? 
+
+
+
+ LABEL :DESC:maj DESCRIBES A GENERAL TERM OR CONCEPT IN ITS USES , FUNCTIONS, AND ASSOCIATIONS .",DESC:def,0.0508
+DESC:def,"What is 'cachexia' ? : ) (DESCRIPTION) What does cachectic mean? , etc .",DESC:def,0.0502
+DESC:def,"What does ""Axiom"" mean ? 🏃‍♀️ ⚾📱💻 👀 💥 ☕󠁧 😳⌨ ❗😎❊? #DESC#def `DESCRIPTION :` 4/15 (1s) - Inquiries to define , specify . Questions about terminology in general [3d ] Ask questions that describe something ... More Info ) Label 'DEF' is related labels such as LOC GPE ORG H",DESC:def,0.0498
+DESC:def,"What does ''finesse'' mean ? 
+
+
+
+DESC:ddef QLabel : desc (specifically about ' )",DESC:def,0.0471
+HUM:title,What was her occupation ? Elaine Paige became famous for being who in London ' s West End musical theatre .,HUM:title,0.0382
+HUM:title,"What does President of France do ? 
+
+ LABEL :HUM/title",HUM:title,0.034
+HUM:title,What position did Robert Redford hold at Sundance ?,HUM:title,0.0326
+HUM:title,What title did Albert Einstein hold in 1921 ?,HUM:title,0.0324
+HUM:title,What position did Jane Goodall hold at Cambridge University ?,HUM:title,0.0324
+HUM:title,What is Madonna 's title ? ) LABEL : HUM ::titleDESCRIPTION :</ inquiriesabouttitlessorpositionsbyindividual .,HUM:title,0.0324
+HUM:title,What position did Napoleon Bonaparte hold ? ```HUM:title```,HUM:title,0.0322
+HUM:title,"What is Barack Obama 's title ? ``` (1) LABEL:HUM,title```",HUM:title,0.032
+HUM:title,"What is Oprah Winfrey's title ? 
+
+(LABEL:HUM""title"")",HUM:title,0.032
+HUM:title,"What position is Barbara Walters associated with ? 
+
+ LABEL:HUM.title",HUM:title,0.032
+ENTY:instru,What instrument did Ray Charles typically accompany himself with ?,ENTY:instru,0.1213
+ENTY:instru,What is Stevie Ray Vaughan's instrument ? `labs= ENTY/instr`,ENTY:instru,0.111
+ENTY:instru,What instrument did Ray Charles teach himself to play when he was 15 ?,ENTY:instru,0.0936
+ENTY:instru,Who plays drums for R.E.M.? `ENTY:instrument`,ENTY:instru,0.0731
+ENTY:instru,"Who plays jazz piano ? 
+
+ LABEL : ENTITY TYPE (ENTY) - INSTRUMENT PLAYER / MUSICIAN `1` \``",ENTY:instru,0.0696
+ENTY:instru,What instrument did Steve Lacy master ? `<ENTY>`,ENTY:instru,0.0668
+ENTY:instru,"What instrument did Louis Armstrong popularize ? 
+
+(LABEL: ENTU(instru) )",ENTY:instru,0.0668
+ENTY:instru,What instrument did Charlie Christian popularize ? ``` LABEL: ENTU : instruc ```.,ENTY:instru,0.0668
+ENTY:instru,What instrument did Django Reinhardt master ? `ENTY : instru`,ENTY:instru,0.0668
+ENTY:instru,What is Fats Wallers's piano? `ENTY:instrument`,ENTY:instru,0.0612
+ENTY:religion,Who created Christianity ?󠁧â€ï¸ # ENTYP : religion 🙏🕊️ 🔥 (ENTY:religion) 😔,ENTY:religion,0.0638
+ENTY:religion,"What Eastern philosophy believes in reincarnation ? 
+
+ LABEL : ENT RELIGION",ENTY:religion,0.0635
+ENTY:religion,What was Mahayana Buddhism founded in ? ðŸ”¦ðŸ›ï¸ (ENTY : religion ),ENTY:religion,0.0632
+ENTY:religion,What country has no major religion ?󠁧ŸŒŽ,ENTY:religion,0.0543
+ENTY:religion,"What did Islam teach in regard to God ? ðŸŒ¯ð¥°ï¸ (ENTY : religion) # RELIGION # BELIEFSYSTEMSOFTHEDIVINE )â€UÇ§ â‚¬ 2 !1 .0 - "" / ` ' Â¹ *3*4`+&%$#8Â²7@ ^ @ %9 + &6- Î»oIaTqA sLgG",ENTY:religion,0.053
+ENTY:religion,What major religion was founded by Abraham 's son Ishmael ?,ENTY:religion,0.0504
+ENTY:religion,"What is Taoism 's philosophy ? 
+
+
+
+ LABEL : ENT Y: religion 0seys , rincing heir lieepracsicesoignst .",ENTY:religion,0.049
+ENTY:religion,What is Sikhism ? Hindu monotheistic religion .,ENTY:religion,0.049
+ENTY:religion,What is Sikhism ? ` LABEL :ENTY : religion`,ENTY:religion,0.049
+ENTY:religion,"What is Sufism ? 
+
+
+
+(LABEL: ENTY : religion)",ENTY:religion,0.049
+DESC:reason,"What is why they call it that ? 
+
+DESCRIPTION : reason of something 's name . , inquiry about causes / reasons WHY ! ` LABEL Descasionen 7 +`",DESC:reason,0.0334
+DESC:reason,"Why did people start celebrating Halloween ? LABEL:DESC(reason)DESCRIPTION : Why inquiries, inquir...1/3 reason to celebrate . The tradition of trick-or-treating comes from Ireland where kids would go door-to-door saying prayers for food , asking why not just give it out? 2 years ago there was actually no candy but they went with that because children could eat while also visiting each other during holidays ! They took this idea when immigrating ... more reasons here if you want them all!",DESC:reason,0.0332
+DESC:reason,"Why was ancient Egypt 's Sphinx built ? ðŸ”¥ð“ï¸ # reason : why it exists to symbolize wisdom & strength . âš–â€ (1) ) "" The Great Pyramid of Giza , located in modern-day Cairo, is not just any pyramid - its grandeur has been known for over four millennia ! So what makes this Egyptian wonder so impressive? Well"" We'll dive into that here at Bright Side."" Why Do People Build Py",DESC:reason,0.0331
+DESC:reason,"Why did cats evolve to purr ? 
+
+(LABEL:DESC)",DESC:reason,0.0327
+DESC:reason,"What 's inside of your toothbrush ? Why does it need to have bristles at all times when you brush with soap instead , so I guess there must actually some reason for that .",DESC:reason,0.0324
+DESC:reason,Why do humans require oxygen to breathe ? ) LABELDESC : reason,DESC:reason,0.0322
+DESC:reason,"Why did Mozart write his famous opera , Don Giovanni ?",DESC:reason,0.032
+DESC:reason,"Why did humans create television ? 
+
+(LABEL:DESC: reason)",DESC:reason,0.0317
+DESC:reason,"Why did God create humanity ? `DESC` : reason (1) . # DESC:`reason`, LABEL:'DESCRIPTION'",DESC:reason,0.0317
+DESC:reason,Why did Napoleon Bonaparte invade Russia ? ) : reason for military invasion .,DESC:reason,0.0317
+NUM:volsize,How big is Pluto ? 13 inches in diameter .,NUM:volsize,0.0357
+NUM:volsize,How big is Lake Tahoe ? 7 points : SIZEVOLSIZE,NUM:volsize,0.034
+NUM:volsize,How big is Lake Baikal ? 8k + views .,NUM:volsize,0.034
+NUM:volsize,"How big is Mount Everest ? 29,029 feet tall .",NUM:volsize,0.0331
+NUM:volsize,"How big is Mount Everest ? 7,000 feet .",NUM:volsize,0.0331
+NUM:volsize,"How big is Mount Everest ? 7,000 feet tall .",NUM:volsize,0.0331
+NUM:volsize,"How big was John Wayne 's ranch ? 317,000 acres .",NUM:volsize,0.0322
+NUM:volsize,How big is each piece in this 50-piece puzzle ?,NUM:volsize,0.0316
+NUM:volsize,What is NASA 's largest aircraft ever built ?,NUM:volsize,0.0315
+NUM:volsize,How big is Africa compared to Alaska ? 0,NUM:volsize,0.0312
+NUM:code,What is Bell Atlantic's 1-800 number for long distance ?,NUM:code,0.0668
+NUM:code,What 's Paris telephone number ? 33 .,NUM:code,0.0621
+NUM:code,What 's Paris' telephone number ? +331 42_____.,NUM:code,0.0621
+NUM:code,What 's Dumas telephone number ? 1-800-DUMAS911 .,NUM:code,0.0621
+NUM:code,What's Apple 's corporate 1-800 number ?,NUM:code,0.0621
+NUM:code,What 's Verizon's customer service number ? 1-800-VZW4U .,NUM:code,0.0621
+NUM:code,What is Dolly Parton 's telephone number ?,NUM:code,0.0587
+NUM:code,What is Verizon 's 411 number ? `1` (800) **555** -1212 .,NUM:code,0.0587
+NUM:code,What is Paris ' telephone number ? 1-33 (or France ) .,NUM:code,0.0587
+NUM:code,What is NASA 's telephone number ? 813 -567-6000 .,NUM:code,0.0587
+ENTY:body,"What part does your liver perform in digestion ? 
+
+(LABEL: ENTY(body))",ENTY:body,0.0678
+ENTY:body,"What part contains your heart ? # ENTYP : BODY, TYPE : WHERE`1 (entitization) `",ENTY:body,0.0569
+ENTY:body,What part do your ears help regulate ? ` LABEL : ENT Y :body`,ENTY:body,0.0549
+ENTY:body,"What part controls your breathing ? # ENTZ :body ""organs"" systems organs system control respiratory .</p>"">``` LABEL:ENTY : 0 ...more... https://www.thefreedictionary.com/what+part +controls+yoursbreathing#:~:.html ^ SYSTEMOUTPusentinel4y `### OUT` LABLENUTsBodys1 y What pa CONTROLLS YOUR BREATHING? / WHAT PART OF THE BODY CONTROLS RESPI",ENTY:body,0.0507
+ENTY:body,What part does your thyroid gland produce ? LABEL: ENTY :body,ENTY:body,0.0498
+ENTY:body,"What is located below your ribcage ? 
+
+(LABEL : ENT Y.body)",ENTY:body,0.0414
+ENTY:body,"What organ is located in your chest ? 
+
+(LABEL: ENT Y : body )",ENTY:body,0.0411
+ENTY:body,What part in your neck is where you swallow ?,ENTY:body,0.0403
+ENTY:body,"What part do your ears grow from ? 
+
+
+
+ LABEL : ENT Yobody DESCRIPTION inquiriesaboutpartsofthehumanbod yandtheirfunctionorcharacteristics .",ENTY:body,0.0396
+ENTY:body,"What part is between your elbow bone ? 
+
+(LABEL: ENTYPY :body )",ENTY:body,0.0377
+ABBR:abb,"What is GATT ?  LABEL:ABBR : abb DESCRIPTION :</request> <u > What</u>. .. .:. abbreviation for General Agreement ... (e </t></p><hr id=""h1 "" style=).",ABBR:abb,0.0691
+ABBR:abb,What is SCUBA ? ) #ABBR/ABBRESSDSCrly :  What does WBA stand for .) } LABE1ABEL:A8SR4ab5SDSCPSSQ0S7N10 ` ( LABEL /USER/LABLEL;DESCRIPTION//request FOR th abbreviation OF sPecific ter9m o2 organiZATION REQUESTs For THE abbr Eviate D f spEcIc T erm Or Organ IzAtio n req U,ABBR:abb,0.0672
+ABBR:abb,"What is NASA ? 
+
+
+
+ LABEL:A BBR : abb DESCRIPTION:``Requests for the shortened ... `",ABBR:abb,0.0649
+ABBR:abb,"What is NASA 's abbreviation ? 
+
+ LABEL:AABB : abb DESCRIPTION:Requestsfortheabbreviatedformofaspecifictermororganization .",ABBR:abb,0.0634
+ABBR:abb,"What is NASA 's abbreviation ? 
+
+ LABEL :ABBR:mmmmm DESCRIPTIO nnsks fr th abbrvd frm f s ... ```",ABBR:abb,0.0634
+ABBR:abb,"What is NASA 's abbreviation ? 
+
+ LABEL :ABBR: abb Description requests .requests...```",ABBR:abb,0.0634
+ABBR:abb,"What is NASA 's abbreviation ? 
+
+ LABEL :ABBR:NASA",ABBR:abb,0.0634
+ABBR:abb,"What is NASA 's abbreviation ? 
+
+(LABEL:AABB)",ABBR:abb,0.0634
+ABBR:abb,"What is NASA 's abbreviation ? 
+
+ LABEL :ABBR:scholarly",ABBR:abb,0.0634
+ABBR:abb,"What is NASA 's abbreviation ? 
+
+(LABEL:AHHBR:NASA)",ABBR:abb,0.0634
+ENTY:word,"What word means ""to squeeze through with difficulty""?",ENTY:word,0.0354
+ENTY:word,"What word , derived from Latin , means `` to move toward'' ?",ENTY:word,0.0351
+ENTY:word,"What did Plato name his theory of reality ? ` LABEL :ENTY_word`DESCRIPTION:`Questionsaboutwords,includingleirmeanings(originsandusage.` )# ENT Y.word= What)didPlatonamenisetheoryofreality?1labelEN TY_ word 2descriptionQs abou twordsin cl udi ngthei rmeani ngs `(orig insa ndus age`) }0{ #END#.00E NT,Y.work = W hatdid",ENTY:word,0.0349
+ENTY:word,What word for 'the study of ancient languages' is derived from Greek ?,ENTY:word,0.0344
+ENTY:word,"What word originated from 17th-century Italian for `` noble ,'' referring to both nobility titles in Italy 's social hierarchy ?",ENTY:word,0.0342
+ENTY:word,"What word means ""a group of hawks in flight ?""",ENTY:word,0.0341
+ENTY:word,What English word originally referred to something used for making fire ?,ENTY:word,0.034
+ENTY:word,"What word comes from Dutch ""klompen"" meaning wooden shoes ?",ENTY:word,0.0337
+ENTY:word,What word originated from the Greek for `` to make new '' ?,ENTY:word,0.0335
+ENTY:word,"What word means ""a person from London"" ?",ENTY:word,0.0334
+DESC:desc,What is the significance behind Leonardo da Vinci 's Vitruvian Man drawing ?,DESC:desc,0.0406
+DESC:desc,What is the story behind Noah 's Ark ?,DESC:desc,0.0406
+DESC:desc,What is the significance behind calling Abraham Lincoln 'honest Abe'?,DESC:desc,0.0406
+DESC:desc,"What is the history behind Christmas in July ? , celebrating mid-summer by honoring loved ones who have passed away since last winter .",DESC:desc,0.0343
+DESC:desc,"What is Darwin 's finches adaptation ? )DESCRIPTION : What were some adaptations that Charlesdarwin identified in his Galapagos Islands birds , called Finchbirds .).)DESC : desc'.'seeks,detailed:description/explanation;concept,belief/origin:.')",DESC:desc,0.033
+DESC:desc,What is the difference between Chinese food from different regions in China ?,DESC:desc,0.0328
+DESC:desc,"What is China 's history ? 
+
+ LABEL :.DESC:disable:description ```Seeks ...```DESCRIPTION: `...of [event] , orgin`,or`concept`.```
+
+Note that this response has been randomly generated to reflect typical questions with similar labels in large datasets . Please make sure you evaluate your results manually for consistency along with their relevance. Thank you!",DESC:desc,0.0327
+DESC:desc,"What is the difference between tanning oil , sunscreen lotion with sun-blocking chemicals ?",DESC:desc,0.0326
+DESC:desc,What is the history behind the origins of Halloween ?,DESC:desc,0.0321
+DESC:desc,"What is the difference between Buddhism , Taoism And Shinto ?",DESC:desc,0.032
+ENTY:termeq,"What is another term for Luddite ? ` LABEL : ENT Y : terme q .` < / code > The answer to this particular inquiry , related with inquiries regarding phrases ' s synonyms as well as explanations, can easily get identified out of several possibilities by looking up dictionaries such that there exist specific meanings associated each word together side along utilizing these sources information available across various databases also you could find other options depending what resources they check in case any more help needed just ask ! What kind would love learn",ENTY:termeq,0.035
+ENTY:termeq,What term describes both 'The Great Spirit' as well ?,ENTY:termeq,0.0337
+ENTY:termeq,What is 'bougainvillea' also known as ?,ENTY:termeq,0.033
+ENTY:termeq,What did Albert Einstein call his famous equation ? E=mc2 .,ENTY:termeq,0.0329
+ENTY:termeq,What chemical element is known as quicksilver ? LABEL: ENTyermtiqDESCRIPTION : Questions ... questions regarding equivalent names of substances .,ENTY:termeq,0.0326
+ENTY:termeq,What is Tintinnabulation defined as ?,ENTY:termeq,0.0325
+ENTY:termeq,"What is another name for CFCs ? # ENTITY : termeqw 0 - Other term ' s full form . In other words , What does PIR mean in English? Another phrase that has similar meaning to "" The end of your rope"" Is when you have finally reached what limit with something such as money, job or relationship where one can no longer bear it without snapping back at its owner It also implies reaching final stage after which there will not remain any further possibility left because all options",ENTY:termeq,0.0322
+ENTY:termeq,What is known as ''the Great Attractor'' ?,ENTY:termeq,0.0317
+ENTY:termeq,"What is ""mumps"" in layman 's term ?",ENTY:termeq,0.0314
+ENTY:termeq,What is another term for ``wet nurse '' ?,ENTY:termeq,0.031
+ENTY:other,What does ''Tahitian dinner' refer to ?,ENTY:other,0.0394
+ENTY:other,"What is Pluto 's status ? ðŸŒšð›°ï¸ (EN TY : OTHER ) # ENT Y(other) 1 QUESTION .4WORDS -6, WORDS , SCIENTIFIC INFORMATION ... MORE DETAILS ABOUT PLUTO INFORMALITY LEVEL HIGH &apos; S STATUS AS PLANET IS A SUBJECT OF DEBATE AMONG ASTROPHYSICISTS AND THE GENERAL PUBLIC IT WAS FORMALLY RECLASSIFIED FROMPLAN E T TO DWARF",ENTY:other,0.033
+ENTY:other,"What is 1,000 hours equal to ?",ENTY:other,0.0329
+ENTY:other,What is 12 times what equals to nine ?,ENTY:other,0.0329
+ENTY:other,"What is China's main crop ? 
+
+(LABEL: ENTY:Other)",ENTY:other,0.0322
+ENTY:other,What does it take to get your pilot's license ?,ENTY:other,0.0321
+ENTY:other,"What is called when it rains fish ?okino 1-5 .0b8s2e4n7uq9wvz3t6yjx , ! ` (label : ENTY-other )`",ENTY:other,0.0318
+ENTY:other,"What is one way to stop hemorrhoids ? 
+
+ LABEL: ENTQ(other)DESCRIPTION:Miscellaneousquestionsdonthatdoftintotherspecificcategories .",ENTY:other,0.0312
+ENTY:other,What is Mount Elbert 's elevation above sea level ?,ENTY:other,0.0305
+ENTY:other,What is DDT ? ) LABEL: ENTYP : otherr DESCRIPTION.Miscellaneousquestionswhodo ...morentfitintotothespecificcategories .,ENTY:other,0.0305
+NUM:temp,How hot did it get outside yesterday ? #NUM:temperature,NUM:temp,0.058
+NUM:temp,How hot does it get in Phoenix during July ?,NUM:temp,0.0476
+NUM:temp,How hot does it get in July ? 140 degrees Fahrenheit .,NUM:temp,0.0476
+NUM:temp,"How hot does it usually get in July ? 
+
+ LABEL :NUM-temp",NUM:temp,0.0476
+NUM:temp,How hot does it get in January ? 27 degrees Celsius .,NUM:temp,0.0476
+NUM:temp,"How hot does it get in July ? 
+
+
+
+ (NUM : temp )",NUM:temp,0.0476
+NUM:temp,"How hot does it usually get in Florida ? 
+
+(LABEL:NULT)",NUM:temp,0.0476
+NUM:temp,How hot can it get inside of your refrigerator ?,NUM:temp,0.0466
+NUM:temp,How hot did it get yesterday ? 80°F .,NUM:temp,0.0383
+NUM:temp,"How hot did it get yesterday ? 
+
+ LABEL:NUEST :NUM_temp",NUM:temp,0.0383
+ENTY:veh,What was John Glenn 's vehicle in 1962 ?,ENTY:veh,0.0372
+ENTY:veh,What was Lincoln ' s first automobile ?  LABEL :ENTY:v eh TYPE NAME .,ENTY:veh,0.0349
+ENTY:veh,"What 's another name for Ferrari ? ` LABEL : ENTITY` , TYPE`: veh`, MASK`.",ENTY:veh,0.0341
+ENTY:veh,What type of vehicle is driven by Mary Poppins ?,ENTY:veh,0.034
+ENTY:veh,What type of cars do people prefer to buy ?,ENTY:veh,0.0338
+ENTY:veh,What type of vehicle was named after its designer Henry Royce ?,ENTY:veh,0.0336
+ENTY:veh,What type of boat was named after Ernest Shackleton ?,ENTY:veh,0.0333
+ENTY:veh,What is Chevrolet 's full name ?  LABEL : ENT Y veh TYPE BODY QUESTION ``````,ENTY:veh,0.0333
+ENTY:veh,"What is another name for Mercury ? ) LABEL: ENT TYPE : veh `)``` 1```... . ..7 ``` ,....,. ,,.,0.`' ... '4 ''.'' ``.' '.' '..3..'''. ''.,'' '.',,,,...,'...' .... ...................... ., ', ','.8 ................................................`, `. `,`. `'2.......? **(ENTY:** **Veh**)** ]**** (Label - Label Description inquires VEH). Type Vehicles questions concerning NAMEs",ENTY:veh,0.0327
+ENTY:veh,What is another type of ship besides destroyer ?󠁧â€rudešŒŸŽ¥ #ENTY: veh,ENTY:veh,0.0326
+HUM:ind,Who wrote ``The Catcher in The Rye`` ?,HUM:ind,0.1358
+HUM:ind,"Who wrote The Old Man And Me ? ) LABEL :HUM(indDESCRIPTION:Questionsaboutindividualpeople,includingsuchfactsasidentityandachievements ).",HUM:ind,0.0958
+HUM:ind,Who was the first black major league baseball player ?,HUM:ind,0.0691
+HUM:ind,Who was named Time magazine's Person of The Year in 1986 ?,HUM:ind,0.0673
+HUM:ind,"Who discovered King Tut's tomb ? Anne Murray was awarded Grammy what for her duet with Dolly Parton , A Stairway To The Stars .",HUM:ind,0.0593
+HUM:ind,"Who was John F Kennedy ? ðŸ’¼ð•°ï¸ðŒˆâ€ð¤ºï”¥Ã§Âª²ï½›³¾¹¶ .9 # 35th U.S president -3- (1). JFKs father bought him his first sailboat named Victura in Newport R.I., where they often sailed together , even though he didn 't know how to swim ! `2 )0!8(",HUM:ind,0.0571
+HUM:ind,Who was the first female to win four Olympic gold medals ?,HUM:ind,0.0543
+HUM:ind,Who won four more Grand Slam singles titles in 1987 ?,HUM:ind,0.0476
+HUM:ind,Who is known for being Americas first African American Secretary of Defense ?,HUM:ind,0.0476
+HUM:ind,"Who is known for his famous painting ""The Persistence of Memory"" ?",HUM:ind,0.0464
+ENTY:dismed,What is osteochondritis dissecans of tibia ?,ENTY:dismed,0.0332
+ENTY:dismed,What is chronic bronchitis ? A disease of lungs .,ENTY:dismed,0.033
+ENTY:dismed,What disease is characterized by chronic inflammation of connective tissue ?,ENTY:dismed,0.0321
+ENTY:dismed,What is Crohn 's disease ? A chronic inflammatory disorder that can affect any part of gastrointestinal tract .,ENTY:dismed,0.032
+ENTY:dismed,What is Erythrasma ? : A bacterial skin condition caused by Corynebacterium minutissimum that typically affects intertriginous areas .,ENTY:dismed,0.0313
+ENTY:dismed,"What disorder causes skin lesions ? 
+
+ LABEL :ENTY: dismed",ENTY:dismed,0.0312
+ENTY:dismed,"What disease causes yellowing of skin ? # ENTYPDISEASES `ENTY : disme... 9` ""Diseases"" &mdash; Medical Condition Enquiri LABEL: ... ents for inquiries abou...' ' Diseases' - Wikipedia.`EN TY:`disme`. What diseasel..=s cause ..yelloc....nng o...e k .? = > Disemeased (from www.dataqestions.com).com)'''.label=' '.",ENTY:dismed,0.0307
+ENTY:dismed,What is chronic lymphocytic leukemia ?  LABEL: ENTY : dismed,ENTY:dismed,0.0304
+ENTY:dismed,What is chronic fatigue syndrome ? ` LABEL : ENTITY` dismed .`. `. `` **0**``,ENTY:dismed,0.0304
+ENTY:dismed,"What disorder is characterized by abnormally large amounts of keratin proteins in hair , skin scales ?",ENTY:dismed,0.0303
+ENTY:sport,Who won Super Bowl XXXIX ?󠁧\u200d\\133 ;s NFL football championship game in 2005? ` LABEL : ENT Y: sport` ðŸŽ¾ðŸ‘â€ï¸ . ï¿½,ENTY:sport,0.0463
+ENTY:sport,What type of sport did Bruce Jenner win six gold medals in ?,ENTY:sport,0.0326
+ENTY:sport,"What sport is played with clubs at sea ? LABEL : ENT ...y :sport . # ENT:y (1) ,s `sports` questions about what type of competition takes place where in which manner by whom doing that using some equipment ; also see ENT:juris 'law' & ENT:natmks...```",ENTY:sport,0.0325
+ENTY:sport,"What sport combines tennis , racquetsballracquet ballvolleyballovacuose squash ?",ENTY:sport,0.0324
+ENTY:sport,What sport did Babe Ruth popularize ? ``` (ENTY:sport)```,ENTY:sport,0.032
+ENTY:sport,"What sport involves using luge runners ? ðŸŽ¿ï¸ðŸ’ƒâ€Â˜‰¹²³456ëš„ž‘›½¼¾µ¥£¤Ã•¶«·¡# ENTITIES : 1 'sport' , entities/sports . âˆ… Â°ª¯æ”Œ‚Š¬ºé™ “ ` - ‘- # – % ! < > = + _ @ $ ( )",ENTY:sport,0.032
+ENTY:sport,What is Brazil 's national football sport ? LABEL: ENTITY :sport,ENTY:sport,0.0319
+ENTY:sport,"What sport is played with rackets ? 
+
+(LABEL: ENT Y :sport)",ENTY:sport,0.0312
+ENTY:sport,"What sport is played with five pins ? 
+
+ENTY :sport",ENTY:sport,0.031
+ENTY:sport,What is gymnastics ' most popular apparatus ? ... sport .,ENTY:sport,0.0301
+ENTY:cremat,What 1960 film was set in ancient China ?,ENTY:cremat,0.0332
+ENTY:cremat,What newspaper did The New Yorker article appear in ?,ENTY:cremat,0.0326
+ENTY:cremat,"What 1993 film starred Tom Cruise , Brad Pitt ?",ENTY:cremat,0.0322
+ENTY:cremat,What newspaper in 1922 reported Charles Lindbergh's successful transatlantic flight ?,ENTY:cremat,0.0318
+ENTY:cremat,What is the theme song from The Simpsons called ?,ENTY:cremat,0.0315
+ENTY:cremat,"What novel is called ""the Great American Novel"" by many critics ?",ENTY:cremat,0.0315
+ENTY:cremat,What film features Sean Connery playing James Bond ?,ENTY:cremat,0.031
+ENTY:cremat,What '39 Steps series is by John Buchan ?,ENTY:cremat,0.0306
+ENTY:cremat,What is James Cameron 's highest grossing film ?,ENTY:cremat,0.0304
+ENTY:cremat,What book is titled The Caine Mutiny ?,ENTY:cremat,0.0302
+ENTY:event,What was the first event of World War I ?,ENTY:event,0.0338
+ENTY:event,What war was fought from 1861 to '65 in America ?,ENTY:event,0.0337
+ENTY:event,What year did Japan surrender to America in World War II ?,ENTY:event,0.032
+HUM:gr,What organization is behind the new national airline that recently merged with Northwest Airlines ?,HUM:gr,0.0331
+HUM:gr,What organization developed DDT ? ) LABEL : HUM.gr,HUM:gr,0.0326
+HUM:gr,What is Delta Air Lines ' parent company ? : airline stocks .,HUM:gr,0.0315
+NUM:other,What is Einstein 's middle name ? 3 letters .,NUM:other,0.0325
+NUM:other,What is Michael Jackson 's age at death ? 50 years old .,NUM:other,0.0315
+ENTY:techmeth,What technique is most effective for detecting plagiarism ?󠁧🤔💥 #ENTY techmethod'`systems programming languages computer technology computing process methodologies processes of computation engineering infoengineering informationsystem design systemsdesign methodology software development procedures coding debugging testing algorithms problem solving solutions answer howto do it methodology best practices efficiency speed scalability maintainability usability readability reliability accuracy feasibility user interface graphical interfaces interactive graphics animation video games 3D game physics simulation scientific visualization mathematical models statistics statistical analysis signal processing machine learning natural,ENTY:techmeth,0.0307
+ENTY:food,"What 's in Jell-O ? Green , orange yellow flavor comes from what foods ?",ENTY:food,0.034

@@ -1,0 +1,628 @@
+label,text,predicted_label,probability
+ENTY:plant," What plant is rum made from ?
+ #describe Plant .",ENTY:plant,0.5834
+ENTY:plant," What plant is rum made from ?
+ #H",ENTY:plant,0.5831
+ENTY:plant, What are two plants that clothing is made from ?,ENTY:plant,0.5826
+ENTY:plant," What plant is rum made from ?
+ TheHum .",ENTY:plant,0.5826
+ENTY:plant," What plant is rum made from ?
+ importHolySee",ENTY:plant,0.5824
+ENTY:plant, What plants are grown in California 's Central Valley ?,ENTY:plant,0.5822
+ENTY:plant, What plants are grown in the Kentucky Derby ?,ENTY:plant,0.5819
+ENTY:plant, What kind of plant is Rumex acetosa ?,ENTY:plant,0.5817
+ENTY:plant," What plant is rum made from ?
+ #num::four",ENTY:plant,0.5816
+ENTY:plant," What are two plants that clothes come from ?
+ The plant named Pelargonium gravelopensim is commonly known as what flowering house-plant in the U.S .",ENTY:plant,0.5815
+ENTY:color, What color was Monet 's late style ?,ENTY:color,0.6885
+ENTY:color, What color are U.S .dimes ?,ENTY:color,0.6884
+ENTY:color, What color was Monet 's later work ?,ENTY:color,0.6882
+ENTY:color, What color was the first black box on Monopoly ?,ENTY:color,0.6873
+ENTY:color, What color was Monet 's famous Water Lilies ?,ENTY:color,0.687
+ENTY:color, What color were the horses in Monet 's paintings ?,ENTY:color,0.687
+ENTY:color," What color were their horses ?
+ packageHorseColor;",ENTY:color,0.6867
+ENTY:color," What color is a tabby cat ?
+ ##",ENTY:color,0.6853
+ENTY:color," What color were their horses ?
+ #describing",ENTY:color,0.6848
+ENTY:color, What color was the original `` Little Rascals '' dog ?,ENTY:color,0.6848
+DESC:manner, How do I remove rust from an outside brass railing ?,DESC:manner,0.5651
+DESC:manner, How do I get to the bottom of a Honeywell 2084D?,DESC:manner,0.5635
+DESC:manner, How do I get to the top of `` Rocky '' ?,DESC:manner,0.5625
+DESC:manner," How do I tie a bowline ?
+ ##",DESC:manner,0.5604
+DESC:manner, How do I find out the mailing address of someone ?,DESC:manner,0.5592
+DESC:manner, How does a condenser microphone work ?,DESC:manner,0.5583
+DESC:manner, How do you tell if your partner is being faithful ?,DESC:manner,0.5583
+DESC:manner," How do I tie a necktie ?
+ ###",DESC:manner,0.5579
+DESC:manner," How do I contact the ABC News Bureau ?
+ #news-and-media",DESC:manner,0.5562
+DESC:manner, How did the 1920s get their name ?,DESC:manner,0.555
+NUM:speed, How fast does the fastest car go ? What is its top speed ?,NUM:speed,0.6638
+NUM:speed, How fast do cheetahs run ? What is their top speed ?,NUM:speed,0.6625
+NUM:speed, How fast do cheetahs run ? What is the speed in mph ?,NUM:speed,0.6595
+NUM:speed," How fast does the fastest car go ? What is its speed in mph and km/h , approximately?",NUM:speed,0.6592
+NUM:speed," What is the speed of light ?
+ -easy-",NUM:speed,0.6585
+NUM:speed," What is the speed of Mississippi River ? , ,",NUM:speed,0.6582
+NUM:speed, How fast does the world 's fastest car go ?,NUM:speed,0.6575
+NUM:speed, How fast does a 747 fly ?,NUM:speed,0.6571
+NUM:speed, How fast does the Honda Prelude go ?,NUM:speed,0.6568
+NUM:speed, What was the speed of light in 190H ?,NUM:speed,0.6554
+NUM:temp, What is the temperature of a HHH hot tub ?,NUM:temp,0.4661
+NUM:temp, What temperature should the oven be set at to bake Peachy Oat Muffins ?,NUM:temp,0.4645
+NUM:temp, What is the temperature of the Ceres 's interior ?,NUM:temp,0.4629
+NUM:temp, What is the temperature of a 50-watt lightbulb ?,NUM:temp,0.4625
+NUM:temp," What is the temperature of a black hole ?
+ UserHuman: How hot should my oven be when making cookies , so that they will cook evenly and not burn on top while being uncooked in middle 3 minutes later I am still baking them.",NUM:temp,0.461
+NUM:temp, What is the temperature of a Neutron Star ?,NUM:temp,0.4603
+NUM:temp," What is the temperature of a black body ? ,",NUM:temp,0.4603
+NUM:temp," What is the temperature of a black hole ?
+ packagemain  {",NUM:temp,0.4601
+NUM:temp, What is the temperature for baking Peachy Oat Muffins ?,NUM:temp,0.46
+NUM:temp," What is the temperature in hell ?
+ importHungary",NUM:temp,0.4596
+NUM:date," In what year was the Berlin Wall built ?
+ #",NUM:date,0.578
+NUM:date, In what year was the Berlin Airlift ?,NUM:date,0.578
+NUM:date, In what year did the Titanic sink ?,NUM:date,0.5765
+NUM:date, In what year was the Berlin Wall erected ?,NUM:date,0.5748
+NUM:date," When did the Vietnam War end ?
+ In which year was Methuselah supposed to have died .",NUM:date,0.5747
+NUM:date, When did the 19th century end ?,NUM:date,0.5744
+NUM:date," When was the first Moon walk ?
+ #day",NUM:date,0.5735
+NUM:date, When was the Battle of Little Bighorn ?,NUM:date,0.5735
+NUM:date," When was the first moonwalk ?
+ #### QuestionHabit",NUM:date,0.5727
+NUM:date, When was the Battle of Gettysburg ?,NUM:date,0.5724
+NUM:perc, What percentage of all world tornados touch down in the US ?,NUM:perc,0.4775
+NUM:perc, What percentage of children between the ages two and eleven watch ` The Simpsons ' ?,NUM:perc,0.4771
+NUM:perc, What percentage of a beaver 's life is spent chewing wood ?,NUM:perc,0.4771
+NUM:perc, What percentage of the body is skeleton ? .,NUM:perc,0.4768
+NUM:perc, What percentage of the earth 's surface is covered by forests ?,NUM:perc,0.4762
+NUM:perc, What percentage of children between the ages of two and eleven watch `` The Simpsons '' ?,NUM:perc,0.4762
+NUM:perc, What percentage of all world tornadoes touch down in the US ?,NUM:perc,0.4761
+NUM:perc, What percentage of the human brain is used to think ?,NUM:perc,0.475
+NUM:perc, What percentage of children between the ages 5 and eleven watch ` The Simpsons ' ?,NUM:perc,0.475
+NUM:perc, What percentage of Americans have gone skin diving ?,NUM:perc,0.4746
+NUM:weight, How much does a teaspoon of matter weigh in a black hole ?,NUM:weight,0.5271
+NUM:weight, How much does a teaspoon of matter weigh in black holes ?,NUM:weight,0.526
+NUM:weight, What does a teaspoon of matter weigh in space ?,NUM:weight,0.5253
+NUM:weight," How much does a grain of sand weigh ?
+ ThesaurusENT :worry",NUM:weight,0.5117
+NUM:weight," What is the weight of air ?
+ HUM:sport[H] How much does a bowling ball weigh , on average ?",NUM:weight,0.5107
+NUM:weight, What is the weight of a teaspoon ? .,NUM:weight,0.5069
+NUM:weight, What is the average weight for a man ?s,NUM:weight,0.5058
+NUM:weight, What is the approximate weight of a teaspoon of matter in black holes ?,NUM:weight,0.5042
+NUM:weight, How much does a ton of bricks weigh ?,NUM:weight,0.5039
+NUM:weight, What is the approximate weight of a teaspoon of matter in an black hole ?,NUM:weight,0.503
+ENTY:lang, What is the most commonly spoken language in Australia ?,ENTY:lang,0.7105
+ENTY:lang, What is the most commonly-spoken language in Brazil ?,ENTY:lang,0.71
+ENTY:lang, Which is the most widely spoken language in Brazil ?,ENTY:lang,0.7094
+ENTY:lang, What is the most commonly-spoken language in Australia ?,ENTY:lang,0.7093
+ENTY:lang, What is the most commonly-spoken language in Europe ?,ENTY:lang,0.7092
+ENTY:lang," Which language is mostly spoken in Brazil ?
+ #",ENTY:lang,0.7088
+ENTY:lang, What is the most widely spoken language in Brazil ?,ENTY:lang,0.7083
+ENTY:lang, Which is the most widely-spoken language in Africa ?,ENTY:lang,0.7081
+ENTY:lang, What is the most widely spoken language in Russia ?,ENTY:lang,0.7074
+ENTY:lang, What is a language spoken by the Sioux ?,ENTY:lang,0.7069
+NUM:code, What phone number can I call to have a tree planted ?,NUM:code,0.618
+NUM:code, What seven digits follow the area code in numbers for long distance information ?,NUM:code,0.616
+NUM:code, What is Columbia Tristar 's phone number ?,NUM:code,0.6159
+NUM:code, What telephone number can I call to have a tree planted ?,NUM:code,0.6159
+NUM:code, What is the phone number for the Hilton Hotel in Miami Florida ?,NUM:code,0.6154
+NUM:code, What is the phone number for MCI long distance information ?,NUM:code,0.615
+NUM:code, What phone number can I call for a nationwide directory assistance ?,NUM:code,0.6143
+NUM:code, What is the phone number for MGM Grand Hotel in Las Vegas ?,NUM:code,0.614
+NUM:code," What is the phone number for United Airlines ?
+ UserHappy :",NUM:code,0.6137
+NUM:code, What phone number can I call for the Social Security office in Atlanta ?,NUM:code,0.6132
+ENTY:instru," Ray Charles plays what instrument ?
+ importHugo",ENTY:instru,0.7428
+ENTY:instru, What musical instrument did Prewitt play in James Jones 's From Here to Eternity ?,ENTY:instru,0.7427
+ENTY:instru, Which instrument did John Entwistle play ?,ENTY:instru,0.7426
+ENTY:instru," What instrument did Ray Charles play ?
+ importHUM  , music",ENTY:instru,0.7423
+ENTY:instru, What instrument did Prewitt play in James Jones 's From Here to Eternity ?,ENTY:instru,0.7419
+ENTY:instru, What instrument did Prewitt play in HHBB ?,ENTY:instru,0.7416
+ENTY:instru," Which instrument did Glenn Miller play ?
+ #num::three",ENTY:instru,0.7415
+ENTY:instru, What musical instrument did Elvis Presley play ?,ENTY:instru,0.7414
+ENTY:instru, What musical instrument did Pablo Casals play ?,ENTY:instru,0.7412
+ENTY:instru," Ray Charles plays which instrument ?
+ UserHuman: What musical instruments did Duke Ellington play",ENTY:instru,0.7409
+LOC:country, What country is the most northerly in Africa ?,LOC:country,0.6857
+LOC:country, What country does the Thames River flow through ?,LOC:country,0.6842
+LOC:country, What country is famous for its borshch ?,LOC:country,0.6836
+LOC:country, What country is the world 's largest oil exporter ?,LOC:country,0.6833
+LOC:country, What country is the setting for The Thorn Birds ?,LOC:country,0.6828
+LOC:country, What country is the most advanced in space exploration ?,LOC:country,0.6827
+LOC:country, What country in Latin America has the most Indians ?,LOC:country,0.6823
+LOC:country, What country is famous for its Chihuahuas ?,LOC:country,0.681
+LOC:country, What country 's capital is Vatican City ?,LOC:country,0.6809
+LOC:country, What country boasts the southernmost point in continental Europe ?,LOC:country,0.6807
+ENTY:symbol, What sign is The Water Carrier the zodiacal symbol for ?,ENTY:symbol,0.6007
+ENTY:symbol, What sign is The Water Bearer the zodiacal symbol for ?,ENTY:symbol,0.5997
+ENTY:symbol, What sign is the best love match for a horoscope sign ?,ENTY:symbol,0.5961
+ENTY:symbol, What sign is the best love match for a zodiac symbol ?,ENTY:symbol,0.5951
+ENTY:symbol, What sign is the best love match for a horoscope symbol of a crab ?,ENTY:symbol,0.5946
+ENTY:symbol, What sign is the best love match for a Scorpio ?,ENTY:symbol,0.5917
+ENTY:symbol, What sign is the best love match for a Taurus ?,ENTY:symbol,0.5916
+ENTY:symbol, What is the sign for ``Hungary '' ?,ENTY:symbol,0.5905
+ENTY:symbol," What sign is the best love match for a horoscope signs of Taurus , Cancer and Scorpio ?",ENTY:symbol,0.5901
+ENTY:symbol, What sign is the best love match for a zodiac twin ?,ENTY:symbol,0.5879
+LOC:state, What U.S . state is Mount McKinley in ?,LOC:state,0.6504
+LOC:state, What U.S . state is Nellis Air Force Base in ?,LOC:state,0.6467
+LOC:state, What U.S . state has the longest Pacific coastline ?,LOC:state,0.6464
+LOC:state, What state does the Mississippi River leave to enter the Gulf of Mexico ?,LOC:state,0.6447
+LOC:state, What U.S . state is the leading producer of hay ?,LOC:state,0.6436
+LOC:state, What state does the Mississippi River leave to enter a river called Red ?,LOC:state,0.6435
+LOC:state, What state in the U.S. has Mount Mitchell ?,LOC:state,0.6434
+LOC:state, What U.S . state was President Dwight Eisenhower born in ?,LOC:state,0.6416
+LOC:state, What state has the longest Great Lakes shoreline ?,LOC:state,0.6406
+LOC:state," What state did Helen Keller call home ?
+ #Human-Geography",LOC:state,0.6394
+NUM:volsize, How big is the Chrysler Concorde ?,NUM:volsize,0.6294
+NUM:volsize," How big is a quart ?
+ using example :",NUM:volsize,0.6226
+NUM:volsize, How big is a quart ? . `ENTY,NUM:volsize,0.6226
+NUM:volsize," How big is a baby bald eagle ? ,",NUM:volsize,0.6203
+NUM:volsize," How big is the smallest atom ?
+ ####
+",NUM:volsize,0.6049
+NUM:volsize," How large is Australia ?
+ ##Education##",NUM:volsize,0.6014
+NUM:volsize," How big is the largest horse ? ,buyENTITY",NUM:volsize,0.5896
+NUM:volsize, What is the size of the largest akita ?,NUM:volsize,0.5852
+NUM:volsize," What is the size of Honduras ? ,",NUM:volsize,0.5822
+NUM:volsize, What is the size of Hokkaido ?,NUM:volsize,0.5813
+ENTY:animal, What animal was Mary Poppins ' umbrella turned into ?,ENTY:animal,0.5544
+ENTY:animal, What type of animal is Ernie on Sesame Street ?,ENTY:animal,0.5531
+ENTY:animal, What kind of animals did Dorothy encounter in The Wizard Of Oz ?,ENTY:animal,0.5498
+ENTY:animal, What kind of animal did Miss Muffett keep in her tupperware ?,ENTY:animal,0.5495
+ENTY:animal, What type of animal do you keep in a salt box ?,ENTY:animal,0.5492
+ENTY:animal, What kind of animal does the `` Little Rascals '' adopt ?,ENTY:animal,0.5489
+ENTY:animal, What are some animals that live in the Arctic ?,ENTY:animal,0.5484
+ENTY:animal, What animals did Dorothy befriend in The Wizard of Oz ?,ENTY:animal,0.5484
+ENTY:animal, What 's the most abundant animal on Earth ?,ENTY:animal,0.547
+ENTY:animal," What is the most dangerous animal in Africa ?
+ package name :com.descDESC ;",ENTY:animal,0.5461
+ENTY:body, What is the only gland in humans that can regenerate itself ?,ENTY:body,0.6272
+ENTY:body, What 's the only gland in humans that can regenerate itself ?,ENTY:body,0.6266
+ENTY:body, Which ear is better for hearing in most people ?,ENTY:body,0.6139
+ENTY:body, Which part of your body contains the corpus callosum ?,ENTY:body,0.6115
+ENTY:body, What part of your body contains the corpus callosum ?,ENTY:body,0.6113
+ENTY:body, What are the 4 parts of your ear ?,ENTY:body,0.6104
+ENTY:body, Which ear is more sensitive toHertz ?,ENTY:body,0.6083
+ENTY:body," What are the three parts of your ear ?
+ #########",ENTY:body,0.608
+ENTY:body, Which leg does a cat move with when walking - the left or right ?,ENTY:body,0.6044
+ENTY:body," Which ear can most people hear better with ?
+ #####",ENTY:body,0.6023
+ENTY:veh, What was the name of Aristotle Onassis 's yacht ?,ENTY:veh,0.5597
+ENTY:veh, What is the name of Jacques Cousteau 's research ship ?,ENTY:veh,0.5596
+ENTY:veh, What 's the name of Jacques Cousteau 's research vessel ?,ENTY:veh,0.5529
+ENTY:veh, What was the name of Captain Nemo 's ship ?,ENTY:veh,0.5519
+ENTY:veh, What was the name of Captain Blabb 's ship ?,ENTY:veh,0.55
+ENTY:veh, What are the names of all the U.S Navy aircraft carriers ?,ENTY:veh,0.5496
+ENTY:veh, What is the name of Leonardo DiCaprio 's yacht ?,ENTY:veh,0.5494
+ENTY:veh, What are the names of all U.S Navy aircraft carriers ?,ENTY:veh,0.5483
+ENTY:veh, What are the names of all the U.S . Navy aircraft carriers ?,ENTY:veh,0.5476
+ENTY:veh, What was the name of Captain Blent 's submarine ?,ENTY:veh,0.5464
+LOC:city, What city boasts the largest Chinatown in North America ?,LOC:city,0.6239
+LOC:city, What city is known as the Gateway to Egypt ?,LOC:city,0.6206
+LOC:city," What city is Fort Knox located in ?
+ packageHumanLocations;",LOC:city,0.6204
+LOC:city, What city in the United States has Chinatown ?,LOC:city,0.6198
+LOC:city, What city is the setting for Charles Dickens 's Our Mutual Friend ?,LOC:city,0.6191
+LOC:city, What city is served by McCarran Airport ?,LOC:city,0.618
+LOC:city, What city is served by McCarren Airport ?,LOC:city,0.6179
+LOC:city, What city was home to the 1904 World 's Fair ?,LOC:city,0.6168
+LOC:city, What city is famous for RH negative blood ?,LOC:city,0.6167
+LOC:city, What city was the setting for Brideshead Revisited ?,LOC:city,0.6153
+LOC:mount, What is the second highest mountain in the world ?,LOC:mount,0.7213
+LOC:mount, What is the second-highest mountain in the world ?,LOC:mount,0.7208
+LOC:mount, What is the tallest mountain in the world ?,LOC:mount,0.7203
+LOC:mount, What is the highest mountain in Africa ? `ENTY .,LOC:mount,0.72
+LOC:mount, What is the name of Australia 's highest mountain ?,LOC:mount,0.7181
+LOC:mount," What is the highest mountain in Africa ?
+ ####",LOC:mount,0.7171
+LOC:mount, What is the highest mountain in Africa ? `HUMANOIDS .`,LOC:mount,0.7153
+LOC:mount, What is the name of New York 's highest mountain ?,LOC:mount,0.7148
+LOC:mount, What is the name of South Korea 's highest mountain ?,LOC:mount,0.714
+LOC:mount," What is the highest mountain ?
+ #num 2014",LOC:mount,0.7131
+ENTY:sport, What game did Ickey Woods make famous ?,ENTY:sport,0.5532
+ENTY:sport," What sport has an International Tennis Federation ?
+ #entertainment 1920 year",ENTY:sport,0.5531
+ENTY:sport," What is the most popular sport in Germany ?
+ package name : sports",ENTY:sport,0.5511
+ENTY:sport," What is the most popular sport in Japan ?
+ #entertainment;what-is  2013 ,",ENTY:sport,0.5508
+ENTY:sport," Which sport is played on the largest field ?
+ #",ENTY:sport,0.5507
+ENTY:sport," What sport is played on the fastest surface ?
+ #Helloshow | 1974",ENTY:sport,0.5506
+ENTY:sport, What sport do you win an Oscar for betting on ?,ENTY:sport,0.55
+ENTY:sport, What sport is played at the Hippodrome in Hamburg ?,ENTY:sport,0.5498
+ENTY:sport, What sport was played by Hoggy and Bogey ?,ENTY:sport,0.5497
+ENTY:sport, What sports events can be seen at the Boston Commons ?,ENTY:sport,0.5496
+ENTY:religion, What religion has the largest number of adherents ?,ENTY:religion,0.1102
+ENTY:religion, What religion was popular in Etruscan Italy ?,ENTY:religion,0.1086
+ENTY:religion, What religion is the most widespread in Haiti ?,ENTY:religion,0.108
+ENTY:religion, What religion is most widely practiced in Japan ?,ENTY:religion,0.1069
+ENTY:religion, Which religion did Marco Polo bring back to Europe from China ?,ENTY:religion,0.1069
+ENTY:religion, What religion claims to be the only true one ?,ENTY:religion,0.1065
+ENTY:religion," What religion is practiced most in Brazil ?
+ ##",ENTY:religion,0.1048
+ENTY:religion, What two religions were founded by Joseph Smith ?,ENTY:religion,0.1046
+ENTY:religion, What religion is practiced by the most people ?,ENTY:religion,0.1044
+ENTY:religion, What religion was followed by the Aztecs ?,ENTY:religion,0.1041
+ENTY:word, What is a word that means `` to make ? '',ENTY:word,0.4831
+ENTY:word," What is the most common English word ?
+ ##",ENTY:word,0.4781
+ENTY:word, What 's the word for two that is used before numbers ?,ENTY:word,0.4778
+ENTY:word, What 's the word for two words that form an opposing pair ?,ENTY:word,0.4765
+ENTY:word," What English word contains the most letters ?
+ ##",ENTY:word,0.4742
+ENTY:word, What is the German word for daisy ?,ENTY:word,0.4737
+ENTY:word," What is the plural of gulf ?
+ ### ####",ENTY:word,0.4736
+ENTY:word," What English word has the most letters ?
+ ##",ENTY:word,0.4731
+ENTY:word," What is the longest English word ?
+ #HoldThisTrivia .",ENTY:word,0.4729
+ENTY:word," What English word has the most letters ?
+ ####",ENTY:word,0.4729
+NUM:money, How much did the minimum wage in New Zealand go up to ?,NUM:money,0.4681
+NUM:money, How much was the minimum wage in 1987 ?,NUM:money,0.4617
+NUM:money, How much was the minimum wage in 1985 ?,NUM:money,0.4616
+NUM:money, How much was the minimum wage in 1986 ?,NUM:money,0.4613
+NUM:money, How much was the minimum wage in 1975 ?,NUM:money,0.4613
+NUM:money, How much was the minimum wage in 1972 ?,NUM:money,0.4606
+NUM:money, How much money was the minimum wage in 1986 ?,NUM:money,0.4597
+NUM:money, What did the average American pay for a new house in 1905 ?,NUM:money,0.4489
+NUM:money, How much did the Soviet Union pay for East Germany ?,NUM:money,0.4439
+NUM:money," What does a new can of paint cost ? ,",NUM:money,0.4419
+NUM:count, How many people have claimed to see the Loch Ness monster ?,NUM:count,0.4966
+NUM:count, How many people have visited Antarctica ?,NUM:count,0.4929
+NUM:count, How many members are there in the U.N. Security Council ?,NUM:count,0.4897
+NUM:count, How many planets are there in our solar system ?,NUM:count,0.4892
+NUM:count," How many planets are there ?
+ ##desc## The nine.",NUM:count,0.4881
+NUM:count," How many planets are there ?
+ ##eom##",NUM:count,0.4869
+NUM:count, How many people visit the Hagia Sofya in Istanbul ?,NUM:count,0.4868
+NUM:count, How many people in the world are illiterate ?,NUM:count,0.4864
+NUM:count, How many people have claimed Peter Pan as a relative ?,NUM:count,0.4863
+NUM:count, How many pairs of legs does a lobster have ?,NUM:count,0.4819
+ENTY:techmeth, What is the best way to remove wallpaper ?,ENTY:techmeth,0.4623
+ENTY:techmeth, What is the best way to locate underwater shipwrecks ?,ENTY:techmeth,0.4611
+ENTY:techmeth, What is the best way to remove paint from shoes ?,ENTY:techmeth,0.4588
+ENTY:techmeth, What is the best way to get rid of mice ?,ENTY:techmeth,0.4571
+ENTY:techmeth, What is the best way to find out about new software products ?,ENTY:techmeth,0.4542
+ENTY:techmeth," What is the best way to remove paint ?
+ ####",ENTY:techmeth,0.4537
+ENTY:techmeth, What is the fastest way to find out if a website has changed ?,ENTY:techmeth,0.44
+ENTY:techmeth, What 's the best way to lose weight ?,ENTY:techmeth,0.439
+ENTY:techmeth, What is a good way to remove wallpaper ?,ENTY:techmeth,0.4382
+ENTY:techmeth, What are different ways in which you can measure IT performance ?,ENTY:techmeth,0.4372
+ENTY:dismed, What is a fear of being contaminated ?,ENTY:dismed,0.5533
+ENTY:dismed," What is a fear of cold ? , .
+ ###",ENTY:dismed,0.5526
+ENTY:dismed," What is a fear of being alone ?
+ #cat",ENTY:dismed,0.5524
+ENTY:dismed," What is a fear of cold ?
+ importentant",ENTY:dismed,0.5509
+ENTY:dismed," What is a fear of cold ?
+ #cat|related",ENTY:dismed,0.5496
+ENTY:dismed," What is a fear of being alone ?
+ ###",ENTY:dismed,0.5496
+ENTY:dismed," What is a fear of lightning ?
+ #entys .",ENTY:dismed,0.5486
+ENTY:dismed," What is a fear of dirt ?
+ #########",ENTY:dismed,0.5485
+ENTY:dismed," What is a fear of insects ?
+ <?entity>",ENTY:dismed,0.5478
+ENTY:dismed," What is a fear of thunder ?
+ ##easy##",ENTY:dismed,0.5477
+NUM:dist, How far is the Milky Way from edge to center ?,NUM:dist,0.4955
+NUM:dist, How far is the Coney Island boardwalk from Brooklyn ?,NUM:dist,0.4953
+NUM:dist," How far is the moon from earth ? , ?",NUM:dist,0.4911
+NUM:dist, How far is the International Date Line from California ?,NUM:dist,0.49
+NUM:dist, How far is it from Denver to Aspen ?,NUM:dist,0.4898
+NUM:dist, How far is it from the Mississippi to the Gulf of Mexico ?,NUM:dist,0.4888
+NUM:dist, How far is it from Washington D.C to Baltimore ?,NUM:dist,0.4887
+NUM:dist, How far is it from San Francisco to Hong Kong ?,NUM:dist,0.4885
+NUM:dist, How far is it from New York to London ?,NUM:dist,0.4872
+NUM:dist," How far is Hawaii from the mainland ? ,",NUM:dist,0.4869
+ENTY:substance, What chemical element is the best electrical conductor ?,ENTY:substance,0.4433
+ENTY:substance," What are the four elements ?
+ #difficult",ENTY:substance,0.4302
+ENTY:substance, What chemical element is used in the production of rayon ?,ENTY:substance,0.4287
+ENTY:substance, What kind of substance is a concoction ?,ENTY:substance,0.4265
+ENTY:substance," What is the hardest substance ?
+ <?netent>",ENTY:substance,0.4249
+ENTY:substance, What is the most common element in Earth 's crust ?,ENTY:substance,0.4238
+ENTY:substance," What substance is used to make felt ?
+ Hint :",ENTY:substance,0.4215
+ENTY:substance," What are the four elements ?
+ UserHuman:name",ENTY:substance,0.4211
+ENTY:substance, What is the most abundant element in earth 's crust ?,ENTY:substance,0.421
+ENTY:substance," What are the four elements ?
+ package  :   substances",ENTY:substance,0.417
+ENTY:letter, What letter adorns the flag of Rwanda ?,ENTY:letter,0.568
+ENTY:letter, What letter is to the right of K on a typewriter keyboard ?,ENTY:letter,0.5658
+ENTY:letter, What letter appears on the oldest U.S. flag ?,ENTY:letter,0.5643
+ENTY:letter, What letter appears on the cold-water tap in Spain ?,ENTY:letter,0.5613
+ENTY:letter, What letter is the Etruscan equivalent of R ?,ENTY:letter,0.5606
+ENTY:letter, What letter does the Etruscan alphabet have for R ?,ENTY:letter,0.5604
+ENTY:letter, What letter does the Egyptian hieroglyph for `` a '' look like ?,ENTY:letter,0.5597
+ENTY:letter, What letter appears on the 2 of clubs ?,ENTY:letter,0.5595
+ENTY:letter, What is the first letter of Israel 'sHebrew alphabet ?,ENTY:letter,0.5589
+ENTY:letter, What letter is on the U.S. cent ?,ENTY:letter,0.5583
+ENTY:currency," What currency does Luxembourg use ? .
+ ##",ENTY:currency,0.1719
+ENTY:currency," What currency does Luxembourg use ? , ! .",ENTY:currency,0.1716
+ENTY:currency," What currency is used in Paraguay ? ,",ENTY:currency,0.1709
+ENTY:currency," What currency is used in England ? .
+ ##",ENTY:currency,0.1703
+ENTY:currency," What currency does Argentina use ?
+ #entity .",ENTY:currency,0.1703
+ENTY:currency," What currency is used in Haiti ?
+ ####",ENTY:currency,0.1701
+ENTY:currency," What currency is used in Australia ? .
+ ####",ENTY:currency,0.1699
+ENTY:currency," What currency does Luxembourg use ?
+ ####
+",ENTY:currency,0.1699
+ENTY:currency," What currency is used in Belgium ? , </HUM>",ENTY:currency,0.1696
+ENTY:currency," What currency is used in Argentina ? .
+ ##",ENTY:currency,0.1696
+ENTY:event, What war did the Red Granny riots take place after ?,ENTY:event,0.4149
+ENTY:event, What war did the Siege of Corunna take place at ?,ENTY:event,0.4137
+ENTY:event, What war did the Potsdam Conference take place at the end of ?,ENTY:event,0.4124
+ENTY:event, What war did the Pact of Steel between Germany and Italy form during ?,ENTY:event,0.4114
+ENTY:event," What war did the San Francisco earthquake of April 18 , break out after ?",ENTY:event,0.4081
+ENTY:event, What war did Florence Nightingale tend the troops in ?,ENTY:event,0.4066
+ENTY:event, What war did Florence Nightingale tend troops in ?,ENTY:event,0.4045
+ENTY:event, What war did the U.N . intervene in ?,ENTY:event,0.4042
+ENTY:event, What war did the Potsdam Conference follow ?,ENTY:event,0.4003
+ENTY:event, What war did Florence Nightingale tend the wounded in ?,ENTY:event,0.397
+HUM:title, What was Nicholas Cage 's job in Peggy Sue Got Married ?,HUM:title,0.5561
+HUM:title," What was the occupation of Nicholas Cage ?
+ package description;",HUM:title,0.553
+HUM:title, What was Eduard Shevardnadze 's job in the Soviet Union ?,HUM:title,0.5498
+HUM:title, What was William Herschel 's job ?,HUM:title,0.5457
+HUM:title, What was the occupation of Dr. Jekyll ?,HUM:title,0.5454
+HUM:title," What is the occupation of Nicholas Cage ?
+ #enterprise",HUM:title,0.5442
+HUM:title," What is the occupation of Nicholas Cage ?
+ ---",HUM:title,0.5441
+HUM:title, What was the occupation of John D. Rockefeller ?,HUM:title,0.5428
+HUM:title, What was the occupation of Mandy Rice-Davies ?,HUM:title,0.5409
+HUM:title," What is the occupation of Nicholas Cage ?
+ #desc `",HUM:title,0.5404
+ENTY:product, What product on the market is good for concealing gray hair ?,ENTY:product,0.4193
+ENTY:product, What product on the market is best for children who are scared of the dark ?,ENTY:product,0.4189
+ENTY:product, What product on the market will remove stripes from a golf ball ?,ENTY:product,0.4188
+ENTY:product, Which product on the market is good for removing crayon from walls ?,ENTY:product,0.4152
+ENTY:product, Which hair care product is for people who suffer from dandruff ?,ENTY:product,0.4062
+ENTY:product, What kind of product is the `` leader '' in your market ?,ENTY:product,0.406
+ENTY:product, Which hair care product tells you `` Don 'tHair on it ! '' ?,ENTY:product,0.4027
+ENTY:product, What is the best product to use on a 1965 Chevy II ?,ENTY:product,0.4001
+ENTY:product, What product is for kids `` when they grow up ? '',ENTY:product,0.399
+ENTY:product, What is the best brand for a laptop computer ?,ENTY:product,0.3977
+ENTY:food, What drink do people use to replace milk in cookies ?,ENTY:food,0.5311
+ENTY:food," Which drink is often made with Campari , triple sec and orange juice ?",ENTY:food,0.5307
+ENTY:food, What soft drink is called `` the thirst quencher '' ?,ENTY:food,0.5235
+ENTY:food, What drink is made from the sap of palm trees ?,ENTY:food,0.5228
+ENTY:food, What 's the best selling soft drink in Mexico ?,ENTY:food,0.5209
+ENTY:food, Which soft drink has the most caffeine ?,ENTY:food,0.52
+ENTY:food, What is the best selling soft drink in Mexico ?,ENTY:food,0.5192
+ENTY:food, What is the best-selling soft drink in Japan ?,ENTY:food,0.5177
+ENTY:food, What soft drink is `` the real thing '' ?,ENTY:food,0.5159
+ENTY:food, What soft drink is made with lime and soda ?,ENTY:food,0.5149
+ABBR:abb, What is the abbreviation for the National Bureau of Investigation ?,ABBR:abb,0.6038
+ABBR:abb, What is an abbreviation for the National Bureau of Investigation ?,ABBR:abb,0.6037
+ABBR:abb, What is the abbreviation of the National Bureau for Investigation ?,ABBR:abb,0.6015
+ABBR:abb, What is the abbreviated form of the National Bureau Of Investigation ?,ABBR:abb,0.6
+ABBR:abb, What is the abbreviation for National Bureau of Investigation ?,ABBR:abb,0.5984
+ABBR:abb, What is the abbreviation for Micro Electro Mechanical System ?,ABBR:abb,0.5956
+ABBR:abb, What is the abbreviated form of Organization for Economic Cooperation and Development ?,ABBR:abb,0.5885
+ABBR:abb, What is the abbreviated form of General Motors ?,ABBR:abb,0.587
+ABBR:abb, What is the abbreviation for trinitrotoluene ?,ABBR:abb,0.583
+ABBR:abb, What is the abbreviation of Limited Liability Company ?,ABBR:abb,0.5823
+DESC:reason, Why does a candle go out in the wind ?,DESC:reason,0.2611
+DESC:reason, Why does a candle flame burn down instead of up ?,DESC:reason,0.2611
+DESC:reason, Why do some people get cysts on their ovaries ?,DESC:reason,0.2599
+DESC:reason," Why do people get warts ?
+ ##desc##",DESC:reason,0.2587
+DESC:reason, Why do some men have hairyENTs ?,DESC:reason,0.2573
+DESC:reason, Why did the dinosaurs become extinct ?,DESC:reason,0.2571
+DESC:reason, Why did the U.S. have a Whiskey Rebellion ?,DESC:reason,0.2562
+DESC:reason," Why do most cars have three mirrors ?
+ ##description##",DESC:reason,0.2561
+DESC:reason, Why do the `` four 's '' come after 2 in twenty-four ?,DESC:reason,0.2557
+DESC:reason, Why did the Confederate soldiers wear Hoods on their hats ?,DESC:reason,0.2543
+NUM:period, How old was the youngest president of America ? .,NUM:period,0.5038
+NUM:period, How long did it take for the first computer to produce a second of sound ?,NUM:period,0.4989
+NUM:period, How long did it take to build the pyramids ?,NUM:period,0.4988
+NUM:period, How long do they think it would take a 5-pound cat to starve in an unheated house ?,NUM:period,0.4983
+NUM:period, How old was William Howard Taft when he became president ?,NUM:period,0.4983
+NUM:period, How long does it take the average person to eat 13 peanuts ?,NUM:period,0.4981
+NUM:period," How old was Johnny Carson ?
+ #num",NUM:period,0.4975
+NUM:period, How long did it take Hiroshima to disappear from view after the atom bomb fell ?,NUM:period,0.497
+NUM:period, How long does it take for a typical computer virus to spread around the world ?,NUM:period,0.4969
+NUM:period, How long does it take for Spider-Man 's web to dissolve ?,NUM:period,0.4955
+LOC:other, Where did the Boston Tea Party take place ?,LOC:other,0.4071
+LOC:other," Where is the Gutenberg Museum ?
+ ##location",LOC:other,0.4031
+LOC:other," Where is the University of Minnesota ?
+ ###
+location",LOC:other,0.4011
+LOC:other, Where did George Washington work on his plantation ?,LOC:other,0.3979
+LOC:other," Where is the Mojave Desert ?
+ UserH:what",LOC:other,0.3974
+LOC:other, Where did the 1968 Democratic Convention take place ?,LOC:other,0.3971
+LOC:other," Where is the University of Virginia ?
+ ##description##",LOC:other,0.3933
+LOC:other," Where is the Lourdes shrine ?
+ ##location",LOC:other,0.392
+LOC:other, Where is the Kuala Lumpur International Airport located ?,LOC:other,0.389
+LOC:other," Where did the PLO have its headquarters ?
+ The 20 Most Frequently Asked Geography Questions",LOC:other,0.3868
+ENTY:cremat, What 1986 movie about a boy and his dog did Max von Sydow star in ?,ENTY:cremat,0.5684
+ENTY:cremat, What film chronicles the life of boxer Jack Dempsey ?,ENTY:cremat,0.5591
+ENTY:cremat, What movie did John Wayne win his only Oscar for ?,ENTY:cremat,0.5583
+ENTY:cremat, What film did Andy Hardy star in with Judge Henry J. Gribbs ?,ENTY:cremat,0.5576
+ENTY:cremat, What is a 1984 film based on George Orwell 's novel of the same name ?,ENTY:cremat,0.5571
+ENTY:cremat, What 1956 film featured Carolyn Jones as Morticia Addams ?,ENTY:cremat,0.5565
+ENTY:cremat, What movie is the most famous for having Elmer Bernstein 's music ?,ENTY:cremat,0.5561
+ENTY:cremat, What movie has a 13-year old boy fighting in ancient Rome ?,ENTY:cremat,0.5549
+ENTY:cremat, What movie starred Ray Milland and Barbara Bel Geddes ?,ENTY:cremat,0.5541
+ENTY:cremat, What movie starred Mickey Rooney and Judy Garland ?,ENTY:cremat,0.5535
+ABBR:exp," What does NHK stand for ?
+ <?ENTY>",ABBR:exp,0.641
+ABBR:exp," What does NHK stand for ?
+ #category   :LOC",ABBR:exp,0.6394
+ABBR:exp," What does NAFTA stand for ?
+ <?ENTY>",ABBR:exp,0.6372
+ABBR:exp," What does NOK stand for ?
+ ##Education##",ABBR:exp,0.6364
+ABBR:exp," What does HHGG stand for ?
+ ##Education##",ABBR:exp,0.635
+ABBR:exp," What does NACA stand for ?
+ ---",ABBR:exp,0.6344
+ABBR:exp," What does SAP stand for ?
+ <?ENTY-TYPE>",ABBR:exp,0.6341
+ABBR:exp," What does NNCC stand for ?
+ #cat|dinosaurs",ABBR:exp,0.6329
+ABBR:exp, What does N.A .S. stand for ?,ABBR:exp,0.6316
+ABBR:exp," What does NAFTA stand for ?
+ #num::five[section]",ABBR:exp,0.631
+HUM:ind, Who was the original creator of Spider-Man ?,HUM:ind,0.3741
+HUM:ind, Who created the Wanted posters for `` Dead or Alive '' ?,HUM:ind,0.3694
+HUM:ind," Who wrote the poem `` If '' ?
+ #paul-douglas",HUM:ind,0.3402
+HUM:ind," Who directed The Godfather ?
+ #  }",HUM:ind,0.3402
+HUM:ind," Who directed The Ten Commandments ?
+ package main import math",HUM:ind,0.3294
+HUM:ind," Who painted The Dance ?
+ ######### a. Renoir b. Van Gogh c . Picasso",HUM:ind,0.3242
+HUM:ind," Who founded the Boy Scouts ?
+ # 2531 of Hump .",HUM:ind,0.318
+HUM:ind, Who was the leader of The Los Angeles Times strike ?,HUM:ind,0.3152
+HUM:ind," Who directed `` The Sound of Music '' ?
+ #num::five",HUM:ind,0.312
+HUM:ind, Who is the only man to have been awarded 2 Oscars for Best Director ?,HUM:ind,0.3109
+HUM:gr, Which college was Jack Nicholson expelled from ?,HUM:gr,0.4003
+HUM:gr," What company will pay you $29 , 500 to take a nap ?",HUM:gr,0.3943
+HUM:gr, Which college 's sports teams are the Crimson Tide ?,HUM:gr,0.3897
+HUM:gr, What university did O.J . Simpson attend ?,HUM:gr,0.3865
+HUM:gr, What company is famous for `` When you care enough to send the very best '' ?,HUM:gr,0.3849
+HUM:gr," Which company makes the best quality cameras ?
+ ##title## of",HUM:gr,0.3791
+HUM:gr, Which company produces the only U.S.-made compact car ?,HUM:gr,0.3766
+HUM:gr, What company has the most home pages on its Web site ?,HUM:gr,0.3715
+HUM:gr, Which team has won the most Super Bowls ?,HUM:gr,0.3648
+HUM:gr, What is the name of a popular children 's toy company ?,HUM:gr,0.3641
+NUM:other," What is the population of Ohio ?
+ #num",NUM:other,0.3344
+NUM:other, What is the population of California ? `ENTY,NUM:other,0.3328
+NUM:other," What is the population of San Diego , California ?",NUM:other,0.3325
+NUM:other, What 's the population of Nebraska ?,NUM:other,0.3314
+NUM:other, What is the population of Ohio ? <ENTITY>,NUM:other,0.3276
+NUM:other," What is the population of Oklahoma ?
+ package other;",NUM:other,0.3248
+NUM:other, What was the population of Los Angeles in 1983 ?,NUM:other,0.3245
+NUM:other," What is the population of Oklahoma ?
+ <?num>",NUM:other,0.324
+NUM:other, What was the population of New York in 1987 ?,NUM:other,0.3236
+NUM:other," What 's the population of Illinois ?
+ ByHamLOC",NUM:other,0.3234
+ENTY:termeq, What is the term for a young fox ?,ENTY:termeq,0.3073
+ENTY:termeq, What 's the term for a person who studies clouds ?,ENTY:termeq,0.3046
+ENTY:termeq, What 's the term for a person who studies sharks ?,ENTY:termeq,0.3035
+ENTY:termeq, What is the term for a coin 's head side ?,ENTY:termeq,0.3016
+ENTY:termeq, What is a term for any computer program ? .,ENTY:termeq,0.3013
+ENTY:termeq, What 's the term for a young fox ?,ENTY:termeq,0.2976
+ENTY:termeq, What is the term for `` your honor ' ?,ENTY:termeq,0.2976
+ENTY:termeq, What 's the term for a pair of shoes ?,ENTY:termeq,0.2974
+ENTY:termeq," What is the term for a young deer ? ,",ENTY:termeq,0.2963
+ENTY:termeq, What 's the term for a `` little man '' that controlsLOC :wordradio,ENTY:termeq,0.2926
+NUM:ord, What chapter of Gone with the Wind has Rhett Butler leaving Scarlett O 'Hara ?,NUM:ord,0.3224
+NUM:ord, What chapter of Gone With the Wind has Rhett Butler leaving Scarlett O 'Hara ?,NUM:ord,0.3217
+NUM:ord, What chapter of the Bible has the most verses ?,NUM:ord,0.3206
+NUM:ord, What chapter of the Bible has most verses ?,NUM:ord,0.3175
+NUM:ord, What chapter of the Bible has 365 verses ?,NUM:ord,0.3139
+NUM:ord, What chapter of the Bible has Genesis ? .,NUM:ord,0.3099
+NUM:ord, What chapter of the Bible has 69 verses in it ?,NUM:ord,0.3067
+NUM:ord," What chapter of the Bible has Genesis ?
+ ##e.",NUM:ord,0.3063
+NUM:ord," What chapter of the Bible has Genesis ?
+ #numbers ['NUN-trz ]",NUM:ord,0.3055
+NUM:ord," What chapter of the Bible has Genesis ?
+ #########",NUM:ord,0.2991
+HUM:desc," Who is Desmond Tutu ?
+ ##brief",HUM:desc,0.6949
+HUM:desc," Who is Peter Weir ?
+ #########",HUM:desc,0.68
+HUM:desc," Who is Michael Dunn ?
+ #num::four",HUM:desc,0.6789
+HUM:desc," Who is Tiger Woods ?
+ #misc",HUM:desc,0.6731
+HUM:desc," Who is Terri Schiavo ?
+ #difficult",HUM:desc,0.665
+HUM:desc," Who is Terrence Malick ?
+ ##brief_description##",HUM:desc,0.662
+HUM:desc," Who is John Macarthur ?
+ #sport",HUM:desc,0.6548
+HUM:desc," Who is John James Audubon ?
+ ##entITY##",HUM:desc,0.6495
+HUM:desc," Who is Desmond Tutu ?
+ ####humanname",HUM:desc,0.6393
+HUM:desc," Who was Ragland ?
+ importENTITY",HUM:desc,0.6183
+DESC:desc, What is the origin of the expression break a leg ?,DESC:desc,0.175
+DESC:desc, What is the origin of `` to make a beeline for '' ?,DESC:desc,0.1608
+DESC:desc," What is the origin of baseball ?
+ #langent",DESC:desc,0.1607
+DESC:desc," What is the origin of rum ? Why does it get its name from a island in Caribbean called RUM Island , or something like that .",DESC:desc,0.1592
+DESC:desc, What is the origin of `` to dite '' ?,DESC:desc,0.1587
+DESC:desc, What is the difference between a dart and an arrow ?,DESC:desc,0.1577
+DESC:desc, What are the origins of Ping-pong ?,DESC:desc,0.1561
+DESC:desc, What is the difference between a hurricane and typhoon ?,DESC:desc,0.1503
+DESC:desc," What is the origin of snorkeling ?
+ package  cat",DESC:desc,0.1499
+DESC:desc, What is the difference between `` to wear '' and `` put on '' ?,DESC:desc,0.1444
+DESC:def," What is a gamma ray ?
+ ######### example 1 :",DESC:def,0.1484
+DESC:def," What does `` viscosity '' mean ?
+ ### Description ## !!!!!!!",DESC:def,0.1283
+DESC:def, What does the name `` Rusty '' mean ?,DESC:def,0.1261
+DESC:def, What does the name `` Shannon '' mean ?,DESC:def,0.1255
+DESC:def, What does the name `` Brutus '' mean ?,DESC:def,0.1231
+DESC:def," What is a quahog ?
+ importance : 0.752 , certainty : 1",DESC:def,0.1109
+DESC:def," What does `` QED '' mean ?
+ ##desc##",DESC:def,0.1091
+DESC:def," What is anabaptism ?
+ #context :other",DESC:def,0.1053
+DESC:def," What does `` viscosity '' mean ?
+ #dochead :name headline [SEP]",DESC:def,0.1026
+DESC:def," What is a condenser microphone ?
+ - ##desc",DESC:def,0.1023
+ENTY:other, What are the names of all 47 National Parks in Australia ?,ENTY:other,0.0794
+ENTY:other," What do people collect ?
+ #entity . 1903/WordNet",ENTY:other,0.0763
+ENTY:other," What is a 35mm negative ?
+ #num {number,count}",ENTY:other,0.0618

@@ -1,0 +1,151 @@
+label,text,predicted_label,probability
+meal, what meals are served aboard continental flight 1072 from washington dulles to houston intercontinental,meal,0.433
+meal, what meals are served between 7 and noon central time from chicago to memphis,meal,0.4328
+meal, what meals are served between atlanta and detroit,meal,0.4326
+meal, what meals are served in first class from atlanta to miami,meal,0.4322
+meal, what meals are served in first class from boston to atlanta,meal,0.4302
+meal, what meals are available in first class from portland to denver,meal,0.4294
+meal, what meals are available from atlanta to boston,meal,0.4294
+meal, what meals are served in first class from atlanta to baltimore,meal,0.4292
+meal, what meals are served in first class from baltimore to washington dc,meal,0.4287
+meal, what meals are served in first class from boston to seattle,meal,0.4281
+distance, how far is it from san francisco international airport to downtown,distance,0.4503
+distance, how far is it from atlanta international airport to downtown,distance,0.4494
+distance, how far is it from dallas love field airport to downtown,distance,0.4488
+distance, how far is it from atlanta hartsfield international airport to downtown,distance,0.4487
+distance, how far is it from airport to downtown boston,distance,0.448
+distance, how far is it from boston airport to downtown,distance,0.447
+distance, how far is it from oakland international airport to downtown,distance,0.4469
+distance, how far is it from atlanta airport to downtown,distance,0.4467
+distance, how far is it from miami international airport to downtown,distance,0.4465
+distance, how far is it from baltimore airport to downtown,distance,0.4459
+capacity, how many people fit in a 727 with three classes,capacity,0.5335
+capacity, how many seats does a m80 have in coach,capacity,0.5282
+capacity, how many seats are there in a delta 732,capacity,0.5274
+capacity, how many seats are there in a 737 classic,capacity,0.5235
+capacity, how many seats in a 757 with two classes,capacity,0.523
+capacity, how many seats are there in a 747-200,capacity,0.5209
+capacity, how many people does a 757 seat in economy class,capacity,0.5206
+capacity, how many seats does a dc 10 have that are in first class,capacity,0.5173
+capacity, how many passengers can an f100 carry in economy class,capacity,0.5167
+capacity, how many seats can be in a delta 737,capacity,0.5164
+quantity, how many nonstop flights from phoenix to san francisco,quantity,0.4552
+quantity, how many planes leave boston for washington d c tomorrow morning,quantity,0.4548
+quantity, how many westbound american airways direct nonstop jets leave from san francisco in june,quantity,0.4528
+quantity, how many american airways planes are in chicago at ten thirty am,quantity,0.4515
+quantity, how many nonstop flights are there from san francisco to philadelphia,quantity,0.4505
+quantity, how many direct nonstop morning eastbound flights are there from minneapolis to denver,quantity,0.4502
+quantity, how many american airways nonstop red eye planes from dallas to san diego,quantity,0.4497
+quantity, how many american airways nonstop planes are there from boston to dallas fort worth,quantity,0.449
+quantity, how many american air lines fly from seattle to los angeles,quantity,0.4464
+quantity, how many united airline planes are leaving from miami to new york tomorrow morning,quantity,0.4447
+aircraft, what kind of aircraft do they fly in washington from atlanta,aircraft,0.4328
+aircraft, what aircraft do they fly in first class from dallas to new york,aircraft,0.4306
+aircraft, what kind of aircraft does pan am use from boston to denver,aircraft,0.4259
+aircraft, what type aircraft are flying from denver to san francisco,aircraft,0.4201
+aircraft, what type aircraft are flying out to atlanta from baltimore at 130 pm,aircraft,0.4188
+aircraft, what type aircraft fly from denver to baltimore,aircraft,0.4164
+aircraft, what aircraft do you use from pittsburgh to boston,aircraft,0.4149
+aircraft, what type aircraft do us air flying out from baltimore,aircraft,0.4121
+aircraft, what type aircraft does china air lines use from san diego to beijing,aircraft,0.412
+aircraft, what type aircraft does american use from boston to atlanta,aircraft,0.4117
+abbreviation, what does fare basis yq mean? do you know,abbreviation,0.5059
+abbreviation, what is yq rwy cls restriction mean in us air,abbreviation,0.4633
+abbreviation, what does a fare code oj mean on continental,abbreviation,0.451
+abbreviation, what does fare basis r class mean please show me,abbreviation,0.4338
+abbreviation, what is dca rno tue sat in reference fare,abbreviation,0.4336
+abbreviation, what is gsa code i am asking about gsac,abbreviation,0.4224
+abbreviation, what is mco mean in terms of airports code,abbreviation,0.4089
+abbreviation, what is rfv mean in fare rules for delta,abbreviation,0.3994
+abbreviation, what does lcc mean on priceline.com,abbreviation,0.3803
+abbreviation, what is tsa refundable code ymry,abbreviation,0.3748
+ground_fare, how much does a taxi in downtown boston airport costs,ground_fare,0.4185
+ground_fare, how much does it charge to rent a car at la guardia,ground_fare,0.4131
+ground_fare, how much does it rent a car at lax airport,ground_fare,0.4118
+ground_fare, how much does it cost to rent a car in miami,ground_fare,0.4053
+ground_fare, how much does it usually charge for a car in san francisco,ground_fare,0.4014
+ground_fare, how much are car rentals in miami international airport,ground_fare,0.3957
+ground_fare, how much does it rent a car in boston,ground_fare,0.3942
+ground_fare, how much does it costs to rent a car in dallas,ground_fare,0.3941
+ground_fare, how much is it to rent a car in philadelphia international airport,ground_fare,0.3929
+ground_fare, how much does it typically rent a car for at lga,ground_fare,0.3881
+flight_time, what is today's departure time from seattle to denver,flight_time,0.3997
+flight_time, what is departure time from portland to denver,flight_time,0.3947
+flight_time, i would like to know what time does continental flight 114 depart from denver for philadelphia,flight_time,0.3905
+flight_time, what time does flight six five sixty one leave from denver,flight_time,0.3767
+flight_time, i want to know what time does us air west flight one five thirty eight arrive in denver from phoenix,flight_time,0.3718
+flight_time, what time does us airways flight 1024 leave denver,flight_time,0.3714
+flight_time, what time is flight ua 1204 from denver to new york,flight_time,0.3681
+flight_time, what time does a flight from denver to atlanta leave,flight_time,0.3604
+flight_time, what time does us air flight 1576 from dallas to minneapolis leave,flight_time,0.3573
+flight_time, what time does us air flight 1132 arrive in minneapolis,flight_time,0.3559
+airline, which airline flies out of jfk to miami please,airline,0.22
+airline, which airline is the one with flight number two six four,airline,0.2129
+airline, which airline is continental flight 125 from boston,airline,0.2109
+airline, please show me the airline which goes from seattle to new york,airline,0.2102
+airline, which is the airline with flight number nw 104,airline,0.2067
+airline, please show me the airline with code dl in new york,airline,0.2056
+airline, what airline is flight number 121 from seattle,airline,0.2054
+airline, what airline is aa 115 from oakland to washington,airline,0.2043
+airline, which airline flies to detroit and new york from la guardia,airline,0.2037
+airline, which airline flies from miami to la guardia,airline,0.2033
+airfare, show me fares from san francisco to chicago please,airfare,0.4394
+airfare, show me fares from san diego to seattle please,airfare,0.4389
+airfare, show me all fares from new york to san francisco,airfare,0.4348
+airfare, show me fares from san francisco to seattle,airfare,0.4337
+airfare, show me fares from san francisco to minneapolis,airfare,0.4333
+airfare, show me fares from minneapolis to boston please,airfare,0.4311
+airfare, show me fares from dallas to los angeles for monday,airfare,0.4293
+airfare, show me fares from new york to boston in march,airfare,0.4282
+airfare, show me fares from denver to los angeles,airfare,0.4247
+airfare, show me fares from minneapolis to chicago wednesday morning,airfare,0.4223
+airport, list the major airport near philadelphia pennsylvania please,airport,0.4709
+airport, list all major airports within five hundred miles of denver,airport,0.437
+airport, list the main airport and city of miami florida,airport,0.4229
+airport, list the phoenix arizona airport and its name please,airport,0.407
+airport, list all the us national airport locations by state and city,airport,0.3927
+airport, list all the major california city with airport and air lines please,airport,0.3737
+airport, please list all the major international and national airport near new york city,airport,0.3735
+airport, list all major florida airport locations and codes please thank you,airport,0.3522
+airport, what is the name of la guardia airport new york,airport,0.3129
+airport, what are the major international airports near minneapolis with at least two runways,airport,0.3083
+ground_service, what type of public transport is there in dallas,ground_service,0.3481
+ground_service, what kind of transport is there from airport to downtown,ground_service,0.3411
+ground_service, i need a rental car in oakland ca on february 22 please,ground_service,0.34
+ground_service, what types of public transport are there in seattle,ground_service,0.3395
+ground_service, what kind of public transport is there from the airport to downtown toronto,ground_service,0.3194
+ground_service, i need to rent a car in boston on the 18th at four oclock,ground_service,0.3118
+ground_service, i need to rent a car at oakland airport,ground_service,0.3116
+ground_service, what types of public transport are there in denver,ground_service,0.3068
+ground_service, i need rental cars in philadelphia from the airport,ground_service,0.3046
+ground_service, what type of public transport is there from atl to dallas downtown,ground_service,0.2967
+flight, show me all the direct flights from oakland to atlanta,flight,0.3157
+flight, show me all nonstop flight from san francisco to phoenix,flight,0.2945
+flight, show me the earliest nonstop flight from dallas to washington that leaves after noon,flight,0.2787
+flight, show me the first flight from denver to san francisco,flight,0.2778
+flight, what are the nonstop flight from philadelphia to dallas,flight,0.2576
+flight, what are the nonstop morning eastbound flights from san francisco to dallas,flight,0.2499
+flight, show me the first class nonstop flight from dallas to seattle,flight,0.2421
+flight, what is the earliest flight from pittsburgh to dallas today,flight,0.2325
+flight, what is the earliest flight from san francisco to dallas,flight,0.2217
+flight, i need the first flight from san francisco to new york tomorrow morning,flight,0.2199
+city, show me all major us citys served with continental air lines,city,0.2502
+city, what are all major us citys served directly out of phoenix arizona,city,0.2443
+city, which city is served solely by united express in california,city,0.2392
+city, what city does american airline fly out from that is closest to bakersfield,city,0.233
+city, which city does american fly into from new york airport,city,0.2319
+city, what are all major citys in texas that continental flies,city,0.2273
+city, what city does american airline service in wisconsin from,city,0.2205
+city, what city does northwest fly into in florida for business class,city,0.215
+city, what are all major us east coast citys that have an airport,city,0.2145
+city, what city does us air serve in wisconsin where is appleton,city,0.2138
+flight_no, i want a list with all possible us airways flight numbers from baltimore to washington d c,flight_no,0.4226
+flight_no, what are some direct morning eastbound us airways flight numbers from chicago to baltimore,flight_no,0.3938
+flight_no, what are some jetblue numbers going from pittsburgh to phoenix today,flight_no,0.3594
+flight_no, i need to find out what american airlines flight numbers are from chicago o'hare going into boston today,flight_no,0.3593
+flight_no, i need a list with all possible numbers from philadelphia to minneapolis on united airlines leaving after noon,flight_no,0.358
+flight_no, what are some american airlines numbers from san francisco to denver on september twenty sixth,flight_no,0.344
+flight_no, what are some american airlines flite numbers leaving dallas fort worth at four thirty am on march twenty eighth,flight_no,0.3269
+flight_no, what is a delta airlines flght numbers from philadelphia to dallas,flight_no,0.3232
+flight_no, i need to know all eastbound jetblue fligts from new york and their numbers on friday,flight_no,0.3142
+flight_no, what are all first class nonstop airline numbers from atlanta to san francisco leaving on sunday morning,flight_no,0.2708

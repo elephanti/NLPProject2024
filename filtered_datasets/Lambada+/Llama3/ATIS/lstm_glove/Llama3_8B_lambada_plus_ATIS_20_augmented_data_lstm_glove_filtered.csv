@@ -1,0 +1,63 @@
+label,text,predicted_label,probability
+airfare, what is a typical price for airfares to phoenix,airfare,0.26
+airfare, what is a typical price for first class airfares from san francisco to dallas,airfare,0.2355
+airfare, show me fares from denver to philadelphia for wednesday,airfare,0.2347
+airfare, what is a cheap ticket from baltimore to philadelphia,airfare,0.2314
+airfare, what is a typical price for an airfares from denver to boston,airfare,0.2304
+airfare, show me economy class fares from new york to orlando,airfare,0.2241
+airfare, show me economy class fares from san francisco to new york,airfare,0.2204
+airfare, how much does a first class ticket from baltimore to san diego cost,airfare,0.2143
+airfare, show me fares from boston to san francisco,airfare,0.2124
+airfare, what is a single economy class ticket from san francisco to baltimore,airfare,0.212
+airline, which airline is us airways international inc a code share partner with,airline,0.2991
+airline, which airline flies from san francisco to los angeles,airline,0.2803
+airline, what airline flies from dallas to minneapolis st paul,airline,0.2749
+airline, which airline flies from atlanta to dallas fort worth,airline,0.2714
+airline, which airline flies from st petersburg to atlanta,airline,0.2702
+airline, which airline flies from atlanta to san francisco,airline,0.258
+airline, which airline flies from san francisco to atlanta,airline,0.258
+airline, which airline is aa? australian airways i think,airline,0.2527
+airline, which airline flies from san francisco to st louis,airline,0.2495
+airline, what airline flies from los angeles to oakland,airline,0.2484
+aircraft, what type aircraft is flight ua 1089 from washington to baltimore,aircraft,0.2483
+aircraft, what type aircraft is flight 121 from pittsburgh to baltimore,aircraft,0.2472
+aircraft, what kind type aircraft flies from denver to dallas,aircraft,0.2467
+aircraft, what type plane is 2l 37 from la to sf,aircraft,0.2457
+aircraft, what kind type aircraft is flying from dallas to milwaukee leaving before 930 am,aircraft,0.2441
+aircraft, what type aircraft is flying from miami to san francisco,aircraft,0.2382
+aircraft, what type aircraft is flying from san francisco to miami,aircraft,0.2382
+aircraft, what type plane is 82 from philadelphia to san francisco,aircraft,0.2337
+aircraft, what type aircraft is flight aa 111 from boston to san diego,aircraft,0.2322
+aircraft, what type aircraft is 73h from atlanta to st louis,aircraft,0.2311
+abbreviation, what is us fare code f4n rdu dca,abbreviation,0.2386
+abbreviation, what does fare code d mean for us airways,abbreviation,0.1733
+abbreviation, what is us fare code hq k2 20,abbreviation,0.1644
+abbreviation, what does us mean in fare information please explain each,abbreviation,0.1597
+abbreviation," what is eap
+refund policies and procedures [SEP] i want a refund policy",abbreviation,0.1579
+abbreviation, what does fare code k mean on canadian airlines international,abbreviation,0.1556
+abbreviation, what does us mean in terms fare code for united airlines,abbreviation,0.1533
+abbreviation, what is ewr code mean for airline ticket from msp,abbreviation,0.1503
+abbreviation, what does fare code x mean on airline tickets in united states,abbreviation,0.1415
+abbreviation, what does fare code h mean for united airlines international,abbreviation,0.1397
+city, where is cincinnati municipal airport located in ohio 's near west side,city,0.2014
+city, where is kansas city international airport located in missouri,city,0.1778
+city, which city is san francisco international airport located in,city,0.1713
+city, in which city is denver international airport located near,city,0.1657
+city, where is pittsburgh international airport located near in,city,0.1517
+city, what city is san francisco international airport located in,city,0.1451
+city, what city is kona airport located in on hawaii,city,0.1161
+city, where is toronto's airport located in relation to downtown,city,0.1106
+city, where is philadelphia international airport located in relationship to downtown,city,0.1057
+city, where is philadelphia international airport located in relation to downtown,city,0.1048
+airport, list the airport closest to newark international air terminal,airport,0.1925
+airport, list san francisco airport services at sfo international,airport,0.1785
+airport, what airport is closest to newark nj international service,airport,0.1329
+airport, list the busiest airport near new york city international ny,airport,0.1291
+airport, list the major airport serving pittsburgh pennsylvania,airport,0.1218
+ground_service, show me the ground transport in boston near logan airport,ground_service,0.1637
+ground_service, show me the airport bus service in toronto on,ground_service,0.1192
+ground_service, show me the bus service in boston at logan airport,ground_service,0.1163
+restriction, what are the special requirements for travel agent 6g,restriction,0.1441
+restriction, what are the fare classes that have no baggage restriction,restriction,0.1394
+restriction, what are the restriction codes of all one way restricted return tickets,restriction,0.1202

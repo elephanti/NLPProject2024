@@ -1,0 +1,73 @@
+label,text,predicted_label,probability
+ground_service, what are the ground transportation services provided by american eagle,ground_service,0.4006
+ground_service, does united have a ground transportation service from tampa,ground_service,0.3992
+ground_service, what is the ground transportation service offered by southwest,ground_service,0.3892
+ground_service, what type of service does ground transportation offer at mco,ground_service,0.3843
+ground_service, what ground service does southwest provide at dallas,ground_service,0.3822
+ground_service, what services does airport ground transportation provide at boston,ground_service,0.3759
+ground_service, find the ground transportation that is offered by national airlines,ground_service,0.3697
+ground_service, what is ground transportation at baltimore-washington international,ground_service,0.3682
+ground_service, what ground service is provided by alaska airlines,ground_service,0.3675
+ground_service, what services are available on the ground at denver,ground_service,0.3665
+city, what city is mca terminal located in baltimore,city,0.4318
+city, where is the city of dallas-fort worth,city,0.4229
+city, how many cities does southwest serve in north carolina,city,0.4082
+city, what city is philadelphia international airport located in maryland,city,0.3821
+city, what city is seattle airport in michigan,city,0.3582
+city, what city does mco airport serve in florida,city,0.3578
+city, which city is closest to tucson international airport,city,0.3424
+city, what city is cincinnati airport in near,city,0.3407
+city, what city is boston airport in michigan,city,0.3363
+city, name the three cities in pennsylvania served by delta,city,0.3363
+flight_no, flight number from la guardia to laguardia,flight_no,0.2846
+flight_no, flight number from denver to san diego at 7 am,flight_no,0.2785
+flight_no, flight number from houston to denver at 9 am,flight_no,0.2483
+flight_no, what is delta s flight number from boston to san jose,flight_no,0.2467
+flight_no, flight number from phoenix to boston at 8 am,flight_no,0.243
+flight_no, what flight no does delta have leaving san francisco at 1429 p,flight_no,0.2387
+flight_no, flight number of the plane from san francisco to new york,flight_no,0.2381
+flight_no, flight number from boston to miami at 8 pm,flight_no,0.2354
+flight_no, what flight numbers are offered from newark to denver,flight_no,0.2348
+flight_no, find flight no from denver to houston,flight_no,0.2327
+restriction, what is restriction enzyme cleavage pattern,restriction,0.3875
+restriction, what is restriction enzyme mapping of dna,restriction,0.3566
+restriction, what is restriction enzyme cleavage site,restriction,0.3555
+restriction, what is restriction enzyme digestion? describe,restriction,0.3213
+restriction, what is restriction enzyme digestion used for,restriction,0.3176
+restriction, what is restriction enzyme digestion for example,restriction,0.3157
+restriction, what is restriction enzyme map dde i,restriction,0.3133
+restriction, what is restriction ap496235,restriction,0.3123
+restriction, what is restriction enzyme digestion of dna,restriction,0.3113
+restriction, what is restriction enzyme digestion for dna,restriction,0.306
+airline, what airlines fly from stl to atl,airline,0.403
+airline, what airlines are affiliated with southwest airways,airline,0.399
+airline, what airlines fly out of mco to pbi,airline,0.3276
+airline, does continental have nonstop flights to orlando,airline,0.3269
+airline, which airlines offer flights to baltimore from seattle,airline,0.2965
+airline, list the airlines that have flights to atlanta,airline,0.2923
+airline, what air carrier serves tulsa international airport with direct flights to minneapolis,airline,0.286
+airline, list the airlines that fly to baltimore,airline,0.2843
+airline, how many airlines fly between atlanta and denver,airline,0.2842
+airline, what airlines fly between boston and seattle,airline,0.2665
+abbreviation, what is abbrev g5016,abbreviation,0.2752
+abbreviation, what does the abbrev gwg mean,abbreviation,0.2076
+abbreviation, what does the abreiviation cdl mean,abbreviation,0.2033
+abbreviation, what does the abreveiation ua mean,abbreviation,0.1999
+abbreviation, what does yr mean in flight schedule listings,abbreviation,0.1785
+abbreviation, what does 1p mean on airfare code,abbreviation,0.146
+abbreviation, what does code nm mean on airfare listings,abbreviation,0.1371
+abbreviation, what does the code rsvp mean in an airfare,abbreviation,0.1324
+abbreviation, what is abbr in airfare listings with fare class,abbreviation,0.1116
+airport, does denver international airport have flights to boston,airport,0.1938
+airport, how many airports in minneapolis-st paul,airport,0.1868
+airport, list airports in michigan with flights to minneapolis,airport,0.1787
+airport, list the airports in seattle washington with flight numbers,airport,0.1681
+airport, list of airports in tennessee with flights to baltimore,airport,0.1607
+airport, list all airports in boston with terminal information,airport,0.1586
+airport, is the airport in atlanta called hartsfield,airport,0.1312
+meal, how many meals are included with the hyatt hotel,meal,0.1936
+meal, how many meals are included in the $32,meal,0.1538
+meal, what meals does southwest offer that are less than 150 dollars,meal,0.1416
+flight, find me a flight leaving at 10 am that has two seats left,flight,0.184
+flight, find me flights that leave boston at 709 in the evening,flight,0.1802
+quantity, how many types of fares are available for delta,quantity,0.1222

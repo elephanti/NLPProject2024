@@ -1,0 +1,153 @@
+label,text,predicted_label,probability
+distance, how far is it from boston airport to the city,distance,0.7784
+distance, how far is it from salt lake city airport to the hilton,distance,0.777
+distance, how far is it from denver airport to downtown,distance,0.777
+distance, how far is it from downtown to the airport in dallas,distance,0.7769
+distance, how far is it from salt lake city airport to the hilton hotel,distance,0.7751
+distance, how far is downtown from the airport in atlanta,distance,0.7747
+distance, how far is it from the airport to downtown pittsburgh,distance,0.7741
+distance, how far is it from salt lake city airport to downtown,distance,0.7738
+distance, how far is downtown from the airport in dallas,distance,0.7737
+distance, how far is downtown from the airport in denver,distance,0.7736
+quantity, how many first class flights are there from boston to san francisco today,quantity,0.9362
+quantity, how many nonstop flights does united have from denver to san francisco,quantity,0.936
+quantity, how many first class flights does united have today from all cities,quantity,0.9357
+quantity, how many nonstop flights does delta airlines have from boston to atlanta,quantity,0.9356
+quantity, how many flights does delta airlines have from boston to atlanta,quantity,0.9355
+quantity, how many american airline flights go to atlanta,quantity,0.9354
+quantity, how many flights does eastern airlines have from boston to atlanta,quantity,0.9353
+quantity, how many flights does continental have between boston and atlanta,quantity,0.9352
+quantity, how many flights does delta airlines have to and from atlanta,quantity,0.9351
+quantity, how many nonstop flights does american airlines have to atlanta,quantity,0.935
+capacity, what is the seating capacity on a 757,capacity,0.9012
+capacity, what is the seating capacity on a 73s,capacity,0.901
+capacity, what is the seating capacity on a 734,capacity,0.9008
+capacity, what is the seating capacity on a 75s,capacity,0.9007
+capacity, what is the seating capacity on an m80,capacity,0.9004
+capacity, what is the seating capacity of a boeing 73s,capacity,0.9
+capacity, what is the seating capacity of a 72s,capacity,0.8997
+capacity, what is the seating capacity of an m80,capacity,0.8997
+capacity, what is the seating capacity of a 73s,capacity,0.8996
+capacity, what is the seating capacity of an f28,capacity,0.8993
+ground_service, what ground transportation is available in washington dc to the downtown area,ground_service,0.9405
+ground_service, is there ground transportation in dallas from the airport to downtown,ground_service,0.9401
+ground_service, what ground transportation is available in minneapolis/st. paul,ground_service,0.9401
+ground_service, what ground transportation is available in washington dc from the airport to downtown,ground_service,0.9399
+ground_service, what ground transportation is there in baltimore please,ground_service,0.9398
+ground_service, what ground transportation is available from washington airport to downtown,ground_service,0.9398
+ground_service, what ground transportation is there in boston to get from the airport into downtown,ground_service,0.9397
+ground_service, what ground transportation is available from washington airport into the city,ground_service,0.9397
+ground_service, is there ground transportation from lga into new york city,ground_service,0.9396
+ground_service, what ground transportation is available from pittsburgh airport to the city,ground_service,0.9396
+airfare, what is the lowest fare from boston to orlando,airfare,0.9236
+airfare, what is the lowest fare from denver to atlanta,airfare,0.9235
+airfare, what is the lowest fare from boston to atlanta,airfare,0.9233
+airfare, what is the cheapest fare from boston to atlanta,airfare,0.923
+airfare, what is the most expensive one way fare between boston and washington,airfare,0.9229
+airfare, what is the lowest fare from atlanta to boston,airfare,0.9228
+airfare, what is the lowest round trip fare from san francisco to washington dc on us air,airfare,0.9227
+airfare, what is the cheapest fare from boston to pittsburgh,airfare,0.9226
+airfare, what is the lowest fare from san francisco to atlanta,airfare,0.9225
+airfare, what is the least expensive one way fare from boston to denver,airfare,0.9225
+aircraft, what kind of aircraft does delta use on flights from boston to denver before 12 noon,aircraft,0.9376
+aircraft, what kinds of aircraft does delta use before 8 am on august second from boston to denver,aircraft,0.9373
+aircraft, what type of aircraft does american airlines use for the 8 am flight from washington dc to milwaukee,aircraft,0.9372
+aircraft, what type of aircraft does continental use on flights from pittsburgh to denver,aircraft,0.9369
+aircraft, what type of aircraft does eastern fly from boston to denver before 12 noon,aircraft,0.9369
+aircraft, what type of aircraft is used on the first class american airlines flight from philadelphia to san francisco,aircraft,0.9369
+aircraft, please tell me the type of aircraft that will be used on delta flight 1222 from kansas city to salt lake city,aircraft,0.9368
+aircraft, what type of aircraft leaves from boston to atlanta before 9 am monday morning,aircraft,0.9367
+aircraft, which type of aircraft does eastern fly from boston to atlanta,aircraft,0.9367
+aircraft, please list the types of aircraft that fly from pittsburgh to boston,aircraft,0.9364
+airport, give me a list of airports in boston,airport,0.9144
+airport, please give me a list of airports in new york city,airport,0.9112
+airport, list airports in baltimore washington dc,airport,0.9111
+airport, please tell me all airports in new york,airport,0.9109
+airport, please show me airports in washington dc area,airport,0.9104
+airport, please tell me airports in new york city,airport,0.9102
+airport," give me airports in atlanta please
+ ##",airport,0.9096
+airport," show me airports in washington dc please
+ # 2016-03-17",airport,0.9096
+airport, airports in new york city please list them all,airport,0.9083
+airport, please list information regarding airports in washington dc,airport,0.908
+flight_time, please list the flight times from boston to dallas fort worth,flight_time,0.9301
+flight_time, please list the flight times from philadelphia to atlanta,flight_time,0.9298
+flight_time, please list the flight times from washington to columbus,flight_time,0.9298
+flight_time, please list the flight times from atlanta to baltimore,flight_time,0.9295
+flight_time, please list the flight times for boston to pittsburgh,flight_time,0.9294
+flight_time, please list the flight times from washington to atlanta,flight_time,0.9291
+flight_time, please list the departure times from detroit to westchester county,flight_time,0.9289
+flight_time, please list the departure times from washington for flights to atlanta,flight_time,0.9287
+flight_time, please give me the flight times from washington to chicago,flight_time,0.928
+flight_time, i want the flight times from atlanta to baltimore,flight_time,0.9276
+city, what cities are served by canadian airlines international,city,0.7649
+city, what cities does united airlines service with first class flights,city,0.7648
+city, which cities does united airlines service from denver,city,0.7639
+city, what cities does continental service from boston to denver stop in,city,0.7634
+city, what cities does continental service fly to from boston,city,0.7632
+city, what cities does continental service fly to from baltimore,city,0.7631
+city, what cities does continental service with first class flights,city,0.7627
+city, show me the cities served by canadian airlines international,city,0.7624
+city, what cities does delta airlines service from washington,city,0.7623
+city, what cities does northwest fly to from kansas city,city,0.7617
+flight, show me all flights from denver to atlanta,flight,0.9291
+flight, show me flights from baltimore to atlanta,flight,0.9286
+flight, show me all flights from san diego to atlanta,flight,0.9277
+flight, show me the flights on twa to atlanta in the morning,flight,0.9277
+flight, show me all flights from atlanta to baltimore,flight,0.9277
+flight, show me flights from baltimore to charlotte,flight,0.9276
+flight, please list flights from denver to baltimore on july twenty ninth,flight,0.9275
+flight, show me the flights between detroit and st. petersburg,flight,0.9273
+flight, please show me flights from san francisco to seattle,flight,0.9272
+flight, show me the flights from salt lake city to denver,flight,0.9272
+meal, what meals are there on flight 305 from atlanta to denver,meal,0.4184
+meal, what meals are served on eastern flight 206 from baltimore to atlanta,meal,0.4175
+meal, what meals are served on eastern flight 201 from boston to atlanta,meal,0.4173
+meal, what meals are there on flight 381 from boston to denver,meal,0.4162
+meal, what meals are served on american flight 382 from milwaukee to st. paul,meal,0.4157
+meal, what meals are served on american flight 3106 from milwaukee to st. paul,meal,0.4149
+meal, what meals are available on flight 271 from milwaukee to orlando,meal,0.4148
+meal, what meals are available on flight 271 from baltimore to atlanta,meal,0.414
+meal, what meals are available on flight 382 from boston to atlanta,meal,0.4139
+meal, what meals are served on delta flight 296 from atlanta to denver,meal,0.4133
+abbreviation, what is fare code h and when does it apply,abbreviation,0.9183
+abbreviation, what does ff mean on a fare code and also h,abbreviation,0.917
+abbreviation, what is fare code h and how does it compare to f,abbreviation,0.9158
+abbreviation, what does ua stand for and ap please explain,abbreviation,0.9132
+abbreviation, what is fare code f and does it work both ways,abbreviation,0.9132
+abbreviation, what does ff mean on a fare code 56973,abbreviation,0.9123
+abbreviation, what is fare code h and when was it changed,abbreviation,0.9109
+abbreviation, what is fare code h and how does it compare to other codes,abbreviation,0.9098
+abbreviation, what is fare code fn and how does it differ from mn,abbreviation,0.9074
+abbreviation, what is the ap 57 code all about,abbreviation,0.905
+flight_no, flight numbers from boston to seattle on wednesday,flight_no,0.6258
+flight_no, flight numbers from boston to denver today please,flight_no,0.6249
+flight_no, flight numbers from chicago to seattle tomorrow morning,flight_no,0.624
+flight_no, flight numbers from denver to seattle tomorrow morning,flight_no,0.623
+flight_no, flight numbers from boston to denver tomorrow morning,flight_no,0.6218
+flight_no, flight numbers from seattle to milwaukee,flight_no,0.6216
+flight_no, flight numbers from columbus to minneapolis tomorrow,flight_no,0.6208
+flight_no, flight numbers from denver to minneapolis on june twenty eight,flight_no,0.62
+flight_no, flight numbers from chicago to seattle on continental,flight_no,0.6195
+flight_no, flight numbers from detroit to seattle on wednesday,flight_no,0.6195
+ground_fare, how much is the limousine service in toronto international,ground_fare,0.7798
+ground_fare, how much is a limousine service in toronto international,ground_fare,0.7789
+ground_fare, how much does a limousine cost in boston,ground_fare,0.7756
+ground_fare, how much does a limousine cost in toronto,ground_fare,0.7753
+ground_fare, how much does the limousine service cost at logan airport,ground_fare,0.7739
+ground_fare, how much does the limousine service cost at denver airport,ground_fare,0.7738
+ground_fare, how much does the limousine service cost in toronto international airport,ground_fare,0.7733
+ground_fare, how much is a limousine service in washington,ground_fare,0.7728
+ground_fare, how much is the limousine service in washington,ground_fare,0.7713
+ground_fare, what is the cost of limousine service in toronto,ground_fare,0.7702
+airline, what airlines go to pittsburgh from baltimore,airline,0.9263
+airline, what airlines go to pittsburgh from boston,airline,0.9257
+airline, what airlines fly from pittsburgh to san francisco,airline,0.9257
+airline, what airlines fly from chicago to dallas fort worth,airline,0.9256
+airline, what airlines fly to boston from atlanta,airline,0.9255
+airline, what airlines fly from toronto to denver,airline,0.9253
+airline, what airlines are there between boston and atlanta,airline,0.925
+airline, what airlines fly from atlanta to denver,airline,0.925
+airline, what airlines fly from denver to atlanta,airline,0.925
+airline, what airlines have business class flights from atlanta to denver,airline,0.9249

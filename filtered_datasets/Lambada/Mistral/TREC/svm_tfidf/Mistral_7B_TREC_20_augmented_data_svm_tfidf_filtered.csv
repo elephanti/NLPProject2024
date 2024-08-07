@@ -1,0 +1,637 @@
+label,text,predicted_label,probability
+NUM:speed, How fast is the speed of light ?ENTY :quantity,NUM:speed,0.9578
+NUM:speed, How fast is the averageDESCR speed ofLOC current ?,NUM:speed,0.8788
+NUM:speed, How fast is the speed of light ?ENTY :other,NUM:speed,0.8776
+NUM:speed, How fast is theLOC 'AquENTHAB ?,NUM:speed,0.8577
+NUM:speed, How fast is theLOC express train ?ENTY :loc,NUM:speed,0.8577
+NUM:speed, How fast is light ?ENTS :misc,NUM:speed,0.7712
+NUM:speed, How fast is light ?LOC :wordcount 17,NUM:speed,0.7712
+NUM:speed," How fast is the Mississippi River ?ENTY :misc ,",NUM:speed,0.7587
+NUM:speed, How fast does the fastestLOC motorbike go ?,NUM:speed,0.753
+NUM:speed, How fast can the fastestLOCLESS car go ?,NUM:speed,0.7211
+NUM:count, How many people areENT :injured inDESCLOC a bus accident ?,NUM:count,0.9406
+NUM:count, How many chapters are in Revelation ?ENT :,NUM:count,0.9296
+NUM:count," How many people are descended from Noah ?
+ #num ::how-many",NUM:count,0.921
+NUM:count," How many people are on theLOC council ?
+ using entitylocation : location ;",NUM:count,0.8768
+NUM:count, How many hours are there in a workday ?,NUM:count,0.8467
+NUM:count, How many people areLOC on death row in the U.S. ?,NUM:count,0.8305
+NUM:count, How many people watched The Passion of the Christ ?,NUM:count,0.8287
+NUM:count, How many people areLOC inDESCR trombone playing ?,NUM:count,0.8285
+NUM:count, How many times did theLOC locomotive explode ?,NUM:count,0.8212
+NUM:count, How many people are on death row in the U.S ?,NUM:count,0.8145
+NUM:weight, How much does aLOCUST weigh ?ENTY :locust,NUM:weight,0.8344
+NUM:weight, How much does anLOCLOC locomotive weigh ?,NUM:weight,0.8344
+NUM:weight, How much does anLOCLOCLOCLOCLOC locomotive weigh ?,NUM:weight,0.8344
+NUM:weight, How much does a pENTACLOPE weigh ?,NUM:weight,0.8344
+NUM:weight, How much does a pENTHogram weigh ?,NUM:weight,0.8344
+NUM:weight, How much does aLOCLoclocust weigh ?,NUM:weight,0.8344
+NUM:weight, How much does a pood weigh ?ENTY,NUM:weight,0.8344
+NUM:weight, How much does anLOCLOCloclocation location LocationLOCLOCLOCLOCLOCLOCLOCLOCLOCLOCLOCLOCLOCLOCLOCLOCLOCLOCLOCLOCLOCLOC of SilverLOCENTLOCOCKsilver weigh ?,NUM:weight,0.8268
+NUM:weight, How much does a pENTH of gold weigh ?,NUM:weight,0.8268
+NUM:weight, How much does aLOC LocLOCLOCLOC what weigh ?,NUM:weight,0.8066
+LOC:mount, Where is the highest mountain inNUM :countloc,LOC:mount,0.9523
+LOC:mount," Where is the tallest mountain ?
+ ##highest",LOC:mount,0.9456
+LOC:mount, What is the highest mountain inNUM :moun ?,LOC:mount,0.9442
+LOC:mount," What is the highest mountain ?
+ #num :wordcount",LOC:mount,0.9442
+LOC:mount," What is the highest mountain ?
+ UserNUM : 512",LOC:mount,0.9442
+LOC:mount, Where is the highest mountain in Japan ?ENTS :moun,LOC:mount,0.9355
+LOC:mount, What is the highest mountain inNUM :quantity what 's altitude ?,LOC:mount,0.9335
+LOC:mount," Where is the highest mountain in the world ?
+ #num 9",LOC:mount,0.9204
+LOC:mount," Where is the highest mountain in Africa ?
+ #location",LOC:mount,0.9199
+LOC:mount, Where is the second-highest mountain peak in the world ?,LOC:mount,0.916
+NUM:temp, What is the temperature of a thermonuclear reaction ?,NUM:temp,0.7209
+NUM:temp, What is the temperature of boiling helium ?,NUM:temp,0.7209
+NUM:temp, What is the temperature of numismatics ?,NUM:temp,0.7209
+NUM:temp, What is the temperature of a supernova ?,NUM:temp,0.7209
+NUM:temp," What is the temperature of numchuck ?
+ -NumChukk-",NUM:temp,0.7209
+NUM:temp, What is the temperature for cookingENTL :food {,NUM:temp,0.6353
+NUM:temp," What is the temperature of the inside ?
+ importance : 4",NUM:temp,0.6284
+NUM:temp, What is the temperature inNUM :math of Fahrenheit ?,NUM:temp,0.559
+NUM:temp," What is the temperature for cooking ?
+ ##########",NUM:temp,0.486
+NUM:temp," What is the average body temperature ?
+ #########################",NUM:temp,0.4818
+NUM:code," What is the phone number for MTV ?
+ #num {sing}",NUM:code,0.4849
+NUM:code, What is the phone number for Southwest Airlines ?,NUM:code,0.4849
+NUM:code, What is the phone number for PENTHAB ?,NUM:code,0.4849
+NUM:code, What is the phone number for Greyhound Bus Lines ?,NUM:code,0.4849
+NUM:code, What is the phone number for Greyhound ?,NUM:code,0.4849
+NUM:code, What is the phone number for Amtrak ?,NUM:code,0.4849
+NUM:code, What is the phone number for Greyhound bus lines ?,NUM:code,0.4849
+NUM:code, What is the phone number for MENTOR ?,NUM:code,0.4849
+NUM:code, What is the phone number for AARP ?,NUM:code,0.4849
+NUM:code," What is the phone number for Delta Airlines ?
+ -Hugh Darrow , 1984-02",NUM:code,0.4849
+ENTY:lang," What is the national language ofLOC :language [SEP] Which languages are spoken inNUM , Lebanon ?",ENTY:lang,0.9247
+ENTY:lang, What are the five languages ofDESC :language ?,ENTY:lang,0.8921
+ENTY:lang, What language is primarily spoken inNUM :mex ?,ENTY:lang,0.8159
+ENTY:lang," What is the language ofNUM :math ?
+ #1067",ENTY:lang,0.8144
+ENTY:lang, What is the official language ofDESC :lang [SEP] what languages do most Americans speak ?,ENTY:lang,0.7832
+ENTY:lang," What language does the Sioux speak ?
+ The language of Siouan is spoken by most North American Indians .",ENTY:lang,0.772
+ENTY:lang, What is the most widely spoken language in Indonesia ?,ENTY:lang,0.7685
+ENTY:lang, What is the most widely-spoken language in Indonesia ?,ENTY:lang,0.7685
+ENTY:lang, What language is the most widely-spoken onDESCR :desccolor {X ' } ?,ENTY:lang,0.7496
+ENTY:lang, What are the two most widely spoken languages in Brazil ?,ENTY:lang,0.7339
+NUM:date," When is the first day of summer ?
+ ##",NUM:date,0.8682
+NUM:date, What year did man first land on the moon ?,NUM:date,0.8283
+NUM:date, What year did Neil Armstrong walk on the moon ?,NUM:date,0.8169
+NUM:date," What is the date of May Day ?
+ -Happy New Year. ,",NUM:date,0.816
+NUM:date," What year did the Titanic sink ?
+ #",NUM:date,0.7779
+NUM:date, What year was the battle of Waterloo ?,NUM:date,0.7753
+NUM:date," What was the first day of creation ?
+ #2678",NUM:date,0.7649
+NUM:date, What year was the Battle of Gettysburg fought ?,NUM:date,0.7635
+NUM:date, What was the date of Armistice Day ?,NUM:date,0.7471
+NUM:date," What year was the Civil War started ?
+ importancia ,",NUM:date,0.7246
+LOC:city, What city is the birthplace of Houdini ?,LOC:city,0.9434
+LOC:city, What city is the seat of Humboldt County ?,LOC:city,0.9434
+LOC:city, What is the name of a city in Louisiana known as The Creole City ?,LOC:city,0.9068
+LOC:city, What U.S city was nicknamed the Queen City of The Hills ?,LOC:city,0.8907
+LOC:city, What city 's the birthplace of rock and roll ?,LOC:city,0.8851
+LOC:city, What city is located on theNUM :num [countable ] ?,LOC:city,0.8292
+LOC:city, What is the largest city in Haiti ?,LOC:city,0.8128
+LOC:city, What city was the venue for ` The Gathering of Nations ' ?,LOC:city,0.8049
+LOC:city, What is the largest city on Lake Superior ?,LOC:city,0.7942
+LOC:city," What is the largest city on Hawaii ?
+ importNUM :",LOC:city,0.7942
+ENTY:color," What color beetles are ?
+ ##########",ENTY:color,0.9758
+ENTY:color, What color is a babyLOC :what 's ?,ENTY:color,0.9749
+ENTY:color," What color is a rainbow ?
+ #entropy | entropysymbol",ENTY:color,0.9229
+ENTY:color, What is the color of most flamingos ?,ENTY:color,0.8596
+ENTY:color," What is the rarest eye color ?
+ #########",ENTY:color,0.7834
+ENTY:color, What color is a bottle-nosed dolphin ?,ENTY:color,0.6994
+ENTY:color, What color was the 20 dollar bill in The Maltese Falcon ?,ENTY:color,0.6957
+ENTY:color," What is the most common eye color ?
+ #descnum:`DESCNUM `[wordcount:250|sentencecount:78 ]",ENTY:color,0.6908
+ENTY:color," What is the most common eye color ?
+ #describing 2016-03-19T14:57:38Z ,   Lang::eng",ENTY:color,0.6908
+ENTY:color," What is the most common eye color ?
+ #NUM:`num`",ENTY:color,0.6908
+LOC:country," What country is Hiroshima in ?
+ #############################",LOC:country,0.8836
+LOC:country, What country 's capital is Hanoi ?,LOC:country,0.8088
+LOC:country, What country 's capital is Nairobi ?,LOC:country,0.8088
+LOC:country, What country 's capital is Locarno ?,LOC:country,0.8088
+LOC:country, What country 's capital is Belmopan ?,LOC:country,0.8088
+LOC:country, What country is Hanoi the capital of ?,LOC:country,0.6947
+LOC:country, What country 's the largest producer of coal ?,LOC:country,0.6946
+LOC:country, What country is the U.N . located in ?,LOC:country,0.6696
+LOC:country," What two countries border Germany ?
+ It's the second largest country in size after Russia .",LOC:country,0.6292
+LOC:country, What is the wealthiest country in Central America ?,LOC:country,0.6114
+DESC:manner," How did James Dean die ?
+ #descnum::how",DESC:manner,0.9324
+DESC:manner, How was yourNUM EnglishENT taught ? &LOC,DESC:manner,0.9155
+DESC:manner, How do you pronounce `` Pei '' ?,DESC:manner,0.867
+DESC:manner, How do you pronounce `` Hiroshima '' ?,DESC:manner,0.867
+DESC:manner, How do I pronounce `` Siobhan '' ?,DESC:manner,0.8621
+DESC:manner, How do I get rid of moss on my roof ?,DESC:manner,0.8392
+DESC:manner, How do you spell `` Mississippi '' ?&ENT;,DESC:manner,0.8056
+DESC:manner," How was the element calcium named ?
+ #descfunc",DESC:manner,0.7874
+DESC:manner, How do you say `` Thank You '' inENTL ?,DESC:manner,0.7869
+DESC:manner, How does a camel breathe ? &NUM;,DESC:manner,0.7605
+LOC:state, What U.S . state is nicknamed the Eternal State ?,LOC:state,0.9836
+LOC:state, What U.S. state is the `` Everglades '' in ?,LOC:state,0.9324
+LOC:state, What state 's nickname is The Show Me State ?,LOC:state,0.8854
+LOC:state," What is the largest state by area ?
+ The answer to your query : Is Louisiana State .",LOC:state,0.829
+LOC:state, What U.S . state was the first to legalize gay marriage ?,LOC:state,0.8217
+LOC:state, What state is known as the Show-Me State ?,LOC:state,0.8062
+LOC:state, What state has a motto of `` Virtute et Armis '' ?,LOC:state,0.778
+LOC:state," What state is John Wayne from ?
+ TheHuman",LOC:state,0.7674
+LOC:state, What state 's capital is Topeka ?,LOC:state,0.7627
+LOC:state, What U.S. state is the largest producer of strawberries ?,LOC:state,0.7592
+ABBR:abb, What is the abbreviation for National Bureau of Investigation ?,ABBR:abb,0.7988
+ABBR:abb, What is the abbreviation of National Bureau for Investigation ?,ABBR:abb,0.7988
+ABBR:abb, What is the abbreviation for `` National Bureau of Investigation '' ?,ABBR:abb,0.7988
+ABBR:abb, What is the abbreviation for `National Bureau of Investigation ' ?,ABBR:abb,0.7988
+ABBR:abb, What is the abbreviation for General Motors ?,ABBR:abb,0.6674
+ABBR:abb, What is the abbreviation of National Bureau forENT Investigation ?,ABBR:abb,0.6453
+ABBR:abb, What is the abbreviation of National Bureau Investigation ?,ABBR:abb,0.6453
+ABBR:abb, What is the abbreviation of National Bureau Of Investigation ?,ABBR:abb,0.6247
+ABBR:abb, What is the abbreviation of National Bureau of Investigation ?,ABBR:abb,0.6247
+ABBR:abb, What is the abbreviation for ``NUMBENTH '' ?,ABBR:abb,0.5665
+ENTY:word, What word is the antonym of abet ?,ENTY:word,0.7191
+ENTY:word, What is another word for ` what ? 's it called inLOC :words,ENTY:word,0.6688
+ENTY:word," What English word has the most letters ?
+ The first five words of the alphabet are :",ENTY:word,0.6687
+ENTY:word, What is a homonym for the word `` text '' ?,ENTY:word,0.6363
+ENTY:word, What is the word for ` afraid ' inNUM :lang {eng} ?,ENTY:word,0.6363
+ENTY:word," What 's the plural of gNUM ?
+ importent link : 1960 The word ` plum '' is related to what other fruit?",ENTY:word,0.6222
+ENTY:word, What is the plural of gNUM ?a. gLOCs b. dNUMbers c. words,ENTY:word,0.6168
+ENTY:word," What 's the plural of gulf ?
+ -Hana-",ENTY:word,0.5824
+ENTY:word," What 's the plural of gulf ?
+ ##############################",ENTY:word,0.5824
+ENTY:word," What is the plural of gLOC ?
+ #entE/words :what-is-the-plural-of--gloc->",ENTY:word,0.5486
+ENTY:currency," What currency is used inNUM :money [LOC ] , Malawi ?",ENTY:currency,0.7835
+ENTY:currency," What currency is used inNUM :money , Numero Uno ?",ENTY:currency,0.7835
+ENTY:currency," What currency is used in Argentina ?
+ ###ent :lang[en]{What money does Australia use for }currencies?",ENTY:currency,0.7335
+ENTY:currency, What was the currency inNUM :money used by Byzantium ?,ENTY:currency,0.684
+ENTY:currency, What currency is used inNUM :money Australia ?,ENTY:currency,0.6384
+ENTY:currency, What currency is used inDESC :desccolor {,ENTY:currency,0.6138
+ENTY:currency," What currency is used in Haiti ?
+ TheHumanABC's    |LOC|",ENTY:currency,0.6112
+ENTY:currency," What currency is used in Haiti ?
+ #LOC",ENTY:currency,0.6112
+ENTY:currency," What currency is used in Paraguay ?
+ -NUM: 2",ENTY:currency,0.6112
+ENTY:currency, What currency doesNUM :money is used in Mexico ?,ENTY:currency,0.5216
+NUM:perc," What percentage of the body is muscle ?
+ I think , 40 percent .",NUM:perc,0.6197
+NUM:perc, What percentage of allDESCAMENTS is covered by forests ?,NUM:perc,0.5404
+NUM:perc," What is the percentage ofLOC inENT ?
+ #loc 12084/sec",NUM:perc,0.5147
+NUM:perc, What percentage of yourLOC body is muscle ?ENTY :mike,NUM:perc,0.5025
+NUM:perc," What percentage of the body is muscle ?
+ -Nathan",NUM:perc,0.5013
+NUM:perc," What percentage of the body is muscle ?
+ importLOCmuscle",NUM:perc,0.5013
+NUM:perc," What percentage of the body is muscle ?
+ #define 256 ' '",NUM:perc,0.5013
+NUM:perc, What percentage of the humanLOC body is muscle ?,NUM:perc,0.5013
+NUM:perc, What percentage of allLOC 's deaths are caused by homicide ?,NUM:perc,0.4731
+NUM:perc," What percentage of the body is muscle ?
+ I think it 's 25 % .",NUM:perc,0.4397
+ENTY:symbol, What sign is the best love match for a horoscope symbol of Pisces ?,ENTY:symbol,0.5582
+ENTY:symbol, What sign is the Crab the zodiacal symbol for ?,ENTY:symbol,0.5477
+ENTY:symbol," What is the chemical symbol for nitrogen ?
+ ###",ENTY:symbol,0.423
+ENTY:symbol," What is the chemical symbol for nitrogen ?
+ ##",ENTY:symbol,0.423
+ENTY:symbol," What is the chemical symbol for nitrogen ?
+ #NUM:'N'",ENTY:symbol,0.423
+ENTY:symbol," What is the chemical symbol for nitrogen ?
+ The answer : Nitrogene",ENTY:symbol,0.4229
+ENTY:symbol, What sign is The Water Carrier the zodiacal symbol for ?,ENTY:symbol,0.4167
+ENTY:symbol, WhatNUM is the chemical symbol for nitrogen ?,ENTY:symbol,0.4014
+ENTY:symbol, What is the astrological symbol for Aquarius ?,ENTY:symbol,0.3925
+ENTY:symbol, What is the chemical symbol for bismuth ?,ENTY:symbol,0.3867
+NUM:dist, How long is the HUM :lang :eng ?,NUM:dist,0.7202
+NUM:dist, How long is the Coney Island boardwalk ?,NUM:dist,0.7199
+NUM:dist," How far is the sun from earth ?
+ #describes : how-far ,  subject",NUM:dist,0.7112
+NUM:dist, How long is the border between Canada and Alaska ?,NUM:dist,0.6842
+NUM:dist," How far away is the moon ?
+ #########",NUM:dist,0.6593
+NUM:dist," How long is a marathon ?
+ #num ::distance {LOC} What are the coordinates of Long Island , New York City and Block Isalnd",NUM:dist,0.635
+NUM:dist, How far is the bottom of the Mariana Trench from the top ?,NUM:dist,0.604
+NUM:dist, How far is the city of Boston from New York ?,NUM:dist,0.573
+NUM:dist, How tall is the wall atop of Hadrian 's ?,NUM:dist,0.5441
+NUM:dist, How high is Mt. McKinley ?,NUM:dist,0.5258
+ENTY:product," What is the best selling computer software product ?
+ ###",ENTY:product,0.7319
+ENTY:product, What is the most advanced computer inNUM :num,ENTY:product,0.7117
+ENTY:product, What is the best selling brand of laptop computer ?,ENTY:product,0.664
+ENTY:product, What is the best brand for a laptop computer ?,ENTY:product,0.6493
+ENTY:product," What is the best brand of laptop computer ?
+ 1.5",ENTY:product,0.6289
+ENTY:product, What is the brand name for a product that contains PABA and lanolin ?,ENTY:product,0.6044
+ENTY:product," What is the best selling computer ?
+ packageDESCR :description",ENTY:product,0.5544
+ENTY:product," What is the best selling computer ?
+ #########",ENTY:product,0.5544
+ENTY:product, What products useLOCNUM :num:`4 `ofLOCNUM :locnumber ``krypton ?,ENTY:product,0.533
+ENTY:product," What is the most successful computer operating system ?
+ In Exact : what was Apple 's first product that could access and download data from online services ?",ENTY:product,0.4885
+ENTY:instru, What instrument did Ritchie Valens play ?,ENTY:instru,0.8431
+ENTY:instru, What instrument did Bach play ?LOC :langent,ENTY:instru,0.8431
+ENTY:instru," What instrument did Mozart play ?
+ ###DESCR:related",ENTY:instru,0.8431
+ENTY:instru, What musical instrument did Pablo Casals play ?,ENTY:instru,0.7999
+ENTY:instru, What musical instrument did Pablo Picasso play ?,ENTY:instru,0.7999
+ENTY:instru, What musical instrument did Rimsky-Korsakov play ?,ENTY:instru,0.7999
+ENTY:instru, What instrument did the Rolling Stones 's Keith Richards play ?,ENTY:instru,0.7746
+ENTY:instru, What musical instrument did Ray Charles play ?LOC :music,ENTY:instru,0.7711
+ENTY:instru," What instrument does Yentl play ?
+ ###HUM:flute",ENTY:instru,0.7172
+ENTY:instru," What instrument does Ray Charles play ?LOC :music ,playing",ENTY:instru,0.6541
+HUM:title," What is Larry King 's occupation ?
+ User 1 : title reporter",HUM:title,0.6155
+HUM:title," What is Larry King 's occupation ?
+ #1397",HUM:title,0.4257
+HUM:title," What is Larry King 's job ?
+ #hun",HUM:title,0.4147
+HUM:title," What is Larry King 's job ?
+ #entertainment  #jobs_and_education",HUM:title,0.4147
+HUM:title, What was Queen Victoria 's title regarding India ?,HUM:title,0.3959
+HUM:title," What is Larry King 's job ?
+ The 1970-2",HUM:title,0.3934
+HUM:title," What is the occupation of Nicholas Cage ?
+ #",HUM:title,0.3852
+HUM:title," What is Donald Trump 's job ?
+ ##news## news what does trump do for a living",HUM:title,0.3585
+HUM:title," What is Johnny Carson 's occupation ?
+ ### Description
+A job ,profession or vocation",HUM:title,0.3484
+HUM:title," What is Larry King 's occupation ?
+ A. producer B . comedian C. actor D. newscaster",HUM:title,0.3309
+NUM:volsize, How big is a quintal ?ENTS :,NUM:volsize,0.9028
+NUM:volsize, How big is yourDESC :desc 7th grade ?,NUM:volsize,0.9028
+NUM:volsize, How big is a babyLOC :num size [ENTY ] What 's the diameter of an Olympic diving pool ?,NUM:volsize,0.6861
+NUM:volsize, How big is the universe ?ENTY :noun,NUM:volsize,0.6694
+NUM:volsize, How big is the universe ?ENTY :quantity,NUM:volsize,0.6694
+NUM:volsize, How big is a quart ?LOC What size glass holds 8 fluid oz.ENT :,NUM:volsize,0.6629
+NUM:volsize," How big is the largest cat in size ?
+ ############################## 1. The Columbia Encyclopedia , Sixth Edition .  20",NUM:volsize,0.6148
+NUM:volsize, How big is a quart ?ENT :quantity,NUM:volsize,0.5892
+NUM:volsize, How big is Australia ?LOC :langnum {,NUM:volsize,0.5884
+NUM:volsize," What is the size of Argentina ?
+ using entitylinkbracket open",NUM:volsize,0.5064
+ENTY:substance," What are the main elements of clay ?
+ ##element##",ENTY:substance,0.7655
+ENTY:substance, What substance is The Hulk made of ?,ENTY:substance,0.6784
+ENTY:substance, What are the four most common elements in seawater ?,ENTY:substance,0.6419
+ENTY:substance, What are the three most common elements in seawater ?,ENTY:substance,0.6261
+ENTY:substance, What substance is the second-most abundant element inNUM :num,ENTY:substance,0.6202
+ENTY:substance," What are cigarettes made of ?
+ importance :location ;",ENTY:substance,0.6155
+ENTY:substance, What are the most common elements in seawater ?,ENTY:substance,0.6048
+ENTY:substance, What are the 3 most common elements in seawater ?,ENTY:substance,0.6048
+ENTY:substance," What are the four elements ?
+ The Elements",ENTY:substance,0.5795
+ENTY:substance," What is the second-hardest substance ?
+ usingDESCR :desc 1",ENTY:substance,0.5725
+ENTY:letter, What is the 17th letter of the alphabet ?,ENTY:letter,0.7736
+ENTY:letter, What is theNUM :num letter ofHUM:alphabet that followsN,ENTY:letter,0.7338
+ENTY:letter, What is the first letter of the alphabet ?,ENTY:letter,0.7336
+ENTY:letter, What is the first letter of The Greek alphabet ?,ENTY:letter,0.7207
+ENTY:letter, What is the largest letter in an alphabet ?,ENTY:letter,0.6843
+ENTY:letter, What 's the second-most used letter inNUM :num,ENTY:letter,0.6157
+ENTY:letter," What is the first letter of Latin ?
+ #LOC",ENTY:letter,0.5945
+ENTY:letter, What is the largestNUM :digit letter ?,ENTY:letter,0.5921
+ENTY:letter, What is the letter forNUM :numbers ?,ENTY:letter,0.5921
+ENTY:letter, What 's the second-most used vowel in English ?,ENTY:letter,0.5262
+NUM:period, How long does it take a drop ofENTL liquor to evaporate ?,NUM:period,0.9302
+NUM:period, How long did it take for the Marines to retake Iwo Jima ?,NUM:period,0.8651
+NUM:period, How long does it take to boil an egg ?,NUM:period,0.8628
+NUM:period, How long did it take you to get your Masters ?,NUM:period,0.8316
+NUM:period, How long does it take theLOC Pennsylva Loc to fill for a LOC hole ?,NUM:period,0.8248
+NUM:period, How long did it take for the Hubble Telescope to be repaired ?,NUM:period,0.8157
+NUM:period, How long does it take theLOC moon to circle around Earth ?,NUM:period,0.784
+NUM:period, How long did it take for the Hubble telescope to be placed in orbit ?,NUM:period,0.7794
+NUM:period, How long did theLOC :time take you to solve your problem ?,NUM:period,0.7745
+NUM:period, How long did it take for the HMS Titanic to sink ?,NUM:period,0.7663
+ENTY:dismed," What is a fear of heights ?
+ -HumanMedicine-",ENTY:dismed,0.8632
+ENTY:dismed," What is a fear of beingNUM ?
+ ###",ENTY:dismed,0.8632
+ENTY:dismed," What is a fear of pNUMbers ?
+ -num- 1 ,",ENTY:dismed,0.8632
+ENTY:dismed," What is a fear of being kissed ?
+ ##",ENTY:dismed,0.7751
+ENTY:dismed," What is a fear of being kissed ?
+ ###",ENTY:dismed,0.7751
+ENTY:dismed," What is a fear of being touched ?
+ #describing :category",ENTY:dismed,0.7751
+ENTY:dismed," What is a fear of glass ?
+ -hugo-",ENTY:dismed,0.6788
+ENTY:dismed, What is a fear of pins and needles ?,ENTY:dismed,0.6672
+ENTY:dismed," What is a fear of bees ?
+ ###",ENTY:dismed,0.6589
+ENTY:dismed," What is a fear of bees ?
+ ##",ENTY:dismed,0.6589
+ENTY:sport, What sport is played onNUM :64 fields ?,ENTY:sport,0.7194
+ENTY:sport, What sport is played onDESC :noun what was the first game that mankind ever invented ?,ENTY:sport,0.6967
+ENTY:sport," What is the name of a popular game played onNUM :moun ,mount ?",ENTY:sport,0.5839
+ENTY:sport, What is a popular summer Olympic game in Brazil ?,ENTY:sport,0.5794
+ENTY:sport, What is the national sport of Brazil ? The game was played on a pitch 90 yards long.,ENTY:sport,0.579
+ENTY:sport, What game isDESC :desc 1 of Risk ?,ENTY:sport,0.5611
+ENTY:sport, What is the name of a sport played on Lake Michigan ?,ENTY:sport,0.5235
+ENTY:sport, What sport is the world 's second most popular ?,ENTY:sport,0.5159
+ENTY:sport, What is the second-most popular spectator sport in America ?,ENTY:sport,0.4766
+ENTY:sport, What is the second most popular spectator sport in America ?,ENTY:sport,0.4766
+NUM:money," How much was theLOC :loc ,location 1976 minimum wage ?",NUM:money,0.8071
+NUM:money, How much was theENTY :minimum wage in 1982 ?,NUM:money,0.7618
+NUM:money, How much was theENT :minimum wage in 1986 ?,NUM:money,0.7618
+NUM:money, How much was the minimum wage in 1987 ?,NUM:money,0.7189
+NUM:money," How much does a gilbert cost ?
+ ILOC :gbr",NUM:money,0.704
+NUM:money, How much is a gold Krugerrand worth ?,NUM:money,0.6907
+NUM:money," How much is a bitcoin worth ?
+ TheENTY",NUM:money,0.6907
+NUM:money, How much did theLOC :wordyear cost ?,NUM:money,0.6621
+NUM:money, How much did the Hubble telescope cost ?,NUM:money,0.6029
+NUM:money, How much is the minimum wage in Australia ?ENTY,NUM:money,0.5616
+HUM:desc," Who is Pablo Picasso ?
+ #2416",HUM:desc,0.9761
+HUM:desc, Who is H.R Puffnstent ?,HUM:desc,0.9761
+HUM:desc," Who is Kira NazENTKina ?
+ #4207",HUM:desc,0.9761
+HUM:desc," Who is H. Ross Perot ?
+ User  : Jim_ENTSII",HUM:desc,0.9761
+HUM:desc, Who was Porky Pig 's girlfriend ?,HUM:desc,0.8466
+HUM:desc," Who was H.G . Wells ?
+ package Holiday",HUM:desc,0.8466
+HUM:desc," Who is James Naismith ?
+ -K.Laxmikanth",HUM:desc,0.8189
+HUM:desc," Who is John GLOC ?
+ #difficult",HUM:desc,0.805
+HUM:desc," Who is the creator of PLOC ?
+ #lang lang-eng 2015",HUM:desc,0.7992
+HUM:desc," Who is Jane Goodall ?
+ ### SimilarENTs : ##html :",HUM:desc,0.688
+DESC:reason, Why are the numbers onNUM7s ?ENTS :,DESC:reason,0.879
+DESC:reason, Why was the Monroe Doctrine issued ?ENTY :document,DESC:reason,0.8473
+DESC:reason, What is the function ofNUM [SEP] Why do plants haveNUM roots ?,DESC:reason,0.8332
+DESC:reason, Why is the Cajun called a cracker ?,DESC:reason,0.8116
+DESC:reason, What is the function ofLOC [locat ] a rib ?,DESC:reason,0.752
+DESC:reason," What causes a tornado ?
+ #descnum :",DESC:reason,0.6982
+DESC:reason, What is the function of aLOC?locator,DESC:reason,0.691
+DESC:reason, What is the function of a sphincter ?,DESC:reason,0.691
+DESC:reason," What is the function of your appendix ?
+ ##desc-other",DESC:reason,0.6886
+DESC:reason," What causes a tornado ?
+ #descname : what",DESC:reason,0.6719
+ENTY:body," Where does your hair grow the fastest ?
+ #LOC  3  What part of America grows most tobacco ?",ENTY:body,0.7066
+ENTY:body, What is the mostNUM :num sensitive part of your body ?,ENTY:body,0.6088
+ENTY:body, What is the most sensitive part of your body ?,ENTY:body,0.601
+ENTY:body," Where is theLOC in your body ?
+ ###DESC:part-of-speech",ENTY:body,0.5672
+ENTY:body, Where is the human skin least sensitive ?LOC :loc,ENTY:body,0.5474
+ENTY:body," What part of your body holds the iris ,pupil and cornea ?",ENTY:body,0.4639
+ENTY:body, Where is the human skin leastNUM :num most sensitive ?,ENTY:body,0.4544
+ENTY:body, What part of your body contains the iris ?,ENTY:body,0.4531
+ENTY:body, What part of your body has the largestNUM :num,ENTY:body,0.4353
+ENTY:body, What part of your body is the only oneNUM :num that doesn 'tLOC haveNUM a numDESC :cardinal muscle ?,ENTY:body,0.4097
+ENTY:food, What drink is made up of gin and vermouth ?,ENTY:food,0.666
+ENTY:food," What do penguins eat ?
+ #entertainment     :wordlist",ENTY:food,0.6238
+ENTY:food, What do crayfish eat ? &NUM;,ENTY:food,0.6238
+ENTY:food, What do babyNUM :mammal eat ?,ENTY:food,0.6238
+ENTY:food, What is the most popular soft drink inLOC : USA ?,ENTY:food,0.6097
+ENTY:food, What is the number one selling soft drink in America ?,ENTY:food,0.6003
+ENTY:food, What soft drink is known as The Real Thing ?,ENTY:food,0.5809
+ENTY:food, What is the number one selling soft drink in Latin America ?,ENTY:food,0.5177
+ENTY:food, What is the world 's most popular soft drink ?,ENTY:food,0.5013
+ENTY:food, What was the first soft drink everLOC :word,ENTY:food,0.4878
+ENTY:plant, What plant is rum made from ?LOC :wordent-plant 2,ENTY:plant,0.6524
+ENTY:plant," What plant has the largest seed ?
+ ### Description ## Entities -",ENTY:plant,0.5787
+ENTY:plant, What plant has the largest seed ?LOC :langnum,ENTY:plant,0.5787
+ENTY:plant," What plant has the largest seed ?
+ TheNUM :5 1984-03",ENTY:plant,0.5787
+ENTY:plant," What plant has the largest seed ?
+ importent",ENTY:plant,0.5787
+ENTY:plant," What plant has the largest seed ?
+ UserNUM :countab 2013",ENTY:plant,0.5787
+ENTY:plant," What plant has the largest seed ?
+ -NUM-",ENTY:plant,0.5787
+ENTY:plant," What plant is rum made from ?
+ #NUM::five",ENTY:plant,0.4436
+ENTY:plant, What is theNUM :masc plant that yields indigo ?,ENTY:plant,0.4281
+ENTY:plant," What plant is rum made from ?
+ TheLOC :wordnet ; color",ENTY:plant,0.413
+ABBR:exp, What does N.A.S.A .stand for ?,ABBR:exp,0.8726
+ABBR:exp," What does NPR stand for ?
+ IELTS",ABBR:exp,0.8726
+ABBR:exp," What does NATO stand for ?
+ #num:2648#",ABBR:exp,0.8726
+ABBR:exp, What does `HUMSP ' stand for ?,ABBR:exp,0.8726
+ABBR:exp," What does A&W stand for ?
+ package holter",ABBR:exp,0.8726
+ABBR:exp," What does NOAA stand for ?
+ ##description##",ABBR:exp,0.8726
+ABBR:exp, What does the abbreviation ``NUM '' stand for ?,ABBR:exp,0.7717
+ABBR:exp, What does the abbreviation `MS ' stand for ?,ABBR:exp,0.7495
+ABBR:exp, What does the abbreviation IBM stand for ?,ABBR:exp,0.7331
+ABBR:exp, What does the `H' in A&H stand for ?,ABBR:exp,0.7244
+LOC:other, Where did the 1980 Summer Olympics take place ?,LOC:other,0.5752
+LOC:other, What constellation contains the twins Castor and Pollux ?,LOC:other,0.5376
+LOC:other, Where is the best place to see whales ?,LOC:other,0.504
+LOC:other, Where is the best place to see a sunrise ?,LOC:other,0.504
+LOC:other," Where is the 49th parallel ?
+ #location-of -what",LOC:other,0.4997
+LOC:other, Where is the location of Fortnum and Mason ?,LOC:other,0.4965
+LOC:other," Where is the Arctic located ?
+ #location",LOC:other,0.4933
+LOC:other," Where is the Nile river ?
+ #NaturalLocation",LOC:other,0.4924
+LOC:other, Where does the action in ` The Caine Mutiny ' take place ?,LOC:other,0.4848
+LOC:other, Where does the action of `` The Tempest '' take place ?,LOC:other,0.473
+ENTY:techmeth, What is the best way to start a campfire ?,ENTY:techmeth,0.5412
+ENTY:techmeth, What is the best way to remove a stain ?,ENTY:techmeth,0.5134
+ENTY:techmeth, What is a technique used to calculate theLOC ?,ENTY:techmeth,0.5008
+ENTY:techmeth, What is the best way to remove wallpaper ?,ENTY:techmeth,0.4791
+ENTY:techmeth, What is the most efficient way to start a barbeque ?,ENTY:techmeth,0.4713
+ENTY:techmeth, What is the most efficient way to descale a kettle ?,ENTY:techmeth,0.4626
+ENTY:techmeth, What is the best way to get rid of acne ?,ENTY:techmeth,0.4438
+ENTY:techmeth, What is the best way to get a stain out of carpet ?,ENTY:techmeth,0.4232
+ENTY:techmeth, What is the best way to get stains out of leather ?,ENTY:techmeth,0.4232
+ENTY:techmeth, What is the best way to remove old wallpaper ?,ENTY:techmeth,0.4118
+ENTY:termeq," What is a term forDESC :desccolor {ADJ} , ?",ENTY:termeq,0.6593
+ENTY:termeq, What is the term for a glass that holds 12 fluid oz. ?,ENTY:termeq,0.5448
+ENTY:termeq, What is a term for an unmarried woman ?,ENTY:termeq,0.5386
+ENTY:termeq, What is the term for a nuclear explosion underwater ?,ENTY:termeq,0.4982
+ENTY:termeq, What is a term for all the money owed to you ?,ENTY:termeq,0.4831
+ENTY:termeq, What is the term for a 10-secondLOC ?,ENTY:termeq,0.4774
+ENTY:termeq, What is the name for a poker hand with five cards of one suit ?,ENTY:termeq,0.4389
+ENTY:termeq, What is the term for a tornado or hurricane that forms over water ?,ENTY:termeq,0.436
+ENTY:termeq, What 's theNUM :money term for a dollar ?,ENTY:termeq,0.4111
+ENTY:termeq, What is the term forNUM :num 5 's square ?,ENTY:termeq,0.3757
+NUM:other," What is the population of Boston ?
+ -HUM- , Massachusetts?",NUM:other,0.5544
+NUM:other," What is the population of Australia ?
+ <?ENTY:num>",NUM:other,0.5192
+NUM:other," What is the frequency of VHF ?LOC :location ,physloc",NUM:other,0.5166
+NUM:other," What is the frequency of VHF ?
+ #LOC ,",NUM:other,0.5166
+NUM:other, What is the population of Canada ?ENT :quantifier,NUM:other,0.4025
+NUM:other, What number was Einstein 's IQ ?ENTY :,NUM:other,0.378
+NUM:other," What is the population of Australia ?
+ ##number",NUM:other,0.3712
+NUM:other," What is the population of HUM ?
+ A student said  :",NUM:other,0.3688
+NUM:other," What is the frequency of VHF ?ENT : The frequency range for Very High Frequency (VHF) radio waves varies from 30 MHz to 1 Gigahertz , or one billion hertz .",NUM:other,0.3465
+NUM:other, What is the number of your county 's population ?,NUM:other,0.345
+ENTY:animal," What kind of animal is Bruce ?
+ -Hogberg-",ENTY:animal,0.4368
+ENTY:animal, What kind of animal is Rin Tin Tin ?,ENTY:animal,0.4368
+ENTY:animal, What was the first animal to beLOC in orbit ?,ENTY:animal,0.4334
+ENTY:animal, What are the most common breeding birds in North America ?,ENTY:animal,0.3848
+ENTY:animal, What are theNUM :num biggest birds ?LOC,ENTY:animal,0.3733
+ENTY:animal, What two birds are found on the University of Alabama 's logo ?,ENTY:animal,0.3725
+ENTY:animal," What are the two fastest animals on earth ?
+ #NUM::four 1 )",ENTY:animal,0.3091
+ENTY:animal, What animal did Noah 's wife take on the Ark ?,ENTY:animal,0.2872
+ENTY:animal, What animal is theNUM :masc other of Loki ?,ENTY:animal,0.2789
+ENTY:animal, What are two of the most carnivorous animals ?,ENTY:animal,0.2616
+ENTY:veh, What 's the name of Neil Armstrong 'sNUM :mast ship ?,ENTY:veh,0.6152
+ENTY:veh, What was the name ofNUM :name the space shuttle that exploded ?,ENTY:veh,0.559
+ENTY:veh, What is the name of Niel Armstrong 'sNUM :num space ship ?,ENTY:veh,0.5396
+ENTY:veh, What was the name of J. Rentz 's famousNUM :countrailroad ?,ENTY:veh,0.4616
+ENTY:veh, What is the name of a U.S . space shuttle ?,ENTY:veh,0.4596
+ENTY:veh, What was the name of Neil Armstrong 's spacecraft ?,ENTY:veh,0.4592
+ENTY:veh, What was the name of J. P . Morgan 's yacht ?,ENTY:veh,0.4494
+ENTY:veh, What is the name of Aristotle Onassis 's yacht ?,ENTY:veh,0.3522
+ENTY:veh, What is the name of the first space shuttle ?,ENTY:veh,0.3267
+ENTY:veh, What is the name of NASA 's space shuttle ?,ENTY:veh,0.3258
+ENTY:event, What was the name of America 's first manned space program ?,ENTY:event,0.5676
+ENTY:event, What was the name of President Roosevelt 's New Deal program ?,ENTY:event,0.3282
+ENTY:event, What was the first war to use submarines ?,ENTY:event,0.3269
+ENTY:event, What was the name of John F. Kennedy 's space program ?,ENTY:event,0.3232
+ENTY:event, What were the two biggestNUM :num battles of World War II ?,ENTY:event,0.2995
+ENTY:event, What was the name of the war between Japan and China in 1937 ?,ENTY:event,0.2901
+ENTY:event, What was the name of President Reagan 's `` War on Drugs '' ?,ENTY:event,0.2692
+ENTY:event," What was the first world war called ?
+ -Hans D. , United States",ENTY:event,0.266
+ENTY:event, What is the first mission of NASA 's space shuttle ?,ENTY:event,0.2534
+ENTY:event, What are some examples of major events that took place during the Roaring 20 's ?,ENTY:event,0.2529
+HUM:ind, Who was the president ofNUM :art The Gambia in 1986 ?,HUM:ind,0.742
+HUM:ind," Who created theLOC ?
+ -Source : SATENTYSIX",HUM:ind,0.733
+HUM:ind, Who created the CylonENTY2 ? &NUM;,HUM:ind,0.7322
+HUM:ind, Who was the first U.S President to be impeached ?,HUM:ind,0.7106
+HUM:ind," Who painted the Sistine Chapel ?
+ #ENTY :what is a person who loves nature called?",HUM:ind,0.7089
+HUM:ind," Who painted the Sistine Chapel ?
+ #LOCs-Landmarks",HUM:ind,0.6984
+HUM:ind," Who created the comic strip , `` Garfield ? ''",HUM:ind,0.6895
+HUM:ind," Who created the firstLOC , `` Hamlet '' ?",HUM:ind,0.6629
+HUM:ind, Who was the 27th president of South Vietnam ?,HUM:ind,0.6412
+HUM:ind, Who created the comic strip 'Little Orphan Annie ?,HUM:ind,0.6125
+HUM:gr," What is a company that makes jeans ?
+ #21568973   |ENTY|",HUM:gr,0.7176
+HUM:gr," What company produces Coca-Cola ?
+ The Nostalgia ChNUMXs : 50 : question",HUM:gr,0.5889
+HUM:gr," What company makes Peugeot cars ?
+ #describingwordnethyponym :germanium",HUM:gr,0.5415
+HUM:gr, What is the name of the company that produces Corvettes ?,HUM:gr,0.4828
+HUM:gr, What is the name of Shakespeare 's company ?,HUM:gr,0.385
+HUM:gr, What college did Humphrey Bogart attend ?,HUM:gr,0.3027
+HUM:gr," What is the largest company in America ?
+ ###",HUM:gr,0.2898
+HUM:gr, What college did the singer Elvis Presley attend ?,HUM:gr,0.2824
+HUM:gr, What college did the University of Arizona take its name from ?,HUM:gr,0.2768
+HUM:gr, What university did H.J.Resnik attend ?,HUM:gr,0.2363
+DESC:desc, What is the origin of `` gumshoe '' ?,DESC:desc,0.681
+DESC:desc, What is the origin of Rottweilers ?,DESC:desc,0.681
+DESC:desc, What is the origin of `` PMS '' ?,DESC:desc,0.681
+DESC:desc, What is the origin of 's surname ?,DESC:desc,0.681
+DESC:desc, What is the origin of the word `` Yuppie '' ?,DESC:desc,0.5422
+DESC:desc, What is the difference between `` dairy '' and non-dairy creamer ?,DESC:desc,0.5312
+DESC:desc, What is the origin of your last name ? &RD,DESC:desc,0.474
+DESC:desc, What is the difference between `` a while '' and `` whilst '' ?,DESC:desc,0.3823
+DESC:desc, What is the origin and history of St. Patrick 's Day ?,DESC:desc,0.3363
+DESC:desc, What is the difference between a virgin and an experienced girl?,DESC:desc,0.248
+DESC:def," What is a calorimeter ?
+ #descnum :1",DESC:def,0.716
+DESC:def," What is a `quantum leap ' ?
+ ##",DESC:def,0.716
+DESC:def, What does `` PENTAHEDRON '' mean ?,DESC:def,0.6954
+DESC:def, What is a root canal ?&LDQUO;,DESC:def,0.5449
+DESC:def, What is a root canal ?&rdquo;,DESC:def,0.5449
+DESC:def," What is a root canal ?
+ #########",DESC:def,0.5449
+DESC:def, What does the name Babe mean ? &RDQUO; -- JABB,DESC:def,0.3718
+DESC:def, What is the meaning of `` IHOP '' ?,DESC:def,0.3651
+DESC:def, What is the meaning of `` HH '' ?,DESC:def,0.3651
+DESC:def, What is a ` 64-bit system ' ?,DESC:def,0.2531
+ENTY:other, What are the seven wonders of ancient world ?,ENTY:other,0.5219
+ENTY:other, What are the 7 wonders of the ancient world ?,ENTY:other,0.5144
+ENTY:other, What are the Seven Wonders of The World ?,ENTY:other,0.4904
+ENTY:other, What are some examples of the ` Seven Wonders ' ?,ENTY:other,0.4468
+ENTY:other," What are some of the most dangerous animals ?
+ #describing",ENTY:other,0.2276
+ENTY:other, What is a good example of `` double entendre ?,ENTY:other,0.1386
+ENTY:other, What are some of the most popular cigars ?,ENTY:other,0.1363
+ENTY:other," What did the Nile , Ganges and Yangtze have in common ?",ENTY:other,0.1284
+ENTY:other, What are the two biggest stars in our galaxy ?,ENTY:other,0.1234
+ENTY:other, What are the 14 seven-wonder s ?,ENTY:other,0.1129
+ENTY:religion, What is the religion ofNUM :count [SEP] How many major religions are there in Japan ?,ENTY:religion,0.1661
+ENTY:religion, What are two major world religions that developed in India ?,ENTY:religion,0.1534
+ENTY:religion, What was the religion ofNUM :other [SEP] Which is China 's main religion ?,ENTY:religion,0.0913
+ENTY:religion, What are the five major world religions ? (NUM :other ),ENTY:religion,0.0906
+ENTY:religion, What religion was Hector a follower of ?,ENTY:religion,0.0886
+ENTY:religion, What are the three major monotheistic world religions ?,ENTY:religion,0.0874
+ENTY:religion," What is the largest religion ?
+ ### [SEP] Which are two religions of India that have a 250 million members combined outside of its borders ?",ENTY:religion,0.0855
+ENTY:religion, What is the oldest major world religion ?LOC :name [SEP] Name a hurricane that made landfall in Louisiana during 1985 .,ENTY:religion,0.084
+ENTY:religion, What is the name of India 's second-largest religion ?,ENTY:religion,0.082
+ENTY:religion, What is the largest religion in India ? TheNUM :count (1),ENTY:religion,0.0785
+NUM:ord, What chapter of the Bible has the most verses ?,NUM:ord,0.2779
+NUM:ord, What chapter of the Bible has 31 verses ?,NUM:ord,0.2507
+NUM:ord, What chapter of the Bible has 365 verses ?,NUM:ord,0.2507
+NUM:ord, What chapter of the Bible has 36 verses ?,NUM:ord,0.2507
+NUM:ord, What chapter of the Bible has 94 verses ?,NUM:ord,0.2507
+NUM:ord, What chapter of the Bible has 36 chapters ?,NUM:ord,0.1729
+NUM:ord," What chapter of the Gospel is Matthew ?
+ ###",NUM:ord,0.0866
+NUM:ord, What chapter of the Gospel has Jesus' Sermon on the Mount ?,NUM:ord,0.0757
+ENTY:cremat," What is the largest star ?
+ ITC -desc-other",ENTY:cremat,0.1967
+ENTY:cremat, What is the title of a novel by Sue GLOC ?,ENTY:cremat,0.1703
+ENTY:cremat, What is the largest man-made fire ?ENTY :colour [ SEP ] Which colour does John Locke say all other colours are derived from mixing black and ?,ENTY:cremat,0.1374
+ENTY:cremat," What is the largest crater on Mars ?
+ ##",ENTY:cremat,0.1039
+ENTY:cremat, What is the largest island inNUM :mod ?,ENTY:cremat,0.1022
+ENTY:cremat, What is the largest crater on the moon ?,ENTY:cremat,0.0938
+ENTY:cremat, What is the largest island inNUM :num[SEP] Hawaiian Islands ?,ENTY:cremat,0.0937

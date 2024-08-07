@@ -1,0 +1,227 @@
+label,text,predicted_label,probability
+abbreviation,"what is b&o? 
+
+can you tell me what hsa stands for in airline ticket prices?
+
+i dont understand what t class means can someone please explain it better than a dictionary definition",abbreviation,0.2716
+abbreviation,"what is nrt mean in flight fare code? 
+
+how do you interpret pns with regards ...",abbreviation,0.2708
+abbreviation,"what does stand for? 
+
+can you explain what is asking ? can u tell me about this flight fare code i see in my reservation . do know anything regarding  ticket class definition with number please give example airline that uses y t m r e q a s c n d w h b v z f p l o g k j",abbreviation,0.2463
+abbreviation,"what is e ticket reference number? 
+
+can you please tell me what sdm stands for at delta airline thank u very much can someone explain it",abbreviation,0.2349
+abbreviation,"What is F9? 
+
+Can you tell me what SLC stands for in flight itinerary please ? How about WN, can it be used instead ... more info would really help thanks ! What does DL mean with reference t... Can someone explain YR code which appears under fare ba...</description> ""Fare Class"": ""Y"", etc) On AA website I keep seeing this 'X' next f</p></b>.",abbreviation,0.2338
+abbreviation,"what does tbt mean in flight pricing? 
+
+can you please explain what it stands for if its not a mistake thanks!",abbreviation,0.2338
+abbreviation,"what does stand for ? 
+
+can you please explain what is referred to as in your fare structure ",abbreviation,0.2213
+abbreviation,can someone please tell me what means in uniteds fare class system thanks,abbreviation,0.2179
+abbreviation,"what does ec stand for in airfare information please ? 
+
+ LABEL abduction DESCRIPTION REQUESTING THE EXPLANATION OR MEAN... (abbreviated)",abbreviation,0.2172
+abbreviation,"what is rns means in flight booking ? 
+
+I need information about RNS code . Can you please tell me what does it mean with fare sale rules ",abbreviation,0.2087
+ground_fare,can you tell me how much does it cost to rent a car from san francisco airport?,ground_fare,0.2345
+ground_fare,"how much does a sedan car service from LAX to los angeles? 
+
+what is your average fare for transporting people with their large amount luggage",ground_fare,0.2254
+ground_fare,what is a reasonable estimate for parking fees at lax airport with shuttle service to downtown los angeles?,ground_fare,0.2188
+ground_fare,how much does it typically run to have a car from denver airport?,ground_fare,0.1992
+ground_fare,what is a good fare for your shuttle service from airport to downtown area thanks you,ground_fare,0.1982
+ground_fare,what is a fair fare for rent car from LAX to downtown LA?,ground_fare,0.1893
+ground_fare,"what is a fair price for renting car service at sfo? 
+
+can i get a shuttle from bwi to ft lauderdale airport for around 200 dollars please give me some quotes",ground_fare,0.1876
+ground_fare,what is your lowest fare for a luxury car from denver airport to downtown colorado springs tonight?,ground_fare,0.1871
+ground_fare,What is a reasonable estimate for renting car service from LAX to downtown LA?,ground_fare,0.183
+ground_fare,what is a reasonable fare for your car service from lax to san francisco?,ground_fare,0.176
+flight_time,what is my earliest departure time from san francisco to new york tomorrow morning please,flight_time,0.2494
+flight_time,what time is my 2pm departure to boston tomorrow please,flight_time,0.2437
+flight_time,what is today's departure time for a 10am arrival from denver to new york?,flight_time,0.2177
+flight_time,what is my earliest arrival time from chicago to los angeles today,flight_time,0.2134
+flight_time,what time do your morning east bound fligths depart? from denver to new york,flight_time,0.2132
+flight_time,what is a good time to fly out from denver for new york?,flight_time,0.212
+flight_time,what is 2 o'clock pm departure out of pittsburgh to chicago please?,flight_time,0.198
+flight_time,what time does a united plane leave denver for philly tonight,flight_time,0.1927
+flight_time,"what is departure time for delta from denver to detroit today? 
+
+can you tell me what hours do united fly out in mondays please give my all options available thanks",flight_time,0.1913
+flight_time,what time is my 7pm flt from dallas to denver today,flight_time,0.1887
+aircraft,"what type plane does southwest fly out of denver? 
+
+type of airplane delta uses to florida from atlanta",aircraft,0.2938
+aircraft,what plane type is a british airways 747,aircraft,0.2445
+aircraft,what plane is delta 1729 flying today?,aircraft,0.2409
+aircraft,what type of plane does delta fly from atlanta to san francisco,aircraft,0.2357
+aircraft,what type air plane is typically usen in delta flight from atlanta to las vegas,aircraft,0.2299
+aircraft,what kind of airplane is american Airlines flying from pittsburgh to dallas today,aircraft,0.2074
+aircraft,"what type airplanes fly from baltimore to los angeles ? 
+
+which airline uses boeing 737 max in europe?",aircraft,0.2031
+aircraft,what airplane does delta fly out to nyc from denver,aircraft,0.1959
+aircraft,what type plane does china southern fly from san francisco to guangzhou,aircraft,0.1932
+aircraft,"what type plane does american airways use for flights to phoenix from philadelphia ? 
+
+does spirit fly out of tampa with a 737",aircraft,0.19
+meal,"what meals can i choose from for my united flight next month 
+
+meal",meal,0.2761
+meal,"here is your desired outputs-description asking for a certain airline food menu 
+
+• does delta have breakfast snacks like yogurt parfait, fruit salad in first class of their domestic flight from new york to chicago 
+can i get extra hot sauce with my snack selection as per southwest's options during this monday morning 7am charleston clt route what meals they provide
+is united offering sandwiches wraps salads cookies coffee beer wine soft drinks juice milk water tea peanuts pretzels crackers cheese biscuits candies gum magazines newspapers books music",meal,0.2729
+meal,here is dinner service information for some of these long haul fights they fly from jfk to paris one way at 2 pm departures in coach class you'll be served a starter salad with greens lettuce tomatoes carrots cucumber red bell peppers croutons cheese cheddar brie feta olives artichoke hearts sun dried tomato capers garlic vinaigrette then entree choose between beef tenderloin roast turkey breast chicken penne pasta vegetables cream sauce mozzarella lasagna vegetarian option rice pilaf,meal,0.2644
+meal,"what meals will be served at my flight from new york to los angeles tomorrow night 
+
+can you please tell me if they serve breakfast lunch dinner options differently during a red eye fight like nyjfklau",meal,0.2455
+meal,"meal what meals will i get if flying qatar airways from dallas to dubai tomorrow evening? 
+
+are there any special vegetarian options available for my british Airways flight this saturday morning please let me know as well thank you kindly ",meal,0.2292
+meal,"what meals do you serve for first class in delta flight from nyc to miami tomorrow night? 
+
+is there a menu option that excludes pork but includes gluten free food choices available on united 4pm direct red eye tonight?
+
+do i have any special dietary options like vegan keto diet at your restaurant cafe lounge during my hawaii trip next month with american airline
+
+are lactose intolerant people accommodated properly if they select vegetarian only meal choice when booking alaska air ticket online can we get more",meal,0.2181
+meal,"can i get a vegetarian option flight menu for qantas airbus 380 to sydney? 
+
+is southwest serving peanuts snack food in their meals of march this year ?",meal,0.2158
+meal,"what meals will i get in first class for a flight from denver to chicago? 
+
+will united offer vegetarian options on their 7pm departure tomorrow night please tell me more information thanks so much!  
+
+can american provide gluten free snacks during my atlanta detroit trip today what time do you serve breakfast brunch lunch etc ? thank ya kindly wanting this info quickly appreciate your help cheers regards richard dennis pittsburgh pa 15241 canary diamond member need details urgently regard ritchie",meal,0.2053
+meal,"what meals do they serve in first class on a flight from new york to london tomorrow night 
+
+can you tell me what food options will be available for my son who is gluten intolerant when i book us seats together on our trip home form sydney with qantas please can we request vegan specials if so how much extra would it cost them have kosher lunch menu option onboard their planes between milanrome and tel aviv thanksgiving dinner special service offered during this time of year any dietary restrictions catered too",meal,0.1982
+meal,"what meals served in business class Emirates flight 555 from Dubai to new york ? 
+
+will qatar airways have vegetarian option for mealy lunch tomorrow 
+
+
+
+how can i know which airline provides a full service onboard dining experience will there be complimentary snacks available between naps what is united Airlines menu options at dinner time does delta offer breakfast food choices do they serve beef burgers as special request would like information on jet blue's pre booked seat selection with regards of my dietary preferences",meal,0.195
+airfare,what is a decent price range for flight tickets to new york from san francisco,airfare,0.1911
+airfare,what is a reasonable price for tickets from dallas to vancouver in may,airfare,0.1843
+airfare,what is a good price range for fares from denver to san francisco?,airfare,0.183
+airfare,what is a reasonable price for tickets from dfw to denver in mid august,airfare,0.1827
+airfare,what is a reasonable price for tickets from boston to atlanta in june,airfare,0.1784
+airfare,what is a reasonable price for tickets from new york to las vegas this june ?,airfare,0.1768
+airfare,what is a good price for united airline tickets from phoenix to denver,airfare,0.1733
+airfare,what is a reasonable price for united airlines from denver to miami,airfare,0.1697
+airfare,what is a good price range for delta airlines from atlanta to phoenix in may,airfare,0.1687
+airfare,what is a decent price for direct flight from atlanta to phoenix ?,airfare,0.1677
+capacity,What is the total number of passengers that a Boeing 777 can accommodate?,capacity,0.2344
+capacity,how many seats does a boeing 737 have?,capacity,0.226
+capacity,what is the maximum number passengers that a airbus 320 hold?,capacity,0.2228
+capacity,how many seats does a boeing 747 typically have in its economy class ?,capacity,0.2064
+capacity,how many seats does a boeing 737 typically have in economy class?,capacity,0.2004
+capacity,how many seats does a 777 have what is max number of passengers allowed to be seated in each row can you tell me how much space do they offer,capacity,0.1707
+capacity,what is there seat capacities for a q400 plane can hold 75 passengers but then that includes one pilot in front wouldnt it be around ... how many people will fit comfortably,capacity,0.163
+capacity,how many seats does a 737 have at delta ?,capacity,0.1625
+capacity,"what is boeing 737s maximum passenger count typically capable of holding? 
+
+how many passengers can a airbus flyable in economy configuration hold at full load condition please specify each model version separately as i am looking for exact figures",capacity,0.1503
+capacity,"What is the maximum number of seats that a Boeing 737-800 has? Can you tell me how many passengers it can carry in total if all three classes have equal seat numbers with business class, premium economy being one-third more than coach class which doubles up to first-class rows respectively within those categories then add their counts together into your final sum please thanksgiving for any information regarding this matter appreciated! 
+
+How much space does each passenger get onboard when seated inside such commercial flights I know its not possible",capacity,0.1481
+airline,"what is flight duration from san francisco to new york city all year round 
+
+flight time between los angeles international airport lax calif ...  
+
+flights schedule for today at denver douglas county regional Airport colorado with american Airlines westjet air canada delta alaska united british Airways usairway klm norwegian royal jordanian cathay pacific Emirates qatar turkish virgin atlanta boston philadelphia seattle washington dallas houston phoenix arizona miami florida portland",airline,0.2553
+airline,"what flights does united offer to hawaii from denver? 
+
+how do i book a round trip flight between milan malpensa airport mp2 mpmpln in italy with swiss international air lines company limited sri lankan Airlines British Airways Luft Germanwings easyJet Lufthansa Austrian Airports of Zurich Bern Geneva Munich Vienna Berlin Prague Frankfurt Amsterdam Paris London Brussels Dublin Manchester Stockholm Helsinki Athens Istanbul Wien Dusseldorf Copenhagen Gothenburg Oslo Madrid Zaragoza Valencia Alicante Barcelona",airline,0.2491
+airline,what flights does airtel fly from denver to chicago,airline,0.2174
+airline,what is delta Airlines flight schedule for boston to denver today,airline,0.2149
+airline,what is klm flight schedule for amsterdam to mumbai in october,airline,0.2092
+airline,what time does virgin atlantic fly from miami to london Heathrow?,airline,0.1947
+airline,what is the flying time from nairobi to dar es salaam by kenya airways,airline,0.1941
+airline,what is united airways flight number to puerto rico from denver airport today,airline,0.1919
+airline,what is qantas flight schedule from sydney to melbourne today,airline,0.1797
+airline,"what is flight schedule of china eastern from san francisco to bangkok tomorrow morning ? 
+
+which flights does malaysia have between denver international airport d en route destination kuala lumpur internacional airports klci",airline,0.1768
+distance,how far is it from denver airport to downtown,distance,0.2246
+distance,how far is lax from santa monica beach downtown los angeles,distance,0.1818
+distance,What is the approximate driving from airport to downtown san francisco?,distance,0.1808
+distance,what is the driving distence from denver international airport to downtown colorado springs,distance,0.1727
+distance,what is a taxi from airport to downtown area ?,distance,0.1723
+distance,what is a flight from san francisco to denver then phoenix,distance,0.1568
+distance,what is the driving direction from lax to downtown la,distance,0.1168
+restriction,"what is a one way fare available from seattle to miami for travel next monday please indicate if any special circumstances apply like layovers etc that will affect availability of seat selection also can i upgrade my ticket later after purchase without incurring additional fees 
+
+label	restriction Description 
+generated	specific details sought regarding potential flight limitations prior to booking as well constraints related upgrading tickets at subsequent stages",restriction,0.1524
+restriction,what kind of flight classes have different luggage allowances for international versus domestic trips within my state,restriction,0.1508
+restriction,"request a detailed breakdown of baggage policies by flight as i have noticed that there seems to be some discrepancies across different routes regarding how many carry ons each passenger is allowed per ticket 
+
+can you provide more details concerning fare types please such as basic economy premium etc do these variations in policy apply differently for international domestic travel respectively 
+
+
+
+is it true your airline does not charge extra fees for checked luggage if so what constitutes oversized items under this rule specifically size weight dimension constraints thanks ahead time appreciate clarity from customer support team respect",restriction,0.1501
+restriction,"what is your policy regarding same day changes to booked flight reservations in advance purchase fare classes ? 
+
+is there any special requirement for ticket refund of nonrefundable airfare when cancel airline due family emergency  within five days prior departure date . can you provide more details if it need additional form filled out from passenger side  
+
+are there some travel dates where american airlines has a minimum stay requirements before buying one way tickets that cost less than round trip prices without considering distance limitations between destinations under their published rules so what",restriction,0.133
+restriction,"what is considered a one way ticket for your company in regards to baggagegage policy 
+
+is there any fare difference between booking online versus calling reservations office directly when it comes down strictest seat selection policies at airport checkin time 
+
+
+
+can i get more info regarding blackout dates that apply my special corporate rate how does this effect availability during peak season 
+
+
+are advance purchase requirements different from standard purchases within same class of service can you clarify exact rules here please
+
+
+do award redemption tickets have unique change cancellation fee structure if",restriction,0.1322
+restriction,"what is a baggage policy for first class ticket purchases between las vegas to boston please? 
+
+is there any additional charge if my bag weighs more than 50 pounds 
+on united airlines do they have strict policies regarding overhead storage space  
+are seats wider in international economy versus domestic routes
+can i bring two carryons onboard depending upon their size as per delta's rules?
+
+please clarify that food options only serve peanut free meal choices at higher cost fees what types of entertainment systems can be used during flight when",restriction,0.1298
+flight,what is a nonstop from chicago to florida for today or tomorrow afternoon please,flight,0.1616
+flight,how much is a one way ticket from atlanta to miami at 5 pm please,flight,0.1489
+flight,what is schedule for us airlines from san francisco to chicago next tuesday?,flight,0.1439
+city,"what is served by allegiant Airlines from dfw? 
+
+is delta located in newark nj airport",city,0.1992
+city,"what major airport serves wichita falls texas 
+
+where is newark liberty international Airport located in relationship to other nearby local landmarks",city,0.197
+city,"where is united located in florida 
+
+city United Airlines, a major American airline company operates flights out from various locations across Florida including Orlando International Airport (MCO) which serves as its hub airport for east coast operations; Fort Lauderdale Hollywood ... more 
+
+does delta operate at bellingham wa
+
+cities BELLINGHAM ALASKA An international gateway to Alaska region Delta Air Lines services several destinations throughout North America using this facility called... additional information may be available within other descriptions related terms : SEA SEATTLE",city,0.167
+flight_no,flight no from mumbai to new delhi please,flight_no,0.1222
+flight_no,"What is my American Airlines Flight Number to Chicago? Can I get a list of United Flights from LA airport tomorrow morning please.? Is there any information available about Southwest Airline's schedule or can you give me their numbers with destinations including Boston?. What times does Delta depart out San Francisco today going back east ?. Looking at your website, what would be 3 different options that have one layover flying Alaska airlines in June.. Are all Northwest planes equipped so we could see entertainment systems like other US carriers",flight_no,0.0923
+ground_service,what forms of public transporation do you have at dallas love field airport? there is no super shuttle in ...,ground_service,0.1494
+ground_service,"ground service 
+
+• from msp to downtown minneapolis in what forms of public transit can i get there if not shuttle or taxi.
+
+DESCRIPTION OF SERVICE REQUESTED : PUBLIC TRANSIT FROM MSP AIRPORT TO DOWNTOWN MINNEAPOLIS IN OTHER THAN SHUTTLE OR TAXI FORMS... IS THERE ANY TRAIN THAT GET ME ... READ FULL TEXT FOR FURTHER INFORMATION .",ground_service,0.1206
+airport,what is code for new york la guardia air port,airport,0.1506
+airport,what is the nearest international flight to buffalo new york,airport,0.1275
+quantity,how many direct fights does american have to san francisco from boston,quantity,0.1377

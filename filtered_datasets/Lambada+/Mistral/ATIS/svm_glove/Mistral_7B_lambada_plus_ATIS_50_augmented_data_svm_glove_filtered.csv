@@ -1,0 +1,162 @@
+label,text,predicted_label,probability
+aircraft, what type aircraft flies from pittsburgh to baltimore,aircraft,0.9781
+aircraft, what type of aircraft flies from pittsburgh to baltimore,aircraft,0.9728
+aircraft, what type of aircraft flies from atlanta to boston,aircraft,0.9577
+aircraft, tell me type of aircraft that flies from philadelphia to washington,aircraft,0.9474
+aircraft, what type of aircraft flies from boston to san francisco,aircraft,0.9468
+aircraft, tell me what type of aircraft flies from boston to atlanta,aircraft,0.9388
+aircraft, what type of aircraft flies from atlanta to san francisco,aircraft,0.9342
+aircraft, what type of airplane flies from atlanta to denver,aircraft,0.9214
+aircraft, tell me what type of plane flies from boston to atlanta,aircraft,0.9177
+aircraft, tell me what type of aircraft is flown from atlanta to baltimore,aircraft,0.9122
+quantity, how many delta airline first class tickets are there,quantity,0.8389
+quantity, how many united airline first class tickets are there,quantity,0.8163
+quantity, how many first class united airline tickets are there,quantity,0.8163
+quantity, how many first class american airline reservations are there,quantity,0.813
+quantity, how many american airline first class flights leave denver today,quantity,0.8006
+quantity, how many american airline first class tickets are there,quantity,0.7897
+quantity, how many cities are served with first class american airline service,quantity,0.7864
+quantity, how many first class united airline flights leave denver,quantity,0.7743
+quantity, how many first class united airline flights have stopovers in denver,quantity,0.7742
+quantity, how many first class airline tickets does united have,quantity,0.7487
+airline, which airline flies from philadelphia to boston,airline,0.9325
+airline, which airline flies from washington to boston,airline,0.9218
+airline, what is airline usflightabbreviationus flight,airline,0.9082
+airline, which airline is usabflightgroundservice,airline,0.8694
+airline, what airline is flight ua 271,airline,0.8166
+airline, what airline flies from washington to baltimore,airline,0.8116
+airline, what airline is flight ua 257 from boston to denver,airline,0.8053
+airline, what airline is flight ua 239 from boston to denver,airline,0.7857
+airline, what airline is flight ua 281 from boston to washington,airline,0.7647
+airline, which airline has the most flights into atlanta,airline,0.7385
+airfare, show me prices for first class tickets from boston to san francisco,airfare,0.9256
+airfare, show me prices for coach fares from atlanta to philadelphia,airfare,0.9233
+airfare, show me fares from atlanta to san francisco,airfare,0.8773
+airfare, what is the lowest airfare from boston to atlanta,airfare,0.877
+airfare, show me fares from atlanta to philadelphia,airfare,0.8712
+airfare, list fares from baltimore to indianapolis,airfare,0.869
+airfare, show me fares from atlanta to miami,airfare,0.8668
+airfare, what is first class airfare from baltimore to san francisco,airfare,0.8328
+airfare, show me fares from baltimore to atlanta,airfare,0.8201
+airfare, show me fares from atlanta to baltimore,airfare,0.8201
+flight_time, please list the flight time from boston to washington,flight_time,0.8081
+flight_time, i would like to see your afternoon departure flight time from san francisco after 2 o'clock,flight_time,0.7536
+flight_time, what are us air 's morning departure flight times from washington to boston,flight_time,0.7425
+flight_time, what is continental 's flight time from atlanta to boston,flight_time,0.7041
+flight_time, what is flight time from atlanta to boston,flight_time,0.6991
+flight_time, what is delta 's earliest departure time from atlanta to denver,flight_time,0.6893
+flight_time, list the flight time from pittsburgh to baltimore,flight_time,0.6865
+flight_time, i would like to see your departure time from boston to atlanta,flight_time,0.6814
+flight_time, what time does flight ua 457 from washington to san francisco leave,flight_time,0.6789
+flight_time, what are your flight schedules from boston to san francisco,flight_time,0.6575
+airport, list california nevada arizona airports,airport,0.9184
+airport, tell me all the airports at boston airport,airport,0.8673
+airport, list california nevada arizona airport codes,airport,0.8266
+airport, list california arizona nevada airports with airport codes,airport,0.8104
+airport, what is the airport at newark new jersey,airport,0.7823
+airport, list the name of airport at boston massachusetts,airport,0.775
+airport, what is the airport at boston massachusetts 's,airport,0.769
+airport, list new york airport and washington dc airports,airport,0.7632
+airport, where is the airport at baltimore maryland,airport,0.763
+airport, what is the airport at baltimore maryland,airport,0.7323
+distance, how far from denver airport to downtown Denver in miles,distance,0.8217
+distance, list distance from atlanta airport to downtown in miles,distance,0.8086
+distance, how far is downtown from atlanta airport in miles,distance,0.7449
+distance, how far from atlanta airport to downtown Atlanta,distance,0.7145
+distance, what is a mile from dallas airport to downtown,distance,0.6935
+distance, how far is san francisco international airport from downtown,distance,0.6796
+distance, what is distance from atlanta airport to downtown,distance,0.6439
+distance, how far from san francisco airport to downtown sf,distance,0.6373
+distance, how far is it from dallas airport to downtown,distance,0.6086
+distance, what is the distance from denver airport to downtown,distance,0.5919
+abbreviation, what does yn mean whenflight isairfare code,abbreviation,0.9387
+abbreviation, what is fare code hflsfla y,abbreviation,0.9242
+abbreviation, what is ffairfare code ap57,abbreviation,0.8898
+abbreviation, what is fare code fgroundserviceairfarecode,abbreviation,0.8806
+abbreviation, what is fare code hairflight_groundfare,abbreviation,0.8806
+abbreviation, what is fare code kqoairlineflightkgroundservice,abbreviation,0.8806
+abbreviation, what does yn mean as far aairfare,abbreviation,0.8662
+abbreviation," what is yncode ls
+ ##fare code",abbreviation,0.8631
+abbreviation, what is fare code cnk and ff,abbreviation,0.8451
+abbreviation, what is fare code ynqo qfl,abbreviation,0.8374
+capacity, what is total passenger seating capacity in usairflight,capacity,0.9046
+capacity, what is total passenger ground transportation 's seating capacities,capacity,0.8085
+capacity, how many seats in a 75s airplane,capacity,0.7848
+capacity, what is total passenger seat capacity for m80 airplanes,capacity,0.7819
+capacity, what is the passenger carrying capacity for a 75s,capacity,0.7552
+capacity, how many seats in a 72s airplane,capacity,0.7446
+capacity, what is the passenger carrying capacity for a 72s airplane,capacity,0.7278
+capacity, what is the maximum passenger seating for a dc9,capacity,0.7277
+capacity, how many passengers fitaboard an f28,capacity,0.6947
+capacity, how many seats in a boeing 73s,capacity,0.6908
+meal, what meals are served aboard flight ua 273 from denver to atlanta,meal,0.5105
+meal, what meals are available from atlanta to denver,meal,0.5038
+meal, what meals are available from atlanta to baltimore,meal,0.4977
+meal, show meairline meals with vegetarian options between philadelphia and san francisco,meal,0.4965
+meal, does flight ua 271 have meals,meal,0.4844
+meal, what meals are available from boston to atlanta,meal,0.474
+meal, what meals are available from atlanta to boston,meal,0.474
+meal, what meals are served flight ua 261 from denver to boston,meal,0.4718
+meal, what meals are served from atlanta to dallas,meal,0.4603
+meal, what meals are served from pittsburgh to atlanta,meal,0.4427
+ground_fare, what are the prices for a rental car in washington,ground_fare,0.7516
+ground_fare, what is houston 's airport car service,ground_fare,0.6743
+ground_fare, how much does a cab from atlanta airport to downtown cost,ground_fare,0.6714
+ground_fare, what is the price to rent a car in boston,ground_fare,0.641
+ground_fare, how much does it cost to rent a car in boston,ground_fare,0.64
+ground_fare, how much does it cost to rent a car at mco,ground_fare,0.6258
+ground_fare, what are the costs for a limo service in boston,ground_fare,0.6249
+ground_fare, what are your rates for renting a car in denver,ground_fare,0.6188
+ground_fare, what is the rate for a car service from atlanta airport to downtown,ground_fare,0.5967
+ground_fare, show me fares for renting a car in los angeles,ground_fare,0.5916
+flight, show me all northwest airlines afternoon nonstop flights from denver to san francisco,flight,0.7831
+flight, show me all afternoon american airlines flights from philadelphia to san francisco,flight,0.7421
+flight, what afternoon flight from philadelphia to dallas fort worth,flight,0.6539
+flight, show me all morning united airlines first class flights from denver to san francisco,flight,0.6442
+flight, list the morning flight from denver to milwaukee,flight,0.6326
+flight, show me all the united airlines first class nonstop morning flights from denver to san francisco,flight,0.6287
+flight, show me the afternoon us air flight from milwaukee to san francisco,flight,0.6234
+flight, show me the morning american airline flight from miami to milwaukee,flight,0.6157
+flight, list the flights from atlanta to boston,flight,0.602
+flight, show me the early evening flight from boston to atlanta,flight,0.5779
+city, show me la city served both american and united airlines,city,0.7457
+city, list california city served american westair and canadian international,city,0.7352
+city, what city is mco and lfla airport,city,0.6501
+city," what city is mco
+ TheairportcodefororlandointernationalisMCO",city,0.6485
+city, which city does eastern fly into withairport code mco,city,0.6307
+city, where is mco airport located inflight_airportgroundtransportation,city,0.6219
+city, what city is uabairportuabflight no,city,0.6131
+city, which city is served by both usair and canadian,city,0.5833
+city, what city is airport lfl and what time zone does it use,city,0.5784
+city, where is phfla in florida and what city,city,0.576
+ground_service, i need to get downtown from atlanta airport,ground_service,0.7458
+ground_service, i need to get from atlanta airport into downtown,ground_service,0.6915
+ground_service, i need to get into downtown boston from the airport,ground_service,0.6267
+ground_service, what type of ground transport is in denver 's airport,ground_service,0.6063
+ground_service, show me limousine service at boston airport,ground_service,0.5361
+ground_service, i would like to find out what kind of limousine service is at the airport in newark,ground_service,0.4866
+ground_service, what is the type of ground transport in denver,ground_service,0.4601
+ground_service, what limousine service is in boston near logan airport,ground_service,0.4408
+ground_service, what kind of limousine service is there at the miami airport,ground_service,0.4263
+ground_service, what kind of limousine service is there at the las vegas airport,ground_service,0.4262
+restriction, what are the restriction on fare code ff nfl,restriction,0.4662
+restriction, show me the restriction on fare code hfls,restriction,0.4331
+restriction, show me the restriction on fare code fflq,restriction,0.4331
+restriction, what is fare code hfl and restriction ap57,restriction,0.42
+restriction, what are the meal limitations on economy fare code f,restriction,0.4051
+restriction, what is restriction ap57 restricted fare code hu,restriction,0.3727
+restriction, what is fare code ynqw and restriction ap57,restriction,0.3596
+restriction, what are the fare codes for airfare restriction ap57,restriction,0.3164
+restriction, what is restriction ap57 on american airlinesflight 148,restriction,0.28
+restriction, what are the fare code yab restriction on united airlines,restriction,0.2625
+flight_no, list the flight numbers from denver to phoenix,flight_no,0.4319
+flight_no, what is first class american airline 's flight 1,flight_no,0.388
+flight_no, what is first class american airlines flight 1,flight_no,0.3613
+flight_no, list all american airlines first class numbers from milwaukee to miami,flight_no,0.314
+flight_no, what is american airline 's first class service flown on us air,flight_no,0.2987
+flight_no, what is the first class american airline flight from new york to dallas,flight_no,0.266
+flight_no, list all american airline first class numbers from philadelphia to san francisco,flight_no,0.2564
+flight_no, what is first class american airline 's number,flight_no,0.256
+flight_no, what is delta 's first class flight from seattle to new york,flight_no,0.2343
