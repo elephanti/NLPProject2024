@@ -1,0 +1,116 @@
+label,text,predicted_label,probability
+ground_service, what ground transportation is on the main street in coston,ground_service,0.8368
+ground_service, what ground transportation are you using this evening in south park,ground_service,0.8149
+ground_service, what ground transportation is the city of london on,ground_service,0.8098
+ground_service," what is ground transportation in this city
+ bus stop",ground_service,0.8046
+ground_service, what is the service type of ground transportation in australia,ground_service,0.7873
+ground_service, what is ground service for street cars in dallas,ground_service,0.7736
+ground_service," what is ground service
+ why does the street serve",ground_service,0.7522
+ground_service, what is ground transportation on monday night at mcdonalds,ground_service,0.7497
+ground_service, what ground transportation is for passenger service this city from east to west,ground_service,0.7213
+ground_service, where do you stand at ground transportation between downtown and seattle,ground_service,0.7162
+city, what cities are located in the city of baltimore,city,0.8686
+city," what cities are in town and city streetcars
+ mile-long flights from metro to mi",city,0.85
+city, the city where houses from west to east converge is located,city,0.8355
+city," what cities in the city are there, between Minneapolis and stanford",city,0.8234
+city, what city is the biggest metro area in America today,city,0.7581
+city," what cities in the city are they located, and how many miles do i have to drive from nampa",city,0.7521
+city, what is city ? when does town exist in japan,city,0.7512
+city," what is the largest city in kansas City
+ mcdonalds",city,0.7345
+city, what are the latest cities from west coast to east cottages,city,0.7291
+city, show me all cities that are located in the city where i am from when,city,0.7203
+aircraft, what aircraft carriers were built on airplane by dirigible,aircraft,0.8016
+aircraft, what kind of aircraft are those guys? airplane with wings,aircraft,0.7739
+aircraft, what type of aircraft is the air frp wt,aircraft,0.7572
+aircraft, what sort of airplane do you have in a flying cart,aircraft,0.7331
+aircraft, what airplane can you buy from american airliners in the nickland,aircraft,0.7151
+aircraft, what airplane is the best american aircraft flying today,aircraft,0.7094
+aircraft, what type of airplane are you using in boston,aircraft,0.6904
+aircraft, what kind of aircraft do you have in the hangar,aircraft,0.669
+aircraft, what kind of aircraft do you use for a jetpack in australia,aircraft,0.6477
+aircraft, what kind of planes do you fly a plane from here to australia,aircraft,0.5696
+flight, show flights from kansas to boston on june 2018-09,flight,0.512
+flight, show me how the flying american airline flights are booked from australia to los angeles,flight,0.504
+flight, show flights from Amsterdam to LA zhu-san francisco,flight,0.4894
+flight, what is flight 103 from New York to Los Angeles,flight,0.4746
+flight, show flights from Chicago to LA on a flight that starts in Boston and ends at Miami,flight,0.4672
+flight," show flights from west to south korea, and london",flight,0.4633
+flight, what is flight from australia to san francisco,flight,0.4512
+flight, what flight was the longest between San Francisco and LA on friday night (or just before bed),flight,0.4453
+flight, the flights from south american to cny on footway wisconsin,flight,0.4431
+flight, why flights are cancelled at airports around the world between Chicago and dallas,flight,0.425
+flight_no, what flights were flown by british air flight sim,flight_no,0.4992
+flight_no, what flight is flights from oregon to australia,flight_no,0.4358
+flight_no, how many passenger flights has been booked on any flight from kansas to nampa,flight_no,0.3863
+flight_no, what is flight 9 from australia to london,flight_no,0.3819
+flight_no, what is a flight from london to june,flight_no,0.3777
+flight_no, what order are these flights for flight sim-fare,flight_no,0.3538
+flight_no, what are the flight manifest slots for flights that have not arrived in a few days,flight_no,0.3415
+flight_no, what flight was last? (max capacity: 733),flight_no,0.3374
+flight_no, what flights is flying from kan to boston on flight days,flight_no,0.3204
+flight_no, what are the flight rules on flights from australia to phoenix,flight_no,0.3157
+airline," how many charter flights do you fly
+ airline passenger airfare",airline,0.7568
+airline, what flight does airline average price describe an airport in australia,airline,0.7272
+airline, what is the airline from australia to dallas,airline,0.568
+airline," what kind of flight from London to Montreal
+ airline flights",airline,0.5497
+airline, what airlines fly to airport louisiana from aust,airline,0.5357
+airline, what are the airline flights from boston to ny_west,airline,0.4329
+airline, what sort of airline does it serve on a daily basis,airline,0.4286
+airline, what airline do you fly from west to london,airline,0.4263
+airline, what airfare are you using today. airlines for all types,airline,0.4204
+airline, what type of flight does an airline provide in this city,airline,0.3992
+flight_time, what time is the flight from boston to stamford on monday,flight_time,0.4121
+flight_time, what time do you fly from lanta to boston,flight_time,0.3915
+flight_time, what time does the cabin get delivered from San Antonio to Chicago?,flight_time,0.3764
+flight_time, what time the airline from uidla to boston,flight_time,0.3601
+flight_time, what time do you fly from american to houston,flight_time,0.3191
+flight_time, what time is the last flight from Boston to Toronto,flight_time,0.313
+flight_time, what time is the most frequent flying service from Chicago to Philadelphia,flight_time,0.2759
+flight_time, what time is it running on airplanes from marc to dallas,flight_time,0.2669
+flight_time, what time is the longest flight from seattle to harwood on a parway at dallas,flight_time,0.2453
+flight_time, what time is the shortest flight from London to Montreal?,flight_time,0.245
+abbreviation, what do I mean by bantam_fareway,abbreviation,0.5024
+abbreviation, what does the 'B' word mean in French?,abbreviation,0.4919
+abbreviation, what is your current abbre why do you want to change the spelling of this house,abbreviation,0.384
+abbreviation," what is 'date' in this genre when you use the term ""citation of authors or literary writers",abbreviation,0.3744
+abbreviation, what do I mean by abbie carpenter tools,abbreviation,0.2668
+abbreviation, what are your favorite meal frequency (a ca...,abbreviation,0.2503
+abbreviation, what is the definition of 'penny' in u,abbreviation,0.2445
+abbreviation, show me how long ago a phrase or term was invented,abbreviation,0.2307
+abbreviation, why would the airlines use abbreviations in this entry,abbreviation,0.2189
+airport," what airport is the closest airports to Boston
+ boston",airport,0.7137
+airport, what is airports? in city airport name thecity,airport,0.6003
+airport, what airport do you want to stay in texas,airport,0.4747
+airport, what airports are from north america to australia,airport,0.4159
+airport," what airport do you have at london, australia",airport,0.3678
+airport, what are air tickets for airport in san francisco,airport,0.3307
+airport, what airport is this from where you can purchase tickets to american airports,airport,0.3206
+airport," what airports are in Boston and why they have not been able to find flights from north america
+",airport,0.3078
+airport, what airports are available in the city. Please enter either airport name or a world abbreviation,airport,0.2956
+meal," what is breakfast dinner
+paradise dining",meal,0.374
+meal, What are the ingredients in meals for an average American meal.,meal,0.271
+meal, what are the meal options for breakfast on mcgo,meal,0.2461
+meal, how many meals do you sarah and joseph survive the winter in a meal,meal,0.24
+meal, what are the meal prices of meals in australia,meal,0.2343
+meal, what meal are you making today on cnn.com,meal,0.2109
+meal, what meals are left on the meal table by airline,meal,0.1962
+airfare, what are the cheapest fares for flights from boston to japan,airfare,0.2636
+airfare, what is your average airport lounge ticket price in 2018 from australia to uk,airfare,0.2299
+airfare, what is your average flying price for flights from cities to dallas,airfare,0.1883
+airfare, how much does travel from australia to u.saturday,airfare,0.1604
+capacity, how long the maximum capacity is for an individual seat,capacity,0.2674
+capacity, how many people are there in the capacity of a taxi for airport taxis,capacity,0.2375
+capacity," show more capacity
+ how long ago a carpenter",capacity,0.2228
+quantity, how many items are in the order descending from largest to smallest,quantity,0.2114
+quantity, how many items are allowed on the airline from australia to baltimore,quantity,0.2048
+distance, what distance is the shortest mile from south to west,distance,0.2675

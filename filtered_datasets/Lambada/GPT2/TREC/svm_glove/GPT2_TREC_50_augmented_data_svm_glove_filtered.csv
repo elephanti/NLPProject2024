@@ -1,0 +1,413 @@
+label,text,predicted_label,probability
+ENTY:color, What color is lavender ? See darker shades of orange and brown .,ENTY:color,0.9936
+ENTY:color," What color is the sunflower ? Color : blue , orange A shade",ENTY:color,0.9923
+ENTY:color," What color is the red light for television ?
+ : a reddish tint on lamprey skin .",ENTY:color,0.9894
+ENTY:color, What color are the colors of black and white ?,ENTY:color,0.9874
+ENTY:color, What color is the blue of lime ? Its colour,ENTY:color,0.9869
+ENTY:color," What color is lavender ?
+HUMAN : red ,yellow or violet .",ENTY:color,0.9845
+ENTY:color, What color is lavender ? (yellow & green - blue) .,ENTY:color,0.9837
+ENTY:color," What color do the stripes of red be? WHITE = Red, blue and white ?",ENTY:color,0.9831
+ENTY:color, What color is the sun?White : Red The shade,ENTY:color,0.983
+ENTY:color," What color is the shade of red ? WHITE = black, pall",ENTY:color,0.98
+ENTY:animal," What animal is the most intelligent mammal ?
+MISSABLE : horse , bull or sheep .",ENTY:animal,0.9832
+ENTY:animal, What animal was the dog found dead during a hunt ?,ENTY:animal,0.9733
+ENTY:animal, What animal is the dog 's first cousin ?,ENTY:animal,0.9704
+ENTY:animal, What animal is an elephant ? : horse ; also,ENTY:animal,0.9523
+ENTY:animal," What animal is a pig ?
+MISSLE : horse ;",ENTY:animal,0.9515
+ENTY:animal, What is the nickname for an animal ? (pl.) a dog : cat or pigeon .,ENTY:animal,0.9413
+ENTY:animal, What animal is the name of a horse or dog ?,ENTY:animal,0.9317
+ENTY:animal, What animal is a pig ? A : the bird.,ENTY:animal,0.9282
+ENTY:animal, What animal is it ? : cat or rabbit .,ENTY:animal,0.9263
+ENTY:animal," What animal are the most poisonous animals ? ''HENRIO : horse , lion --",ENTY:animal,0.9242
+ENTY:food, What food do people eat ? : A hamburger or steak?,ENTY:food,0.9533
+ENTY:food," What food do you eat ? SEPTEMBER : Indian meat , beef or veg .",ENTY:food,0.9459
+ENTY:food," What does a vegetarian eat? : food , also called soup ?",ENTY:food,0.9405
+ENTY:food, What kind of meat does the chicken stew make ?,ENTY:food,0.9179
+ENTY:food, What is a sandwich ? A loaf of bread made from whole wheat flour .,ENTY:food,0.9138
+ENTY:food," What do you call a vegetable soup ? A soupy tomato sauce , which is rich in fat and carb?",ENTY:food,0.9092
+ENTY:food," What type of bread do you bake ? A baked French fry : a flour loaf ____________ Other than cake, cookies , and candy .",ENTY:food,0.8543
+ENTY:food, What is the best dish to eat for breakfast ?,ENTY:food,0.8461
+ENTY:food," What food is ""Food for the Pig ? The American Chicken or Chickpea pie with gravy ................................................",ENTY:food,0.8452
+ENTY:food, What food were the top five brands that made hamburger sandwiches ?,ENTY:food,0.8107
+LOC:state," What state does it live in ? USA : New York City , Massachusetts
+ British Columbia Manitoba Saskatchewan Ontario Alberta Canada Westchester South Carolina Delaware Pennsylvania Minnesota Nebraska Nova Scotia Quebec Rhode Island Newfoundland and Labrador Northwest Territories Netherlands Virgin Islands Atlantic Ocean Michigan Ohio Oklahoma State Utah Connecticut United States North Dakota Louisiana Florida Alaska California Mississippi Arkansas Texas Indiana Tennessee Washington Colorado Missouri Maine Kentucky ''",LOC:state,0.9513
+LOC:state," What state is Texas the largest ? Yes ,United States The Great Plains states : Oklahoma and Louisiana .",LOC:state,0.9366
+LOC:state, What state did Texas have the most Confederate flag ?,LOC:state,0.9174
+LOC:state," What is the state of Texas ?
+THEYWISE : South Dakota .",LOC:state,0.888
+LOC:state, What state is Virginia in ? Why not Delaware?,LOC:state,0.8736
+LOC:state, What state is the U.S.? The federal government has 17 states and 12 territories ?,LOC:state,0.8415
+LOC:state, What state is the United States ? Where does Maryland have its Constitution?,LOC:state,0.8243
+LOC:state, What state does the United States have a flag ?,LOC:state,0.8233
+LOC:state, What state has the most counties in Massachusetts ? .,LOC:state,0.823
+LOC:state," What state does the US have ?
+ USA : South Carolina .",LOC:state,0.8196
+NUM:date, When did the moon go white ? What year was Gemini Day?,NUM:date,0.9066
+NUM:date," What year was William Penn ? A : December - January , 19",NUM:date,0.8726
+NUM:date," When is this month ? Date : 1965 - June 19 Last year , at least 53 years old .",NUM:date,0.8626
+NUM:date, When was the first time a year began? : '' 's birthday ?,NUM:date,0.8185
+NUM:date," When the moon was discovered, ? . If so what year did it begin?",NUM:date,0.7982
+NUM:date, What date was the last year on which President John F. Kennedy died ?,NUM:date,0.7893
+NUM:date," How long has the date 'til December 31, 1968 - ?",NUM:date,0.7876
+NUM:date," When is the last day of September 30 ?
+ :day (year ) '' What was George Washington 's birthday on April 26th , 1872, and what year did it occur at?",NUM:date,0.7874
+NUM:date, When was the first time you ever had an eclipse ?,NUM:date,0.7499
+NUM:date," When does the date for a year start ?
+ :start Date (GMT ) from beginning to end of day begins at 1st .",NUM:date,0.7315
+NUM:weight, What is the weight of a baby weighing 5 pounds and 15 ounces ?,NUM:weight,0.9602
+NUM:weight, How much weight does a person weigh when weighing 110 pounds and 70 kilograms ?,NUM:weight,0.9524
+NUM:weight, How much weight does an overweight person weigh in ?,NUM:weight,0.9195
+NUM:weight," What is a calorie ?
+pound : pounds - measure of body weight measured in kilograms .",NUM:weight,0.8213
+NUM:weight, How much weight does the average American weigh ? (average measure of body fat ),NUM:weight,0.7983
+NUM:weight, What weight is a boxer's waistline measured in kilograms ?,NUM:weight,0.7981
+NUM:weight, What is the number of pounds which a person weighs when weighing ?,NUM:weight,0.7704
+NUM:weight, What is the average weight of an adult male ?,NUM:weight,0.7409
+NUM:weight," How much does a horse weigh ?
+ : weight - what percentage of body fat is measured in pounds per mile (foot)?",NUM:weight,0.6622
+NUM:weight, How much should a pig weigh in US weight ?,NUM:weight,0.6584
+NUM:speed," What speed is the fastest flying bike ?
+ : Speed car .",NUM:speed,0.9279
+NUM:speed, How fast is the speed of a moving car ?,NUM:speed,0.8933
+NUM:speed, How fast does the average speed of a horse run ?,NUM:speed,0.8854
+NUM:speed, How fast can a bicycle traveling at speed be ?,NUM:speed,0.8669
+NUM:speed, How fast does the speed of light travel in a bicycle ?,NUM:speed,0.6707
+NUM:speed, What speed is the fastest lap in a marathon ?,NUM:speed,0.6468
+NUM:speed, How fast do you drive on a slow motorcycle ?,NUM:speed,0.6447
+NUM:speed, What distance can you drive in a speed zone ?,NUM:speed,0.6425
+NUM:speed, How fast is the fastest lap in a race ?,NUM:speed,0.5991
+NUM:speed, How fast is the speed of light ? The answer :,NUM:speed,0.5585
+LOC:country," What country is the most populous in Africa ?
+ South Sudan : North West African continent 1",LOC:country,0.9261
+LOC:country, What country has the world's largest population ? Switzerland : United Kingdom,LOC:country,0.8529
+LOC:country, What country in Canada is the largest? Canadian Province United Kingdom ?,LOC:country,0.8325
+LOC:country, What country do you live in? Spain Australia France Germany United Kingdom ?,LOC:country,0.8324
+LOC:country," What country is Jamaica ?
+ Netherlands : France .",LOC:country,0.8245
+LOC:country, What is the best country to go camping in South Africa ?,LOC:country,0.6047
+LOC:country," What country is the Philippines ? . See also Spain , France, Italy and Portugal ].",LOC:country,0.5989
+LOC:country," What country was Canada ?
+ 's land and sea in India .",LOC:country,0.5528
+LOC:country," How far north is Australia ?
+ South Africa ......................................................................",LOC:country,0.5527
+LOC:country, What country has the most population of people ? The world as a whole,LOC:country,0.4846
+NUM:money," What currency are you borrowing from ? (per capita) Canada Dollar $1.50
+ US Dollars - Currency Unit U .",NUM:money,0.9639
+NUM:money, What is the average annual amount of money paid by a financial institution ?,NUM:money,0.9273
+NUM:money," What currency is $50 ?
+ , .",NUM:money,0.8633
+NUM:money," What is the average salary of an analyst ?
+ : salaries , including rent, .",NUM:money,0.8506
+NUM:money, What does the value of US dollar amount to Europe ?,NUM:money,0.8427
+NUM:money, What is the cost of raising money to finance a theater ?,NUM:money,0.8049
+NUM:money, What is the price of a coin ? - US dollar,NUM:money,0.8028
+NUM:money, What are the average salaries in India for a financial analyst ?,NUM:money,0.7965
+NUM:money," What is the price of Brent ? :D
+ The market capitalisation for oil has declined from $ to , .",NUM:money,0.7822
+NUM:money, How much money do you get for each penny in a dollar coin ?,NUM:money,0.7769
+ENTY:sport, What sport did John Cena perform in WWE ? A : Wrestling ],ENTY:sport,0.895
+ENTY:sport, What sport do you play ? (USL '85) French football : English rowing .,ENTY:sport,0.8471
+ENTY:sport," What sport was the best in England ? Why not tennis , baseball & hockey .",ENTY:sport,0.8146
+ENTY:sport, What sport will be the greatest in Europe ? : sports ],ENTY:sport,0.8098
+ENTY:sport, What sport has the most sports teams ? (Determines whether a country is represented in an Olympic qualifying event .,ENTY:sport,0.7927
+ENTY:sport, What is the sport of tennis ? Why not French Tennis?,ENTY:sport,0.7725
+ENTY:sport, What kind of a tennis player does the sport ?,ENTY:sport,0.7627
+ENTY:sport, What country is the first American sport to win a tennis match ?,ENTY:sport,0.7523
+ENTY:sport, What is a sport ? A cricket team '' .,ENTY:sport,0.7275
+ENTY:sport, What do sports and baseball players have in common ?,ENTY:sport,0.7155
+LOC:city, What is the most populous city in New Jersey ?,LOC:city,0.8873
+LOC:city, What was the greatest highway in New York City ?,LOC:city,0.8412
+LOC:city," What city is the City of Alexandria ? How many miles does a township have in terms year , including its square kilometres and boroughs ",LOC:city,0.8181
+LOC:city, What is the city of New York City ? ( ),LOC:city,0.8102
+LOC:city, What is the place in New York City located ?,LOC:city,0.7878
+LOC:city, What is the nearest city in Italy to Naples ?,LOC:city,0.7778
+LOC:city, What city does the capital of China call itself ?,LOC:city,0.7432
+LOC:city, What city in North America is a world famous baseball stadium ?,LOC:city,0.7393
+LOC:city, What city in France is the nearest to Paris ?,LOC:city,0.7128
+LOC:city," Which city has the largest population of Muslims ? A : Mecca, Medina .",LOC:city,0.6999
+ENTY:plant, What plant has the most leaves in a pineapples tree ?,ENTY:plant,0.8414
+ENTY:plant, What flower are the most poisonous plant ? . -,ENTY:plant,0.6929
+ENTY:plant, What is a flower ? A plant that grows in the garden?,ENTY:plant,0.6008
+ENTY:plant," What type of plant is the best ? : flower , ornamental and medicinal .",ENTY:plant,0.578
+ENTY:plant, What are the ingredients for a flower that has flowers ?,ENTY:plant,0.51
+ENTY:plant, What flower is the first ? :tree tree?,ENTY:plant,0.4926
+ENTY:plant, What herb is the most poisonous plant in American soil?,ENTY:plant,0.4783
+ENTY:plant, What plant are the most edible fruits ? (?),ENTY:plant,0.4325
+ENTY:plant, What plant is the longest flowering tree in North America ?,ENTY:plant,0.4154
+ENTY:plant, What plant has a flower ? (Cf.) the tree of life.,ENTY:plant,0.4015
+NUM:temp, What is the average temperature in Fahrenheit (or Celsius)?,NUM:temp,0.6211
+NUM:temp, What is the temperature difference between an ice cold and a cool water ?,NUM:temp,0.5952
+NUM:temp, What is the temperature inside of a boiling water vessel ?,NUM:temp,0.4991
+NUM:temp, What temperature is the hottest in Europe ? A - a boiling water boil .,NUM:temp,0.3985
+NUM:temp, What kind of temperature do the hottest boiling water boils in ?,NUM:temp,0.3807
+NUM:temp, What is the best temperature difference between a candle and gas oven ?,NUM:temp,0.3766
+NUM:temp, What is the temperature of sea water ? Is it about 7 degrees Fahrenheit (2C)?,NUM:temp,0.3281
+NUM:temp," What temperature is the lowest in Fahrenheit ?
+SATU :temperature ___________ ' . temp , not `°C� The temperatures of a city vary from year toyear by what degree degrees are at least partially?",NUM:temp,0.3112
+NUM:temp, What is the temperature at which rainfall affects you ?,NUM:temp,0.3092
+NUM:temp, What temperature are the extremes in Greenwich Mean (UT) ?,NUM:temp,0.2872
+ENTY:word, What is the most common word in American slang words ?,ENTY:word,0.7895
+ENTY:word, What English words have a positive and negative connotation ?,ENTY:word,0.7376
+ENTY:word, What is the best language for nouns in English ?,ENTY:word,0.727
+ENTY:word, What is a word that describes the English language ?,ENTY:word,0.7184
+ENTY:word," What word is the name of a country ? GERMAN : (meaning ) , Germanic, Latin .",ENTY:word,0.5551
+ENTY:word, What is the origin of English ? A vulgar word for ''the whore'' .,ENTY:word,0.4844
+ENTY:word," What word is ""the best poem in the English language""?",ENTY:word,0.4562
+ENTY:word, What is the English word for a 'doll' ?,ENTY:word,0.4229
+ENTY:word, How many times have you heard a word spelled incorrectly in English ?,ENTY:word,0.4181
+ENTY:word, What are some of the most dangerous words in English?,ENTY:word,0.3918
+LOC:mount, Where is the tallest mountain on Mt. Everest ?,LOC:mount,0.9208
+LOC:mount, What region was the mountain in Scandinavia located ?,LOC:mount,0.8648
+LOC:mount," What is the tallest mountain in North America ?
+CUBIC : The Great Lakes region.",LOC:mount,0.7098
+LOC:mount, What is the tallest mountain in North America ? Answer,LOC:mount,0.5825
+LOC:mount, Where is Mount Everest ? : South Africa . See,LOC:mount,0.5184
+LOC:mount, What is the largest mountain in North America ? .,LOC:mount,0.5006
+LOC:mount," What is Mount Rushmore ? , South Park .",LOC:mount,0.4765
+LOC:mount, How far south are the slopes of Mount Rushmore ?,LOC:mount,0.4714
+LOC:mount," What is the smallest mountain in Australia ? , South Africa : The tiny town of Mount St. Helens has an enormous volcanic crater",LOC:mount,0.4648
+LOC:mount," What mountain is the most majestic in America ? SEPARATIC : Rocky Mountains , .",LOC:mount,0.4402
+ENTY:religion," What religion is Christianity ? Answer : Protestantism , Catholicism, Judaism and Buddhism .",ENTY:religion,0.608
+ENTY:religion, What is the religion of Jehovah ? RELIGION : Christianity .,ENTY:religion,0.5094
+ENTY:religion, What is the word for prayer ? RELIGION : religion ;,ENTY:religion,0.4154
+ENTY:religion, What religion do you believe is the most fundamentalist ?,ENTY:religion,0.2009
+ENTY:religion, What religion is Abraham Lincoln ? A secular or agnostic Christian prophet .,ENTY:religion,0.1983
+ENTY:religion, What is the origin of Christianity ? : religion .,ENTY:religion,0.1909
+ENTY:religion, What is the origin of Christianity ? A Roman Catholic religion .,ENTY:religion,0.1815
+ENTY:religion, What is the meaning of Christianity ? A Greek religion .,ENTY:religion,0.1746
+ENTY:religion, What religion did Jesus Christ become ? (1 ),ENTY:religion,0.1746
+ENTY:religion, What religion is the origin of modern-day Christianity ?,ENTY:religion,0.1688
+ENTY:substance, What substance is a solvent ? A mixture of two benzyl alcohols and onehydrogen chloride?,ENTY:substance,0.7086
+ENTY:substance, What are the ingredients of tea that make it taste bad?,ENTY:substance,0.6734
+ENTY:substance, What substance is used in the manufacture of alcohol ?,ENTY:substance,0.655
+ENTY:substance, What is a chemical in tea that binds to morphine ?,ENTY:substance,0.6157
+ENTY:substance, What is the ingredient used in baking ? . See also,ENTY:substance,0.5108
+ENTY:substance," What substance does wine contain ?
+ . : notalcoholic drink _____ The following is an analysis of the different types and concentrations contained in alcoholic beverages that may be found to produce various depressants such , alcohol, or any other intoxicating chemical.",ENTY:substance,0.4852
+ENTY:substance, What ingredient should be used in the formulation of an oral medicine ?,ENTY:substance,0.4622
+ENTY:substance, What substance (samples of alcohol) are found in beverages that contain ''other'' ?,ENTY:substance,0.4344
+ENTY:substance, What is the most important spice of all spices ?,ENTY:substance,0.4168
+ENTY:substance," What substance is used in baking ? The term ""baking soda""",ENTY:substance,0.3634
+ENTY:lang, What languages are spoken in Australia? A language ?,ENTY:lang,0.8931
+ENTY:lang, What is the dialect of Tamil and Afrikaans ?,ENTY:lang,0.8631
+ENTY:lang, What language is spoken by the British English population ?,ENTY:lang,0.8526
+ENTY:lang, What language is the most widely spoken in Canada ?,ENTY:lang,0.8277
+ENTY:lang," What is the English language ? 's pronunciation , and which dialect are its vernacular divisions?",ENTY:lang,0.7874
+ENTY:lang, What is the language of Poland ? (LANGUAGE)‎,ENTY:lang,0.7718
+ENTY:lang, What languages is the Language of Egypt ? (Egypt ) .,ENTY:lang,0.6623
+ENTY:lang, What Language is English ? - The language of the Caribbean Sea continent .,ENTY:lang,0.66
+ENTY:lang, What is the language of Sri Lanka ? : Latin ,ENTY:lang,0.649
+ENTY:lang, What languages is Spanish ? (Latin America and Central Africa) .,ENTY:lang,0.5869
+NUM:perc, What percentage of the total weight per capita in America are obese?,NUM:perc,0.9569
+NUM:perc, What percentage of the total value (or fraction) must be spent on making one 'miniature' product ?,NUM:perc,0.679
+NUM:perc, What is the average annual number of women in America ?,NUM:perc,0.5953
+NUM:perc, What percentage of women in England and Wales is pregnant ?,NUM:perc,0.5522
+NUM:perc, What is the average number of divorces in India ?,NUM:perc,0.4397
+NUM:perc, What percentage of Americans do they make a living off the gas ?,NUM:perc,0.4035
+NUM:perc," What percentage of the population is a vegetarian ?
+ 's number one consumer comes from India .",NUM:perc,0.3751
+NUM:perc, What is the median age of average Americans for life?,NUM:perc,0.3473
+NUM:perc, What is the average number of seats in a circus ?,NUM:perc,0.3459
+NUM:perc, What is the average number of cats in America ?,NUM:perc,0.337
+NUM:count, How many people are employed at the U.S.?,NUM:count,0.7517
+NUM:count, How many animals were killed by rats in the United States ?,NUM:count,0.6732
+NUM:count, How many decimal digits are allowed per square centimeter ?,NUM:count,0.6306
+NUM:count, How many chickens were killed in the slaughterhouse ?,NUM:count,0.4891
+NUM:count, How many people are there in the world who have no known super powers ?,NUM:count,0.463
+NUM:count, How many people in Canada live without a roof?,NUM:count,0.4494
+NUM:count, What is the largest marble pile in Britain ? Why are so many pieces of it smaller than some other monuments on this planet?,NUM:count,0.408
+NUM:count, How many number of years did the Pope himself die ?,NUM:count,0.3979
+NUM:count," How many animals are the size of a palm , an elephant ?",NUM:count,0.3498
+NUM:count, How many times has a horse died of typhoid ?,NUM:count,0.3245
+NUM:period, How long does it take to get back into the '90s ?,NUM:period,0.7436
+NUM:period, How long does the average life of a man after his last breath go on ?,NUM:period,0.7029
+NUM:period, What time does the month end and how long do they begin ?,NUM:period,0.5988
+NUM:period, How long have men aged? Let us count from oldest to youngest when making the calculation ?,NUM:period,0.5589
+NUM:period, What was the period of time when a man and woman spent their lives together ?,NUM:period,0.5465
+NUM:period, How long has the sun spent in its shining hour ?,NUM:period,0.5146
+NUM:period, How long does it take a person to reach the top of this world ?,NUM:period,0.5121
+NUM:period, How long does a calendar month last ? A number is calculated from the beginning of its length to when it begins and ends .,NUM:period,0.4455
+NUM:period," How long do the days last ?
+ : The number of years spent on earth in a year - from birth to death?",NUM:period,0.4383
+NUM:period, How long did the first president of Australia take to visit India ?,NUM:period,0.3758
+ENTY:termeq," What do the French call a ""gentleman's club ?",ENTY:termeq,0.5612
+ENTY:termeq," What do they call the Italian word for ""white"" ?",ENTY:termeq,0.5391
+ENTY:termeq," What do the Romans call a ""tremendous mountain"" ?",ENTY:termeq,0.5315
+ENTY:termeq," How do you pronounce ""the French""? » la",ENTY:termeq,0.506
+ENTY:termeq, What is a phrase used in English to describe the 'little sister' ?,ENTY:termeq,0.4345
+ENTY:termeq, What is the name of an ancient Egyptian pyramids ?,ENTY:termeq,0.3459
+ENTY:termeq, What is a term used to describe the 'hillbilly bee?',ENTY:termeq,0.3111
+ENTY:termeq, What language is the Hebrew term used for 'to describe a place where stones are ?,ENTY:termeq,0.3066
+ENTY:termeq," What is the word for ""black people ? .",ENTY:termeq,0.295
+ENTY:termeq, What do the French term for 'deadpan' and `boobing in America ?,ENTY:termeq,0.2664
+NUM:dist, How far north does the moon pass in width ?,NUM:dist,0.737
+NUM:dist, How far north is it from the equator ?,NUM:dist,0.6073
+NUM:dist, How far are the circumference of a circle ? The length measured by an equator is about half its diameter .,NUM:dist,0.4525
+NUM:dist, What is the approximate distance from north to south-east Europe ?,NUM:dist,0.3497
+NUM:dist, How far north are Arkansas ? (and US ) .,NUM:dist,0.3409
+NUM:dist," How far is it from the equator ?
+ , - A : latitude in degrees north of Greenwich ( ) .",NUM:dist,0.3401
+NUM:dist," What is the nearest airport to Chicago ?
+T : Airport - mile .",NUM:dist,0.3086
+NUM:dist, What is the diameter of a horse's wing ?,NUM:dist,0.2935
+NUM:dist, What is the longest running marathon in Canada ? A : The distance divided by,NUM:dist,0.2554
+NUM:dist, What is the number of feet in a river ?,NUM:dist,0.2078
+ENTY:currency, What currency do you use to buy foreign commodities ?,ENTY:currency,0.2972
+ENTY:currency, How much do US currency units circulate in Europe ?,ENTY:currency,0.2336
+ENTY:currency, What currency is the dollar ? - Latin. See UNITED STATES .,ENTY:currency,0.1785
+ENTY:currency, What currency do the United States trade for ? .,ENTY:currency,0.1728
+ENTY:currency, What currency is used by the United States to purchase oil and gas ?,ENTY:currency,0.1708
+ENTY:currency, What currency is it ? How does one buy and use a coin?,ENTY:currency,0.1606
+ENTY:currency, What currency do you trade with the United States ?,ENTY:currency,0.1601
+ENTY:currency, What currency is used for the measurement of money ?,ENTY:currency,0.1582
+ENTY:currency, What currency is used to make the coin of ?,ENTY:currency,0.1511
+ENTY:currency, What currency are used by the United States for its fiat currencies ?,ENTY:currency,0.1499
+ENTY:product, What was the name of a brand in cosmetics ?,ENTY:product,0.8627
+ENTY:product, What is the product of an '80s fashion model?,ENTY:product,0.8282
+ENTY:product, What is the most common product in cosmetics ? .,ENTY:product,0.7584
+ENTY:product, What's the most expensive car in America?,ENTY:product,0.653
+ENTY:product, What is the name of a cosmetic product manufactured by Bayer ?,ENTY:product,0.6233
+ENTY:product, What is a product sold by Lotte ? .,ENTY:product,0.5872
+ENTY:product, What's the name of this cosmetic brand ? A chemical manufacturer and cosmetics company that makes high- ingredients .,ENTY:product,0.5405
+ENTY:product," What is a dishwasher ?
+ ] what are some brands of soap , paper towels and detergent "" .",ENTY:product,0.5193
+ENTY:product, What kind of cosmetics are used in conjunction with the mask ?,ENTY:product,0.4672
+ENTY:product, What is the name of a brand used for its mask ?,ENTY:product,0.4261
+LOC:other," What is the largest city in England ?
+ , UK : South East Australia .",LOC:other,0.5638
+LOC:other, Which region of the globe do you live in ?,LOC:other,0.5539
+LOC:other, What is the location of a river in Pennsylvania ?,LOC:other,0.4887
+LOC:other, What was the largest land mass in North America ?,LOC:other,0.3836
+LOC:other, Which street is most popular in North America ? Philadelphia : South York .,LOC:other,0.3831
+LOC:other, What is the name of an area on earth known for volcanoes ?,LOC:other,0.365
+LOC:other, What country is Jamaica ? (USA) . : India ,LOC:other,0.333
+LOC:other," How far west is the US Border ? (What was Washington , Pennsylvania and New Jersey called in 1861? )",LOC:other,0.324
+LOC:other," What is the largest freshwater lake in Europe ? (DURATION) The Great Lakes basin , which lies between Canada and Mexico, has approximately billion cubic miles of water .",LOC:other,0.2717
+LOC:other, What is the city where William Shakespeare died ? (That was his last known location.),LOC:other,0.2552
+DESC:def," What is a ""toxoplasmic enzyme""?",DESC:def,0.6734
+DESC:def, What does the word ''blackpowder'' mean ?,DESC:def,0.4917
+DESC:def, What is 'strictly' a dictionary ?,DESC:def,0.4286
+DESC:def, What does the word ''spermatozoa'' mean ?,DESC:def,0.4025
+DESC:def," What do ""sugar"" and ``pink'' mean ?",DESC:def,0.293
+DESC:def," What is the most common expression for ""blackface""?",DESC:def,0.2857
+DESC:def, How do you pronounce 'pizza'? By ''is'' ?,DESC:def,0.2703
+DESC:def, How did the Bible describe itself ? What is its name and what does it do?,DESC:def,0.2476
+DESC:def," What does the word ""hanging on a rope"" mean ?",DESC:def,0.2464
+DESC:def," What do ""punks"" and ''mules'' consist of ?",DESC:def,0.2021
+ENTY:symbol, What is the symbol of ? : 'A cross on a swastika '.,ENTY:symbol,0.3461
+ENTY:symbol," What is the symbol for ""panda"" ?",ENTY:symbol,0.3215
+ENTY:symbol," What is the symbol for ""drewing a rainbow"" ?",ENTY:symbol,0.2828
+ENTY:symbol, What is the symbol for an 'A' wing ?,ENTY:symbol,0.2414
+ENTY:symbol," What symbol is the Chinese word for ""spirit ?",ENTY:symbol,0.2236
+ENTY:symbol," What 's the symbol for a candle ?
+ : an ornamental lamprey -",ENTY:symbol,0.1965
+ENTY:symbol, What symbol is the U.S.'s Confederate flag ?,ENTY:symbol,0.1964
+ENTY:symbol, What is 'the symbol of the American flag ?,ENTY:symbol,0.1763
+ENTY:symbol," What is a symbol that gives birth to ?
+ : A red cross representing '",ENTY:symbol,0.1735
+ENTY:symbol," What is the symbol of a cross , which ?",ENTY:symbol,0.1339
+ENTY:dismed, What are the symptoms of anaphylaxis ?,ENTY:dismed,0.8531
+ENTY:dismed, What is the most deadly poison in humans ? : A paralytic toxin used tonge its victims,ENTY:dismed,0.7834
+ENTY:dismed, What is the condition of a pregnant woman with cancer ?,ENTY:dismed,0.7123
+ENTY:dismed, What was the condition of anesthesia for a doctor when he or she found out that cancer caused blindness ?,ENTY:dismed,0.5834
+ENTY:dismed, What is the condition of a cat ? When does it die from starvation and disease?,ENTY:dismed,0.5274
+ENTY:dismed," What are the terms 'stomach disease' and ""kidney tumor ?",ENTY:dismed,0.3434
+ENTY:dismed," What are the symptoms of cancer ? DANCER : cold, fever and stiffness .",ENTY:dismed,0.3434
+ENTY:dismed," What are the symptoms of cancer ? (HIPPEANETAL) : headache, abdominal pain and vomiting ; also",ENTY:dismed,0.3364
+ENTY:dismed, What is the most common name for a human being ?,ENTY:dismed,0.2302
+ENTY:dismed, What are the characteristics of a woman who is considered to be bisexual ?,ENTY:dismed,0.1565
+ABBR:abb, What is the abbreviation for 'The Postal Service ?,ABBR:abb,0.5176
+ABBR:abb, What is the abbreviation of a .NET program ?,ABBR:abb,0.2852
+ABBR:abb, What is the abbreviation for acid hydrochloride ?,ABBR:abb,0.2654
+ABBR:abb, What is the abbreviation for American Airlines ? (OPA or PIPA ) .,ABBR:abb,0.2598
+ABBR:abb, What is the abbreviation for American Airlines ? .,ABBR:abb,0.2271
+ABBR:abb, What is the abbreviation for English 'pipes' ?,ABBR:abb,0.2094
+ABBR:abb, What is the abbreviation for Arabic numerology ?,ABBR:abb,0.2029
+ABBR:abb, What is the abbreviation for American Aries ?,ABBR:abb,0.1994
+ABBR:abb, What is the abbreviation for a 'symbol of wisdom ?,ABBR:abb,0.1371
+ENTY:techmeth, What is the best way to overcome an obstacle ?,ENTY:techmeth,0.784
+ENTY:techmeth, What is the best method to produce electricity from nuclear power ?,ENTY:techmeth,0.4489
+ENTY:techmeth, What is the most important thing that an electrical engineer can learn from a mechanical musician ?,ENTY:techmeth,0.2434
+ENTY:techmeth, What is the most common method of achieving a ?,ENTY:techmeth,0.2272
+ENTY:techmeth, What is the best way to convert one molecule into another ?,ENTY:techmeth,0.1816
+ENTY:techmeth, What does this term have to do : a medical procedure ?,ENTY:techmeth,0.172
+ENTY:techmeth, What was the first computer programmable circuit for syntheses ?,ENTY:techmeth,0.1537
+ENTY:techmeth," What is the essence of magic ? Science and technology (in technical terms ) : science , research or exploration .",ENTY:techmeth,0.1317
+ENTY:techmeth," What is a science of life ? . CONTENTS : 1. How do astronomers measure the distances between stars? 2 The distance to Pluto from its center in telescopic telescopes and telescope systems has been determined by NASA's instruments used only for astronomical purposes , astronomy (at least ) 3 DISTINCTS on Astronomy Telescopes 6 Measurements made using Telescope-Mounted Object 7 Scientists See also",ENTY:techmeth,0.1063
+ENTY:event, What were the events in France of January 1916 ?,ENTY:event,0.7446
+ENTY:event, What happened on 'Game Day after World War II ?,ENTY:event,0.7235
+ENTY:event, What happened on the stage after World War II ?,ENTY:event,0.6827
+ENTY:event, What happened during the Spanish Civil War ? (1902- ),ENTY:event,0.5714
+ENTY:event, What does the American Civil War mean ? :DETERMINATE DISCUSSION 1 ' The war ended when William Tecumseh Shermanwasth century its,ENTY:event,0.5213
+ENTY:event, What were the events in 1968 that ushered America into a new civil rights era ?,ENTY:event,0.3362
+ENTY:event, What was the earliest known occurrence of cannibalism in Europe ?,ENTY:event,0.2669
+ENTY:event, What event in the world did Sir Winston Churchill attend ?,ENTY:event,0.1682
+ENTY:event, What event was the premiere of 'The Great Wall' ?,ENTY:event,0.1096
+ABBR:exp," What does the word ""homosexual"" mean ?",ABBR:exp,0.3679
+ABBR:exp, What does the phrase 'sperm bomb' stand for ?,ABBR:exp,0.363
+ABBR:exp," What is the expression ? (1) """" when it comes to defining a product that does not exist or has no inherent meaning , :adjectives and terms inEnglish dictionary vernacular are derived from 'perle' & ""phe",ABBR:exp,0.3251
+ABBR:exp, What is the word for `nucleus' ?,ABBR:exp,0.2882
+ABBR:exp, What is the term for 'permanent' ?,ABBR:exp,0.2819
+ABBR:exp," What is the abbreviation for ""determinant of water?",ABBR:exp,0.2145
+ABBR:exp, What is the most common cancer drug ? drugs <p><b>: aspirin {0} : chemotherapy or painkillers \ 's analgesia .,ABBR:exp,0.1855
+ABBR:exp," How do you pronounce ""poo"" ? What does it mean - ponbo ˈpaɔzt , also called a tuːnk-dʰl or sœskwelm (or nˌski ) : 'bird' .",ABBR:exp,0.1558
+ENTY:veh, What were some of the vehicles for naval ships ?,ENTY:veh,0.805
+ENTY:veh, What is a helicopter ? A : An aircraft used for aerial reconnaissance .,ENTY:veh,0.6074
+ENTY:veh, What is the name of a plane which has an airplane ?,ENTY:veh,0.1955
+ENTY:veh," What happened to the French bulldog ? A British explorer found a legendary beast in South Africa, and named it after its",ENTY:veh,0.1953
+ENTY:veh, What horse was used for transporting the American flag from Paris to London ?,ENTY:veh,0.1777
+ENTY:veh, What is the most powerful passenger vessel on a U. ?,ENTY:veh,0.1754
+ENTY:veh, What is the name of a car ? Its interior was remodelled by Henry Ford .,ENTY:veh,0.1576
+ENTY:veh, What was the first highway paved by an American ?,ENTY:veh,0.0943
+ENTY:letter, What is the last letter in alphabetical letters ?,ENTY:letter,0.7187
+ENTY:letter, What letter did the president write on a typewriter ?,ENTY:letter,0.6061
+ENTY:letter, What letter did Adolf Hitler write in the English language ?,ENTY:letter,0.3034
+ENTY:letter, What letter did Henry VIII take ? A : the first English syllable.,ENTY:letter,0.1904
+ENTY:letter, What was the alphabet of letters used by Jews in Britain ?,ENTY:letter,0.1401
+ENTY:letter," What letters are in the United States written ? How does American spelling differ from Latin lettera :OBAMA ______________? 's initials come out of ''Oberstück "" , a phrase that appears only ing as its capital B .",ENTY:letter,0.0908
+ENTY:letter, What letter is most commonly written in the United States ?,ENTY:letter,0.0698
+NUM:volsize, What is the size of a penis ? 1.6,NUM:volsize,0.2853
+NUM:volsize, What is the diameter of a large elephant penis ?,NUM:volsize,0.2599
+NUM:volsize, What is the smallest amount of ice in Antarctica ?,NUM:volsize,0.25
+NUM:volsize, How big is the largest elephant on Earth ? (per,NUM:volsize,0.1738
+NUM:volsize, What is the smallest square of ice in space ?,NUM:volsize,0.1202
+NUM:volsize, What was the largest moon in Gemini ? How large is it?,NUM:volsize,0.1108
+DESC:desc, What is the origin of 'wax' ?,DESC:desc,0.2318
+DESC:desc," What are the meanings of ?
+ : a hole in spacetime .",DESC:desc,0.2104
+DESC:desc, What did it mean when God created the sun ?,DESC:desc,0.1906
+DESC:desc," How do you pronounce ""wicked"" ? (per",DESC:desc,0.1675
+DESC:desc, What is the difference between an inverted pyramid and a pentagon ?,DESC:desc,0.1634
+DESC:desc, What was the name of a black hole in space ?,DESC:desc,0.1029
+ENTY:body, What is the anatomy of an eye ? A muscle,ENTY:body,0.3081
+ENTY:body, What body parts are most ? :HUMAN .,ENTY:body,0.289
+ENTY:body, What is the body in a human skeleton ? .,ENTY:body,0.2598
+ENTY:body, What body part does it have that determines whether or is the most powerful ?,ENTY:body,0.1837
+ENTY:body, What body does a frog have ? 's face and back .,ENTY:body,0.1389
+ENTY:body, What is the condition under which a horse's legs are exposed to pressure ?,ENTY:body,0.1118
+HUM:ind, What was the name of a famous British mathematician ?,HUM:ind,0.3457
+HUM:ind, What is the name of a person who appears in Hollywood films ?,HUM:ind,0.3301
+HUM:ind, What was the name of a person who founded this country ?,HUM:ind,0.2472
+HUM:ind, What was the name of a musical number ? '',HUM:ind,0.2112
+HUM:ind," How did a sailor who invented the term ""drinking water"" become so famous?",HUM:ind,0.1894
+HUM:ind," What was the nickname of a person who died on September 11, 2001",HUM:ind,0.15
+NUM:other, What is the number of American missionaries ? A : 0,NUM:other,0.2406
+NUM:other, What is the difference between a penny coin and an ounce ?,NUM:other,0.1254
+NUM:other, What is the percentage of people living in America who do not have a university degree ?,NUM:other,0.1199
+ENTY:cremat," What is 'Hollywood' ? - In the movie ''The Great Gatsby'' , Richard Nixon dances in a pool of his own",ENTY:cremat,0.1861
+ENTY:cremat," What is the word ''creeping'' ? Why did it start being used in Shakespeare's opera - its first line of ""songs about falling asleep"" (1963, p. ) and why does this phrase originate from France?",ENTY:cremat,0.1313
+ENTY:cremat, What was the last recorded moon ? ORIGIN : Italian mythology originates from Italy .,ENTY:cremat,0.123
+ENTY:other, What kind of a person was Martin Luther King Jr. ?,ENTY:other,0.2391
+ENTY:other," What is a penis-shaped hole ?
+PARENTS : (defn) foreskin , vulva .",ENTY:other,0.2029
+ENTY:other," What the heck is a penis ? When did ''I'' and ``me'| enter sex? Why not just describe it as two sides of ______________ 's genitals, one side on each arm , in English only - .",ENTY:other,0.1638
+DESC:manner, What kind of person are you to serve as President Barack Obama ?,DESC:manner,0.2512
+DESC:manner, How did a person who likes to ski get into trouble with the law ?,DESC:manner,0.2302
+HUM:title, What was William Faulkner's longest occupation ?,HUM:title,0.6347
+HUM:title, Who is the King of Egypt ? What country did Moses win over after his election to become king and queen?,HUM:title,0.2756
+NUM:code, What is the code of a telephone tower ? .,NUM:code,0.1309
+DESC:reason, Why did the Bible say that 'The sun shines on fire?' in Romans 8 ?,DESC:reason,0.1645

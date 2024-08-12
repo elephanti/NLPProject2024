@@ -1,0 +1,141 @@
+label,text,predicted_label,probability
+capacity, how many seats can the city hold in good days,capacity,0.8357
+capacity, what is the capacity of a city in which people can vote,capacity,0.7678
+capacity, what is the capacity of a single engine in good weather,capacity,0.7414
+capacity, what is the capacity of a bus with good seats at hotels on campus,capacity,0.7086
+capacity, what is the capacity of a boat with passengers and cargo aboard,capacity,0.69
+capacity, what's the average capacity of an airship from uk to ny,capacity,0.6852
+capacity, how many people are there in the capacity of a taxi for airport taxis,capacity,0.6843
+capacity, what is the capacity of a lorry in London to,capacity,0.6466
+capacity, what is the capacity of a small boat from chennai to kolkata,capacity,0.6331
+capacity, how many rooms has the capacity of this hotel in cnr london since 1900,capacity,0.6195
+ground_service, what is ground service - seaplane passenger transport from park to airport,ground_service,0.8511
+ground_service, what ground transportation is on the main street in coston,ground_service,0.8338
+ground_service, what is ground transportation in the city of july,ground_service,0.7412
+ground_service, what is ground service (at night) from downtown texas to natura,ground_service,0.7405
+ground_service, what is the service type of ground transportation in australia,ground_service,0.724
+ground_service, what type of ground transportation is the airport (minnesota),ground_service,0.7153
+ground_service, what ground transportation is the city of london on,ground_service,0.6954
+ground_service, what is ground service in pryland from southpark tocity,ground_service,0.6847
+ground_service, where do you stand at ground transportation between downtown and seattle,ground_service,0.6661
+ground_service, what is ground transportation on monday night at mcdonalds,ground_service,0.6634
+flight_time, what time is the average flight from sonyfly to philadelphia,flight_time,0.8559
+flight_time, what time is the flight from australia to lanta,flight_time,0.8438
+flight_time, what time is the flight from australia to latitudin,flight_time,0.8438
+flight_time, what time is the flight from boston to apu for airplane taxis,flight_time,0.8234
+flight_time," what time are the flights from north to south on a trip [-lazy maxnesota,idle dir seat",flight_time,0.7957
+flight_time," what is flight time, from australia to london",flight_time,0.7956
+flight_time, what time the flight from uid cusair to airplane ny,flight_time,0.7868
+flight_time, what is the average time flown by an flight from oregon to san francisco,flight_time,0.7743
+flight_time, what time is flying from San Francisco to Boston and back in the morning,flight_time,0.7662
+flight_time, what flight time does the airport provide? flyingbird is flights to paltry from london,flight_time,0.7646
+distance, what distance from south to the airport in michigan,distance,0.8373
+distance, what is the distance from downtown to chennai on a bus in kirby airport,distance,0.7822
+distance, what distance the trains were from pryland to downtown johnstown,distance,0.765
+distance, how long does it take to get from boston rdavis,distance,0.7468
+distance, what is distance from the airport to san francisco,distance,0.7247
+distance," what distance from Portland to Calgary in 2018, how far along is it taking you there",distance,0.7201
+distance, what is the distance from north to south american airport,distance,0.7156
+distance, what distance from city to country in east texas,distance,0.7129
+distance, what distance a person is from the airport to your nearest gas station,distance,0.6734
+distance, show me how far I can walk from the airport to downtown london in 4 hours,distance,0.6633
+flight," show flights from west to south korea, and london",flight,0.8336
+flight, the flights from south american to cny on footway wisconsin,flight,0.7142
+flight, what airlines are charter flights from boston to phoenix,flight,0.7002
+flight, show flights from kansas to boston on june 2018-09,flight,0.6799
+flight, show flights from Amsterdam to LA zhu-san francisco,flight,0.6518
+flight, where flights from avia to louisiana come in,flight,0.651
+flight, what flights to make on a flight from kansas west coast,flight,0.6404
+flight, show flights from Chicago to LA on a flight that starts in Boston and ends at Miami,flight,0.6242
+flight, what are the flights from west to south-eastern_state,flight,0.5728
+flight, what sort of flights can a passenger flight have from australia to dallas,flight,0.5557
+aircraft, what kind of aircraft are those guys? airplane with wings,aircraft,0.9216
+aircraft," what type of aircraft is the ""Aircraft from Boeing and Lockheed Martin to US air flights"" ftp://departments.google www-austin_state",aircraft,0.9084
+aircraft, what type of aircraft are you flying? carp [] from airfarecenter in australia,aircraft,0.8818
+aircraft, what kind of air plane does the airplane have? from boston to nfl,aircraft,0.8783
+aircraft, what aircraft carriers were built on airplane by dirigible,aircraft,0.8753
+aircraft, what kind of planes do you fly a plane from here to australia,aircraft,0.8583
+aircraft, what kind of aircraft do you want to have on air travel from san francisco,aircraft,0.8582
+aircraft, what kind of airplane is it that gets flown on an aircraft from boston to cincinnati,aircraft,0.8186
+aircraft, what kind of airplane is the best flight from boston to nyc,aircraft,0.8039
+aircraft, what type of aircraft is the air frp wt,aircraft,0.7862
+airport, what is airports? in city airport name thecity,airport,0.9169
+airport," what airport is the closest airports to Boston
+ boston",airport,0.8509
+airport, what airports are available in the city. Please enter either airport name or a world abbreviation,airport,0.7998
+airport, what airport is flyoverland at onetown,airport,0.7519
+airport," what airport do you have at london, australia",airport,0.6399
+airport, what flights to buy at airports after 9 p.,airport,0.6227
+airport, what airports are in australia flying with our partners,airport,0.513
+airport," what is air service airport to american airports
+ east coast airlines",airport,0.5058
+airport, what is the cheapest airline in uw airport at houston,airport,0.4897
+airport, what airport is this from where you can purchase tickets to american airports,airport,0.453
+city, show me all cities that are located in the city where i am from when,city,0.8095
+city, what cities are located in the city of baltimore,city,0.7435
+city, the city where houses from west to east converge is located,city,0.708
+city, show me the city that makes american cities from outside of cusada to london,city,0.6603
+city," what cities are most popular in australia, united states",city,0.6585
+city, what city is this restaurant located in north america,city,0.595
+city," what cities in the city are there, between Minneapolis and stanford",city,0.5873
+city, what is a metro area? for all cities in the city,city,0.5826
+city, what are the latest cities from west coast to east cottages,city,0.5559
+city," what city is this, in southern america from east to west",city,0.4901
+airfare, what is the fare for air taxis from boston to san francisco,airfare,0.8247
+airfare, what are the fares from boston to pittsburgh,airfare,0.783
+airfare, what is the cheapest air fare from miami to kansas,airfare,0.7068
+airfare, what is air fare on flights from boston to dallas,airfare,0.6981
+airfare, what are the cheapest fares for flights from boston to japan,airfare,0.6696
+airfare, what is air travel from boston to san francisco,airfare,0.5679
+airfare, what are the prices of flights from san francisco to baltimore,airfare,0.5547
+airfare, what is the average ticket price in San Francisco from west coast to southwest,airfare,0.4856
+airfare, what are air travel and fares from my hometown to california,airfare,0.4756
+airfare, what is the cost of flying from australia to nyustanta,airfare,0.4681
+meal, what meals are served by our food stamp guests during the last 2 hours,meal,0.4929
+meal, what are the meal prices of meals in australia,meal,0.4794
+meal, how many meals are left on this meal after a long trip from my home to work,meal,0.4725
+meal, what is meal served on kennels from milwaukee to macaroni,meal,0.4651
+meal, what the meal is for meals on flight from australia to london,meal,0.4641
+meal, what meals are left on the meal table by airline,meal,0.4579
+meal, what are your main meals from abroad to boston,meal,0.4578
+meal, what are the typical meals served at paul's house on monday,meal,0.4418
+meal, what is meal [-SQUICKER menu pairs with meals on ci mains]],meal,0.4341
+meal, how many meals do you sarah and joseph survive the winter in a meal,meal,0.4326
+abbreviation," what is the abbre
+ français",abbreviation,0.709
+abbreviation, what is an abbreviation for 'peter',abbreviation,0.5879
+abbreviation, what does the 'B' word mean in French?,abbreviation,0.5355
+abbreviation, what is the abbre a pylean taxi fare,abbreviation,0.4782
+abbreviation, what do I mean by abbie carpenter tools,abbreviation,0.393
+abbreviation, what do I mean by bantam_fareway,abbreviation,0.393
+abbreviation," what is the abbre boston, fr., country",abbreviation,0.351
+abbreviation, what is a horse to pound in Britain. friday_shakespeare,abbreviation,0.2588
+abbreviation," what is ""DHL_packet"" and why does it have an expiration date of",abbreviation,0.2347
+abbreviation, what is it about airline flying on airplanes from west coast USA,abbreviation,0.2045
+airline, what is the airline from australia to dallas,airline,0.7861
+airline, what airlines fly to airport louisiana from aust,airline,0.7852
+airline, what airlines to fly from seattle airport into nampa,airline,0.5954
+airline, what airline do you fly from west to london,airline,0.516
+airline, why fly from kartho to australia,airline,0.4784
+airline, what is the airport with which this airlines operates passenger service from west to south london,airline,0.4242
+airline," what kind of flight from London to Montreal
+ airline flights",airline,0.3999
+airline," what airlines are flying to Boston, from london through austin",airline,0.3142
+airline, what type of flight does an airline provide in this city,airline,0.2988
+airline, what sort of airline does it serve on a daily basis,airline,0.2458
+quantity, how many flights are in a week from dutch to ny,quantity,0.8842
+quantity, how many guests are there at a restaurant in dallas,quantity,0.7992
+quantity, how many items are allowed on the airline from australia to baltimore,quantity,0.7222
+quantity, how many rounds does a single ammo package have to be bought,quantity,0.7161
+quantity, how many items are in the order descending from largest to smallest,quantity,0.5001
+quantity," how many calories do you make from scratch? (per capita) Boston, MA 10 mins",quantity,0.3527
+quantity," how many rounds is the minimum wage in Chicago, Illinois from cny.com to mezc",quantity,0.3275
+quantity, how many times a currency is worth to someone in the US from philadelphia for breakfast,quantity,0.2848
+ground_fare, how much does the ground transportation cost to motels in south america from aparkale pc east wisconsin,ground_fare,0.4896
+ground_fare, what is hotel bed linen cost at motels in texas,ground_fare,0.3984
+ground_fare, what are the ground taxes for a cab in london,ground_fare,0.3248
+ground_fare, what is the price of ground for breakfast at mcdonalds,ground_fare,0.3119
+ground_fare, what is the price of a fare in motels for dutch,ground_fare,0.2963
+ground_fare, how much does the ground rent in Chicago from dt to milwaukee,ground_fare,0.2748
+flight_no," what flight number is the taxi from north eastpark to south park, u can check in advance",flight_no,0.4845
+restriction, What is the restriction on how much per person are allowed to enter a hotel,restriction,0.3271

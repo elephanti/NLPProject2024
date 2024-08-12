@@ -1,0 +1,123 @@
+label,text,predicted_label,probability
+city, what cities are in the city that serve as our country's capital,city,0.8085
+city, what city is the best town in america to live,city,0.7846
+city, what cities are within the city limits of australia,city,0.7714
+city, how many city codes do the metropolitan area have to offer,city,0.7631
+city, what city is san francisco in australia,city,0.7614
+city, what cities is the cheapest metro on caucasus,city,0.746
+city, what cities are the best places to eat in san francisco,city,0.7434
+city, what city is the most populous state in america,city,0.7336
+city, what city does a metro area have before the american currency,city,0.7106
+city, where do you live in nba city [-censored boston,city,0.6988
+aircraft, what type of aircraft is an air frigate used,aircraft,0.9312
+aircraft, what type of aircraft is an american airplane,aircraft,0.925
+aircraft, what type of aircraft are i flying on atlas,aircraft,0.9076
+aircraft, what type of aircraft is the plane you are,aircraft,0.8922
+aircraft, what type of aircraft is the smallest flying btw,aircraft,0.8853
+aircraft, what aircraft is the most common type of airplane for sale,aircraft,0.8563
+aircraft, what type of aircraft does a plane have in flight,aircraft,0.8531
+aircraft, what kind of airplane is the plane with wingtips,aircraft,0.8511
+aircraft, what kind of aircraft is the maverick flying from boston,aircraft,0.8433
+aircraft, what type of air transport is this airplane? flyingplanes,aircraft,0.8303
+ground_service, what ground transportation is on a street in kansas,ground_service,0.6623
+ground_service, what ground transportation is available at tmc-london,ground_service,0.6519
+ground_service, what ground transportation is available on our city street service,ground_service,0.6386
+ground_service, what ground transportation are you on in n.co,ground_service,0.6188
+ground_service, what ground transportation is available in metro venire and baltimore,ground_service,0.5944
+ground_service, what ground transportation is on paltry street in nyc,ground_service,0.5692
+ground_service, what ground transportation is available on ppl in dallas,ground_service,0.5644
+ground_service, what ground transportation are we flying in niswisconsin,ground_service,0.5602
+ground_service, what ground transportation is the rail in australia,ground_service,0.537
+ground_service, what ground transportation is available at uctc durin,ground_service,0.5339
+meal, what is lunch and how many are they prepared for breakfast,meal,0.7326
+meal, what meal meals are included in this category? ...,meal,0.6936
+meal, what does this have to do with meal preparation and the dishes on a vegetarian menu,meal,0.6379
+meal, show me how many calories you will eat at boston,meal,0.6377
+meal, what are the daily meals that come with our sandwiches from cnr mcdonalds,meal,0.6106
+meal, what meal are you on and why does it exist at breakfast,meal,0.6106
+meal, how many pints do you need to cook rice from scratch,meal,0.5842
+meal, what meal is meals from boston to pittsburgh,meal,0.5755
+meal, what is the meal for breakfast buffet dinner from boston to nj,meal,0.5614
+meal, what meals is this meal prepared from scratch in japan,meal,0.5612
+flight, what flights from australia to phoenixville,flight,0.559
+flight, why fly on miami to st. edwards,flight,0.5526
+flight, show me flights from boston to lincoln via cnn,flight,0.5385
+flight, show flights from australia to france via texas on june,flight,0.5369
+flight, show flights from dallas to miami on boston,flight,0.5184
+flight, why flights from boston to ux on dallas,flight,0.5132
+flight," show flights from jap to apache in one go [-20 fridcity at bay entre les charles airport wings boston london on airfare, jeep i am flying en route cusport",flight,0.4821
+flight, show me flight lessons from philadelphia to san francisco,flight,0.4739
+flight, what flights to fly from branson airport for the south,flight,0.4148
+flight, show me all flights from ny to san francisco,flight,0.4087
+airport," what is airpark airport
+ miami at night",airport,0.7252
+airport, what airport is the nearest to enshanty beach,airport,0.5432
+airport, what airport is fly-in at ufl today,airport,0.4552
+airport, what airport do you serve in ny cuyahua,airport,0.4421
+airport, what are airports from boston to michigan,airport,0.4393
+airport, what are airport seats in america and france,airport,0.4364
+airport, what is air travel in pittsburgh airport.,airport,0.4319
+airport, what airport is the cheapest flying around in metro area,airport,0.4309
+airport, show me the airport with seat sizes in airpark,airport,0.4165
+airport, what airport does the airline have in common with other,airport,0.4145
+abbreviation, what does the abbrev mean in terms abbie,abbreviation,0.7026
+abbreviation, what is the abbreviation of bus ticket code n,abbreviation,0.6347
+abbreviation, what is the abbreviation for ABBREVIATION,abbreviation,0.5771
+abbreviation, what is the abbreviation for 'ABBREVIATION,abbreviation,0.4538
+abbreviation, what is the abbreviation for abc-street,abbreviation,0.4538
+abbreviation," what is ""diversity in america""
+ how can u use ur",abbreviation,0.4135
+abbreviation, what abbrevi is wrong with abbr saturday,abbreviation,0.408
+abbreviation, what do I mean by bantam_fareway,abbreviation,0.4051
+abbreviation," what is the abbreviation for ""bibliographic information about baseball""]",abbreviation,0.3918
+abbreviation, what does the 'b' mean when referring to boston,abbreviation,0.3876
+flight_no, what are the best flight modes for nonstop flights,flight_no,0.5831
+flight_no, what are the flight crew numbers and flights that can be booked on american airlines,flight_no,0.5258
+flight_no, what flights is flight number one from japan to ux at night,flight_no,0.525
+flight_no, what flights should be flown by airline and flight number of cabins on footway,flight_no,0.4822
+flight_no, what flight to arrive in city airport after 7 hours from seattle,flight_no,0.4414
+flight_no, what is the flight time for flights from udallas to phoenix,flight_no,0.4357
+flight_no, what flight is the last passenger class friday at san francisco,flight_no,0.4193
+flight_no, what flight number is a charter airline from aparkansas to dallas via texas,flight_no,0.4118
+flight_no, what are flight attendant fees on the flights from boston to london,flight_no,0.3783
+flight_no, what is this flight simulator from kennedy to phoenix,flight_no,0.3565
+airline, what airlines from uca to nj cn,airline,0.772
+airline, what type of airline are the most flying charter airlines,airline,0.6651
+airline, what airline do you fly from aust to pittsburgh,airline,0.6598
+airline, what flights does airport american airlines fly on airplane,airline,0.6314
+airline, what airlines fly from dallas to japan tahoma,airline,0.5729
+airline, what airlines fly from boston to london by airplane,airline,0.4971
+airline, what airlines is charter flying from france to boston,airline,0.458
+airline, what airlines are flyovers from marietta to apache,airline,0.4408
+airline, what airlines can we fly from nordic to philadelphia,airline,0.4233
+airline, what airlines are flying from boston to pittsburgh,airline,0.41
+airfare, what are the cheapest fares available on boston daily,airfare,0.6128
+airfare, what is the fares for a day from australia to michigan,airfare,0.5836
+airfare, what is air fare and how much does it cost,airfare,0.5451
+airfare, what is the price of airline from australia to japan on baltimore,airfare,0.4945
+airfare, what is the price of a ticket on cnb friday night,airfare,0.4871
+airfare, what is the price of a gallon to san francisco,airfare,0.4529
+airfare, what are the fares from america to australia,airfare,0.4374
+airfare, how much does it cost to buy a ticket from boston airport,airfare,0.4361
+airfare, what is the cheapest airline from milwaukee to stamford,airfare,0.4179
+airfare, what is the fare on average from australia to phoenix airport,airfare,0.3795
+capacity, how many seats is the current capacity of passenger cab,capacity,0.3778
+capacity," how many guests are willing to book this seat
+ carpenter cabins",capacity,0.3413
+capacity," what does this mean in capacity
+ how many seats can I have at a convention",capacity,0.2663
+capacity, what is the capacity of this boat withstood marinities,capacity,0.2232
+capacity, what kinds of items are in capacity and how many on site do we have,capacity,0.1816
+capacity, how many people is the capacity of a boston airport?,capacity,0.1658
+restriction, what is the restriction on food allowed in nj,restriction,0.3043
+restriction," what is this reservation system in the United
+",restriction,0.2232
+restriction, show me what are the restrictions on seat belts in america,restriction,0.1875
+restriction, how many people can be excluded from the list of banned places,restriction,0.1807
+distance, what is the distance between pinterest and russia,distance,0.3048
+distance, what distance is mile from seattle to california,distance,0.232
+distance, what distance from Waterloo to Boston in miles (non stop),distance,0.2229
+distance, what distance do you mean walk from dallas to berlin,distance,0.1553
+quantity, what the number of components in a gallon is and how many are there,quantity,0.293
+quantity, how many passengers are on a flight from apalachicola to harlingdale,quantity,0.2822
+ground_fare, what are the price tags for ground transportation in uca,ground_fare,0.1982

@@ -1,0 +1,163 @@
+label,text,predicted_label,probability
+meal," The meal of meals, consisting primarily serving and sundry",meal,0.4
+meal, what meals are in meal baskets for general admission on a flight from Boston to Los,meal,0.3984
+meal,"
+ cookoff of meals for guests, including lunch (4)",meal,0.3937
+meal, show me what meal meals are appropriate for the cuisine category in which they come from,meal,0.3918
+meal,"plenty of meals, variety at breakfast including nunchaku dinner with lots more",meal,0.3897
+meal," The meals at St Patrick's in Charlottetown, PA from Boston to Philadelphia",meal,0.3884
+meal," The first meal at the airport is. (Less than appetizer, non-delivery)
+",meal,0.3867
+meal,"plenty of the meal for meals in San Francisco (permanent)
+ southern food deserts",meal,0.381
+meal," this is a list of all meals served by the chef on april 4, 2009 from west coast to southwest",meal,0.3789
+meal, The food served is a meal (usually consisting of bread and potatoes) from one side to dining room,meal,0.3747
+distance, shows the distance from an airport to a city in Boston,distance,0.4142
+distance, The distance from Boston to Philadelphia in miles (including motels),distance,0.4105
+distance," shows the distance from a to an airport by car in Baltimore, MD",distance,0.4043
+distance, the distance from New York to Philadelphia in miles (US),distance,0.4041
+distance," distance from city to town center, in feet per hour (000)
+ miles on foot",distance,0.3951
+distance," the distance from Boston to New York (includes both land and sea)
+ mile north of Manhattan",distance,0.393
+distance,"
+ distance from west to south airport in mile-hours",distance,0.3923
+distance," The distance from Boston to San Francisco, CA.",distance,0.3903
+distance, the distance from New York to Montreal (regular route),distance,0.3893
+distance, The distance from Boston to Washington at mile marker (with stops in Burlington and,distance,0.3892
+ground_service," what is ground service (including kitchen, living rooms) in the city",ground_service,0.3494
+ground_service,"placement of ground service in cities, county jails (includes police stations) Boston: New York City.",ground_service,0.335
+ground_service," the ground service (serviced by metro-state, from city to state)",ground_service,0.3315
+ground_service, this is a ground service running in the United,ground_service,0.3214
+ground_service," the ground service of Boston to Its airport (Ground Station)
+ USGA Airport Atlanta - Westside Service Center",ground_service,0.3174
+ground_service, not in the loopback ground services are served by city,ground_service,0.3118
+ground_service," the ground service in a city, from northern England to south east",ground_service,0.3105
+ground_service," what is ground service
+ moorland streetlights",ground_service,0.307
+ground_service," The ground service running (condition, choice is 'C')",ground_service,0.3064
+ground_service, skywalks: 1 apic2 car service,ground_service,0.286
+flight, show flights from south american states to japan at flyovers,flight,0.3241
+flight," show flights from San Jose, CA to Seattle
+ south america",flight,0.3214
+flight,"
+ flights from west to south (from Pittsburghsburgh, Pennsylvania)",flight,0.3157
+flight, show me flight from south to uk on flights by,flight,0.3144
+flight," show flights from San Francisco to LAX
+ american food street",flight,0.3102
+flight, show me flights from australia to nyustria on airplanes,flight,0.31
+flight," show flights from Boston to London,England with stops in Brighton and Chelsea",flight,0.3018
+flight, flights from San Francisco to Boston via Flyover Bay Bridge,flight,0.2981
+flight," show flights from Amsterdam to Kuala Lumpur, South Africa",flight,0.298
+flight," show flights from Chicago to San Francisco (excluding weekends)
+",flight,0.2958
+capacity," limit. at least 1 seats (permanent)
+
+PART II--",capacity,0.3949
+capacity," the size of an airport passenger lounge
+ capacity in US (empty)",capacity,0.3807
+capacity,"
+ the capacity of any passenger • (1) By adding '' to each place it appears in relation, including references",capacity,0.3709
+capacity,"
+ empty seat. (US - Springfield, ME)",capacity,0.3694
+capacity," to capacity (empty)
+ airplane fuel economy",capacity,0.3683
+capacity,"
+ capacity in m2c.capitals",capacity,0.3416
+capacity,"placement capacity (of the largest aircraft in US cities per capita)
+",capacity,0.337
+capacity," : The capacity of the passenger aircraft to carry passengers on an air travel over New York City. Air transportation: cabin
+ large",capacity,0.3343
+capacity," not set, max capacity is unlimited
+ total",capacity,0.3209
+capacity,"
+ capacity of a passenger ship on an international voy",capacity,0.3201
+aircraft, not flying in airplanes from outside the United States to Canada,aircraft,0.3349
+aircraft, to airplanes of the [- ] flying classes,aircraft,0.3272
+aircraft," to airplanes [-1,650,-867-2 miles in US and CA",aircraft,0.3248
+aircraft," show airplane flying from airplanes to airport, city limits (from Amsterdam)",aircraft,0.3199
+aircraft, airplanes in world sky are not flying from airport to sea,aircraft,0.2869
+aircraft," fireplanes in general - airframe name & description (Air) Description flies to and from the United States, Canada Airport on Airport land at Vancouver Island. See Also: Plane Owners Manual",aircraft,0.2864
+aircraft," the craft flying pesso veers off course in air (3287,0) from smithyguy2 at 2015 runway 9 to mile 9",aircraft,0.2835
+aircraft, airplanes flying in the airport is a smoke Free Syrian Army Airplane (1) The Turkish Armed Forces,aircraft,0.2826
+aircraft, show airplane by pakoreanjoe on quest _pasa_planes from philadelphia to japanese,aircraft,0.2824
+aircraft, nautical-planes flying from fr. london to japan (the seaport) mercedes,aircraft,0.2805
+flight_time, what time is it during flights from west to east,flight_time,0.3131
+flight_time, what time it was on flights from New York to Chicago,flight_time,0.3059
+flight_time, What time is it on in flight from Amsterdam to London,flight_time,0.3038
+flight_time, what time it is in minutes (including landing hours) from Amsterdam to Paris,flight_time,0.2924
+flight_time," what time it took us to fly from Philadelphia, Pennsylvania",flight_time,0.2905
+flight_time, what flight time is this? (0-101),flight_time,0.2747
+flight_time, show time on flight from flying over airport to riding,flight_time,0.2711
+flight_time," The time it will take for the last flight from San Francisco to Boston in seconds
+ mile per hour",flight_time,0.2693
+flight_time, show time in seconds before an flight from Philadelphia to Boston,flight_time,0.2518
+flight_time, what flight time is the closest airport to Saint Louis,flight_time,0.2501
+abbreviation, why_you shouldnt use this one! Why not improve it by adding a few more clauses,abbreviation,0.2244
+abbreviation, show me all acronyms that are not spelled correctly,abbreviation,0.2244
+abbreviation, sear_prefix 'sounds.txt' default,abbreviation,0.2162
+abbreviation, searcher string : 'Search for - /b/search',abbreviation,0.2115
+abbreviation, what is the postal code (US Postal Service),abbreviation,0.1995
+abbreviation, searcher string for alphanumeric purposes (e,abbreviation,0.1947
+abbreviation," show where to find comma in this title
+",abbreviation,0.1941
+abbreviation," to abbrev from sledgehammer numboolean (in thousands of consecutive separator characters)
+ abridgment_general usage for a b or c prefix the list '",abbreviation,0.1913
+abbreviation," show me how to type alp name
+",abbreviation,0.191
+abbreviation, how many comma separated lists are there is. by default this will be one,abbreviation,0.1806
+airport," : airport - airports
+ railroads in cincinnati",airport,0.3406
+airport, airports in France from Paris to Boston and beyond,airport,0.3093
+airport," <AirPORT> US Airports (1) Canada, Québec City and Airport | boston
+",airport,0.261
+airport," notifier airports flying in city.
+ Airline taxi - lincoln,lavalet (1-800) mlb ft boston",airport,0.2537
+airport," airports all around the world, including China & Russia",airport,0.253
+airport," - airports and railroads in central Europe (except London, Essex)",airport,0.25
+airport, : Sydney Australia Airports from Perth toland,airport,0.2368
+airport,"
+ Airport Services in Houston, TX. ftairs@hotmail The Airline Lounge of Harrisburg",airport,0.2055
+airport, n_nightclubs in miami.starbucks,airport,0.1979
+airport, airports for non-European countries flying from Europe to the United [-LINKS,airport,0.1964
+city, show where cities are based in the United south america,city,0.2166
+city," show city shows all cities with a different currency
+",city,0.2099
+city,port city the country in which this town is located,city,0.2058
+city," What cities are there? CA city of ca, metro Atlanta (GA) suburbs Chicago Sunbelt City-Midwest Omaha Steamer Rail Service Cleveland Central Ohio Metro Denver Metropolitan Transit Phoenix Midway",city,0.2054
+city," What is this city? Minnesota United States Duluth (IL)
+ - cities & towns Minneapolis, MN",city,0.1977
+city," this country is located, with City and County names",city,0.1966
+city, the city in which this place is based The United Kingdom,city,0.1923
+city," notenough cities, excluding Seattle and the surrounding metro areas",city,0.1902
+city," what is the largest city in Baltimore, Maryland from northwest to south",city,0.1894
+city," this is the city in which all adults live within walking distance of Cambridge, MA",city,0.1894
+airline, what airlines are flying from lounges to airport (per person) | +---------------+---------------------------------------------------------------------------------------------| 1 flight out of town,airline,0.2111
+airline, this is an air passenger airline from north to south,airline,0.2039
+airline, The passenger airline from Philadelphia to Seattle on a one way flight,airline,0.1959
+airline, not in service. airline ; air taxi off flights from east coast to south,airline,0.1942
+airline, this is an airline from australia to uk,airline,0.1917
+airline, in flight cabin service airlines flying from Boston to Los,airline,0.1778
+airline, airliners from the United States to Canada via Chicago,airline,0.171
+airline, ntpd_service airlines from uk to phoenix,airline,0.1641
+airline," US Airways flying from Seattle to LAX via taxi, bingo... Free View airliners
+ Airplane flights with Tom Kras • Los Angeles United JetBlue flight 4",airline,0.1621
+airline, airliners-to airports for international flights between Chicago and New York City,airline,0.1577
+airfare, price of flight from city to airport (per person) in Amsterdam,airfare,0.2225
+airfare," price at airport departure from west coast USA on flights to Boston, MA",airfare,0.1822
+airfare, airport_price per person on flight from San Francisco to Oakland,airfare,0.1773
+airfare," price in city airport taxis (per person) Halifax, Nova Scotia from Quebec City to Montreal",airfare,0.1707
+airfare," not tourism-starbucks Canada - South Africa
+ air fare at host airport in host city",airfare,0.1327
+airfare, go buy tickets to the airport from east coast airlines flying south,airfare,0.1289
+airfare," not exist, ticket type tickets to this country are booked on Airline (Canada)",airfare,0.1267
+flight_no, flight no available after 9: flights to and from Chicago,flight_no,0.1958
+flight_no," show flights by flight name in the world
+ runwayfare at airports around this city",flight_no,0.1488
+flight_no, <flyovers><limit>1</ flying flights from north to south (0) westwards at sunset on Jan 2018 btu,flight_no,0.1221
+flight_no, <name of flight landing site>landing and departure from south american airport after flights,flight_no,0.1114
+flight_no, flight leave without a landing gear runway lights out on flights depart from airport to destination city,flight_no,0.0928
+ground_fare,"
+ The cost of the train to downtown Chicago from Dearborn.",ground_fare,0.2133
+ground_fare, how much of the ground does New York City have a hotel,ground_fare,0.1593
+ground_fare, show me the money that is currently being spent on flights from north to south,ground_fare,0.156

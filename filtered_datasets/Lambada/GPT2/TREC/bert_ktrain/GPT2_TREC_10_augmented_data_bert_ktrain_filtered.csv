@@ -1,0 +1,372 @@
+label,text,predicted_label,probability
+ENTY:color, What color is 'colored' in the world?,ENTY:color,0.2781
+ENTY:color, What color is the best tint of black powder ?,ENTY:color,0.2758
+ENTY:color, What color are you (s)ighted-eye ?,ENTY:color,0.275
+ENTY:color, What color is the daylight of a lamp ?,ENTY:color,0.2748
+ENTY:color, What color are the brightest lights in your house ?,ENTY:color,0.2746
+ENTY:color, What color are the largest rocks in The Wasteland ?,ENTY:color,0.2732
+ENTY:color, What color do you think is the most beautiful thing a person can be ?,ENTY:color,0.2732
+ENTY:color, What color is the sun? (in colors ),ENTY:color,0.272
+ENTY:color, What color is it ? (blue) The Moon?,ENTY:color,0.2718
+ENTY:color," What color is the sun (Red, Blue) ?",ENTY:color,0.271
+NUM:date, What year did the British colonial powers become ? |,NUM:date,0.1168
+NUM:date, What year did the Constitution of Mexico become? /,NUM:date,0.1167
+NUM:date, What year was the Year of Lincoln ? (1706 -,NUM:date,0.1167
+NUM:date," What date the phrase ""day in Canada was invented"" begins?",NUM:date,0.1164
+NUM:date," What year is the beginning of June ? Date : New York City
+ monthVALUE (long) Name !",NUM:date,0.1132
+NUM:date, What year was the last time you visited The Beatles ?,NUM:date,0.1115
+NUM:date," What year are you married? (year) January 31, 1949 Year is the month in which all persons born at least ?",NUM:date,0.1111
+NUM:date, What year was the month that The New York Times ran its first ?,NUM:date,0.1107
+NUM:date, What date (year) did the moon land on ?,NUM:date,0.1101
+NUM:date," What year is the Year of Mercy ? (use integer) June 29, 1889 , U.S.-Canadian : Catholic ;",NUM:date,0.1095
+ENTY:animal, What animal is the best in America ? The dog or cat?,ENTY:animal,0.1749
+ENTY:animal, What animal was the first? (penny) Who is it that gave birth to an elephant ?,ENTY:animal,0.1745
+ENTY:animal, What kind of animal is the dog? A horse ?,ENTY:animal,0.1744
+ENTY:animal," What animal is the dog? (Laugh) Yes, I've got a horse.",ENTY:animal,0.1739
+ENTY:animal, What animal was the ancestor of Homo sap ?,ENTY:animal,0.1737
+ENTY:animal, What animal is the most beautiful ? A dog?,ENTY:animal,0.1727
+ENTY:animal," What animal is the elephant ?
+THE MAN OF STE : horse ) An ugly bird?",ENTY:animal,0.1727
+ENTY:animal," What animal is the greatest?
+COTTAGE OF MAN : horse (horse) ?",ENTY:animal,0.1726
+ENTY:animal, What kind of animal is an 'an'?,ENTY:animal,0.1723
+ENTY:animal, What animal are the animals in ? P : an human {in}THE world?,ENTY:animal,0.1723
+LOC:city, What city does the Southwestern Quarter consist of ?,LOC:city,0.2781
+LOC:city, What city is the University of Waterloo ? [- LAND ] Cambridge : London (England) The university where all people live?,LOC:city,0.2743
+LOC:city," What city is London ?
+ US capital : Great Britain.",LOC:city,0.273
+LOC:city, What city is the City of Toronto? /ˈtor-ɔ ?,LOC:city,0.2724
+LOC:city, What city is Amsterdam? New York City ? (?),LOC:city,0.2718
+LOC:city, What city is St Paul ? (United States) South Dakota United Kingdom?,LOC:city,0.2709
+LOC:city, What city do you want to call the Town of Salem ?,LOC:city,0.2708
+LOC:city," What city is Springfield? , the ? (defunct ?)",LOC:city,0.2701
+LOC:city, What city is the Saint John's International ? [-LHU-][YTK ] Chicago : The Canadian province of Canada?,LOC:city,0.2698
+LOC:city, What city is Chicago? -EURY New York City.,LOC:city,0.2697
+ENTY:currency, What currency do you have in common with the UK ?,ENTY:currency,0.0961
+ENTY:currency, What currency was the world's currency ? :D,ENTY:currency,0.0957
+ENTY:currency, What currency does the United U.S.?,ENTY:currency,0.0948
+ENTY:currency," What currency is it ? When used in the United States , Canadian or Spanish?",ENTY:currency,0.0942
+ENTY:currency, What currency is Money? (1) The United States Currency ?,ENTY:currency,0.0935
+ENTY:currency, What currency was the United Currency ? ( ),ENTY:currency,0.0927
+ENTY:currency, What currency do you use? : US Dollar ?,ENTY:currency,0.0926
+ENTY:currency, What currency is 'Canadian' ? (Canada) :,ENTY:currency,0.0925
+ENTY:currency, What currency does a person in the world stand on ?,ENTY:currency,0.092
+ENTY:currency, What currency was the Currency of Egypt? (Homer's Bill) The Republic or Liberty ?,ENTY:currency,0.0919
+ENTY:lang, What language should be spoken by the United States of America ?,ENTY:lang,0.3189
+ENTY:lang, What language did the English spoken by people born in England and Wales?,ENTY:lang,0.3105
+ENTY:lang," What language was the most popular dialect of Man, Africa and Latin America ?",ENTY:lang,0.3094
+ENTY:lang, What language is the most popular? Anglo-Saxon English ?,ENTY:lang,0.3089
+ENTY:lang, What language was The Simpsons most famous? British English spoken ??,ENTY:lang,0.3077
+ENTY:lang, What language was the English speaking civilization before Jesus Christ ?,ENTY:lang,0.307
+ENTY:lang, What language is the name of a township ? ( ),ENTY:lang,0.3066
+ENTY:lang, What is the language of The Simpsons ? (?,ENTY:lang,0.3049
+ENTY:lang, What language is it ? (Chile) Latin America & New England United States Both languages spoken in the Americas at least five years ago and several centuries later?,ENTY:lang,0.3044
+ENTY:lang," What language is the English spoken on ? Yes, and how many times have you heard it before this House or after that?",ENTY:lang,0.303
+ENTY:plant, What plant is planted ? (s) The flowery seed of a tree?,ENTY:plant,0.2361
+ENTY:plant, What plant is the most beautiful? a woman ?,ENTY:plant,0.2304
+ENTY:plant, What plant has been the greatest vegetable garden for you ?,ENTY:plant,0.2277
+ENTY:plant, What plant is it that makes you happiest? The plants which make me happy ?,ENTY:plant,0.2235
+ENTY:plant," What plant is this man ? The Answer being : a , or an ornamental tree?",ENTY:plant,0.2222
+ENTY:plant, What plant is the most amazing creature you have never ?,ENTY:plant,0.22
+ENTY:plant, What plant was the last one eaten by an American?,ENTY:plant,0.2188
+ENTY:plant, What plant is the largest? :tree The tree which grows ?,ENTY:plant,0.2185
+ENTY:plant, What plant was the most beautiful creature in your garden?,ENTY:plant,0.2168
+ENTY:plant, What plant is Plant ? (SQU) The flower of the genus Pl?,ENTY:plant,0.2131
+NUM:weight," What is the weight of an ounce ?
+",NUM:weight,0.1864
+NUM:weight, What is the average weight of a man in New Zealand and Australia ?,NUM:weight,0.1864
+NUM:weight, What is the average weight of a man and woman ?,NUM:weight,0.186
+NUM:weight, What is the weight of a body mass index in kilograms ?,NUM:weight,0.1855
+NUM:weight, What is the weight of a pound (United States ) ?,NUM:weight,0.1827
+NUM:weight," What is the weight of a lamp ? A candle ,",NUM:weight,0.1817
+NUM:weight, What is the weight of an elephant (m) ?,NUM:weight,0.1817
+NUM:weight, What is the weight of a pound ? ( ),NUM:weight,0.1816
+NUM:weight, How much of a pound does an Englishman weigh?,NUM:weight,0.1808
+NUM:weight, What is the weight of a horse ? A penny : fat pig .,NUM:weight,0.1803
+ENTY:food, What food is the best kitchen? (S) a French fry ?,ENTY:food,0.0987
+ENTY:food, What's the best food now? avec sausages ?,ENTY:food,0.0984
+ENTY:food, What is food? :drink {S} a drink ?,ENTY:food,0.0952
+ENTY:food, What food is it? (flustered) Where did you get that ?,ENTY:food,0.0937
+ENTY:food, What food is the most delicious? (s) A hamburger : fried chicken ?,ENTY:food,0.0925
+ENTY:food, What is food ? Why does it stink? BRAND NEW :apple sauce .,ENTY:food,0.0923
+ENTY:food, What food was the first meal eaten by a person named Dr. Pepper ?,ENTY:food,0.0921
+ENTY:food, What is the most delicious food in New York City ?,ENTY:food,0.0917
+ENTY:food," What's your favorite food?
+DRESS :coat, coat & tie (in French) Hairdress ?",ENTY:food,0.0913
+ENTY:food," What kindFood is your favorite food ?
+ The vegetable which was the biggest?",ENTY:food,0.0911
+NUM:speed," What is the speed of sunrise at sunset ?
+",NUM:speed,0.3137
+NUM:speed, How fast is the speed of a horse in relation to an average human ?,NUM:speed,0.3062
+NUM:speed, What is the speed of sound in a country ?,NUM:speed,0.2939
+NUM:speed, What speed is the largest marble in New Orleans?,NUM:speed,0.2937
+NUM:speed," What is speed? [-EULC -r ""Speed""] How fast are you sprinting ?",NUM:speed,0.2932
+NUM:speed, What kind is the speed of light in British Columbia ?,NUM:speed,0.2926
+NUM:speed, What speed is the average slow-moving car ?,NUM:speed,0.2926
+NUM:speed, What speed is the quickest moving street in New Orleans ?,NUM:speed,0.291
+NUM:speed, What speed is the fastest spinning cylinder in your radius ?,NUM:speed,0.2908
+NUM:speed, What speed is the fastest street in New York City ?,NUM:speed,0.2906
+LOC:state," What state is California? -- South America. United States
+                  West Indies ?",LOC:state,0.2793
+LOC:state, What state is Minnesota most famous for ? (DEM) Minneapolis United States - Rocky Mountains :,LOC:state,0.2786
+LOC:state, What state is California in? Part Name Description SUNY Greenwich Mean British Longitude ?,LOC:state,0.2784
+LOC:state," What state is Illinois ? Yes, Wyoming The UnitedUnited States of America?",LOC:state,0.2784
+LOC:state, What state is South Carolina in ? The Great State of Louisiana or Mississippi?,LOC:state,0.2759
+LOC:state," What state does Virginia have a ""State""? (South Carolina) American Samoa far north USA State Washington D Canada ?",LOC:state,0.2753
+LOC:state, What state is the California State? New York (map) ?,LOC:state,0.275
+LOC:state, What state is the United Boston and New York City ?,LOC:state,0.2745
+LOC:state," What state is the United South ? By State, British Columbia?",LOC:state,0.2735
+LOC:state, What state is California at? (infinitive plural COUSE?),LOC:state,0.2728
+ENTY:symbol," What symbol is the ""Symbolic Candle""?",ENTY:symbol,0.1693
+ENTY:symbol, What symbol is the `S' in Pentos ?,ENTY:symbol,0.1674
+ENTY:symbol, What symbol is the 'Wedge' in a triangle ?,ENTY:symbol,0.1665
+ENTY:symbol, What symbol is a 'Symbols' ?,ENTY:symbol,0.1649
+ENTY:symbol," What symbol is the word ""Symbolic of Christ""?",ENTY:symbol,0.1649
+ENTY:symbol, What symbol is a maple leaf ? ( ) :,ENTY:symbol,0.1582
+ENTY:symbol, What symbol is the Greek word for `Greek ?,ENTY:symbol,0.1567
+ENTY:symbol, What symbol is the 'T' in Arabic ?,ENTY:symbol,0.1565
+ENTY:symbol, What symbol is 's sycamore ? (magnitude) :,ENTY:symbol,0.1565
+ENTY:symbol, What is the symbol for 'punctuation'?,ENTY:symbol,0.1556
+ENTY:word, What was the first word for 'em' ?,ENTY:word,0.1575
+ENTY:word," What is the word in English \""tee ?",ENTY:word,0.154
+ENTY:word, What is a word that stands for ? ( ),ENTY:word,0.1518
+ENTY:word," What is ""THE WORST word in the English language"" ?",ENTY:word,0.1483
+ENTY:word," What's the best word for 'eye?' I mean, what would you like it to be?",ENTY:word,0.1476
+ENTY:word, What word is the 'letter' of England ?,ENTY:word,0.1475
+ENTY:word," What word was the first ? (chorus)What is that , O'clockwise?",ENTY:word,0.1475
+ENTY:word, What is the word itself? English (Hind) ?,ENTY:word,0.1471
+ENTY:word, What is your favorite word ? I have a phrasebook ...,ENTY:word,0.1459
+ENTY:word, What's the most boring word in English? If it has a title and ending that ends with an ?,ENTY:word,0.1459
+LOC:country, What country do you live in? New Zealand United States England ?,LOC:country,0.1571
+LOC:country, What country is this? (partie) South Carolina ?,LOC:country,0.1561
+LOC:country, What country are you from? Where is Australia ?,LOC:country,0.1546
+LOC:country, What country are you from? Where is Canada ?,LOC:country,0.1534
+LOC:country, What country are you in? Where Are You from ?,LOC:country,0.1531
+LOC:country, What country is Somalia? /Where can I find it ?,LOC:country,0.1528
+LOC:country," What country did England, France and Italy originate?",LOC:country,0.1524
+LOC:country, What country are you from? UK : United Kingdom (%),LOC:country,0.1521
+LOC:country, What country is Denmark? Why the hell not ?,LOC:country,0.1516
+LOC:country, What country do you have? GMT : International / SouthEastEuropeanCountry ?,LOC:country,0.1515
+NUM:money, How much did it cost to British Columbia ?,NUM:money,0.126
+NUM:money, How much money does an Irishman make on a pound (euro) ?,NUM:money,0.1178
+NUM:money, How much do you want to pay its janitor ?,NUM:money,0.1142
+NUM:money," What is the daily wage of a merchant ? Wherein it comes from : A city, town or country?",NUM:money,0.1074
+NUM:money, What is the price of a gallon ounce? -,NUM:money,0.1015
+NUM:money, What is the monetary value of a pound (USD) ?,NUM:money,0.1015
+NUM:money," What is money ? (? =) How much do you think the average American household wealth actually are , in terms years of life and income - Inflation-adjusted dollars, United States Compared to other countries Amount % Change since 1998 (%) Mean number long term debt : Long short cash equivalents Average amount spent on borrowing & exchanging total UShort US Long Term Debt",NUM:money,0.1013
+NUM:money, What is the daily monetary value of 'Money?',NUM:money,0.1001
+NUM:money," What is the average salary of an employed person, New Zealand or Northern Ireland ?",NUM:money,0.0993
+NUM:money," What money do you have? : How much are ""millionaires"" ?",NUM:money,0.0962
+LOC:mount, What is the most beautiful mountain in Britain ? (1) hill : a covered valley ?,LOC:mount,0.3118
+LOC:mount, What type of mountain is the Mount Everest base ?,LOC:mount,0.3113
+LOC:mount, What is the mountain that you have just climbed ?,LOC:mount,0.3036
+LOC:mount, What is the name of a mountain ? ( ),LOC:mount,0.296
+LOC:mount, What is a mountain? -name : US national or provincial ?,LOC:mount,0.2941
+LOC:mount, Where is the nearest mountain to sea? [-SLEEP,LOC:mount,0.2907
+LOC:mount, What type of mountain is Castle Black ? - North England / South Wales : north Britain | British (English) Country?,LOC:mount,0.2902
+LOC:mount, What type of mountain are they ? (Mono) How many hills do you have in your state -Montana?,LOC:mount,0.2699
+LOC:mount, What is the mountname of a mountain ? (start ),LOC:mount,0.2629
+LOC:mount," What's the best mountain range in Seattle? /ˈk , Latin root of snowpl‎, diminutive OF snowpierc ?",LOC:mount,0.2543
+ENTY:letter, What letter is the 'Letter of Canada' ?,ENTY:letter,0.1461
+ENTY:letter, What letter do you prefer to be translated from Greek?,ENTY:letter,0.1425
+ENTY:letter, What letters do you think are best? Straight ?,ENTY:letter,0.1396
+ENTY:letter, What is the most famous letter in English? (?),ENTY:letter,0.1395
+ENTY:letter, What letter do you mean 'Letter from America'?,ENTY:letter,0.1384
+ENTY:letter, What letter is the word 'Worship' ?,ENTY:letter,0.1367
+ENTY:letter, What letter should this bee be? -Hwie-Tbik 'If the sun shines on an ?,ENTY:letter,0.1362
+ENTY:letter," What letter is 's Letter ?
+ USH : (Letter) a British colony?",ENTY:letter,0.1362
+ENTY:letter, What is the letter of this ? (whole) | Why does 's body consist in six words?,ENTY:letter,0.1356
+ENTY:letter, What letter should a man write in the name of his god ?,ENTY:letter,0.135
+NUM:temp, What is the temperature of 's clothes?' In Celsius ?,NUM:temp,0.2221
+NUM:temp, What is the temperature of an oven in Celsius ?,NUM:temp,0.2215
+NUM:temp, What is the temperature in Celsius? (In N) Temperature ?,NUM:temp,0.2206
+NUM:temp, What is the temperature of sodium in a nutshell?,NUM:temp,0.2187
+NUM:temp, What is the temperature in Kelvin (Lower or Upper ?,NUM:temp,0.2176
+NUM:temp, What is the temperature at which all salt crystals are ?,NUM:temp,0.2169
+NUM:temp, What is the temperature of a boiled potato? -,NUM:temp,0.2152
+NUM:temp," What is the best temperature in New England ? Yes, sir.",NUM:temp,0.2145
+NUM:temp, What temp is the best temperature in a city ?,NUM:temp,0.2144
+NUM:temp, What is the maximum temperature of water used in cooking ?,NUM:temp,0.214
+ENTY:body, What is your favorite body part ? BEHIN (part of hum): Muscle or joint?,ENTY:body,0.168
+ENTY:body, What is the body? :SILICULAR The abdomen ?,ENTY:body,0.1565
+ENTY:body, What is the longest standing muscle in human beings?,ENTY:body,0.1526
+ENTY:body, What is body ? :head {SUBSTC} My mouth?,ENTY:body,0.1416
+ENTY:body, What body did you originally choose? (SQW) My mouth ?,ENTY:body,0.1096
+ENTY:body, What is body ? (SQUAD) The mouth of a duck?,ENTY:body,0.1084
+ENTY:body, What body is the best skeleton? A human ?,ENTY:body,0.1064
+ENTY:body, What is the name of a body ? : The skeleton or portion thereof which consists solely and exclusively .,ENTY:body,0.0996
+ENTY:body, What body is 'Somewhere in the world?',ENTY:body,0.0981
+ENTY:body, What is a body? : the part of an animal that has been killed ?,ENTY:body,0.0884
+ENTY:techmeth, What is the technology used to determine which inventions are real and not just myths?,ENTY:techmeth,0.066
+ENTY:techmeth, What is the technology used to create and maintain large scale manufacturing facilities ?,ENTY:techmeth,0.0645
+ENTY:techmeth, What technology is it ? Why are there moonshot volcanoes :,ENTY:techmeth,0.062
+ENTY:techmeth," What technology does the word ""telephone"" have?",ENTY:techmeth,0.0603
+ENTY:techmeth, What is the most important technological innovation of all time ?,ENTY:techmeth,0.0601
+ENTY:techmeth, What technology do you have that nobody else has ?,ENTY:techmeth,0.0596
+ENTY:techmeth, What technological advancements did the American Empire have? :,ENTY:techmeth,0.0575
+ENTY:techmeth, What was the technology of technic warfare ? (TRAIN) Technology : science & magic !,ENTY:techmeth,0.0573
+ENTY:techmeth, What technology is this 'Technology' in the world ?,ENTY:techmeth,0.0569
+ENTY:techmeth, What technology is this ? (Technological term for particle accelerator) The technical description of a,ENTY:techmeth,0.0569
+ENTY:product, What product are you selling ? SEPARATOR :,ENTY:product,0.0884
+ENTY:product, What was the product that you invented ? PICKUPPER :,ENTY:product,0.0873
+ENTY:product, What is the most annoying product in your life ?,ENTY:product,0.0814
+ENTY:product, What product has been used in the United States for drug testing ?,ENTY:product,0.081
+ENTY:product," What product do you work ?
+THEBODY :fatigue [-S1W][RAVHIGHT]] A fat muscle. a slang term for the anatomy of an buttocks .",ENTY:product,0.0802
+ENTY:product," What product is the most important appliance ? ORIGIN :name , country-of-origin (Canada) SUBSTANCE or adjective, nouns of US company AMERICAN OR other Englishَاهً لْ ئِری مذينت الابسود والعمبة ف ) : a which stands for the The itself .",ENTY:product,0.0788
+ENTY:product, What product(s) are you working on ?,ENTY:product,0.0758
+ENTY:product, What is the most expensive appliance used in England and Wales ?,ENTY:product,0.075
+ENTY:product, What product is the most valuable piece of furniture in America ?,ENTY:product,0.074
+ENTY:product, What is a product? Why not SOURCE ?,ENTY:product,0.0717
+NUM:volsize, What is the size of a horse ? (L-V) How large are all woolen horses in Britain?,NUM:volsize,0.1764
+NUM:volsize," What is the size of a room ? Yes ,",NUM:volsize,0.1742
+NUM:volsize, What size is the maximum amount of room in a world?,NUM:volsize,0.1511
+NUM:volsize, What is the largest size of a room? Simple.,NUM:volsize,0.1504
+NUM:volsize," What the hell is a ""normal size"" ?",NUM:volsize,0.1503
+NUM:volsize, What is the largest size of a football stadium ?,NUM:volsize,0.1488
+NUM:volsize, How much of a size is the U. :number Of bedrooms ?,NUM:volsize,0.1435
+NUM:volsize, What size of the largest mallu-digit in US and Canada ?,NUM:volsize,0.1432
+NUM:volsize, What's the size of a library ? (library ),NUM:volsize,0.1429
+NUM:volsize, What is the size of a cylindrical glass pipe ?,NUM:volsize,0.1406
+NUM:period," How long has the last been an American? Never
+ NUMY :month ?",NUM:period,0.1832
+NUM:period, How long has the phrase ''was'' been in English ?,NUM:period,0.1807
+NUM:period, How long has the last laundry cycle been ? When?,NUM:period,0.1759
+NUM:period, How long was the last day of month? Why not ?,NUM:period,0.1655
+NUM:period, How long has a date in The Netherlands (day) elapsed from beginning of month ?,NUM:period,0.1639
+NUM:period, How long is the longest period for which a man has lived ?,NUM:period,0.1613
+NUM:period, How long does the 'month' in month (in minutes) of January end ?,NUM:period,0.1487
+NUM:period, How long has the period been? (definitions ) When is this an abbreviation of ?,NUM:period,0.148
+NUM:period, How long has the last major earthquake in America been since 1900 ?,NUM:period,0.1446
+NUM:period, How long the period of 'M' has been?,NUM:period,0.1437
+ENTY:substance, What substance do you want to be a slave?,ENTY:substance,0.0784
+ENTY:substance, What substance does the term 'drinking' have to do ?,ENTY:substance,0.076
+ENTY:substance, What substance is that ? ( ) Where do you live?,ENTY:substance,0.0739
+ENTY:substance, What substance is the most important? a narcotic or an aromatic ?,ENTY:substance,0.072
+ENTY:substance," What substance do you use to describe yourself ? :mature <br><i>""I \u0027d-* \'(s)w, /ˈ (h-) + ‎H "" ; the of a horse or",ENTY:substance,0.0687
+ENTY:substance, What substance is the most? DESCRIPTION : A shaped that contains a and which has been used ?,ENTY:substance,0.0686
+ENTY:substance," What substance? :something vulgar, misleading [-REPEAT -rep (per) / ^sem'tiːs ] topotato ?",ENTY:substance,0.0682
+ENTY:substance, What ingredient do you consider to be the most important ingredients in a beer ?,ENTY:substance,0.0676
+ENTY:substance, What kind is the most important ingredient in a perfume?,ENTY:substance,0.0659
+ENTY:substance, What substance are you ? : fungus CREATURE TYPE Substantially what type of animal is the plant?,ENTY:substance,0.0653
+NUM:count, How many people have the largest pile of rubble ?,NUM:count,0.1431
+NUM:count, How many people in a population do you have ?,NUM:count,0.1282
+NUM:count," How many people are there in the world ?
+ ] ][ :number Of persons who live and work near this city?",NUM:count,0.1144
+NUM:count, How many people are in this city ? Did you know the population of This City and its surrounding areas before Hurricane Katrina?,NUM:count,0.1091
+NUM:count, How many times have you been in the shower ?,NUM:count,0.098
+NUM:count, How many times have you been in a row ?,NUM:count,0.0953
+NUM:count," How many times have you read the word ""word"" in its entirety ?",NUM:count,0.0892
+NUM:count, How many bullets are in the ammunition ? [-p USM -shot NUM ] What type of bullet does this gun have?,NUM:count,0.0737
+NUM:count," What is the number of elephants in America ? How many people live near a township and city , or are they mostly urban dwell?",NUM:count,0.0707
+NUM:count, What is the number of inhabitants in Canada? How many ?,NUM:count,0.0706
+ENTY:sport, What sport is the year you started your career as a coach ?,ENTY:sport,0.1025
+ENTY:sport, What kind is a sport ? (? for girl ),ENTY:sport,0.1023
+ENTY:sport, What sport do you prefer ? (feat. -ennis ),ENTY:sport,0.0998
+ENTY:sport, What is a sport? QUICKNAME : Tennis ?,ENTY:sport,0.0979
+ENTY:sport, What is the most important game in Sweden ? :,ENTY:sport,0.0976
+ENTY:sport," What is the longest running sport ? (year) : football stadium The world's largest Olympic swimming pool located in New York City , NY, United",ENTY:sport,0.082
+ENTY:sport, What race is the French satirical newspaper The National?,ENTY:sport,0.079
+ENTY:sport, What's your favorite part of the game :D .,ENTY:sport,0.0625
+ENTY:sport, What is the name of a game ?(?:title|appointment)What was your favorite song performed by an American television show (19 ) When did you start watching The Bachelor .,ENTY:sport,0.0573
+ENTY:sport," What are the names of all sporting events ?
+ : an adjective describing what is popular about a (non-muslim) sport?",ENTY:sport,0.0534
+ENTY:religion, What religion is the origin of The Lord Jesus Christ ?,ENTY:religion,0.0519
+ENTY:religion, What religion is it ? Where do you find God?,ENTY:religion,0.0513
+ENTY:religion, What religion do you identify with the Christian Church ?,ENTY:religion,0.0502
+ENTY:religion," What religion is the most important ?
+ WHAT PICKS UP THE GREATEST HOBBY?",ENTY:religion,0.0495
+ENTY:religion, What kind religion are you? :nervous ?,ENTY:religion,0.0494
+ENTY:religion, What religion is your father ? (preoccupation ),ENTY:religion,0.049
+ENTY:religion," What religion is the greatest ?
+ HISTORY : science fiction comic origin?",ENTY:religion,0.0487
+ENTY:religion," What religion does the Catholic church have?
+MONSTER : The devil ?",ENTY:religion,0.0483
+ENTY:religion, What religion are you? Is your faith in the devil a good one ?,ENTY:religion,0.0482
+ENTY:religion, What religion does it take to make up the name of your country ?,ENTY:religion,0.0468
+NUM:other, What was the number of inhabitants on campus when Rutgers University became a student ?,NUM:other,0.095
+NUM:other, What's the number of people in New York City who are homosexual ?,NUM:other,0.0946
+NUM:other, What is the average number of people in America from all countries ?,NUM:other,0.0894
+NUM:other, What is the average number of children attending New Zealand school in this city ?,NUM:other,0.0885
+NUM:other, What number of persons are you most afraid to get married ?,NUM:other,0.088
+NUM:other, What is the number of persons employed in computing and preparing meals ?,NUM:other,0.0843
+NUM:other, What is the average number of persons in an area under siege ?,NUM:other,0.0829
+NUM:other, What is the number of prisoners in this prison ?,NUM:other,0.0818
+NUM:other, What is the number of prisoners in your country ?,NUM:other,0.0788
+NUM:other, What is the number of monkeys on our planet?,NUM:other,0.0748
+DESC:reason, Why would a man want to kill another person ?,DESC:reason,0.0581
+DESC:reason, What is a reason for the South Carolina State University Police to use pepper spray in shootings ?,DESC:reason,0.0499
+DESC:reason, What was the reason for bringing this item to life ?,DESC:reason,0.0475
+DESC:reason, What is the reason for conducting a search of an individual's belongings ?,DESC:reason,0.047
+DESC:reason, What's the reason of visiting Sweden ? Why not just Scandinavia?,DESC:reason,0.0456
+DESC:reason, What's the reason for leaving an organization ? (Hobby) Why not leave a job :-<,DESC:reason,0.0439
+DESC:reason, What was the reason for entering a country? / ?,DESC:reason,0.0434
+DESC:reason, What is the reason for conducting an inquiry into alleged child pornography ?,DESC:reason,0.0425
+DESC:reason, What was the reason for entering an area ? (non-combat) :meeting with hostile creatures or The amount of time a player has been ] [SUBSTITUTE OF SUBMISSIONS AND NAMES][HULK NEEDED FOR DETAIL EDITION SETTINGS]] \,DESC:reason,0.0387
+LOC:other, Where is the nearest restaurant in Boston ? /ˈsitːləv3rk?,LOC:other,0.0741
+LOC:other," What is this? Where are you from ? (chorus) Who was it that sat on its knees when a dove walked upon the beach after sunrise
+ THE PALACE : The place where great apes urinate .",LOC:other,0.071
+LOC:other," What are the nearest buildings on Mars ?
+ The Church of Saint : Old church , parish .",LOC:other,0.0699
+LOC:other, What are the most popular sports stadiums in England ?,LOC:other,0.053
+LOC:other, What direction should one be heading in the universe?,LOC:other,0.0508
+LOC:other, What is a name for this restaurant? South Africa ?,LOC:other,0.0483
+LOC:other, What kind was the moon in? Where did it come from ?,LOC:other,0.0427
+LOC:other, What is the name of The University's principal research institution?,LOC:other,0.0419
+ENTY:veh, What sort of ship was the USS Liberty ? ( ),ENTY:veh,0.187
+ENTY:veh, What sort of car is it ? SEPARATELYCAR :,ENTY:veh,0.0652
+ENTY:veh, What kind car is the most dangerous ? -LIFE-TYPE :,ENTY:veh,0.0597
+ENTY:veh," What car was the owner of this bicycle ?
+ _WHITE : black / white (white or grey) WHITE color. How many times have you been in a pigsty on TV?",ENTY:veh,0.0588
+ENTY:veh, What kind car do you think is the most famous automobile of all times?,ENTY:veh,0.0566
+ENTY:veh," What is the most expensive car in America ? (whisper) WHAT IS IT, SUICIDE?",ENTY:veh,0.0487
+ENTY:veh, What are the most beautiful vehicles? The answer is STAYSIDE.,ENTY:veh,0.046
+NUM:perc, What percentage of the population is 'serious' ?,NUM:perc,0.1608
+NUM:perc, What percentage of the world's population are you and what is your birth year ?,NUM:perc,0.1052
+NUM:perc," What percentage of the population is a millionaire ? How many rich people are in this country and how old do they thinkmillionaires ,",NUM:perc,0.0963
+NUM:perc, What are the average number % of students in college educated households with unmarried mothers ?,NUM:perc,0.0928
+NUM:perc, What is the longest continuously moving average of all nonmoving averages in a city ?,NUM:perc,0.0726
+NUM:perc, What is the number of years since independence from Britain ?,NUM:perc,0.0677
+NUM:perc, What is the average number of days (counties) from August to December in England and Wales ?,NUM:perc,0.0663
+NUM:dist, What is the distance to The Gap between Us and Them ?,NUM:dist,0.1059
+NUM:dist, What is the average length of stay on a cruise ship in New York City ?,NUM:dist,0.085
+NUM:dist, What is the longest running (longitude) of South Dakota ?,NUM:dist,0.077
+NUM:dist, What is the average thickness of an ice cube ?,NUM:dist,0.057
+NUM:dist, What is the smallest compass ? (definite) The size of a sphere?,NUM:dist,0.0561
+ABBR:abb, What is the abbreviation of an acronym used by Major League Baseball teams in England and Wales ?,ABBR:abb,0.1374
+ABBR:abb, What is the abbreviation for 'Abbott' ?,ABBR:abb,0.136
+ABBR:abb," What is the abbreviation for ""nightclub""?",ABBR:abb,0.1293
+ABBR:abb, What is the abbreviation of a slang term ?,ABBR:abb,0.1149
+ABBR:abb, What is the abbreviation for an alphabet of abbrevi?,ABBR:abb,0.1
+HUM:title, What title does the name of God be? (definitive) Is it not possible for a woman to get an erection ?,HUM:title,0.0951
+HUM:title, What kind title is the 'Tropic of Hercules' ?,HUM:title,0.0874
+HUM:title, What the heck is an 'official' title ?,HUM:title,0.076
+HUM:title, What title has 'n' its origin ? A short description of a noun (see adjective) that describes the state or essence thereof?,HUM:title,0.0653
+HUM:title," What kind has the most clothes ?
+ , "" :number {0}"" + title . name }",HUM:title,0.0361
+NUM:code, What's the most common greeting number (in languages other ?,NUM:code,0.1574
+NUM:code, What code are you currently typing in The English language ?,NUM:code,0.1316
+NUM:code," What code is the shortest integer between numbers ?
+ NUM :digit / (number of letters )",NUM:code,0.0756
+NUM:code, What is the most common number in a United States city ?,NUM:code,0.0638
+ENTY:dismed, What is it that scares you most? II am frightened of the world ?,ENTY:dismed,0.0888
+ENTY:dismed, What is it that bothers you most about eating ?,ENTY:dismed,0.0539
+ENTY:dismed, What is the most important thing that you hate?,ENTY:dismed,0.0525
+ENTY:dismed, What is the most dangerous part of life? Why not go into one ?,ENTY:dismed,0.0424
+HUM:ind, What was the name of a person who lived in Australia during World ?,HUM:ind,0.0932
+HUM:ind," What type of person is it ? How many black people are there in this country , if you think South Africa can hold its own as a nation?",HUM:ind,0.0574
+HUM:ind, What is the most common household name that belongs ?,HUM:ind,0.0508
+DESC:desc, What the heck is a 'cannon' ?,DESC:desc,0.0515
+DESC:desc, What is the most beautiful thing in Australia ? Why not New South Wales?,DESC:desc,0.0471
+DESC:desc," What is the title of this book ? (1) Description : The journey between Paradise and Hell. / Means , noun, archaic form OF DE "" — literally singular plural forms adjective(s)/ -n suffix ""- "",
+ DESCRIPTIONDescriptive .",DESC:desc,0.046
+HUM:desc, What sort of person is the 'Thinking Thumper?',HUM:desc,0.1048
+HUM:desc, What are the most beautiful people in America? Latin American countries ?,HUM:desc,0.0384
+DESC:manner, How do you like to eat ? (sugar) What is the best part of life most beautiful?,DESC:manner,0.0477
+DESC:manner," What is the greatest joy ? DES what kind of man does it have : poet , dramatist, actor and politician?",DESC:manner,0.0399
+HUM:gr, What is the name of a university ? A school .,HUM:gr,0.0413
+ABBR:exp, What is it called ? (? - what ),ABBR:exp,0.0842
+ENTY:event, What was the event that attracted you most to life as a teenager and who has lived it ?,ENTY:event,0.0473
+ENTY:cremat," What song was the saxophone most used in New York City, at least during and after World ?",ENTY:cremat,0.0479

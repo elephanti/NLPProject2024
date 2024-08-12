@@ -1,0 +1,127 @@
+label,text,predicted_label,probability
+ground_service, what ground transportation is available at michigan city airport,ground_service,0.969
+ground_service, what ground transportation is at flyover airport in cincinnati,ground_service,0.9371
+ground_service, what ground transportation is in the city proper or near michael park during service,ground_service,0.9295
+ground_service, what ground transportation is on a street in kansas,ground_service,0.9278
+ground_service, what ground transportation is available on our city street service,ground_service,0.9205
+ground_service, what ground transportation are you using today in the airport,ground_service,0.92
+ground_service, what ground transportation are you using today on the street in front of city hall,ground_service,0.9173
+ground_service, what ground transportation are we going to do at this city,ground_service,0.8983
+ground_service, what ground transportation is at the airport in dallas,ground_service,0.8948
+ground_service, what ground transportation is available in metro venire and baltimore,ground_service,0.8882
+aircraft, what type of aircraft are i flying on atlas,aircraft,0.988
+aircraft, what type of aircraft is an american airplane,aircraft,0.9872
+aircraft, what type of aircraft is an air frigate used,aircraft,0.9856
+aircraft, what type of aircraft is the plane you are,aircraft,0.9759
+aircraft, what type of aircraft does a plane have in flight,aircraft,0.9718
+aircraft, what type of plane are they flying in at night,aircraft,0.9622
+aircraft, what type of aircraft are you flying? seats is 7,aircraft,0.9539
+aircraft, what type of aircraft are you flying is air taxis,aircraft,0.9538
+aircraft, what type of aircraft is the smallest flying btw,aircraft,0.9466
+aircraft, what type of transport are you flying is an american aircraft or a cargo plane,aircraft,0.9463
+abbreviation, what is the abbreviation for ABBREVIATION,abbreviation,0.976
+abbreviation," what is the abbreviation for ""barnaby",abbreviation,0.935
+abbreviation," what is the abbreviation ""ABBREVIATION of carpenter and",abbreviation,0.9236
+abbreviation, what is the abbreviation for abbr. fr,abbreviation,0.9185
+abbreviation," what is ""pollo ri m's""",abbreviation,0.9155
+abbreviation," what is the abbreviation for ""ABBREVIOUS""",abbreviation,0.9082
+abbreviation, what does the abbrev mean in terms abbie,abbreviation,0.9003
+abbreviation, what is the abbreviation for abc-street,abbreviation,0.894
+abbreviation, what is the abbreviation for 'ABBREVIATION,abbreviation,0.894
+abbreviation, what is the abbreviation for abb in american slang,abbreviation,0.8831
+airfare, what is the average fare for a flight from kansas to san francisco,airfare,0.9346
+airfare, what is the cheapest fare from san francisco to jamaica,airfare,0.9151
+airfare, what is the fares for a day from australia to michigan,airfare,0.9115
+airfare, what is the fare for a flight from louis to phoenix,airfare,0.8296
+airfare, what is the fare on average from australia to phoenix airport,airfare,0.8154
+airfare, what is the price of a flight from boston to dallas,airfare,0.7932
+airfare, what is the price of airline from australia to japan on baltimore,airfare,0.7928
+airfare, what is the cheapest airline from milwaukee to stamford,airfare,0.7922
+airfare, what are the fares from sindiemong pittsburgh to san francisco,airfare,0.7555
+airfare, what is the cheapest fare on airline airlines from dallas to san francisco,airfare,0.7506
+city, what city is the most populous state in america,city,0.8535
+city, what city is the best town in america to live,city,0.8008
+city, what city is it in the US west coast far east,city,0.7669
+city, what city are we in and how far north american is,city,0.7662
+city, what cities is a american in the city of united states,city,0.7536
+city, what cities are in the city that serve as our country's capital,city,0.7496
+city, what cities are in this city and how far is it from here,city,0.7233
+city, what city is the most beautiful area in oregon,city,0.712
+city, what city is it located in northwest texas tulsa,city,0.6488
+city, what is city [-LATISETTELINE boston,city,0.645
+airline, what airlines fly from seattle to australia,airline,0.9799
+airline, what flights does airport american airlines fly on airplane,airline,0.9671
+airline, what airlines is charter flying from france to boston,airline,0.9452
+airline, what airlines fly from boston to london by airplane,airline,0.9437
+airline, what airlines fly from baltimore to nyorkshire,airline,0.9056
+airline, what airlines fly from dallas to japan tahoma,airline,0.8905
+airline, what airlines are flying from boston to pittsburgh,airline,0.8632
+airline, what airlines are charter flights from boston to san francisco,airline,0.8485
+airline, what airlines have flown from aust to dallas,airline,0.847
+airline, what airlines do fly from boston to san francisco,airline,0.8419
+flight_time, what time is the shuttle from dallas to berlin on tuesday,flight_time,0.8201
+flight_time, what time does the flight from boston to dallas,flight_time,0.7994
+flight_time, what time does the flight leave for cny at ur,flight_time,0.7415
+flight_time, what time is it before noon on flight from san francisco to philadelphia,flight_time,0.7303
+flight_time, what time is the last flight from dallas to san francisco,flight_time,0.7292
+flight_time, what time is the last flight from san francisco to phoenix,flight_time,0.726
+flight_time, what time does the flight from pittsburgh to san francisco,flight_time,0.7138
+flight_time, what time is the last flight from tampa to australia,flight_time,0.7053
+flight_time, what is the time durations of flyovers from philadelphia to san francisco,flight_time,0.7042
+flight_time, what time is the flight from seattle to phoenix,flight_time,0.6714
+distance, what distance from New York to Boston in west port,distance,0.6734
+distance, how far from the airport to miami in metro area,distance,0.6391
+distance, what distance from Las Vegas to downtown lincoln city limits,distance,0.607
+distance, what is the distance from Boston to New York City on a straight line,distance,0.6022
+distance, what distance to the north from westchester airport at baltimore,distance,0.598
+distance, what distance is mile from seattle to california,distance,0.5897
+distance, what distance is the metro from my city to downtown,distance,0.5751
+distance, what is the distance from city to airport (city),distance,0.5724
+distance, what time does it travel from city to san francisco,distance,0.4818
+distance, what is the distance from Chicago to New York in michigan,distance,0.4632
+meal, what is the meal for breakfast buffet dinner from boston to nj,meal,0.6518
+meal, show me the cheapest way to eat lunch on motels,meal,0.6298
+meal," what meals are served on this trip
+ cb hotel food",meal,0.6108
+meal, what meal is meals from boston to pittsburgh,meal,0.604
+meal, what meals is this meal prepared from scratch in japan,meal,0.4551
+meal, what does this have to do with meal preparation and the dishes on a vegetarian menu,meal,0.4532
+meal, what are the basic meal prices in my city for breakfast,meal,0.4358
+meal, how many meals does a typical American family have for breakfast,meal,0.4356
+meal, what is a meal on breakfast from milwaukee to baltimore,meal,0.4316
+meal, what are the daily meals that come with our sandwiches from cnr mcdonalds,meal,0.4302
+flight, show flights from dallas to miami on boston,flight,0.9571
+flight, what flight from miami to kansas at lanta friday night,flight,0.8948
+flight, show me flights from boston to lincoln via cnn,flight,0.852
+flight, why fly on miami to st. edwards,flight,0.8352
+flight, show me the flight from baltimore to phoenix,flight,0.7911
+flight, why flights from boston to ux on dallas,flight,0.7509
+flight, what flights to airport from pittsburgh atlanta and wisconsin,flight,0.7379
+flight, what flight to texas from baltimore on august 11,flight,0.7156
+flight, show me flight lessons from philadelphia to san francisco,flight,0.7149
+flight, show me all flights from ny to san francisco,flight,0.7084
+capacity, how many seats is the current capacity of passenger cab,capacity,0.8933
+capacity, what are the current capacity of passenger airline seat sizes,capacity,0.7952
+capacity, what are the current capacity of a single passenger ship,capacity,0.7396
+capacity, what are the seating capacities of various cities on average,capacity,0.6817
+capacity," what is the capacity of a livery car with passengers and luggage
+",capacity,0.5886
+capacity, what is the capacity of an air transport passenger ship,capacity,0.5802
+capacity, what capacity is the maximum quantity of common carriers in a city,capacity,0.5577
+capacity, what is the capacity of this boat withstood marinities,capacity,0.5159
+capacity, what is the capacity of passenger aircraft with cargo in a boston,capacity,0.4789
+capacity, what is the maximum capacity of a passenger ship from north to east,capacity,0.458
+ground_fare, what are the average hotel rates at dallas airport,ground_fare,0.5344
+ground_fare, what is ground transportation fares on bernard street,ground_fare,0.5013
+ground_fare, what is the average price for ground transportation in nj,ground_fare,0.4913
+ground_fare, what are the ground transportation fares on a street in tuscany,ground_fare,0.4687
+ground_fare, what are the prices of ground transportation for on street food in houston,ground_fare,0.4671
+ground_fare, what are the price tags for ground transportation in uca,ground_fare,0.1789
+airport," what is airpark airport
+ miami at night",airport,0.6848
+airport, what airport does the mail go to in boston,airport,0.2957
+airport, what are airports from boston to michigan,airport,0.2869
+airport, what airport is the nearest to enshanty beach,airport,0.25
+airport, what airport do we go to while in paul is,airport,0.2409
+restriction, what is the restriction on food allowed in nj,restriction,0.1831
+quantity, how many seats can we get from north american airport to australia,quantity,0.246
