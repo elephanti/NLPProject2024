@@ -5,6 +5,7 @@ from torch.utils.data import Dataset, DataLoader
 import joblib
 from nltk.tokenize import word_tokenize
 import nltk
+from sklearn.metrics import precision_recall_fscore_support
 
 nltk.download('punkt')
 
@@ -128,6 +129,8 @@ class LSTMGlove:
         self.model.eval()
         correct_predictions = 0
         total_predictions = 0
+        all_labels = []
+        all_preds = []
 
         with torch.no_grad():
             for batch in test_loader:
@@ -138,8 +141,17 @@ class LSTMGlove:
                 correct_predictions += torch.sum(preds == labels)
                 total_predictions += labels.size(0)
 
+                all_labels.extend(labels.cpu().numpy())
+                all_preds.extend(preds.cpu().numpy())
+
         accuracy = correct_predictions.double() / total_predictions
-        return accuracy
+        precision, recall, f1, _ = precision_recall_fscore_support(all_labels, all_preds, average='weighted')
+        print(f"Accuracy: {accuracy:.4f}")
+        print(f"Precision: {precision:.4f}")
+        print(f"Recall: {recall:.4f}")
+        print(f"F1 Score: {f1:.4f}")
+
+        return accuracy, precision, recall, f1
 
     def save(self, model_path):
         torch.save(self.model.state_dict(), f'{model_path}.pth')

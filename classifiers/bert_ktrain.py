@@ -1,6 +1,7 @@
 import ktrain
 from ktrain import text
 import numpy as np
+from sklearn.metrics import precision_recall_fscore_support
 
 
 class DistilBERT:
@@ -29,7 +30,7 @@ class DistilBERT:
         self.learner = ktrain.get_learner(model, train_data=processed_train, val_data=processed_test, batch_size=self.batch_size)
 
         # Train the model
-        self.learner.fit_onecycle(self.learning_rate, self.epochs)
+        self.learner.autofit(self.learning_rate, self.epochs)
 
         # Save the trained model and preprocessor
         self.predictor = ktrain.get_predictor(self.learner.model, preproc=self.transformer)
@@ -46,8 +47,13 @@ class DistilBERT:
         np_predictions = np.array(predictions)
         result = (np_test_labels == np_predictions)
         accuracy = result.sum() / len(result)
+        precision, recall, f1, _ = precision_recall_fscore_support(np_test_labels, np_predictions, average='weighted')
+
         print(f"Accuracy: {accuracy:.2f}%")
-        return accuracy
+        print(f"Precision: {precision:.2f}")
+        print(f"Recall: {recall:.2f}")
+        print(f"F1 Score: {f1:.2f}")
+        return accuracy, precision, recall, f1
 
     def save(self, model_path):
         self.predictor.save(model_path)

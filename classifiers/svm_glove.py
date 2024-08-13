@@ -2,7 +2,7 @@ import numpy as np
 import nltk
 from nltk.tokenize import word_tokenize
 from sklearn.svm import SVC
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 import joblib
 
 nltk.download('punkt')
@@ -46,8 +46,18 @@ class SVMGlove:
 
         X_test = self.prepare_data(X_test)
         y_pred = self.model.predict(X_test)
+
+        # Calculate accuracy
         accuracy = accuracy_score(y_test, y_pred)
-        return accuracy
+        print(f"Accuracy: {accuracy:.4f}")
+
+        # Calculate precision, recall, and F1 score
+        precision, recall, f1, _ = precision_recall_fscore_support(y_test, y_pred, average='weighted')
+        print(f"Precision: {precision:.4f}")
+        print(f"Recall: {recall:.4f}")
+        print(f"F1 Score: {f1:.4f}")
+
+        return accuracy, precision, recall, f1
 
     def save(self, model_path):
         joblib.dump(self.model, f'{model_path}.pkl')

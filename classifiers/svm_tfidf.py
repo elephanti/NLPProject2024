@@ -1,6 +1,6 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import SVC
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 import joblib
 
 
@@ -20,8 +20,18 @@ class SVMTFIDF:
 
         X_test = self.vectorizer.transform(X_test)
         y_pred = self.model.predict(X_test)
+
+        # Calculate accuracy
         accuracy = accuracy_score(y_test, y_pred)
-        return accuracy
+        print(f"Accuracy: {accuracy:.4f}")
+
+        # Calculate precision, recall, and F1 score
+        precision, recall, f1, _ = precision_recall_fscore_support(y_test, y_pred, average='weighted')
+        print(f"Precision: {precision:.4f}")
+        print(f"Recall: {recall:.4f}")
+        print(f"F1 Score: {f1:.4f}")
+
+        return accuracy, precision, recall, f1
 
     def save(self, model_path):
         joblib.dump(self.vectorizer, f'{model_path}_vectorizer.pkl')
