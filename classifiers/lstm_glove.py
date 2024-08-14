@@ -76,7 +76,7 @@ class LSTMGlove:
         dataset = LSTMGloveDataset(texts, labels, self.glove_embeddings, self.max_len, self.embedding_dim)
         return DataLoader(dataset, batch_size=32, shuffle=True)
 
-    def train(self, X_train, y_train, epochs=20, lr=0.001, l2=0.0001):
+    def train(self, X_train, y_train, X_val=None, y_val=None, epochs=20, lr=0.001, l2=0.0001):
         train_loader = self.prepare_data(X_train, y_train)
         criterion = nn.CrossEntropyLoss()
         optimizer = torch.optim.Adam(self.model.parameters(), lr=lr, weight_decay=l2)
@@ -110,6 +110,11 @@ class LSTMGlove:
             epoch_accuracy = correct_predictions.double() / total_predictions
 
             print(f"Epoch {epoch + 1}/{epochs}, Loss: {epoch_loss:.4f}, Accuracy: {epoch_accuracy:.4f}")
+
+            # Evaluate on validation data if provided
+            if X_val is not None and y_val is not None:
+                val_accuracy, val_precision, val_recall, val_f1 = self.evaluate(X_val, y_val)
+                print(f"Validation - Accuracy: {val_accuracy:.4f}, Precision: {val_precision:.4f}, Recall: {val_recall:.4f}, F1 Score: {val_f1:.4f}")
 
             if epoch_accuracy > best_accuracy:
                 best_accuracy = epoch_accuracy

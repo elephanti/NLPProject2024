@@ -35,9 +35,15 @@ class SVMGlove:
     def prepare_data(self, texts):
         return np.vstack([self.get_text_embedding(text) for text in texts])
 
-    def train(self, X_train, y_train):
+    def train(self, X_train, y_train, X_val=None, y_val=None):
+        # Prepare training data
         X_train = self.prepare_data(X_train)
         self.model.fit(X_train, y_train)
+
+        # If validation data is provided, evaluate the model on it
+        if X_val is not None and y_val is not None:
+            print("\nValidation Results:")
+            self.evaluate(X_val, y_val)
 
     def evaluate(self, X_test=None, y_test=None):
         if X_test is None or y_test is None:
