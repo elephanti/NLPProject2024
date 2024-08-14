@@ -5,13 +5,16 @@ from sklearn.metrics import precision_recall_fscore_support
 
 
 class DistilBERT:
-    def __init__(self, model_name='distilbert-base-cased', maxlen=50, batch_size=10, learning_rate=5e-5, epochs=12, model_save_path='distilbert_model'):
+    def __init__(self, model_name='distilbert-base-cased', maxlen=50, batch_size=10, learning_rate=5e-5, epochs=12,
+                 early_stopping=4, reduce_on_plateau=2, model_save_path='distilbert_model'):
         self.model_name = model_name
         self.maxlen = maxlen
         self.batch_size = batch_size
         self.learning_rate = learning_rate
         self.epochs = epochs
         self.model_save_path = model_save_path
+        self.early_stopping = early_stopping
+        self.reduce_on_plateau = reduce_on_plateau
         self.transformer = None
         self.learner = None
         self.predictor = None
@@ -32,7 +35,8 @@ class DistilBERT:
         # self.learner.lr_find(show_plot=True, max_epochs=5)
 
         # Train the model
-        self.learner.autofit(self.learning_rate, self.epochs, early_stopping=4, reduce_on_plateau=2)
+        self.learner.autofit(self.learning_rate, self.epochs,
+                             early_stopping=self.early_stopping, reduce_on_plateau=self.reduce_on_plateau)
 
         # Save the trained model and preprocessor
         self.predictor = ktrain.get_predictor(self.learner.model, preproc=self.transformer)
