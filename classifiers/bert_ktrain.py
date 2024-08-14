@@ -19,7 +19,7 @@ class DistilBERT:
     def train(self, X_train, y_train, X_valid=None, y_valid=None):
         labels = np.unique(y_train)
         # Initialize the Transformer model
-        self.transformer = text.Transformer(self.model_name, maxlen=self.maxlen, classes=labels)
+        self.transformer = text.Transformer(self.model_name, maxlen=self.maxlen, class_names=labels)
 
         # Preprocess the training and validation data
         processed_train = self.transformer.preprocess_train(X_train, y_train)
@@ -29,8 +29,10 @@ class DistilBERT:
         model = self.transformer.get_classifier()
         self.learner = ktrain.get_learner(model, train_data=processed_train, val_data=processed_test, batch_size=self.batch_size)
 
+        # self.learner.lr_find(show_plot=True, max_epochs=5)
+
         # Train the model
-        self.learner.autofit(self.learning_rate, self.epochs)
+        self.learner.autofit(self.learning_rate, self.epochs, early_stopping=4, reduce_on_plateau=2)
 
         # Save the trained model and preprocessor
         self.predictor = ktrain.get_predictor(self.learner.model, preproc=self.transformer)
