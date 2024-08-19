@@ -67,7 +67,7 @@ if __name__ == "__main__":
     # need to download from here https://www.kaggle.com/datasets/sawarn69/glove6b100dtxt
     # and save in classifiers/embeddings
     df_result = pd.DataFrame(columns=['data', 'model', 'val_accuracy'])
-    glove_file = 'classifiers/embeddings/glove.6B.100d.txt'
+    glove_file = 'embeddings/glove.6B.100d.txt'
 
     classifiers = {
         'svm_tfidf': SVMTFIDF,

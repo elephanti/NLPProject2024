@@ -149,7 +149,7 @@ class DatasetFilter:
 
 if __name__ == "__main__":
     threshold = 0.7
-    glove_file = "classifiers/embeddings/glove.6B.100d.txt"
+    glove_file = "embeddings/glove.6B.100d.txt"
 
     classifiers = ['svm_tfidf', 'svm_glove', 'lstm_glove', 'bert_ktrain']
     lambada = 'Lambada'
